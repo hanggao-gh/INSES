@@ -1,0 +1,275 @@
+{
+  "entities": [
+    "anxieties",
+    "authenticity",
+    "butterfly",
+    "candy",
+    "cautionary tales",
+    "collective imagination",
+    "communication",
+    "conclusion",
+    "continents",
+    "creativity",
+    "criminal",
+    "cultures",
+    "curiosity",
+    "cursed objects",
+    "danger",
+    "entertainment",
+    "events",
+    "existence",
+    "fact",
+    "fear",
+    "fears",
+    "fiction",
+    "folklore",
+    "ghostly apparitions",
+    "haunted houses",
+    "historical figures",
+    "hook man",
+    "imagination",
+    "impact",
+    "information",
+    "internet",
+    "life cycle",
+    "listeners",
+    "mysteries",
+    "mysterious creatures",
+    "mystery",
+    "origins",
+    "paranormal",
+    "popular culture",
+    "popularity",
+    "regions",
+    "social media",
+    "society",
+    "stories",
+    "strangers",
+    "supernatural",
+    "tales",
+    "technology",
+    "thrill",
+    "trade",
+    "travel",
+    "truth",
+    "unknown",
+    "urban legends",
+    "young couple"
+  ],
+  "relations": [
+    [
+      "criminal",
+      "is involved in",
+      "hook man"
+    ],
+    [
+      "hook man",
+      "is an example of",
+      "urban legends"
+    ],
+    [
+      "strangers",
+      "lure with",
+      "candy"
+    ],
+    [
+      "urban legends",
+      "are a part of",
+      "folklore"
+    ],
+    [
+      "urban legends",
+      "are based on",
+      "events"
+    ],
+    [
+      "urban legends",
+      "are based on",
+      "historical figures"
+    ],
+    [
+      "urban legends",
+      "are part of",
+      "popular culture"
+    ],
+    [
+      "urban legends",
+      "are product of",
+      "collective imagination"
+    ],
+    [
+      "urban legends",
+      "are product of",
+      "creativity"
+    ],
+    [
+      "urban legends",
+      "are shrouded in",
+      "mystery"
+    ],
+    [
+      "urban legends",
+      "blur line between",
+      "fact"
+    ],
+    [
+      "urban legends",
+      "blur line between",
+      "fiction"
+    ],
+    [
+      "urban legends",
+      "blur line between",
+      "truth"
+    ],
+    [
+      "urban legends",
+      "capture",
+      "curiosity"
+    ],
+    [
+      "urban legends",
+      "capture",
+      "imagination"
+    ],
+    [
+      "urban legends",
+      "explain",
+      "supernatural"
+    ],
+    [
+      "urban legends",
+      "explain",
+      "unknown"
+    ],
+    [
+      "urban legends",
+      "have",
+      "impact"
+    ],
+    [
+      "urban legends",
+      "have",
+      "popularity"
+    ],
+    [
+      "urban legends",
+      "impact",
+      "society"
+    ],
+    [
+      "urban legends",
+      "include",
+      "haunted houses"
+    ],
+    [
+      "urban legends",
+      "include",
+      "mysterious creatures"
+    ],
+    [
+      "urban legends",
+      "involve",
+      "ghostly apparitions"
+    ],
+    [
+      "urban legends",
+      "involve",
+      "paranormal"
+    ],
+    [
+      "urban legends",
+      "reflect",
+      "anxieties"
+    ],
+    [
+      "urban legends",
+      "reflect",
+      "fears"
+    ],
+    [
+      "urban legends",
+      "spread across",
+      "continents"
+    ],
+    [
+      "urban legends",
+      "spread across",
+      "regions"
+    ],
+    [
+      "urban legends",
+      "spread through",
+      "communication"
+    ],
+    [
+      "urban legends",
+      "spread through",
+      "internet"
+    ],
+    [
+      "urban legends",
+      "spread through",
+      "social media"
+    ],
+    [
+      "urban legends",
+      "spread through",
+      "technology"
+    ],
+    [
+      "urban legends",
+      "spread through",
+      "trade"
+    ],
+    [
+      "urban legends",
+      "spread through",
+      "travel"
+    ],
+    [
+      "urban legends",
+      "thrive in",
+      "collective imagination"
+    ],
+    [
+      "urban legends",
+      "warn",
+      "listeners"
+    ],
+    [
+      "urban legends",
+      "warn about",
+      "cursed objects"
+    ],
+    [
+      "young couple",
+      "are involved in",
+      "hook man"
+    ]
+  ],
+  "edges": [
+    "are a part of",
+    "are based on",
+    "are involved in",
+    "are part of",
+    "are product of",
+    "are shrouded in",
+    "blur line between",
+    "capture",
+    "explain",
+    "have",
+    "impact",
+    "include",
+    "involve",
+    "is an example of",
+    "is involved in",
+    "lure with",
+    "reflect",
+    "spread across",
+    "spread through",
+    "thrive in",
+    "warn",
+    "warn about"
+  ]
+}

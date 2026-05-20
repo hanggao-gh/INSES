@@ -1,0 +1,603 @@
+{
+  "entities": [
+    "action",
+    "arrangement",
+    "arranging",
+    "assembly",
+    "atmosphere",
+    "audience",
+    "audio",
+    "best takes",
+    "build tension",
+    "built",
+    "captivated",
+    "captivating",
+    "challenge",
+    "characters",
+    "chronological order",
+    "cinematic experience",
+    "coherent sequence",
+    "cohesive",
+    "collection",
+    "compelling",
+    "complex",
+    "complex ideas",
+    "contagious",
+    "continuity editing",
+    "convey meaning",
+    "create suspense",
+    "creative editing",
+    "creativity",
+    "cross-cutting",
+    "crucial",
+    "curiosity",
+    "depth",
+    "detail",
+    "dialogue",
+    "dimension",
+    "director's vision",
+    "disorientation",
+    "distort",
+    "dynamic",
+    "editing process",
+    "elevate",
+    "emotional impact",
+    "emotions",
+    "engage",
+    "engaging",
+    "essential",
+    "establish",
+    "evoke emotions",
+    "expectations",
+    "eyeline matches",
+    "film editing",
+    "film editor",
+    "filmmaking process",
+    "final film",
+    "fine-tuning",
+    "flash-forwards",
+    "flashbacks",
+    "follow",
+    "foundation",
+    "harmonious blend",
+    "imagination",
+    "immersive",
+    "impact",
+    "invisible art",
+    "jump cuts",
+    "keen eye",
+    "key roles",
+    "laughter",
+    "magic",
+    "manipulation",
+    "mastery",
+    "match cuts",
+    "montages",
+    "mood",
+    "multifaceted",
+    "music",
+    "mystery",
+    "narrative",
+    "narrative structure",
+    "non-linear editing",
+    "objects",
+    "order",
+    "organizes",
+    "pace",
+    "pacing",
+    "parallel editing",
+    "possibility",
+    "profound emotional level",
+    "progresses",
+    "psychological depth",
+    "raw footage",
+    "refines",
+    "resonates",
+    "rhythm",
+    "rough cut",
+    "scene",
+    "screen",
+    "script",
+    "seamless flow",
+    "selecting",
+    "selection",
+    "senses",
+    "shape",
+    "shot-reverse-shot sequences",
+    "shots",
+    "skilled",
+    "smoothly",
+    "sound design",
+    "sound effects",
+    "space",
+    "spatial",
+    "spatial relationships",
+    "stage",
+    "story",
+    "storytelling",
+    "storytelling principles",
+    "suspense",
+    "synchronization",
+    "technical skill",
+    "techniques",
+    "temporal coherence",
+    "temporal structure",
+    "time",
+    "timing",
+    "transform",
+    "transport",
+    "trimming",
+    "understand",
+    "understanding",
+    "unfolding",
+    "unnecessary footage",
+    "viewers",
+    "viewing experience",
+    "visual coherence",
+    "visual cues",
+    "visual effects",
+    "visual elements",
+    "visual juxtaposition",
+    "visual storytelling",
+    "worlds"
+  ],
+  "relations": [
+    [
+      "assembly",
+      "is known as",
+      "rough cut"
+    ],
+    [
+      "assembly",
+      "is of",
+      "raw footage"
+    ],
+    [
+      "assembly",
+      "serves as",
+      "foundation"
+    ],
+    [
+      "audience",
+      "can",
+      "follow"
+    ],
+    [
+      "audience",
+      "can",
+      "understand"
+    ],
+    [
+      "audience",
+      "is",
+      "captivated"
+    ],
+    [
+      "coherent sequence",
+      "is according to",
+      "director's vision"
+    ],
+    [
+      "coherent sequence",
+      "is according to",
+      "script"
+    ],
+    [
+      "continuity editing",
+      "maintains",
+      "spatial"
+    ],
+    [
+      "continuity editing",
+      "maintains",
+      "temporal coherence"
+    ],
+    [
+      "creative editing",
+      "conveys",
+      "complex ideas"
+    ],
+    [
+      "creative editing",
+      "conveys",
+      "convey meaning"
+    ],
+    [
+      "creative editing",
+      "creates",
+      "suspense"
+    ],
+    [
+      "creative editing",
+      "enhances",
+      "visual storytelling"
+    ],
+    [
+      "creative editing",
+      "evokes",
+      "evoke emotions"
+    ],
+    [
+      "creative editing",
+      "includes",
+      "cross-cutting"
+    ],
+    [
+      "creative editing",
+      "includes",
+      "jump cuts"
+    ],
+    [
+      "creative editing",
+      "includes",
+      "montages"
+    ],
+    [
+      "creative editing",
+      "includes",
+      "parallel editing"
+    ],
+    [
+      "creative editing",
+      "uses",
+      "visual juxtaposition"
+    ],
+    [
+      "editing process",
+      "begins with",
+      "assembly"
+    ],
+    [
+      "editing process",
+      "creates",
+      "seamless flow"
+    ],
+    [
+      "editing process",
+      "progresses",
+      "refines"
+    ],
+    [
+      "film editing",
+      "involves",
+      "arranging"
+    ],
+    [
+      "film editing",
+      "involves",
+      "selecting"
+    ],
+    [
+      "film editing",
+      "is",
+      "complex"
+    ],
+    [
+      "film editing",
+      "is",
+      "essential"
+    ],
+    [
+      "film editing",
+      "is",
+      "multifaceted"
+    ],
+    [
+      "film editing",
+      "is referred to as",
+      "invisible art"
+    ],
+    [
+      "film editing",
+      "manipulates",
+      "space"
+    ],
+    [
+      "film editing",
+      "manipulates",
+      "time"
+    ],
+    [
+      "film editing",
+      "requires",
+      "creativity"
+    ],
+    [
+      "film editing",
+      "requires",
+      "storytelling principles"
+    ],
+    [
+      "film editing",
+      "requires",
+      "technical skill"
+    ],
+    [
+      "film editing",
+      "uses",
+      "flash-forwards"
+    ],
+    [
+      "film editing",
+      "uses",
+      "flashbacks"
+    ],
+    [
+      "film editing",
+      "uses",
+      "non-linear editing"
+    ],
+    [
+      "film editor",
+      "creates",
+      "captivating"
+    ],
+    [
+      "film editor",
+      "creates",
+      "profound emotional level"
+    ],
+    [
+      "film editor",
+      "creates",
+      "resonates"
+    ],
+    [
+      "film editor",
+      "elevates",
+      "collection"
+    ],
+    [
+      "film editor",
+      "has",
+      "keen eye"
+    ],
+    [
+      "film editor",
+      "has",
+      "mastery"
+    ],
+    [
+      "film editor",
+      "has",
+      "understanding"
+    ],
+    [
+      "film editor",
+      "is",
+      "skilled"
+    ],
+    [
+      "film editor",
+      "organizes",
+      "coherent sequence"
+    ],
+    [
+      "film editor",
+      "selects",
+      "best takes"
+    ],
+    [
+      "film editor",
+      "transports",
+      "imagination"
+    ],
+    [
+      "film editor",
+      "transports",
+      "possibility"
+    ],
+    [
+      "film editor",
+      "transports",
+      "viewers"
+    ],
+    [
+      "film editor",
+      "transports",
+      "worlds"
+    ],
+    [
+      "film editor",
+      "uses",
+      "arrangement"
+    ],
+    [
+      "film editor",
+      "uses",
+      "manipulation"
+    ],
+    [
+      "film editor",
+      "uses",
+      "selection"
+    ],
+    [
+      "final film",
+      "is",
+      "built"
+    ],
+    [
+      "non-linear editing",
+      "challenges",
+      "expectations"
+    ],
+    [
+      "non-linear editing",
+      "creates",
+      "disorientation"
+    ],
+    [
+      "non-linear editing",
+      "creates",
+      "dynamic"
+    ],
+    [
+      "non-linear editing",
+      "creates",
+      "mystery"
+    ],
+    [
+      "non-linear editing",
+      "creates",
+      "psychological depth"
+    ],
+    [
+      "non-linear editing",
+      "creates",
+      "viewing experience"
+    ],
+    [
+      "non-linear editing",
+      "distorts",
+      "chronological order"
+    ],
+    [
+      "non-linear editing",
+      "engages",
+      "curiosity"
+    ],
+    [
+      "refines",
+      "involves",
+      "fine-tuning"
+    ],
+    [
+      "refines",
+      "involves",
+      "pacing"
+    ],
+    [
+      "refines",
+      "involves",
+      "sound effects"
+    ],
+    [
+      "refines",
+      "involves",
+      "trimming"
+    ],
+    [
+      "refines",
+      "involves",
+      "visual effects"
+    ],
+    [
+      "shots",
+      "create",
+      "cohesive"
+    ],
+    [
+      "shots",
+      "create",
+      "engaging"
+    ],
+    [
+      "sound design",
+      "adds",
+      "depth"
+    ],
+    [
+      "sound design",
+      "adds",
+      "dimension"
+    ],
+    [
+      "sound design",
+      "creates",
+      "harmonious blend"
+    ],
+    [
+      "sound design",
+      "engages",
+      "emotions"
+    ],
+    [
+      "sound design",
+      "engages",
+      "senses"
+    ],
+    [
+      "sound design",
+      "enhances",
+      "atmosphere"
+    ],
+    [
+      "sound design",
+      "enhances",
+      "mood"
+    ],
+    [
+      "sound design",
+      "impacts",
+      "emotional impact"
+    ],
+    [
+      "sound design",
+      "is",
+      "crucial"
+    ],
+    [
+      "sound design",
+      "requires",
+      "synchronization"
+    ],
+    [
+      "sound design",
+      "uses",
+      "dialogue"
+    ],
+    [
+      "sound design",
+      "uses",
+      "music"
+    ],
+    [
+      "sound design",
+      "uses",
+      "sound effects"
+    ],
+    [
+      "story",
+      "is",
+      "unfolding"
+    ],
+    [
+      "trimming",
+      "is of",
+      "unnecessary footage"
+    ]
+  ],
+  "edges": [
+    "adds",
+    "begins with",
+    "can",
+    "challenges",
+    "conveys",
+    "create",
+    "creates",
+    "distorts",
+    "elevates",
+    "engages",
+    "enhances",
+    "evokes",
+    "has",
+    "impacts",
+    "includes",
+    "involves",
+    "is",
+    "is according to",
+    "is known as",
+    "is of",
+    "is referred to as",
+    "maintains",
+    "manipulates",
+    "organizes",
+    "progresses",
+    "requires",
+    "selects",
+    "serves as",
+    "transports",
+    "uses"
+  ]
+}

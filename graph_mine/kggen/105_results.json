@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Pop culture refers to the mainstream lifestyle and ideas driven by mass media and entertainment.",
+    "retrieved_context": "pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives. k-pop increases interest in fashion. k-pop increases interest in korean culture. fashion dictated by social media influencers. fashion dictated by celebrity endorsements. fashion dictated by magazine covers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture influences global trends in fashion through celebrity endorsements and social media.",
+    "retrieved_context": "pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives. fashion dictated by magazine covers. fashion dictated by social media influencers. fashion dictated by celebrity endorsements. fast fashion facilitates globalized fashion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion and online shopping have contributed to a more globalized fashion landscape.",
+    "retrieved_context": "fast fashion facilitates globalized fashion. fashion dictated by magazine covers. fashion dictated by social media influencers. fashion dictated by celebrity endorsements.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music artists shape popular culture through songs, music videos, and public personas.",
+    "retrieved_context": "music artists reach audience. pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives. songs influence music videos. songs influence public personas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "K-pop has led to a surge in interest in Korean culture and fashion worldwide.",
+    "retrieved_context": "k-pop increases interest in fashion. k-pop increases interest in korean culture. fashion dictated by social media influencers. fashion dictated by celebrity endorsements. fashion dictated by magazine covers. pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives. fashion dictated by magazine covers. fashion dictated by social media influencers. fashion dictated by celebrity endorsements. fast fashion facilitates globalized fashion. music artists reach audience.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Technology trends spread quickly across the globe with the help of social media platforms.",
+    "retrieved_context": "technological advancements facilitate viral challenges. technological advancements facilitate trending hashtags.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Social media is a powerful tool for spreading ideas and influencing behavior globally.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tech companies leverage pop culture trends to market their products and services.",
+    "retrieved_context": "pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives. pop culture drives social change. tech companies market products. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. tech companies leverage pop culture. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. tech companies market services. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives. technological advancements facilitate viral challenges. technological advancements facilitate trending hashtags. k-pop increases interest in fashion. k-pop increases interest in korean culture. fashion dictated by social media influencers. fashion dictated by celebrity endorsements. fashion dictated by magazine covers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture influences societal norms and values, shaping perceptions of gender, race, and sexuality.",
+    "retrieved_context": "pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Increased visibility of LGBTQ+ characters in media promotes acceptance and inclusivity.",
+    "retrieved_context": "lgbtq+ characters promote acceptance. lgbtq+ characters promote inclusivity. sexuality influences public attitudes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture critics argue it promotes superficiality and consumerism.",
+    "retrieved_context": "pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Critics raise concerns about cultural appropriation and misrepresentation in popular media.",
+    "retrieved_context": "pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture brings people together, sparks creativity, and drives social change.",
+    "retrieved_context": "pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pop culture plays a crucial role in shaping global trends across various industries.",
+    "retrieved_context": "pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the influence of pop culture helps navigate the ever-changing landscape of popular culture.",
+    "retrieved_context": "pop culture drives social change. fashion dictated by social media influencers. pop culture influences music. pop culture criticized for celebrity worship. pop culture influences global trends. pop culture promotes authentic representations. pop culture criticized for superficiality. pop culture driven by entertainment. pop culture driven by mass media. pop culture influences technology. pop culture criticized for misrepresentation. pop culture brings together interests. pop culture criticized for consumerism. pop culture influences values. pop culture criticized for cultural appropriation. fashion dictated by magazine covers. pop culture promotes diverse representations. pop culture influences fashion. pop culture brings together shared experiences. pop culture influences social media. fashion dictated by celebrity endorsements. pop culture refers to mainstream lifestyle. pop culture influences societal norms. pop culture sparks creativity. pop culture influences daily lives.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

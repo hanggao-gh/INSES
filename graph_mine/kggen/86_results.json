@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sputnik 1 was the first artificial satellite launched by the Soviet Union on October 4, 1957.",
+    "retrieved_context": "sputnik 1 on october 4, 1957. sputnik 1 by soviet union. artificial satellite is sputnik 1. sputnik 1 on october 4, 1957. sputnik 1 by soviet union. iss is collaborative effort. international space station is iss. iss establish permanent presence. iss is collaborative effort. iss establish permanent presence. collaborative effort between countries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The launch of Sputnik 1 marked the beginning of the space age.",
+    "retrieved_context": "sputnik 1 on october 4, 1957. sputnik 1 by soviet union. iss is collaborative effort. international space station is iss. iss establish permanent presence. colonizing other planets. space tourism and colonizing. sputnik 1 on october 4, 1957. beginnings of sputnik 1. sputnik 1 by soviet union. apollo 11 on july 20, 1969. apollo 11 landed on moon. human space travel to mars. artificial satellite is sputnik 1. launch of artificial satellite.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The United States and the Soviet Union engaged in a race to explore space after the launch of Sputnik 1.",
+    "retrieved_context": "sputnik 1 on october 4, 1957. sputnik 1 by soviet union. human space travel to mars. manned missions establishment of lunar bases. manned missions to mars. iss is collaborative effort. international space station is iss. iss establish permanent presence. interplanetary exploration demonstrated possibilities. interplanetary exploration demonstrated knowledge. interplanetary exploration demonstrated wonders. interplanetary exploration demonstrated adventure. colonizing other planets. space tourism and colonizing.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin was the first human to travel into space on April 12, 1961.",
+    "retrieved_context": "yuri gagarin aboard vostok 1. yuri gagarin on april 12, 1961. human space travel to mars. colonizing other planets. space tourism and colonizing. astronauts are neil armstrong. buzz aldrin set foot on celestial body. neil armstrong set foot on celestial body. astronauts are buzz aldrin. iss is collaborative effort. international space station is iss. iss establish permanent presence. nasa is national aeronautics and space administration.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin's flight aboard Vostok 1 was a significant milestone in human history.",
+    "retrieved_context": "yuri gagarin aboard vostok 1. yuri gagarin on april 12, 1961. human space travel to mars. manned missions establishment of lunar bases. manned missions to mars. flight aboard vostok 1. colonizing other planets. space tourism and colonizing. astronauts are neil armstrong. buzz aldrin set foot on celestial body. neil armstrong set foot on celestial body. astronauts are buzz aldrin.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "NASA is the National Aeronautics and Space Administration of the United States.",
+    "retrieved_context": "nasa is national aeronautics and space administration. astronauts are neil armstrong. buzz aldrin set foot on celestial body. neil armstrong set foot on celestial body. astronauts are buzz aldrin. colonizing other planets. space tourism and colonizing. manned missions establishment of lunar bases. manned missions to mars. human space travel to mars. iss is collaborative effort. international space station is iss. iss establish permanent presence.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Apollo 11 landed on the moon on July 20, 1969.",
+    "retrieved_context": "apollo 11 on july 20, 1969. apollo 11 landed on moon. neil armstrong set foot on celestial body. nasa is national aeronautics and space administration.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to set foot on the moon during the Apollo 11 mission.",
+    "retrieved_context": "neil armstrong set foot on celestial body. apollo 11 on july 20, 1969. apollo 11 landed on moon. buzz aldrin set foot on celestial body. astronauts are neil armstrong. buzz aldrin set foot on celestial body. neil armstrong set foot on celestial body. astronauts are buzz aldrin. manned missions establishment of lunar bases. manned missions to mars. crewed missions to iss. iss is collaborative effort. iss establish permanent presence.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program was initiated by NASA in the 1980s.",
+    "retrieved_context": "space shuttle program in 1980s. space shuttle program revolutionized reusable spacecraft. nasa is national aeronautics and space administration. astronauts are neil armstrong. buzz aldrin set foot on celestial body. neil armstrong set foot on celestial body. astronauts are buzz aldrin. colonizing other planets. space tourism and colonizing. manned missions establishment of lunar bases. manned missions to mars.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space shuttle program provided a reusable spacecraft for multiple missions.",
+    "retrieved_context": "space shuttle program in 1980s. space shuttle program revolutionized reusable spacecraft. manned missions establishment of lunar bases. manned missions to mars. nasa is national aeronautics and space administration. crewed missions to iss. iss is collaborative effort. iss establish permanent presence. human space travel to mars. missions to explore.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed as a collaborative effort between multiple countries.",
+    "retrieved_context": "iss is collaborative effort. international space station is iss. iss establish permanent presence. iss is collaborative effort. iss establish permanent presence. collaborative effort between countries. collaborative effort between countries. colonizing other planets. space tourism and colonizing. space shuttle program in 1980s. space shuttle program revolutionized reusable spacecraft. astronauts are neil armstrong. buzz aldrin set foot on celestial body. neil armstrong set foot on celestial body. astronauts are buzz aldrin. human space travel to mars.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX is a private company founded by Elon Musk.",
+    "retrieved_context": "crewed missions to iss. spacex founded by elon musk. spacex launched crewed missions. spacex plans to send human space travel. human space travel to mars. iss is collaborative effort. iss establish permanent presence. collaborative effort between countries. iss is collaborative effort. international space station is iss. iss establish permanent presence. spacex founded by elon musk. spacex launched crewed missions. private companies are blue origin. spacex plans to send human space travel. private companies are spacex. astronauts are neil armstrong. buzz aldrin set foot on celestial body. neil armstrong set foot on celestial body. astronauts are buzz aldrin. colonizing other planets. space tourism and colonizing. nasa is national aeronautics and space administration.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX has successfully launched multiple crewed missions to the ISS.",
+    "retrieved_context": "crewed missions to iss. iss is collaborative effort. iss establish permanent presence. manned missions establishment of lunar bases. manned missions to mars. crewed missions to iss. spacex founded by elon musk. spacex launched crewed missions. spacex plans to send human space travel. human space travel to mars. iss is collaborative effort. iss establish permanent presence. collaborative effort between countries. missions to explore. human space travel to mars. astronauts are neil armstrong. buzz aldrin set foot on celestial body. neil armstrong set foot on celestial body. astronauts are buzz aldrin. colonizing other planets. space tourism and colonizing.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space shuttle Challenger disaster occurred in 1986.",
+    "retrieved_context": "space shuttle challenger disaster in 1986. columbia disaster in 2003. space shuttle program in 1980s. space shuttle program revolutionized reusable spacecraft. nasa is national aeronautics and space administration.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Plans for manned missions to Mars and the establishment of lunar bases are part of the future of human space travel.",
+    "retrieved_context": "manned missions establishment of lunar bases. manned missions to mars. human space travel to mars. nasa is national aeronautics and space administration. interplanetary exploration demonstrated possibilities. interplanetary exploration demonstrated knowledge. interplanetary exploration demonstrated wonders. interplanetary exploration demonstrated adventure. crewed missions to iss. iss is collaborative effort. iss establish permanent presence. colonizing other planets. space tourism and colonizing.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "entities": [
+    "CHATURANGA",
+    "MONOPOLY",
+    "ZHOU DYNASTY",
+    "SENET",
+    "ROYAL GAME OF UR",
+    "TRIC-TRAC",
+    "CHECKERS",
+    "XIANGQI",
+    "ONLINE PLATFORMS",
+    "CLUE",
+    "ANCIENT EGYPT",
+    "GO",
+    "MESOPOTAMIA",
+    "BOARD GAMES",
+    "BOARD GAME CONVENTIONS",
+    "TABLETOP GAMING CAFES",
+    "BACKGAMMON",
+    "CHINA",
+    "SCRABBLE"
+  ],
+  "relations": [
+    [
+      "SENET",
+      "Senet originated in Ancient Egypt around 3100 BC",
+      "ANCIENT EGYPT"
+    ],
+    [
+      "ROYAL GAME OF UR",
+      "The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC",
+      "MESOPOTAMIA"
+    ],
+    [
+      "GO",
+      "Go is one of the oldest board games still played today, originating from the Zhou Dynasty in China",
+      "CHINA"
+    ],
+    [
+      "GO",
+      "Go was developed during the Zhou Dynasty in ancient China",
+      "ZHOU DYNASTY"
+    ],
+    [
+      "XIANGQI",
+      "Xiangqi, also known as Chinese Chess, has its origins in ancient China",
+      "CHINA"
+    ],
+    [
+      "CHATURANGA",
+      "Both Chaturanga and Backgammon are ancient games that evolved over time and spread across cultures",
+      "BACKGAMMON"
+    ],
+    [
+      "CHECKERS",
+      "Both emerged during the Renaissance and were played by people across different social classes",
+      "TRIC-TRAC"
+    ],
+    [
+      "MONOPOLY",
+      "Both games became household names due to mass production in the 19th and 20th centuries",
+      "SCRABBLE"
+    ],
+    [
+      "MONOPOLY",
+      "Monopoly is an example of a board game that has become a household name",
+      "BOARD GAMES"
+    ],
+    [
+      "SCRABBLE",
+      "Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution",
+      "CLUE"
+    ],
+    [
+      "SCRABBLE",
+      "Scrabble is an example of a board game, known for its word-based gameplay",
+      "BOARD GAMES"
+    ],
+    [
+      "CLUE",
+      "Clue is an example of a board game, recognized for its mystery-themed gameplay",
+      "BOARD GAMES"
+    ],
+    [
+      "TABLETOP GAMING CAFES",
+      "Tabletop gaming cafes contribute to the popularity and community of board games",
+      "BOARD GAMES"
+    ],
+    [
+      "BOARD GAME CONVENTIONS",
+      "Board game conventions are events that celebrate and promote board games",
+      "BOARD GAMES"
+    ],
+    [
+      "ONLINE PLATFORMS",
+      "Online platforms facilitate the playing of board games digitally, expanding the community",
+      "BOARD GAMES"
+    ]
+  ],
+  "edges": [
+    "Senet originated in Ancient Egypt around 3100 BC",
+    "The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC",
+    "Go is one of the oldest board games still played today, originating from the Zhou Dynasty in China",
+    "Go was developed during the Zhou Dynasty in ancient China",
+    "Xiangqi, also known as Chinese Chess, has its origins in ancient China",
+    "Both Chaturanga and Backgammon are ancient games that evolved over time and spread across cultures",
+    "Both emerged during the Renaissance and were played by people across different social classes",
+    "Both games became household names due to mass production in the 19th and 20th centuries",
+    "Monopoly is an example of a board game that has become a household name",
+    "Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution",
+    "Scrabble is an example of a board game, known for its word-based gameplay",
+    "Clue is an example of a board game, recognized for its mystery-themed gameplay",
+    "Tabletop gaming cafes contribute to the popularity and community of board games",
+    "Board game conventions are events that celebrate and promote board games",
+    "Online platforms facilitate the playing of board games digitally, expanding the community"
+  ]
+}

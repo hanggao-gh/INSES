@@ -1,0 +1,504 @@
+{
+  "entities": [
+    "12 centuries",
+    "1894",
+    "1896",
+    "1936 berlin olympics",
+    "1980 moscow olympics",
+    "393 ad",
+    "776 bc",
+    "achievement",
+    "altius",
+    "ancient greece",
+    "ancient olympic games",
+    "athens",
+    "athletes",
+    "athletics",
+    "beach volleyball",
+    "billions of people",
+    "boxing",
+    "boycotts",
+    "causes",
+    "celebration",
+    "challenges",
+    "chariot racing",
+    "christianity",
+    "citius",
+    "city",
+    "city-states",
+    "conclusion",
+    "contagious",
+    "controversy",
+    "corners of the globe",
+    "countries",
+    "doping scandals",
+    "doping violations",
+    "essay",
+    "events",
+    "excellence",
+    "fair play",
+    "fortius",
+    "french educator",
+    "friendly competition",
+    "future olympics",
+    "global event",
+    "global extravaganza",
+    "global phenomenon",
+    "greek god zeus",
+    "history",
+    "human achievement",
+    "humanity",
+    "humble beginnings",
+    "international cooperation",
+    "invasion of afghanistan",
+    "king of the gods",
+    "late 19th century",
+    "laughter",
+    "long",
+    "medals",
+    "modern olympic games",
+    "modern-day",
+    "nations",
+    "nazi germany",
+    "new heights",
+    "olympia",
+    "olympic games",
+    "olympic motto",
+    "origins",
+    "pagan festival",
+    "peace",
+    "pierre de coubertin",
+    "platform",
+    "political affiliation",
+    "political disputes",
+    "popularity",
+    "propaganda tool",
+    "protest",
+    "race",
+    "range of sports",
+    "religion",
+    "religious festival",
+    "respect",
+    "revived",
+    "roman emperor theodosius",
+    "running",
+    "snowboarding",
+    "social change",
+    "soviet union",
+    "spirit",
+    "sport",
+    "sporting events",
+    "sportsmanship",
+    "storied history",
+    "swimming",
+    "symbol",
+    "thousand years",
+    "traditional events",
+    "understanding",
+    "unity",
+    "values",
+    "western countries",
+    "world",
+    "wrestling"
+  ],
+  "relations": [
+    [
+      "1936 berlin olympics",
+      "used as",
+      "propaganda tool"
+    ],
+    [
+      "1980 moscow olympics",
+      "boycotted by",
+      "western countries"
+    ],
+    [
+      "ancient olympic games",
+      "continued for nearly",
+      "12 centuries"
+    ],
+    [
+      "ancient olympic games",
+      "were a",
+      "religious festival"
+    ],
+    [
+      "ancient olympic games",
+      "were first held in",
+      "776 bc"
+    ],
+    [
+      "ancient olympic games",
+      "were seen as",
+      "pagan festival"
+    ],
+    [
+      "athens",
+      "in",
+      "1896"
+    ],
+    [
+      "athletes",
+      "came from",
+      "city-states"
+    ],
+    [
+      "athletes",
+      "came from",
+      "countries"
+    ],
+    [
+      "athletes",
+      "competed in",
+      "events"
+    ],
+    [
+      "athletes",
+      "from",
+      "corners of the globe"
+    ],
+    [
+      "athletes",
+      "stripped of",
+      "medals"
+    ],
+    [
+      "celebration",
+      "of",
+      "humanity"
+    ],
+    [
+      "city-states",
+      "participated in",
+      "friendly competition"
+    ],
+    [
+      "controversy",
+      "includes",
+      "boycotts"
+    ],
+    [
+      "controversy",
+      "includes",
+      "doping scandals"
+    ],
+    [
+      "controversy",
+      "includes",
+      "political disputes"
+    ],
+    [
+      "events",
+      "included",
+      "boxing"
+    ],
+    [
+      "events",
+      "included",
+      "chariot racing"
+    ],
+    [
+      "events",
+      "included",
+      "running"
+    ],
+    [
+      "events",
+      "included",
+      "wrestling"
+    ],
+    [
+      "global event",
+      "captures attention of",
+      "billions of people"
+    ],
+    [
+      "history",
+      "dates back to",
+      "ancient greece"
+    ],
+    [
+      "medals",
+      "due to",
+      "doping violations"
+    ],
+    [
+      "modern olympic games",
+      "first held in",
+      "athens"
+    ],
+    [
+      "modern olympic games",
+      "founded by",
+      "pierre de coubertin"
+    ],
+    [
+      "modern olympic games",
+      "founded in",
+      "1894"
+    ],
+    [
+      "olympic games",
+      "are a",
+      "celebration"
+    ],
+    [
+      "olympic games",
+      "are a",
+      "global event"
+    ],
+    [
+      "olympic games",
+      "are a",
+      "global extravaganza"
+    ],
+    [
+      "olympic games",
+      "are a",
+      "platform"
+    ],
+    [
+      "olympic games",
+      "are a",
+      "symbol"
+    ],
+    [
+      "olympic games",
+      "are one of",
+      "sporting events"
+    ],
+    [
+      "olympic games",
+      "have",
+      "controversy"
+    ],
+    [
+      "olympic games",
+      "have",
+      "history"
+    ],
+    [
+      "olympic games",
+      "have",
+      "humble beginnings"
+    ],
+    [
+      "olympic games",
+      "have",
+      "long"
+    ],
+    [
+      "olympic games",
+      "have",
+      "storied history"
+    ],
+    [
+      "olympic games",
+      "have grown in",
+      "popularity"
+    ],
+    [
+      "olympic games",
+      "include",
+      "range of sports"
+    ],
+    [
+      "olympic games",
+      "represent",
+      "values"
+    ],
+    [
+      "olympic games",
+      "were",
+      "revived"
+    ],
+    [
+      "olympic games",
+      "were held in honor of",
+      "greek god zeus"
+    ],
+    [
+      "olympic motto",
+      "is",
+      "altius"
+    ],
+    [
+      "olympic motto",
+      "is",
+      "citius"
+    ],
+    [
+      "olympic motto",
+      "is",
+      "fortius"
+    ],
+    [
+      "origins",
+      "can be traced to",
+      "olympia"
+    ],
+    [
+      "pagan festival",
+      "deemed incompatible with",
+      "christianity"
+    ],
+    [
+      "pierre de coubertin",
+      "was a",
+      "french educator"
+    ],
+    [
+      "platform",
+      "for",
+      "causes"
+    ],
+    [
+      "platform",
+      "for",
+      "social change"
+    ],
+    [
+      "propaganda tool",
+      "by",
+      "nazi germany"
+    ],
+    [
+      "range of sports",
+      "includes",
+      "beach volleyball"
+    ],
+    [
+      "range of sports",
+      "includes",
+      "snowboarding"
+    ],
+    [
+      "range of sports",
+      "includes",
+      "traditional events"
+    ],
+    [
+      "religious festival",
+      "dedicated to",
+      "king of the gods"
+    ],
+    [
+      "revived",
+      "in the",
+      "late 19th century"
+    ],
+    [
+      "roman emperor theodosius",
+      "abolished",
+      "ancient olympic games"
+    ],
+    [
+      "soviet union",
+      "invasion of",
+      "invasion of afghanistan"
+    ],
+    [
+      "sport",
+      "could promote",
+      "peace"
+    ],
+    [
+      "sport",
+      "could promote",
+      "understanding"
+    ],
+    [
+      "symbol",
+      "of",
+      "excellence"
+    ],
+    [
+      "symbol",
+      "of",
+      "human achievement"
+    ],
+    [
+      "symbol",
+      "of",
+      "international cooperation"
+    ],
+    [
+      "symbol",
+      "of",
+      "sportsmanship"
+    ],
+    [
+      "symbol",
+      "of",
+      "unity"
+    ],
+    [
+      "traditional events",
+      "include",
+      "athletics"
+    ],
+    [
+      "traditional events",
+      "include",
+      "swimming"
+    ],
+    [
+      "values",
+      "include",
+      "fair play"
+    ],
+    [
+      "values",
+      "include",
+      "respect"
+    ],
+    [
+      "western countries",
+      "in protest of",
+      "soviet union"
+    ]
+  ],
+  "edges": [
+    "abolished",
+    "are a",
+    "are one of",
+    "boycotted by",
+    "by",
+    "came from",
+    "can be traced to",
+    "captures attention of",
+    "competed in",
+    "continued for nearly",
+    "could promote",
+    "dates back to",
+    "dedicated to",
+    "deemed incompatible with",
+    "due to",
+    "first held in",
+    "for",
+    "founded by",
+    "founded in",
+    "from",
+    "have",
+    "have grown in",
+    "in",
+    "in protest of",
+    "in the",
+    "include",
+    "included",
+    "includes",
+    "invasion of",
+    "is",
+    "of",
+    "participated in",
+    "represent",
+    "stripped of",
+    "used as",
+    "was a",
+    "were",
+    "were a",
+    "were first held in",
+    "were held in honor of",
+    "were seen as"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "entities": [
+    "IMMUNE SYSTEM",
+    "MUCOUS MEMBRANES",
+    "COMPLEMENT PROTEINS",
+    "IMMUNOLOGICAL MEMORY",
+    "NATURAL KILLER CELLS",
+    "MULTIPLE SCLEROSIS",
+    "MACROPHAGES",
+    "LYMPHOCYTES",
+    "SKIN",
+    "DIABETES",
+    "CANCER",
+    "HUMAN BODY",
+    "CHRONIC INFLAMMATION",
+    "VIRUSES",
+    "LUPUS",
+    "CYTOKINES",
+    "DENDRITIC CELLS",
+    "HEART DISEASE",
+    "BACTERIA",
+    "FUNGI",
+    "VACCINATION",
+    "WHITE BLOOD CELLS",
+    "AUTOIMMUNE DISEASES",
+    "RHEUMATOID ARTHRITIS",
+    "PARASITES",
+    "STOMACH",
+    "NEUTROPHILS"
+  ],
+  "relations": [
+    [
+      "HUMAN BODY",
+      "The immune system is part of the human body, working to fight off infections and restore health",
+      "IMMUNE SYSTEM"
+    ],
+    [
+      "IMMUNE SYSTEM",
+      "The skin acts as one of the first lines of defense for the immune system",
+      "SKIN"
+    ],
+    [
+      "IMMUNE SYSTEM",
+      "Mucous membranes are part of the immune system's physical barriers against pathogens",
+      "MUCOUS MEMBRANES"
+    ],
+    [
+      "IMMUNE SYSTEM",
+      "The stomach's acidic environment contributes to the immune system's defense mechanisms",
+      "STOMACH"
+    ],
+    [
+      "IMMUNE SYSTEM",
+      "White blood cells are crucial components of the immune system's response to infections",
+      "WHITE BLOOD CELLS"
+    ],
+    [
+      "IMMUNE SYSTEM",
+      "The immune system fights against bacteria to prevent and eliminate infections",
+      "BACTERIA"
+    ],
+    [
+      "IMMUNE SYSTEM",
+      "The immune system targets viruses as part of its defense mechanisms",
+      "VIRUSES"
+    ],
+    [
+      "IMMUNE SYSTEM",
+      "Fungi are combated by the immune system to protect the body from infections",
+      "FUNGI"
+    ],
+    [
+      "IMMUNE SYSTEM",
+      "The immune system works to rid the body of parasites to maintain health",
+      "PARASITES"
+    ],
+    [
+      "NEUTROPHILS",
+      "Both neutrophils and macrophages are involved in the initial response to infections by engulfing and destroying pathogens",
+      "MACROPHAGES"
+    ],
+    [
+      "LYMPHOCYTES",
+      "Dendritic cells present antigens to T cells, a type of lymphocyte, to initiate a specific immune response",
+      "DENDRITIC CELLS"
+    ],
+    [
+      "LYMPHOCYTES",
+      "Both natural killer cells and lymphocytes (T cells) are involved in directly attacking infected cells",
+      "NATURAL KILLER CELLS"
+    ],
+    [
+      "LYMPHOCYTES",
+      "Lymphocytes differentiate into memory cells, which are crucial for the development of immunological memory",
+      "IMMUNOLOGICAL MEMORY"
+    ],
+    [
+      "COMPLEMENT PROTEINS",
+      "Complement proteins and cytokines both enhance and regulate the immune response against pathogens",
+      "CYTOKINES"
+    ],
+    [
+      "IMMUNOLOGICAL MEMORY",
+      "Immunological memory is the principle behind vaccination, allowing for a faster and more effective immune response upon re-exposure to pathogens",
+      "VACCINATION"
+    ],
+    [
+      "AUTOIMMUNE DISEASES",
+      "Autoimmune diseases can lead to chronic inflammation, contributing to tissue damage and dysfunction",
+      "CHRONIC INFLAMMATION"
+    ],
+    [
+      "RHEUMATOID ARTHRITIS",
+      "Chronic inflammation is a characteristic of rheumatoid arthritis, leading to joint damage",
+      "CHRONIC INFLAMMATION"
+    ],
+    [
+      "LUPUS",
+      "Chronic inflammation is a key feature of lupus, affecting various organs",
+      "CHRONIC INFLAMMATION"
+    ],
+    [
+      "MULTIPLE SCLEROSIS",
+      "Chronic inflammation contributes to the neurological damage seen in multiple sclerosis",
+      "CHRONIC INFLAMMATION"
+    ],
+    [
+      "CHRONIC INFLAMMATION",
+      "Chronic inflammation can contribute to the development of heart disease by damaging arteries and other heart tissues",
+      "HEART DISEASE"
+    ],
+    [
+      "CHRONIC INFLAMMATION",
+      "Chronic inflammation is known to play a role in the development of diabetes by affecting insulin resistance",
+      "DIABETES"
+    ],
+    [
+      "CHRONIC INFLAMMATION",
+      "Chronic inflammation can lead to cancer by promoting abnormal cell growth and mutations",
+      "CANCER"
+    ]
+  ],
+  "edges": [
+    "The immune system is part of the human body, working to fight off infections and restore health",
+    "The skin acts as one of the first lines of defense for the immune system",
+    "Mucous membranes are part of the immune system's physical barriers against pathogens",
+    "The stomach's acidic environment contributes to the immune system's defense mechanisms",
+    "White blood cells are crucial components of the immune system's response to infections",
+    "The immune system fights against bacteria to prevent and eliminate infections",
+    "The immune system targets viruses as part of its defense mechanisms",
+    "Fungi are combated by the immune system to protect the body from infections",
+    "The immune system works to rid the body of parasites to maintain health",
+    "Both neutrophils and macrophages are involved in the initial response to infections by engulfing and destroying pathogens",
+    "Dendritic cells present antigens to T cells, a type of lymphocyte, to initiate a specific immune response",
+    "Both natural killer cells and lymphocytes (T cells) are involved in directly attacking infected cells",
+    "Lymphocytes differentiate into memory cells, which are crucial for the development of immunological memory",
+    "Complement proteins and cytokines both enhance and regulate the immune response against pathogens",
+    "Immunological memory is the principle behind vaccination, allowing for a faster and more effective immune response upon re-exposure to pathogens",
+    "Autoimmune diseases can lead to chronic inflammation, contributing to tissue damage and dysfunction",
+    "Chronic inflammation is a characteristic of rheumatoid arthritis, leading to joint damage",
+    "Chronic inflammation is a key feature of lupus, affecting various organs",
+    "Chronic inflammation contributes to the neurological damage seen in multiple sclerosis",
+    "Chronic inflammation can contribute to the development of heart disease by damaging arteries and other heart tissues",
+    "Chronic inflammation is known to play a role in the development of diabetes by affecting insulin resistance",
+    "Chronic inflammation can lead to cancer by promoting abnormal cell growth and mutations"
+  ]
+}

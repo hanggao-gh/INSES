@@ -1,0 +1,553 @@
+{
+  "entities": [
+    "abundant",
+    "accessible",
+    "adoption",
+    "advancements",
+    "air pollution",
+    "anaerobic digestion",
+    "baseload electricity",
+    "batteries",
+    "biodiesel",
+    "bioenergy",
+    "biofuels",
+    "biogas",
+    "biomass power plants",
+    "burning",
+    "businesses",
+    "carbon emissions",
+    "carbon pricing mechanisms",
+    "clean",
+    "cleaner",
+    "climate change",
+    "competitive",
+    "concerns",
+    "conclusion",
+    "contagious",
+    "cost",
+    "cost-effective",
+    "dams",
+    "decreasing",
+    "demand",
+    "deployment",
+    "development",
+    "disruption",
+    "earth's interior",
+    "ecosystems",
+    "effectiveness",
+    "efficiency",
+    "efficiency improvements",
+    "efficient",
+    "electricity",
+    "energy storage",
+    "environmental impact",
+    "environmentally friendly",
+    "ethanol",
+    "finite",
+    "fossil fuels",
+    "future",
+    "generations",
+    "geothermal energy",
+    "geothermal power plants",
+    "global energy landscape",
+    "greener",
+    "greenhouse gas emissions",
+    "grid",
+    "growth",
+    "heat",
+    "heat buildings",
+    "high geothermal potential",
+    "homeowners",
+    "hot water",
+    "hydropower",
+    "immense",
+    "impact",
+    "impacts",
+    "incentives",
+    "innovation",
+    "integration",
+    "intermittent",
+    "international agreements",
+    "investments",
+    "kinetic energy",
+    "large-scale",
+    "laughter",
+    "low-carbon economy",
+    "mitigate",
+    "momentum",
+    "moving water",
+    "offshore",
+    "oldest",
+    "onshore",
+    "optimizing",
+    "organic materials",
+    "paris agreement",
+    "path",
+    "plants",
+    "policy support",
+    "popularity",
+    "potential",
+    "public awareness",
+    "pumped hydro storage",
+    "regions",
+    "reliable",
+    "reliance",
+    "renewable energy",
+    "research",
+    "reservoirs",
+    "resilient",
+    "significant",
+    "smaller-scale",
+    "smart grid technologies",
+    "solar panels",
+    "solar power",
+    "solar tracking systems",
+    "solution",
+    "state",
+    "steam",
+    "subsidies",
+    "supply",
+    "sustainable",
+    "targets",
+    "technologies",
+    "thin-film solar cells",
+    "transition",
+    "underground reservoirs",
+    "vehicles",
+    "versatile",
+    "waste",
+    "wind farms",
+    "wind power",
+    "wind turbines"
+  ],
+  "relations": [
+    [
+      "adoption",
+      "in",
+      "regions"
+    ],
+    [
+      "advancements",
+      "improved",
+      "effectiveness"
+    ],
+    [
+      "advancements",
+      "improved",
+      "efficiency"
+    ],
+    [
+      "advancements",
+      "in",
+      "solar tracking systems"
+    ],
+    [
+      "advancements",
+      "in",
+      "thin-film solar cells"
+    ],
+    [
+      "advancements",
+      "increased in",
+      "renewable energy"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "organic materials"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "plants"
+    ],
+    [
+      "bioenergy",
+      "derived from",
+      "waste"
+    ],
+    [
+      "bioenergy",
+      "has",
+      "potential"
+    ],
+    [
+      "bioenergy",
+      "offers",
+      "solution"
+    ],
+    [
+      "bioenergy",
+      "offers",
+      "versatile"
+    ],
+    [
+      "bioenergy",
+      "reduces",
+      "reliance"
+    ],
+    [
+      "biofuels",
+      "are",
+      "biodiesel"
+    ],
+    [
+      "biofuels",
+      "are",
+      "ethanol"
+    ],
+    [
+      "biofuels",
+      "can heat",
+      "heat buildings"
+    ],
+    [
+      "biofuels",
+      "can power",
+      "vehicles"
+    ],
+    [
+      "biogas",
+      "produced by",
+      "anaerobic digestion"
+    ],
+    [
+      "biomass power plants",
+      "by",
+      "burning"
+    ],
+    [
+      "biomass power plants",
+      "generate",
+      "electricity"
+    ],
+    [
+      "concerns",
+      "growing over",
+      "air pollution"
+    ],
+    [
+      "concerns",
+      "growing over",
+      "climate change"
+    ],
+    [
+      "concerns",
+      "growing over",
+      "finite"
+    ],
+    [
+      "cost",
+      "decreasing of",
+      "solar panels"
+    ],
+    [
+      "dams",
+      "have",
+      "environmental impact"
+    ],
+    [
+      "energy storage",
+      "advancements in",
+      "batteries"
+    ],
+    [
+      "energy storage",
+      "advancements in",
+      "pumped hydro storage"
+    ],
+    [
+      "fossil fuels",
+      "are",
+      "finite"
+    ],
+    [
+      "geothermal energy",
+      "complements",
+      "intermittent"
+    ],
+    [
+      "geothermal energy",
+      "derived from",
+      "earth's interior"
+    ],
+    [
+      "geothermal energy",
+      "derived from",
+      "heat"
+    ],
+    [
+      "geothermal energy",
+      "has",
+      "immense"
+    ],
+    [
+      "geothermal energy",
+      "provides",
+      "baseload electricity"
+    ],
+    [
+      "geothermal power plants",
+      "extract",
+      "hot water"
+    ],
+    [
+      "geothermal power plants",
+      "extract",
+      "steam"
+    ],
+    [
+      "hydropower",
+      "derived from",
+      "moving water"
+    ],
+    [
+      "hydropower",
+      "is",
+      "oldest"
+    ],
+    [
+      "hydropower",
+      "is",
+      "reliable"
+    ],
+    [
+      "hydropower",
+      "is",
+      "significant"
+    ],
+    [
+      "hydropower",
+      "is",
+      "sustainable"
+    ],
+    [
+      "integration",
+      "into",
+      "grid"
+    ],
+    [
+      "international agreements",
+      "like",
+      "paris agreement"
+    ],
+    [
+      "investments",
+      "increased in",
+      "renewable energy"
+    ],
+    [
+      "paris agreement",
+      "mitigate",
+      "impacts"
+    ],
+    [
+      "paris agreement",
+      "reduce",
+      "greenhouse gas emissions"
+    ],
+    [
+      "policy support",
+      "essential for",
+      "carbon pricing mechanisms"
+    ],
+    [
+      "policy support",
+      "essential for",
+      "growth"
+    ],
+    [
+      "policy support",
+      "essential for",
+      "subsidies"
+    ],
+    [
+      "policy support",
+      "essential for",
+      "targets"
+    ],
+    [
+      "public awareness",
+      "reduces",
+      "carbon emissions"
+    ],
+    [
+      "public awareness",
+      "reduces",
+      "environmental impact"
+    ],
+    [
+      "regions",
+      "with",
+      "high geothermal potential"
+    ],
+    [
+      "renewable energy",
+      "gaining",
+      "momentum"
+    ],
+    [
+      "renewable energy",
+      "holds",
+      "conclusion"
+    ],
+    [
+      "renewable energy",
+      "is",
+      "resilient"
+    ],
+    [
+      "renewable energy",
+      "moves towards",
+      "environmentally friendly"
+    ],
+    [
+      "renewable energy",
+      "moves towards",
+      "sustainable"
+    ],
+    [
+      "renewable energy",
+      "offers",
+      "cleaner"
+    ],
+    [
+      "renewable energy",
+      "offers",
+      "generations"
+    ],
+    [
+      "renewable energy",
+      "offers",
+      "greener"
+    ],
+    [
+      "renewable energy",
+      "offers",
+      "path"
+    ],
+    [
+      "research",
+      "driving",
+      "efficiency improvements"
+    ],
+    [
+      "research",
+      "driving",
+      "innovation"
+    ],
+    [
+      "smaller-scale",
+      "minimize",
+      "disruption"
+    ],
+    [
+      "smaller-scale",
+      "minimize",
+      "ecosystems"
+    ],
+    [
+      "smart grid technologies",
+      "optimizing",
+      "demand"
+    ],
+    [
+      "smart grid technologies",
+      "optimizing",
+      "supply"
+    ],
+    [
+      "solar panels",
+      "are",
+      "accessible"
+    ],
+    [
+      "solar power",
+      "is",
+      "abundant"
+    ],
+    [
+      "solar power",
+      "is",
+      "clean"
+    ],
+    [
+      "transition",
+      "to",
+      "low-carbon economy"
+    ],
+    [
+      "wind farms",
+      "are",
+      "competitive"
+    ],
+    [
+      "wind farms",
+      "are",
+      "cost-effective"
+    ],
+    [
+      "wind farms",
+      "are",
+      "efficient"
+    ],
+    [
+      "wind power",
+      "growing in",
+      "popularity"
+    ],
+    [
+      "wind power",
+      "is",
+      "clean"
+    ],
+    [
+      "wind power",
+      "is",
+      "renewable energy"
+    ],
+    [
+      "wind turbines",
+      "capture",
+      "kinetic energy"
+    ]
+  ],
+  "edges": [
+    "advancements in",
+    "are",
+    "by",
+    "can heat",
+    "can power",
+    "capture",
+    "complements",
+    "decreasing of",
+    "derived from",
+    "driving",
+    "essential for",
+    "extract",
+    "gaining",
+    "generate",
+    "growing in",
+    "growing over",
+    "has",
+    "have",
+    "holds",
+    "improved",
+    "in",
+    "increased in",
+    "into",
+    "is",
+    "like",
+    "minimize",
+    "mitigate",
+    "moves towards",
+    "offers",
+    "optimizing",
+    "produced by",
+    "provides",
+    "reduce",
+    "reduces",
+    "to",
+    "with"
+  ]
+}

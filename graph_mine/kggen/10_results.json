@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Black holes captivate scientists and the general public.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. black holes captivated imagination. scientists speculate about existence. existence of realm. scientists study black holes. black holes puzzled astronomers. black holes challenge understanding. scientists made progress. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. black holes provide testing ground. existence was theorized black holes. black holes are born from remnants. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. physicist is stephen hawking.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black holes have immense gravitational pull.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. gravitational pull warps spacetime. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. massive stars have exhausted nuclear fuel. massive stars undergone supernova explosion. merger of black holes. gravitational waves by ligo observatory. gravitational waves resulting from merger.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Light cannot escape from black holes.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. event horizon is point of no return. merger of black holes. gravitational waves by ligo observatory. gravitational waves resulting from merger.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Astronomers and physicists are puzzled by black holes.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. merger of black holes. gravitational waves by ligo observatory. gravitational waves resulting from merger. event horizon is point of no return. singularity is at center. event horizon is point of no return. singularity is a point of volume. singularity is a point of density. singularity is a point of curvature. singularity is surrounded by event horizon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black holes are born from massive stars' remnants.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. massive stars have exhausted nuclear fuel. massive stars undergone supernova explosion. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. event horizon is point of no return.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Stars collapse under gravity to form black holes.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. massive stars have exhausted nuclear fuel. massive stars undergone supernova explosion. star collapses under gravity. star reaches life.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black holes have a singularity at their center.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. singularity is at center. event horizon is point of no return. singularity is a point of volume. singularity is a point of density. singularity is a point of curvature. singularity is surrounded by event horizon. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. event horizon is point of no return.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "An event horizon surrounds the singularity of a black hole.",
+    "retrieved_context": "event horizon is point of no return. black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. singularity is at center. event horizon is point of no return. singularity is a point of volume. singularity is a point of density. singularity is a point of curvature. singularity is surrounded by event horizon. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black holes warp spacetime due to their gravitational pull.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. gravitational time dilation causes time. gravitational pull warps spacetime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational time dilation occurs near black holes.",
+    "retrieved_context": "gravitational time dilation causes time. black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. merger of black holes. gravitational waves by ligo observatory. gravitational waves resulting from merger. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. event horizon is point of no return.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Black holes are measured by their Schwarzschild radius.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. event horizon is point of no return. gravitational time dilation causes time.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The holographic principle is related to black holes.",
+    "retrieved_context": "holographic principle suggests contents. black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. event horizon is point of no return.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The information paradox is associated with black holes.",
+    "retrieved_context": "information paradox raises questions. black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. event horizon is point of no return. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. singularity is at center. event horizon is point of no return. singularity is a point of volume. singularity is a point of density. singularity is a point of curvature. singularity is surrounded by event horizon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black holes test theories of gravity and inspire new ideas.",
+    "retrieved_context": "black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. theories of general relativity. merger of black holes. gravitational waves by ligo observatory. gravitational waves resulting from merger. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. event horizon is point of no return.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational waves from black hole mergers were detected in 2015.",
+    "retrieved_context": "merger of black holes. gravitational waves by ligo observatory. gravitational waves resulting from merger. black holes captivated imagination. testing ground for theories. black holes puzzled astronomers. remnants are of massive stars. black holes challenge understanding. phenomena in cosmos. understanding of fundamental laws. boundaries of knowledge. black holes represent phenomena. black holes push boundaries. black holes puzzled physicists. understanding of cosmos. black holes provide testing ground. black holes are born from remnants. hawking radiation leads to information paradox. hawking radiation predicted by physicist. hawking radiation causes mass. physicist is stephen hawking. mass to evaporate. information paradox raises questions. gravitational time dilation causes time.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

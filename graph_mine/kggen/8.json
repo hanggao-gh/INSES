@@ -1,0 +1,593 @@
+{
+  "entities": [
+    "achievements",
+    "advanced materials",
+    "advancements",
+    "apollo 11 mission",
+    "artificial satellite",
+    "astronauts",
+    "blue origin",
+    "boundaries",
+    "butterfly",
+    "buzz aldrin",
+    "collaborative effort",
+    "commercial ventures",
+    "conclusion",
+    "cost",
+    "countries",
+    "current state",
+    "decades",
+    "discoveries",
+    "discovery",
+    "distant worlds",
+    "earth",
+    "endeavor",
+    "endless",
+    "endless possibilities",
+    "essay",
+    "excitement",
+    "exciting",
+    "experiments",
+    "exploration",
+    "extraterrestrial life",
+    "fascinating",
+    "february 2021",
+    "future",
+    "future space missions",
+    "groundbreaking",
+    "habitable exoplanets",
+    "history",
+    "human",
+    "human presence",
+    "humans",
+    "imagination",
+    "innovation",
+    "interest",
+    "international cooperation",
+    "international space station",
+    "ion propulsion systems",
+    "jupiter",
+    "key focus",
+    "launching payloads",
+    "life cycle",
+    "mars",
+    "mars rovers",
+    "microgravity",
+    "milestone",
+    "missions",
+    "moon",
+    "moons",
+    "nasa",
+    "neil armstrong",
+    "next chapter",
+    "orbit",
+    "outer planets",
+    "past life",
+    "people",
+    "permanent presence",
+    "perseverance rover",
+    "planet",
+    "planets",
+    "platform",
+    "possibilities",
+    "possible",
+    "potential",
+    "present day",
+    "private companies",
+    "private individuals",
+    "promise",
+    "red planet",
+    "reusable rockets",
+    "revolutionize",
+    "satellites",
+    "saturn",
+    "scientific discoveries",
+    "scientific research",
+    "secrets",
+    "signs",
+    "solar system",
+    "soviet union",
+    "space",
+    "space exploration",
+    "space probes",
+    "space race",
+    "space technology",
+    "space tourism",
+    "spacecraft",
+    "spacex",
+    "sputnik 1",
+    "suborbital spaceflights",
+    "testing technologies",
+    "traction",
+    "travel",
+    "understanding",
+    "united states",
+    "universe",
+    "virgin galactic",
+    "voyager missions",
+    "world",
+    "yuri gagarin"
+  ],
+  "relations": [
+    [
+      "achievements",
+      "in building",
+      "permanent presence"
+    ],
+    [
+      "achievements",
+      "in exploring",
+      "planets"
+    ],
+    [
+      "achievements",
+      "in sending",
+      "humans"
+    ],
+    [
+      "advanced materials",
+      "are",
+      "advancements"
+    ],
+    [
+      "advancements",
+      "in",
+      "space technology"
+    ],
+    [
+      "artificial satellite",
+      "was",
+      "sputnik 1"
+    ],
+    [
+      "astronauts",
+      "from different",
+      "countries"
+    ],
+    [
+      "blue origin",
+      "offering",
+      "suborbital spaceflights"
+    ],
+    [
+      "boundaries",
+      "of what is",
+      "possible"
+    ],
+    [
+      "buzz aldrin",
+      "walked on",
+      "moon"
+    ],
+    [
+      "buzz aldrin",
+      "was part of",
+      "apollo 11 mission"
+    ],
+    [
+      "collaborative effort",
+      "involving",
+      "countries"
+    ],
+    [
+      "collaborative effort",
+      "involving",
+      "private companies"
+    ],
+    [
+      "conclusion",
+      "has come",
+      "achievements"
+    ],
+    [
+      "cost",
+      "of",
+      "launching payloads"
+    ],
+    [
+      "current state",
+      "marked by",
+      "commercial ventures"
+    ],
+    [
+      "current state",
+      "marked by",
+      "international cooperation"
+    ],
+    [
+      "current state",
+      "marked by",
+      "scientific discoveries"
+    ],
+    [
+      "discoveries",
+      "could",
+      "revolutionize"
+    ],
+    [
+      "discovery",
+      "and",
+      "innovation"
+    ],
+    [
+      "experiments",
+      "in",
+      "microgravity"
+    ],
+    [
+      "experiments",
+      "testing",
+      "testing technologies"
+    ],
+    [
+      "exploration",
+      "of",
+      "solar system"
+    ],
+    [
+      "future",
+      "holds",
+      "endless possibilities"
+    ],
+    [
+      "future",
+      "holds",
+      "promise"
+    ],
+    [
+      "future space missions",
+      "potential to find",
+      "extraterrestrial life"
+    ],
+    [
+      "habitable exoplanets",
+      "are",
+      "key focus"
+    ],
+    [
+      "human presence",
+      "on",
+      "planet"
+    ],
+    [
+      "humans",
+      "pushed",
+      "boundaries"
+    ],
+    [
+      "humans",
+      "to",
+      "mars"
+    ],
+    [
+      "humans",
+      "to",
+      "moon"
+    ],
+    [
+      "interest",
+      "in",
+      "human presence"
+    ],
+    [
+      "international space station",
+      "marked",
+      "milestone"
+    ],
+    [
+      "international space station",
+      "serves as",
+      "platform"
+    ],
+    [
+      "ion propulsion systems",
+      "are",
+      "advancements"
+    ],
+    [
+      "key focus",
+      "of",
+      "future space missions"
+    ],
+    [
+      "launching payloads",
+      "into",
+      "space"
+    ],
+    [
+      "mars",
+      "is",
+      "exciting"
+    ],
+    [
+      "mars",
+      "is",
+      "red planet"
+    ],
+    [
+      "mars rovers",
+      "are",
+      "space probes"
+    ],
+    [
+      "milestone",
+      "in",
+      "international cooperation"
+    ],
+    [
+      "missions",
+      "study",
+      "moons"
+    ],
+    [
+      "missions",
+      "to explore",
+      "outer planets"
+    ],
+    [
+      "missions",
+      "uncover",
+      "secrets"
+    ],
+    [
+      "nasa",
+      "landed",
+      "perseverance rover"
+    ],
+    [
+      "neil armstrong",
+      "walked on",
+      "moon"
+    ],
+    [
+      "neil armstrong",
+      "was part of",
+      "apollo 11 mission"
+    ],
+    [
+      "next chapter",
+      "in",
+      "space exploration"
+    ],
+    [
+      "outer planets",
+      "such as",
+      "jupiter"
+    ],
+    [
+      "outer planets",
+      "such as",
+      "saturn"
+    ],
+    [
+      "people",
+      "around",
+      "world"
+    ],
+    [
+      "permanent presence",
+      "in",
+      "space"
+    ],
+    [
+      "perseverance rover",
+      "landed in",
+      "february 2021"
+    ],
+    [
+      "perseverance rover",
+      "landed on",
+      "mars"
+    ],
+    [
+      "perseverance rover",
+      "searching for",
+      "signs"
+    ],
+    [
+      "platform",
+      "for conducting",
+      "experiments"
+    ],
+    [
+      "possibilities",
+      "are",
+      "endless"
+    ],
+    [
+      "present day",
+      "is",
+      "collaborative effort"
+    ],
+    [
+      "reusable rockets",
+      "developed by",
+      "spacex"
+    ],
+    [
+      "reusable rockets",
+      "reduced",
+      "cost"
+    ],
+    [
+      "revolutionize",
+      "our",
+      "understanding"
+    ],
+    [
+      "secrets",
+      "of",
+      "distant worlds"
+    ],
+    [
+      "signs",
+      "of",
+      "past life"
+    ],
+    [
+      "soviet union",
+      "launched",
+      "artificial satellite"
+    ],
+    [
+      "space",
+      "accessible for",
+      "commercial ventures"
+    ],
+    [
+      "space",
+      "accessible for",
+      "scientific research"
+    ],
+    [
+      "space exploration",
+      "captured",
+      "imagination"
+    ],
+    [
+      "space exploration",
+      "has always been",
+      "fascinating"
+    ],
+    [
+      "space exploration",
+      "has always been",
+      "groundbreaking"
+    ],
+    [
+      "space probes",
+      "study",
+      "planets"
+    ],
+    [
+      "space race",
+      "led to",
+      "advancements"
+    ],
+    [
+      "space race",
+      "was between",
+      "soviet union"
+    ],
+    [
+      "space race",
+      "was between",
+      "united states"
+    ],
+    [
+      "space tourism",
+      "gaining",
+      "traction"
+    ],
+    [
+      "spacecraft",
+      "travel",
+      "fascinating"
+    ],
+    [
+      "spacex",
+      "plans to send",
+      "humans"
+    ],
+    [
+      "sputnik 1",
+      "marked",
+      "space race"
+    ],
+    [
+      "sputnik 1",
+      "was launched",
+      "orbit"
+    ],
+    [
+      "suborbital spaceflights",
+      "to",
+      "private individuals"
+    ],
+    [
+      "testing technologies",
+      "for",
+      "future space missions"
+    ],
+    [
+      "understanding",
+      "of",
+      "universe"
+    ],
+    [
+      "virgin galactic",
+      "offering",
+      "suborbital spaceflights"
+    ],
+    [
+      "voyager missions",
+      "are",
+      "space probes"
+    ],
+    [
+      "yuri gagarin",
+      "became",
+      "human"
+    ],
+    [
+      "yuri gagarin",
+      "orbited",
+      "earth"
+    ]
+  ],
+  "edges": [
+    "accessible for",
+    "and",
+    "are",
+    "around",
+    "became",
+    "captured",
+    "could",
+    "developed by",
+    "for",
+    "for conducting",
+    "from different",
+    "gaining",
+    "has always been",
+    "has come",
+    "holds",
+    "in",
+    "in building",
+    "in exploring",
+    "in sending",
+    "into",
+    "involving",
+    "is",
+    "landed",
+    "landed in",
+    "landed on",
+    "launched",
+    "led to",
+    "marked",
+    "marked by",
+    "of",
+    "of what is",
+    "offering",
+    "on",
+    "orbited",
+    "our",
+    "plans to send",
+    "potential to find",
+    "pushed",
+    "reduced",
+    "searching for",
+    "serves as",
+    "study",
+    "such as",
+    "testing",
+    "to",
+    "to explore",
+    "travel",
+    "uncover",
+    "walked on",
+    "was",
+    "was between",
+    "was launched",
+    "was part of"
+  ]
+}

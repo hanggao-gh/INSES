@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Modern medicine has made significant advancements over the past few centuries.",
+    "retrieved_context": "advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. advancements in medical technology. advancements revolutionizing healthcare practices. advancements improving quality of life. advanced medical technologies transformed practice. antibiotic era revolutionizing treatment. personalized medicine tailor treatments. treatments based on genetic makeup. technological innovations paved the way for sophisticated medical practices.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has revolutionized healthcare practices.",
+    "retrieved_context": "advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. personalized medicine tailor treatments. treatments based on genetic makeup. advanced medical technologies transformed practice. healthcare improved lives.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has improved the quality of life for individuals worldwide.",
+    "retrieved_context": "advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. personalized medicine tailor treatments. treatments based on genetic makeup. healthcare improved lives.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The evolution of medicine can be traced back to ancient civilizations.",
+    "retrieved_context": "advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. personalized medicine tailor treatments. treatments based on genetic makeup. antibiotic era revolutionizing treatment. decisions based on data-driven insights. physicians make decisions. physicians visualize internal structures. physicians treat diseases.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Primitive forms of medical treatment were practiced in ancient civilizations.",
+    "retrieved_context": "advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. chronic diseases such as hypertension. chronic diseases such as diabetes. medical conditions including chronic diseases. chronic diseases such as cancer. patients access medical care.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Scientific discoveries and technological innovations have paved the way for sophisticated medical practices.",
+    "retrieved_context": "advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. scientific discoveries paved the way for sophisticated medical practices. advanced medical technologies transformed practice. technological innovations paved the way for sophisticated medical practices. advancements in medical technology. advancements revolutionizing healthcare practices. advancements improving quality of life.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One key development in modern medicine is the understanding of human anatomy and physiology.",
+    "retrieved_context": "advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. advanced medical technologies transformed practice. patients access medical care.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The study of anatomy began to take shape during the Renaissance period.",
+    "retrieved_context": "renaissance period began study. structure laid foundation. dissections understand structure. advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. 19th century marked milestone. surgeons perform operations. operations without distress. operations without pain. surgical procedures revolutionized by anesthesia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Andreas Vesalius challenged traditional beliefs and conducted detailed dissections to understand the human body.",
+    "retrieved_context": "dissections understand structure. andreas vesalius conducted dissections. andreas vesalius challenged traditional beliefs. structure laid foundation. dissections understand structure. advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of germs and the development of germ theory by Louis Pasteur and Robert Koch marked a milestone in medicine.",
+    "retrieved_context": "germ theory by robert koch. germ theory by louis pasteur. scientific discoveries paved the way for sophisticated medical practices. advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. discovery of penicillin. discovery of germs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The identification of specific microorganisms as the cause of diseases revolutionized medicine.",
+    "retrieved_context": "advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. antibiotic era revolutionizing treatment. antibiotics combat bacterial infections. personalized medicine tailor treatments. treatments based on genetic makeup.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 20th century witnessed rapid advancements in medical technology.",
+    "retrieved_context": "advanced medical technologies transformed practice. advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. technological innovations paved the way for sophisticated medical practices. advancements in medical technology. advancements revolutionizing healthcare practices. advancements improving quality of life. 19th century marked milestone.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the X-ray by Wilhelm Roentgen revolutionized medical imaging.",
+    "retrieved_context": "physicians treat diseases. physicians visualize internal structures. physicians make decisions. medical imaging allows physicians. wilhelm roentgen invented x-ray. imaging techniques such as ct scans. imaging techniques such as mri. advanced medical technologies transformed practice.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The pharmaceutical industry has played a crucial role in the development of modern medicine.",
+    "retrieved_context": "discovery of penicillin. pharmaceutical industry role in discovery. discovery of germs. advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices. pharmaceutical companies develop drugs. pharmaceutical companies develop therapies. personalized medicine tailor treatments. treatments based on genetic makeup. advanced medical technologies transformed practice. antibiotic era revolutionizing treatment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of penicillin by Alexander Fleming revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "antibiotic era revolutionizing treatment. antibiotics combat bacterial infections. alexander fleming discovered penicillin. advancements in medical technology. modern medicine has made advancements. advancements improving quality of life. advancements revolutionizing healthcare practices.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

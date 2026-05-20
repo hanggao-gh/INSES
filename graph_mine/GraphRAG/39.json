@@ -1,0 +1,106 @@
+{
+  "entities": [
+    "SOLAR ENERGY",
+    "GEOTHERMAL ENERGY",
+    "WIND POWER",
+    "BIOENERGY",
+    "BIOMASS POWER PLANTS",
+    "BIOFUELS",
+    "WIND ENERGY",
+    "SMART GRID TECHNOLOGIES",
+    "ENERGY STORAGE",
+    "GOVERNMENTS",
+    "SOLAR POWER",
+    "HYDROPOWER",
+    "PARIS AGREEMENT",
+    "RENEWABLE ENERGY"
+  ],
+  "relations": [
+    [
+      "RENEWABLE ENERGY",
+      "Solar power is a key component of the renewable energy movement, contributing to a more sustainable future",
+      "SOLAR POWER"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "Wind power is a significant part of the renewable energy sector, offering a clean alternative to fossil fuels",
+      "WIND POWER"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "Renewable energy, with a focus on hydropower, is an established and significant source of electricity generation that emphasizes minimal environmental impact. Hydropower, a key component of renewable energy strategies, harnesses the power of water to produce electricity, providing a substantial and eco-friendly alternative to fossil fuels. This method of generating power is recognized for its efficiency and sustainability, making it a cornerstone in the pursuit of cleaner energy solutions.",
+      "HYDROPOWER"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "Bioenergy is part of the renewable energy spectrum, providing solutions for electricity, heating, and vehicle fuel",
+      "BIOENERGY"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "Geothermal energy is a reliable and consistent source of renewable energy, capable of providing baseload electricity",
+      "GEOTHERMAL ENERGY"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "Solar energy is a key component of renewable energy, utilizing sunlight to generate electricity",
+      "SOLAR ENERGY"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "Wind energy contributes to renewable energy by generating electricity through the movement of air",
+      "WIND ENERGY"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "Energy storage is essential for managing the intermittent nature of renewable energy sources like solar and wind",
+      "ENERGY STORAGE"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "Renewable energy and smart grid technologies are closely interconnected, with smart grid technologies playing a crucial role in optimizing the use of renewable energy resources. These technologies support the integration of renewable energy into the grid, significantly enhancing energy efficiency and reliability. By leveraging smart grid technologies, the energy sector can better manage and distribute renewable energy, ensuring a more sustainable and stable energy supply.",
+      "SMART GRID TECHNOLOGIES"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "The Paris Agreement creates a supportive environment for renewable energy deployment",
+      "PARIS AGREEMENT"
+    ],
+    [
+      "RENEWABLE ENERGY",
+      "Governments implement policies and incentives to support the growth of renewable energy",
+      "GOVERNMENTS"
+    ],
+    [
+      "BIOENERGY",
+      "Biofuels are a subset of bioenergy, specifically used for powering vehicles and heating",
+      "BIOFUELS"
+    ],
+    [
+      "BIOENERGY",
+      "Biomass power plants are a key component of bioenergy, generating electricity from organic materials",
+      "BIOMASS POWER PLANTS"
+    ],
+    [
+      "PARIS AGREEMENT",
+      "Governments around the world are influenced by international agreements like the Paris Agreement to implement renewable energy policies",
+      "GOVERNMENTS"
+    ]
+  ],
+  "edges": [
+    "Solar power is a key component of the renewable energy movement, contributing to a more sustainable future",
+    "Wind power is a significant part of the renewable energy sector, offering a clean alternative to fossil fuels",
+    "Renewable energy, with a focus on hydropower, is an established and significant source of electricity generation that emphasizes minimal environmental impact. Hydropower, a key component of renewable energy strategies, harnesses the power of water to produce electricity, providing a substantial and eco-friendly alternative to fossil fuels. This method of generating power is recognized for its efficiency and sustainability, making it a cornerstone in the pursuit of cleaner energy solutions.",
+    "Bioenergy is part of the renewable energy spectrum, providing solutions for electricity, heating, and vehicle fuel",
+    "Geothermal energy is a reliable and consistent source of renewable energy, capable of providing baseload electricity",
+    "Solar energy is a key component of renewable energy, utilizing sunlight to generate electricity",
+    "Wind energy contributes to renewable energy by generating electricity through the movement of air",
+    "Energy storage is essential for managing the intermittent nature of renewable energy sources like solar and wind",
+    "Renewable energy and smart grid technologies are closely interconnected, with smart grid technologies playing a crucial role in optimizing the use of renewable energy resources. These technologies support the integration of renewable energy into the grid, significantly enhancing energy efficiency and reliability. By leveraging smart grid technologies, the energy sector can better manage and distribute renewable energy, ensuring a more sustainable and stable energy supply.",
+    "The Paris Agreement creates a supportive environment for renewable energy deployment",
+    "Governments implement policies and incentives to support the growth of renewable energy",
+    "Biofuels are a subset of bioenergy, specifically used for powering vehicles and heating",
+    "Biomass power plants are a key component of bioenergy, generating electricity from organic materials",
+    "Governments around the world are influenced by international agreements like the Paris Agreement to implement renewable energy policies"
+  ]
+}

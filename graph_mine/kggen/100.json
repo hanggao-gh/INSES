@@ -1,0 +1,452 @@
+{
+  "entities": [
+    "accommodate",
+    "adaptation",
+    "adapting",
+    "addressing",
+    "adjusted",
+    "agroecology",
+    "agroforestry",
+    "australia",
+    "biodiversity",
+    "build",
+    "california",
+    "challenges",
+    "changes",
+    "climate change",
+    "co-benefits",
+    "competition",
+    "conclusion",
+    "conditions",
+    "consequences",
+    "contribute",
+    "crop production",
+    "crucial",
+    "decreased",
+    "dependent",
+    "destroy",
+    "detect",
+    "devastate",
+    "development",
+    "difficult",
+    "direct",
+    "discuss",
+    "diseases",
+    "disrupt",
+    "drought-resistant",
+    "droughts",
+    "effects",
+    "efficient",
+    "ensure",
+    "environment",
+    "environmental",
+    "essay",
+    "evaporation rates",
+    "expansion",
+    "explore",
+    "felt",
+    "floods",
+    "food security",
+    "frequent",
+    "future",
+    "global agriculture",
+    "greenhouse gas emissions",
+    "growing seasons",
+    "harvesting",
+    "health",
+    "heatwaves",
+    "human life",
+    "immediate",
+    "impact",
+    "impacts",
+    "improve",
+    "innovation",
+    "investing",
+    "irrigate",
+    "issues",
+    "limited",
+    "livelihoods",
+    "lower",
+    "major",
+    "management",
+    "mitigate",
+    "mitigating",
+    "negative",
+    "opportunities",
+    "organic farming",
+    "people",
+    "pesticides",
+    "pests",
+    "planet",
+    "planting",
+    "poses",
+    "practices",
+    "precipitation patterns",
+    "precision",
+    "presents",
+    "pressing",
+    "prey",
+    "price spikes",
+    "produce",
+    "prolonged",
+    "promoting",
+    "protect",
+    "quality",
+    "rainwater harvesting",
+    "reduce",
+    "regions",
+    "reliance",
+    "research",
+    "resilience",
+    "resources",
+    "rising",
+    "rotation",
+    "scarcity",
+    "sectors",
+    "severe",
+    "sharks",
+    "shift",
+    "shortages",
+    "soil health",
+    "spread",
+    "supply chains",
+    "sustainable",
+    "sustainable farming",
+    "systems",
+    "techniques",
+    "technology",
+    "temperatures",
+    "timing",
+    "varieties",
+    "water availability",
+    "weather events",
+    "weather patterns",
+    "world",
+    "yields"
+  ],
+  "relations": [
+    [
+      "addressing",
+      "have",
+      "co-benefits"
+    ],
+    [
+      "changes",
+      "have effects on",
+      "crop production"
+    ],
+    [
+      "changes",
+      "have effects on",
+      "food security"
+    ],
+    [
+      "changes",
+      "have effects on",
+      "livelihoods"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "global agriculture"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "human life"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "weather patterns"
+    ],
+    [
+      "climate change",
+      "is",
+      "major"
+    ],
+    [
+      "climate change",
+      "is",
+      "pressing"
+    ],
+    [
+      "climate change",
+      "poses",
+      "water availability"
+    ],
+    [
+      "climate change",
+      "presents",
+      "challenges"
+    ],
+    [
+      "climate change",
+      "presents",
+      "opportunities"
+    ],
+    [
+      "development",
+      "of",
+      "drought-resistant"
+    ],
+    [
+      "effects",
+      "are",
+      "felt"
+    ],
+    [
+      "efficient",
+      "are",
+      "crucial"
+    ],
+    [
+      "essay",
+      "discuss",
+      "challenges"
+    ],
+    [
+      "essay",
+      "discuss",
+      "opportunities"
+    ],
+    [
+      "essay",
+      "explore",
+      "impact"
+    ],
+    [
+      "evaporation rates",
+      "lead to",
+      "scarcity"
+    ],
+    [
+      "expansion",
+      "of",
+      "diseases"
+    ],
+    [
+      "expansion",
+      "of",
+      "pests"
+    ],
+    [
+      "global agriculture",
+      "dependent on",
+      "conditions"
+    ],
+    [
+      "innovation",
+      "in",
+      "adaptation"
+    ],
+    [
+      "investing",
+      "ensure",
+      "future"
+    ],
+    [
+      "investing",
+      "in",
+      "research"
+    ],
+    [
+      "investing",
+      "in",
+      "technology"
+    ],
+    [
+      "organic farming",
+      "contribute",
+      "mitigating"
+    ],
+    [
+      "organic farming",
+      "help",
+      "promoting"
+    ],
+    [
+      "organic farming",
+      "help",
+      "protect"
+    ],
+    [
+      "organic farming",
+      "help",
+      "reduce"
+    ],
+    [
+      "precipitation patterns",
+      "lead to",
+      "scarcity"
+    ],
+    [
+      "precision",
+      "help",
+      "mitigate"
+    ],
+    [
+      "prolonged",
+      "have impact on",
+      "regions"
+    ],
+    [
+      "rainwater harvesting",
+      "are",
+      "crucial"
+    ],
+    [
+      "reliance",
+      "have",
+      "consequences"
+    ],
+    [
+      "reliance",
+      "have",
+      "negative"
+    ],
+    [
+      "reliance",
+      "on",
+      "pesticides"
+    ],
+    [
+      "rising",
+      "leading to",
+      "frequent"
+    ],
+    [
+      "rising",
+      "leading to",
+      "severe"
+    ],
+    [
+      "scarcity",
+      "make",
+      "difficult"
+    ],
+    [
+      "scarcity",
+      "result in",
+      "competition"
+    ],
+    [
+      "scarcity",
+      "result in",
+      "lower"
+    ],
+    [
+      "shift",
+      "in",
+      "growing seasons"
+    ],
+    [
+      "spread",
+      "of",
+      "diseases"
+    ],
+    [
+      "spread",
+      "of",
+      "pests"
+    ],
+    [
+      "spread",
+      "result in",
+      "decreased"
+    ],
+    [
+      "spread",
+      "result in",
+      "reliance"
+    ],
+    [
+      "sustainable",
+      "for",
+      "management"
+    ],
+    [
+      "sustainable",
+      "for",
+      "practices"
+    ],
+    [
+      "sustainable farming",
+      "help",
+      "build"
+    ],
+    [
+      "sustainable farming",
+      "help",
+      "improve"
+    ],
+    [
+      "timing",
+      "adjusted to",
+      "accommodate"
+    ],
+    [
+      "timing",
+      "of",
+      "harvesting"
+    ],
+    [
+      "timing",
+      "of",
+      "planting"
+    ],
+    [
+      "weather events",
+      "destroy",
+      "crop production"
+    ],
+    [
+      "weather events",
+      "devastate",
+      "yields"
+    ],
+    [
+      "weather events",
+      "disrupt",
+      "supply chains"
+    ],
+    [
+      "weather events",
+      "lead to",
+      "price spikes"
+    ],
+    [
+      "weather events",
+      "lead to",
+      "shortages"
+    ]
+  ],
+  "edges": [
+    "adjusted to",
+    "are",
+    "contribute",
+    "dependent on",
+    "destroy",
+    "devastate",
+    "discuss",
+    "disrupt",
+    "ensure",
+    "explore",
+    "for",
+    "have",
+    "have effects on",
+    "have impact on",
+    "help",
+    "impacts",
+    "in",
+    "is",
+    "lead to",
+    "leading to",
+    "make",
+    "of",
+    "on",
+    "poses",
+    "presents",
+    "result in"
+  ]
+}

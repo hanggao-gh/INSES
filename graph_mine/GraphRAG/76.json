@@ -1,0 +1,215 @@
+{
+  "entities": [
+    "MANOR HOUSE",
+    "ANCIENT TIMES",
+    "SUBURBAN HOME",
+    "INDUSTRIAL REVOLUTION",
+    "SOCIAL HIERARCHY",
+    "LEVITTOWN",
+    "CONCRETE",
+    "TENTS",
+    "FRANK LLOYD WRIGHT",
+    "ELECTRICAL APPLIANCES",
+    "MESOPOTAMIA",
+    "GREEN ROOFS",
+    "URBANIZATION",
+    "INDOOR PLUMBING",
+    "APARTMENT BUILDINGS",
+    "MIDDLE AGES",
+    "PASSIVE SOLAR DESIGN",
+    "SMART TECHNOLOGY",
+    "MODERN HOME",
+    "TECHNOLOGICAL ADVANCEMENTS",
+    "LUDWIG MIES VAN DER ROHE",
+    "MASS PRODUCTION",
+    "RAINWATER HARVESTING",
+    "MODERNIST MOVEMENT",
+    "CULTURAL INFLUENCES",
+    "SUBURBAN COMMUNITIES",
+    "CENTRAL HEATING",
+    "EGYPT",
+    "GREECE",
+    "CAVES",
+    "SUSTAINABLE DESIGN",
+    "LE CORBUSIER",
+    "STEEL"
+  ],
+  "relations": [
+    [
+      "MODERN HOME",
+      "The modern home's evolution began in ancient times with basic shelters",
+      "ANCIENT TIMES"
+    ],
+    [
+      "MODERN HOME",
+      "The Industrial Revolution significantly influenced the transformation of the modern home",
+      "INDUSTRIAL REVOLUTION"
+    ],
+    [
+      "MODERN HOME",
+      "Technological advancements have been a key factor in the evolution of the modern home",
+      "TECHNOLOGICAL ADVANCEMENTS"
+    ],
+    [
+      "MODERN HOME",
+      "Cultural influences have significantly shaped the design and function of the modern home over centuries",
+      "CULTURAL INFLUENCES"
+    ],
+    [
+      "MODERN HOME",
+      "Smart technology is a key feature of the modern home, enabling remote control and monitoring",
+      "SMART TECHNOLOGY"
+    ],
+    [
+      "MODERN HOME",
+      "Sustainable design practices are integral to the evolution of the modern home, focusing on environmental efficiency",
+      "SUSTAINABLE DESIGN"
+    ],
+    [
+      "ANCIENT TIMES",
+      "Mesopotamia, during ancient times, contributed to the early concept of home as a center of life",
+      "MESOPOTAMIA"
+    ],
+    [
+      "ANCIENT TIMES",
+      "Egypt, during ancient times, influenced the architectural and cultural aspects of home",
+      "EGYPT"
+    ],
+    [
+      "ANCIENT TIMES",
+      "Greece contributed to the evolution of home design and social structure in ancient times",
+      "GREECE"
+    ],
+    [
+      "ANCIENT TIMES",
+      "In ancient times, caves were among the earliest forms of shelter for humans",
+      "CAVES"
+    ],
+    [
+      "ANCIENT TIMES",
+      "Tents were used by early humans as primitive shelters during ancient times",
+      "TENTS"
+    ],
+    [
+      "ANCIENT TIMES",
+      "The concept of social hierarchy influenced the layout and design of homes in ancient civilizations",
+      "SOCIAL HIERARCHY"
+    ],
+    [
+      "MIDDLE AGES",
+      "The manor house emerged during the Middle Ages as a significant evolution in home design",
+      "MANOR HOUSE"
+    ],
+    [
+      "INDUSTRIAL REVOLUTION",
+      "Urbanization was a direct result of the Industrial Revolution, changing how and where people lived",
+      "URBANIZATION"
+    ],
+    [
+      "INDUSTRIAL REVOLUTION",
+      "Mass production techniques developed during the Industrial Revolution made it possible to build housing more efficiently",
+      "MASS PRODUCTION"
+    ],
+    [
+      "INDUSTRIAL REVOLUTION",
+      "The introduction of steel during the Industrial Revolution enabled the construction of more complex structures",
+      "STEEL"
+    ],
+    [
+      "INDUSTRIAL REVOLUTION",
+      "Concrete, like steel, was a building material that came into widespread use during the Industrial Revolution, changing construction methods",
+      "CONCRETE"
+    ],
+    [
+      "LE CORBUSIER",
+      "Le Corbusier was a leading figure in the modernist movement, influencing home design and architecture",
+      "MODERNIST MOVEMENT"
+    ],
+    [
+      "FRANK LLOYD WRIGHT",
+      "Frank Lloyd Wright contributed significantly to the modernist movement with his innovative designs",
+      "MODERNIST MOVEMENT"
+    ],
+    [
+      "LUDWIG MIES VAN DER ROHE",
+      "Ludwig Mies van der Rohe was a key proponent of the modernist movement in architecture",
+      "MODERNIST MOVEMENT"
+    ],
+    [
+      "LEVITTOWN",
+      "Levittown set the standard for the suburban home model in post-World War II America",
+      "SUBURBAN HOME"
+    ],
+    [
+      "SUBURBAN HOME",
+      "Suburban communities were developed to provide the model of suburban homes, reflecting the American Dream",
+      "SUBURBAN COMMUNITIES"
+    ],
+    [
+      "SUBURBAN HOME",
+      "Central heating is one of the modern amenities that defined the suburban home",
+      "CENTRAL HEATING"
+    ],
+    [
+      "SUBURBAN HOME",
+      "Indoor plumbing was a key feature that made suburban homes more comfortable and convenient",
+      "INDOOR PLUMBING"
+    ],
+    [
+      "SUBURBAN HOME",
+      "The inclusion of electrical appliances in suburban homes represented the modern conveniences of the time",
+      "ELECTRICAL APPLIANCES"
+    ],
+    [
+      "SUSTAINABLE DESIGN",
+      "Passive solar design is a concept incorporated into sustainable design practices",
+      "PASSIVE SOLAR DESIGN"
+    ],
+    [
+      "SUSTAINABLE DESIGN",
+      "Rainwater harvesting is a practice used in sustainable design to promote efficiency and environmental responsibility",
+      "RAINWATER HARVESTING"
+    ],
+    [
+      "SUSTAINABLE DESIGN",
+      "Green roofs are part of sustainable design practices to create healthier living environments and reduce environmental impact",
+      "GREEN ROOFS"
+    ],
+    [
+      "APARTMENT BUILDINGS",
+      "The rise of apartment buildings was a response to urbanization, providing housing solutions for city dwellers",
+      "URBANIZATION"
+    ]
+  ],
+  "edges": [
+    "The modern home's evolution began in ancient times with basic shelters",
+    "The Industrial Revolution significantly influenced the transformation of the modern home",
+    "Technological advancements have been a key factor in the evolution of the modern home",
+    "Cultural influences have significantly shaped the design and function of the modern home over centuries",
+    "Smart technology is a key feature of the modern home, enabling remote control and monitoring",
+    "Sustainable design practices are integral to the evolution of the modern home, focusing on environmental efficiency",
+    "Mesopotamia, during ancient times, contributed to the early concept of home as a center of life",
+    "Egypt, during ancient times, influenced the architectural and cultural aspects of home",
+    "Greece contributed to the evolution of home design and social structure in ancient times",
+    "In ancient times, caves were among the earliest forms of shelter for humans",
+    "Tents were used by early humans as primitive shelters during ancient times",
+    "The concept of social hierarchy influenced the layout and design of homes in ancient civilizations",
+    "The manor house emerged during the Middle Ages as a significant evolution in home design",
+    "Urbanization was a direct result of the Industrial Revolution, changing how and where people lived",
+    "Mass production techniques developed during the Industrial Revolution made it possible to build housing more efficiently",
+    "The introduction of steel during the Industrial Revolution enabled the construction of more complex structures",
+    "Concrete, like steel, was a building material that came into widespread use during the Industrial Revolution, changing construction methods",
+    "Le Corbusier was a leading figure in the modernist movement, influencing home design and architecture",
+    "Frank Lloyd Wright contributed significantly to the modernist movement with his innovative designs",
+    "Ludwig Mies van der Rohe was a key proponent of the modernist movement in architecture",
+    "Levittown set the standard for the suburban home model in post-World War II America",
+    "Suburban communities were developed to provide the model of suburban homes, reflecting the American Dream",
+    "Central heating is one of the modern amenities that defined the suburban home",
+    "Indoor plumbing was a key feature that made suburban homes more comfortable and convenient",
+    "The inclusion of electrical appliances in suburban homes represented the modern conveniences of the time",
+    "Passive solar design is a concept incorporated into sustainable design practices",
+    "Rainwater harvesting is a practice used in sustainable design to promote efficiency and environmental responsibility",
+    "Green roofs are part of sustainable design practices to create healthier living environments and reduce environmental impact",
+    "The rise of apartment buildings was a response to urbanization, providing housing solutions for city dwellers"
+  ]
+}

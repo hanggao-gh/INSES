@@ -1,0 +1,96 @@
+{
+  "entities": [
+    "HAN VAN MEEGEREN",
+    "ALAN SOKAL",
+    "SOKAL AFFAIR",
+    "BOUNDARIES: TOWARDS A TRANSFORMATIVE HERMENEUTICS OF QUANTUM GRAVITY",
+    "WAR OF THE WORLDS RADIO BROADCAST",
+    "SOCIAL TEXT",
+    "WAR OF THE WORLDS RADIO",
+    "PILTDOWN MAN",
+    "GEORGE HULL",
+    "SCIENTIFIC COMMUNITY",
+    "ORSON WELLES",
+    "HERMANN G\u00d6RING",
+    "H.G. WELLS",
+    "PUBLIC",
+    "WAR OF THE WORLDS BROADCAST",
+    "CARDIFF GIANT"
+  ],
+  "relations": [
+    [
+      "PILTDOWN MAN",
+      "The Piltdown Man hoax misled the scientific community for decades, sparking debate and skepticism about evolutionary theory",
+      "SCIENTIFIC COMMUNITY"
+    ],
+    [
+      "PILTDOWN MAN",
+      "Both the Piltdown Man and the War of the Worlds broadcast were hoaxes that challenged established beliefs and tested the boundaries of truth and fiction",
+      "WAR OF THE WORLDS BROADCAST"
+    ],
+    [
+      "CARDIFF GIANT",
+      "George Hull created the Cardiff Giant as a hoax",
+      "GEORGE HULL"
+    ],
+    [
+      "CARDIFF GIANT",
+      "The Cardiff Giant hoax captivated the public and attracted massive crowds before its true nature was uncovered",
+      "PUBLIC"
+    ],
+    [
+      "PUBLIC",
+      "The War of the Worlds radio broadcast caused panic among the public, demonstrating the influence of media on perception",
+      "WAR OF THE WORLDS RADIO"
+    ],
+    [
+      "WAR OF THE WORLDS RADIO BROADCAST",
+      "Orson Welles directed and narrated the War of the Worlds broadcast that caused mass hysteria",
+      "ORSON WELLES"
+    ],
+    [
+      "WAR OF THE WORLDS RADIO BROADCAST",
+      "The War of the Worlds broadcast was an adaptation of H.G. Wells' novel",
+      "H.G. WELLS"
+    ],
+    [
+      "HAN VAN MEEGEREN",
+      "Hermann G\u00f6ring purchased a forged Vermeer from Han van Meegeren",
+      "HERMANN G\u00d6RING"
+    ],
+    [
+      "SOKAL AFFAIR",
+      "Alan Sokal was the physicist behind the Sokal Affair, submitting a fake paper to critique postmodernism",
+      "ALAN SOKAL"
+    ],
+    [
+      "SOKAL AFFAIR",
+      "The Sokal Affair was sparked by Social Text's publication of a nonsensical article, leading to a debate on academic credibility",
+      "SOCIAL TEXT"
+    ],
+    [
+      "ALAN SOKAL",
+      "Alan Sokal submitted a fake paper to Social Text, which was published, as part of the Sokal Affair",
+      "SOCIAL TEXT"
+    ],
+    [
+      "SOCIAL TEXT",
+      "The article was published by Social Text, leading to the Sokal Affair and debates on postmodernist scholarship credibility",
+      "BOUNDARIES: TOWARDS A TRANSFORMATIVE HERMENEUTICS OF QUANTUM GRAVITY"
+    ]
+  ],
+  "edges": [
+    "The Piltdown Man hoax misled the scientific community for decades, sparking debate and skepticism about evolutionary theory",
+    "Both the Piltdown Man and the War of the Worlds broadcast were hoaxes that challenged established beliefs and tested the boundaries of truth and fiction",
+    "George Hull created the Cardiff Giant as a hoax",
+    "The Cardiff Giant hoax captivated the public and attracted massive crowds before its true nature was uncovered",
+    "The War of the Worlds radio broadcast caused panic among the public, demonstrating the influence of media on perception",
+    "Orson Welles directed and narrated the War of the Worlds broadcast that caused mass hysteria",
+    "The War of the Worlds broadcast was an adaptation of H.G. Wells' novel",
+    "Hermann G\u00f6ring purchased a forged Vermeer from Han van Meegeren",
+    "Alan Sokal was the physicist behind the Sokal Affair, submitting a fake paper to critique postmodernism",
+    "The Sokal Affair was sparked by Social Text's publication of a nonsensical article, leading to a debate on academic credibility",
+    "Alan Sokal submitted a fake paper to Social Text, which was published, as part of the Sokal Affair",
+    "The article was published by Social Text, leading to the Sokal Affair and debates on postmodernist scholarship credibility"
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "entities": [
+    "18th century",
+    "alternative explanations",
+    "alternative interpretations",
+    "america's prestige",
+    "anomalies",
+    "apollo 11 mission",
+    "assassination",
+    "astronauts",
+    "attention",
+    "authority",
+    "behavior",
+    "buzz aldrin",
+    "celebrity deaths",
+    "chaos",
+    "cia",
+    "community",
+    "conspiracy",
+    "conspiracy theories",
+    "contagious",
+    "control",
+    "controlled demolitions",
+    "cultural impact",
+    "debate",
+    "discrepancies",
+    "discussion",
+    "distrust",
+    "documentaries",
+    "empowerment",
+    "entertainment",
+    "experts",
+    "fascination",
+    "fiction",
+    "flat earth",
+    "followers",
+    "global pedophile ring",
+    "global phenomena",
+    "governments",
+    "historical events",
+    "hoax",
+    "human desire",
+    "illuminati",
+    "inconsistencies",
+    "influence",
+    "institutions",
+    "internet",
+    "intrigue",
+    "investigations",
+    "investigators",
+    "killers",
+    "laughter",
+    "lee harvey oswald",
+    "mafia",
+    "middle east",
+    "mission",
+    "moon landing",
+    "mystery",
+    "narratives",
+    "nature of truth",
+    "nefarious purposes",
+    "neil armstrong",
+    "official accounts",
+    "official explanations",
+    "online discourse",
+    "patsy",
+    "pentagon",
+    "photographic evidence",
+    "plot",
+    "political movements",
+    "political upheavals",
+    "popular culture",
+    "power",
+    "president john f. kennedy",
+    "pretext",
+    "prominent figures",
+    "public discourse",
+    "public imagination",
+    "public opinion",
+    "public's imagination",
+    "role",
+    "scientific evidence",
+    "secrecy",
+    "secret society",
+    "september 11, 2001 terrorist attacks",
+    "shadowy cabal",
+    "shadowy groups",
+    "skeptics",
+    "social media",
+    "societal anxieties",
+    "soviet union",
+    "space race",
+    "speculations",
+    "spread",
+    "studio",
+    "subliminal messaging",
+    "symbolism",
+    "u.s. government",
+    "uncertainty",
+    "united states government",
+    "video evidence",
+    "war",
+    "world",
+    "world events",
+    "world trade center"
+  ],
+  "relations": [
+    [
+      "america's prestige",
+      "in",
+      "space race"
+    ],
+    [
+      "apollo 11 mission",
+      "was",
+      "hoax"
+    ],
+    [
+      "assassination",
+      "of",
+      "president john f. kennedy"
+    ],
+    [
+      "conspiracy theories",
+      "allure of",
+      "intrigue"
+    ],
+    [
+      "conspiracy theories",
+      "allure of",
+      "mystery"
+    ],
+    [
+      "conspiracy theories",
+      "captured",
+      "fascination"
+    ],
+    [
+      "conspiracy theories",
+      "captured",
+      "public imagination"
+    ],
+    [
+      "conspiracy theories",
+      "challenge",
+      "official explanations"
+    ],
+    [
+      "conspiracy theories",
+      "circulate",
+      "internet"
+    ],
+    [
+      "conspiracy theories",
+      "circulate",
+      "social media"
+    ],
+    [
+      "conspiracy theories",
+      "cultural impact",
+      "cultural impact"
+    ],
+    [
+      "conspiracy theories",
+      "fueled",
+      "spread"
+    ],
+    [
+      "conspiracy theories",
+      "gained",
+      "attention"
+    ],
+    [
+      "conspiracy theories",
+      "gained",
+      "followers"
+    ],
+    [
+      "conspiracy theories",
+      "influencing",
+      "political movements"
+    ],
+    [
+      "conspiracy theories",
+      "influencing",
+      "popular culture"
+    ],
+    [
+      "conspiracy theories",
+      "insight into",
+      "alternative explanations"
+    ],
+    [
+      "conspiracy theories",
+      "insight into",
+      "human desire"
+    ],
+    [
+      "conspiracy theories",
+      "offer",
+      "narratives"
+    ],
+    [
+      "conspiracy theories",
+      "play",
+      "role"
+    ],
+    [
+      "conspiracy theories",
+      "providing",
+      "community"
+    ],
+    [
+      "conspiracy theories",
+      "providing",
+      "empowerment"
+    ],
+    [
+      "conspiracy theories",
+      "raise",
+      "nature of truth"
+    ],
+    [
+      "conspiracy theories",
+      "raise",
+      "power"
+    ],
+    [
+      "conspiracy theories",
+      "raise",
+      "secrecy"
+    ],
+    [
+      "conspiracy theories",
+      "shaping",
+      "public discourse"
+    ],
+    [
+      "conspiracy theories",
+      "shaping",
+      "public opinion"
+    ],
+    [
+      "conspiracy theories",
+      "tap into",
+      "distrust"
+    ],
+    [
+      "conspiracy theories",
+      "tap into",
+      "societal anxieties"
+    ],
+    [
+      "experts",
+      "reject",
+      "conspiracy theories"
+    ],
+    [
+      "hoax",
+      "bolster",
+      "america's prestige"
+    ],
+    [
+      "hoax",
+      "staged in",
+      "studio"
+    ],
+    [
+      "illuminati",
+      "behind",
+      "celebrity deaths"
+    ],
+    [
+      "illuminati",
+      "behind",
+      "global phenomena"
+    ],
+    [
+      "illuminati",
+      "behind",
+      "political upheavals"
+    ],
+    [
+      "illuminati",
+      "captured",
+      "public's imagination"
+    ],
+    [
+      "illuminati",
+      "exert",
+      "control"
+    ],
+    [
+      "illuminati",
+      "exert",
+      "influence"
+    ],
+    [
+      "illuminati",
+      "for",
+      "nefarious purposes"
+    ],
+    [
+      "illuminati",
+      "inspired",
+      "entertainment"
+    ],
+    [
+      "illuminati",
+      "inspired",
+      "fiction"
+    ],
+    [
+      "illuminati",
+      "is",
+      "secret society"
+    ],
+    [
+      "illuminati",
+      "manipulate",
+      "governments"
+    ],
+    [
+      "illuminati",
+      "manipulate",
+      "institutions"
+    ],
+    [
+      "illuminati",
+      "manipulate",
+      "world events"
+    ],
+    [
+      "illuminati",
+      "using",
+      "subliminal messaging"
+    ],
+    [
+      "illuminati",
+      "using",
+      "symbolism"
+    ],
+    [
+      "killers",
+      "part of",
+      "plot"
+    ],
+    [
+      "lee harvey oswald",
+      "acted alone",
+      "assassination"
+    ],
+    [
+      "lee harvey oswald",
+      "was",
+      "patsy"
+    ],
+    [
+      "moon landing",
+      "continues to be",
+      "debate"
+    ],
+    [
+      "moon landing",
+      "continues to be",
+      "discussion"
+    ],
+    [
+      "moon landing",
+      "staged by",
+      "united states government"
+    ],
+    [
+      "mystery",
+      "led to",
+      "documentaries"
+    ],
+    [
+      "mystery",
+      "led to",
+      "investigations"
+    ],
+    [
+      "mystery",
+      "led to",
+      "speculations"
+    ],
+    [
+      "mystery",
+      "surrounding",
+      "assassination"
+    ],
+    [
+      "narratives",
+      "challenge",
+      "official explanations"
+    ],
+    [
+      "narratives",
+      "present",
+      "alternative interpretations"
+    ],
+    [
+      "plot",
+      "involving",
+      "cia"
+    ],
+    [
+      "plot",
+      "involving",
+      "mafia"
+    ],
+    [
+      "plot",
+      "involving",
+      "shadowy groups"
+    ],
+    [
+      "pretext",
+      "for",
+      "war"
+    ],
+    [
+      "prominent figures",
+      "point to",
+      "anomalies"
+    ],
+    [
+      "prominent figures",
+      "point to",
+      "behavior"
+    ],
+    [
+      "prominent figures",
+      "point to",
+      "controlled demolitions"
+    ],
+    [
+      "prominent figures",
+      "point to",
+      "discrepancies"
+    ],
+    [
+      "prominent figures",
+      "point to",
+      "inconsistencies"
+    ],
+    [
+      "prominent figures",
+      "point to",
+      "official accounts"
+    ],
+    [
+      "prominent figures",
+      "point to",
+      "photographic evidence"
+    ],
+    [
+      "prominent figures",
+      "point to",
+      "video evidence"
+    ],
+    [
+      "secret society",
+      "founded in",
+      "18th century"
+    ],
+    [
+      "september 11, 2001 terrorist attacks",
+      "on",
+      "pentagon"
+    ],
+    [
+      "september 11, 2001 terrorist attacks",
+      "on",
+      "world trade center"
+    ],
+    [
+      "skeptics",
+      "believe",
+      "conspiracy"
+    ],
+    [
+      "space race",
+      "against",
+      "soviet union"
+    ],
+    [
+      "u.s. government",
+      "as",
+      "pretext"
+    ],
+    [
+      "war",
+      "in",
+      "middle east"
+    ],
+    [
+      "world",
+      "seems",
+      "chaos"
+    ],
+    [
+      "world",
+      "seems",
+      "uncertainty"
+    ]
+  ],
+  "edges": [
+    "acted alone",
+    "against",
+    "allure of",
+    "as",
+    "behind",
+    "believe",
+    "bolster",
+    "captured",
+    "challenge",
+    "circulate",
+    "continues to be",
+    "cultural impact",
+    "exert",
+    "for",
+    "founded in",
+    "fueled",
+    "gained",
+    "in",
+    "influencing",
+    "insight into",
+    "inspired",
+    "involving",
+    "is",
+    "led to",
+    "manipulate",
+    "of",
+    "offer",
+    "on",
+    "part of",
+    "play",
+    "point to",
+    "present",
+    "providing",
+    "raise",
+    "reject",
+    "seems",
+    "shaping",
+    "staged by",
+    "staged in",
+    "surrounding",
+    "tap into",
+    "using",
+    "was"
+  ]
+}

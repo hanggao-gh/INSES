@@ -1,0 +1,505 @@
+{
+  "entities": [
+    "abilities",
+    "access",
+    "activities",
+    "adaptability",
+    "adversity",
+    "alert",
+    "alive",
+    "attacking",
+    "batteries",
+    "behaviors",
+    "body",
+    "brain",
+    "breathing exercises",
+    "calm",
+    "challenges",
+    "characteristics",
+    "clean water",
+    "communication",
+    "communication system",
+    "confrontations",
+    "contagious",
+    "contaminated food",
+    "contaminated water",
+    "cooperation",
+    "coping mechanisms",
+    "course",
+    "crisis",
+    "dangerous situations",
+    "decisions",
+    "defense",
+    "escape plan",
+    "exercise",
+    "favor",
+    "fear",
+    "fiction",
+    "first aid kit",
+    "flashlight",
+    "focused",
+    "food",
+    "goals",
+    "group",
+    "headshots",
+    "health",
+    "imagination",
+    "individuals",
+    "joy",
+    "knowledge",
+    "laughter",
+    "literature",
+    "luck",
+    "medical supplies",
+    "meditation",
+    "mental resilience",
+    "mindset",
+    "movies",
+    "multi-tool",
+    "non-perishable food",
+    "nutrition",
+    "obstacles",
+    "odds",
+    "open mind",
+    "outbreak",
+    "physically fit",
+    "plan",
+    "planning",
+    "plans",
+    "positive",
+    "power",
+    "preparation",
+    "proactive",
+    "rational",
+    "reliable",
+    "responsibilities",
+    "rest",
+    "risky behaviors",
+    "roles",
+    "safe",
+    "safe location",
+    "safety",
+    "scenario",
+    "shelter",
+    "situation",
+    "skills",
+    "stress",
+    "supplies",
+    "survival",
+    "survival kit",
+    "surviving",
+    "tasks",
+    "teamwork",
+    "trustworthy",
+    "tv shows",
+    "undead",
+    "vigilant",
+    "visibility",
+    "water",
+    "weapons",
+    "zombie apocalypse",
+    "zombie outbreak",
+    "zombies"
+  ],
+  "relations": [
+    [
+      "activities",
+      "bring",
+      "joy"
+    ],
+    [
+      "adaptability",
+      "is key for",
+      "decisions"
+    ],
+    [
+      "alive",
+      "stay",
+      "adaptability"
+    ],
+    [
+      "alive",
+      "stay",
+      "calm"
+    ],
+    [
+      "alive",
+      "stay",
+      "health"
+    ],
+    [
+      "alive",
+      "stay",
+      "knowledge"
+    ],
+    [
+      "alive",
+      "stay",
+      "planning"
+    ],
+    [
+      "alive",
+      "stay",
+      "teamwork"
+    ],
+    [
+      "attacking",
+      "aim for",
+      "brain"
+    ],
+    [
+      "challenges",
+      "face",
+      "mental resilience"
+    ],
+    [
+      "characteristics",
+      "learn about",
+      "behaviors"
+    ],
+    [
+      "clean water",
+      "is",
+      "crisis"
+    ],
+    [
+      "communication",
+      "is key to",
+      "cooperation"
+    ],
+    [
+      "communication",
+      "is key to",
+      "safety"
+    ],
+    [
+      "communication system",
+      "establish with",
+      "group"
+    ],
+    [
+      "confrontations",
+      "avoid",
+      "zombies"
+    ],
+    [
+      "coping mechanisms",
+      "develop for",
+      "fear"
+    ],
+    [
+      "coping mechanisms",
+      "develop for",
+      "stress"
+    ],
+    [
+      "dangerous situations",
+      "stay",
+      "calm"
+    ],
+    [
+      "decisions",
+      "change",
+      "course"
+    ],
+    [
+      "favor",
+      "be in",
+      "luck"
+    ],
+    [
+      "focused",
+      "stay",
+      "group"
+    ],
+    [
+      "goals",
+      "focus on",
+      "adversity"
+    ],
+    [
+      "headshots",
+      "are effective for",
+      "attacking"
+    ],
+    [
+      "health",
+      "requires",
+      "exercise"
+    ],
+    [
+      "health",
+      "requires",
+      "nutrition"
+    ],
+    [
+      "health",
+      "requires",
+      "rest"
+    ],
+    [
+      "imagination",
+      "through",
+      "literature"
+    ],
+    [
+      "imagination",
+      "through",
+      "movies"
+    ],
+    [
+      "imagination",
+      "through",
+      "tv shows"
+    ],
+    [
+      "individuals",
+      "should be",
+      "reliable"
+    ],
+    [
+      "individuals",
+      "should be",
+      "trustworthy"
+    ],
+    [
+      "knowledge",
+      "is",
+      "power"
+    ],
+    [
+      "meditation",
+      "is",
+      "breathing exercises"
+    ],
+    [
+      "mindset",
+      "maintain",
+      "calm"
+    ],
+    [
+      "mindset",
+      "maintain",
+      "rational"
+    ],
+    [
+      "non-perishable food",
+      "is",
+      "crisis"
+    ],
+    [
+      "odds",
+      "be in",
+      "favor"
+    ],
+    [
+      "open mind",
+      "keep",
+      "skills"
+    ],
+    [
+      "physically fit",
+      "is crucial for",
+      "health"
+    ],
+    [
+      "plan",
+      "is important for",
+      "outbreak"
+    ],
+    [
+      "positive",
+      "stay",
+      "goals"
+    ],
+    [
+      "preparation",
+      "is key for",
+      "surviving"
+    ],
+    [
+      "risky behaviors",
+      "avoid",
+      "contaminated food"
+    ],
+    [
+      "risky behaviors",
+      "avoid",
+      "contaminated water"
+    ],
+    [
+      "roles",
+      "assign based on",
+      "abilities"
+    ],
+    [
+      "roles",
+      "assign based on",
+      "skills"
+    ],
+    [
+      "safe",
+      "stay",
+      "alert"
+    ],
+    [
+      "safe location",
+      "consider",
+      "access"
+    ],
+    [
+      "safe location",
+      "consider",
+      "defense"
+    ],
+    [
+      "safe location",
+      "consider",
+      "visibility"
+    ],
+    [
+      "safe location",
+      "develop",
+      "escape plan"
+    ],
+    [
+      "safe location",
+      "is for",
+      "shelter"
+    ],
+    [
+      "safe location",
+      "keep out",
+      "zombies"
+    ],
+    [
+      "safety",
+      "prioritize",
+      "zombies"
+    ],
+    [
+      "scenario",
+      "captured",
+      "imagination"
+    ],
+    [
+      "situation",
+      "stay informed about",
+      "plans"
+    ],
+    [
+      "supplies",
+      "include",
+      "food"
+    ],
+    [
+      "supplies",
+      "include",
+      "medical supplies"
+    ],
+    [
+      "supplies",
+      "include",
+      "water"
+    ],
+    [
+      "supplies",
+      "include",
+      "weapons"
+    ],
+    [
+      "survival",
+      "maximize",
+      "undead"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "batteries"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "first aid kit"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "flashlight"
+    ],
+    [
+      "survival kit",
+      "includes",
+      "multi-tool"
+    ],
+    [
+      "surviving",
+      "requires",
+      "supplies"
+    ],
+    [
+      "tasks",
+      "take on",
+      "obstacles"
+    ],
+    [
+      "teamwork",
+      "is essential for",
+      "survival"
+    ],
+    [
+      "vigilant",
+      "stay",
+      "proactive"
+    ],
+    [
+      "zombie apocalypse",
+      "is a",
+      "scenario"
+    ],
+    [
+      "zombie outbreak",
+      "may seem like",
+      "fiction"
+    ]
+  ],
+  "edges": [
+    "aim for",
+    "are effective for",
+    "assign based on",
+    "avoid",
+    "be in",
+    "bring",
+    "captured",
+    "change",
+    "consider",
+    "develop",
+    "develop for",
+    "establish with",
+    "face",
+    "focus on",
+    "include",
+    "includes",
+    "is",
+    "is a",
+    "is crucial for",
+    "is essential for",
+    "is for",
+    "is important for",
+    "is key for",
+    "is key to",
+    "keep",
+    "keep out",
+    "learn about",
+    "maintain",
+    "maximize",
+    "may seem like",
+    "prioritize",
+    "requires",
+    "should be",
+    "stay",
+    "stay informed about",
+    "take on",
+    "through"
+  ]
+}

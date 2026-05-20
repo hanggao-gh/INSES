@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Storytelling is a form of communication used by humans for centuries.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling conveys emotions and shares experiences.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling passes down knowledge from generation to generation.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling engages the audience through words, images, or sounds.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling can captivate, inspire, and provoke thought.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling creates a connection with the audience.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling makes the audience care about characters and events.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling creates empathy and emotional resonance.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Storytelling uses structure and pacing to build tension.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling has a clear beginning, middle, and end.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling relies on vivid imagery and descriptive language.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling transports the audience to another time and place.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling involves symbolism and metaphor to convey deeper meanings.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling fosters empathy and understanding among people.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Storytelling helps bridge cultural divides and challenge stereotypes.",
+    "retrieved_context": "STORYTELLING One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable. EMOTIONAL RESPONSE. STORYTELLING Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response. HUMAN CULTURE. STORYTELLING Storytelling utilizes narratives to convey its messages and engage the audience. NARRATIVE.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

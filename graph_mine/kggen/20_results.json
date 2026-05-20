@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Board games are a popular form of entertainment and social interaction.",
+    "retrieved_context": "board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. chess spread to persia. chess spread to europe.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Board games have a rich history that spans cultures and civilizations around the world.",
+    "retrieved_context": "board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. chess spread to persia. chess spread to europe.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The origins of board games can be traced back to ancient times.",
+    "retrieved_context": "board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. chess spread to persia. chess spread to europe. scrabble became household names. scrabble captivated with gameplay mechanics. scrabble captivated with themes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Senet is one of the earliest known board games, dating back to around 3100 BC.",
+    "retrieved_context": "board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. journey of the soul. senet is a game of chance. senet had religious significance. senet is a game of strategy. journey through the afterlife. senet is egyptian. senet represented journey. chess spread to persia. chess spread to europe. 19th century saw industrial revolution. industrial revolution led to mass production.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Senet was a game of chance and strategy played on a grid of 30 squares.",
+    "retrieved_context": "journey of the soul. senet is a game of chance. senet had religious significance. senet is a game of strategy. journey through the afterlife. senet is egyptian. senet represented journey. board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. chess spread to persia. chess spread to europe. royal game of ur indicated status. royal game of ur was played in mesopotamia. royal game of ur was played by sumerians. royal game of ur indicated importance. royal game of ur was a game of elite.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Royal Game of Ur was played by the Sumerians around 2600 BC.",
+    "retrieved_context": "royal game of ur indicated status. royal game of ur was played in mesopotamia. royal game of ur was played by sumerians. royal game of ur indicated importance. royal game of ur was a game of elite. board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Royal Game of Ur was found in royal tombs, indicating its importance.",
+    "retrieved_context": "royal game of ur indicated status. royal game of ur was played in mesopotamia. royal game of ur was played by sumerians. royal game of ur indicated importance. royal game of ur was a game of elite. board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. chess spread to persia. chess spread to europe.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Go and Xiangqi are ancient Chinese board games dating back thousands of years.",
+    "retrieved_context": "xiangqi is from china. board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. chess spread to persia. chess spread to europe. royal game of ur indicated status. royal game of ur was played in mesopotamia. royal game of ur was played by sumerians. royal game of ur indicated importance. royal game of ur was a game of elite.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Go is considered one of the oldest board games still played today.",
+    "retrieved_context": "board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. chess spread to persia. chess spread to europe. royal game of ur indicated status. royal game of ur was played in mesopotamia. royal game of ur was played by sumerians. royal game of ur indicated importance. royal game of ur was a game of elite.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Chaturanga was the ancient Indian precursor to modern-day chess.",
+    "retrieved_context": "chess spread to persia. chaturanga is from india. chess spread to europe. chaturanga is precursor to chess. chess spread to persia. chess spread to europe. board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Backgammon originated in Persia and spread throughout the Middle East and Europe.",
+    "retrieved_context": "backgammon is from medieval. backgammon is a game of skill. backgammon is a game of luck.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Checkers and Tric-Trac emerged as popular board games during the Renaissance period.",
+    "retrieved_context": "board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. tric-trac emphasized calculation. tric-trac emerged in renaissance. checkers was played by nobility. checkers symbolized struggle. checkers symbolized opposing forces. checkers emerged in renaissance. checkers was played by commoners. chess spread to persia. chess spread to europe.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution led to the mass production of board games in the 19th and 20th centuries.",
+    "retrieved_context": "board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. mass production made possible by printing technology. industrial revolution led to mass production. 19th century saw industrial revolution. industrial revolution led to mass production. mass production made possible by printing technology. chess spread to persia. chess spread to europe.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Monopoly, Scrabble, and Clue became household names in the 20th century.",
+    "retrieved_context": "scrabble became household names. scrabble captivated with gameplay mechanics. scrabble captivated with themes. monopoly captivated with themes. monopoly captivated with gameplay mechanics. monopoly became household names. 19th century saw industrial revolution. industrial revolution led to mass production. board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. clue became household names. clue captivated with gameplay mechanics. clue captivated with themes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Board games continue to thrive in the digital age, driven by a new generation of designers and enthusiasts.",
+    "retrieved_context": "board games have history. board games will continue to innovate. board games served as strategic thinking. board games thrive in digital age. board games origins traced to ancient. board games have been entertainment. board games served as education. board games will continue to evolve. board games served as leisure. board games have been social interaction. digital age driven by resurgence. board games remain beloved pastime. resurgence driven by enthusiasts. resurgence driven by popularity. resurgence created community. resurgence driven by online platforms. resurgence driven by designers. digital age driven by resurgence. resurgence driven by board game conventions. resurgence driven by tabletop gaming cafes. chess spread to persia. chess spread to europe.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

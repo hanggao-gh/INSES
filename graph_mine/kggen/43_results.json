@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "A zombie apocalypse is a terrifying scenario.",
+    "retrieved_context": "zombie apocalypse is a scenario. scenario captured imagination. zombie outbreak may seem like fiction. survival maximize undead. dangerous situations stay calm.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "A zombie outbreak is often portrayed in movies, TV shows, and literature.",
+    "retrieved_context": "zombie outbreak may seem like fiction. zombie apocalypse is a scenario. scenario captured imagination.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Preparation is key to surviving a zombie apocalypse.",
+    "retrieved_context": "zombie apocalypse is a scenario. scenario captured imagination. zombie outbreak may seem like fiction. survival maximize undead. supplies include food. supplies include weapons. surviving requires supplies. supplies include medical supplies. supplies include water. preparation is key for surviving. surviving requires supplies. survival kit includes multi-tool. survival kit includes flashlight. survival kit includes batteries. survival kit includes first aid kit.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Stocking up on essential supplies like food, water, medical supplies, and weapons is crucial.",
+    "retrieved_context": "supplies include medical supplies. supplies include water. supplies include food. supplies include weapons. survival kit includes multi-tool. survival kit includes flashlight. survival kit includes batteries. survival kit includes first aid kit. non-perishable food is crisis.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Having a well-equipped survival kit is important.",
+    "retrieved_context": "survival kit includes multi-tool. survival kit includes flashlight. survival kit includes batteries. survival kit includes first aid kit. survival maximize undead. supplies include food. supplies include weapons. surviving requires supplies. supplies include medical supplies. supplies include water. safety prioritize zombies. supplies include medical supplies. supplies include water. supplies include food. supplies include weapons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A reliable source of clean water and non-perishable food is essential.",
+    "retrieved_context": "non-perishable food is crisis. clean water is crisis. preparation is key for surviving. surviving requires supplies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Identifying a safe location for shelter is important.",
+    "retrieved_context": "safe location consider access. safe location develop escape plan. safe location keep out zombies. safe location is for shelter. safe location consider defense. safe location consider visibility. safety prioritize zombies. dangerous situations stay calm. survival kit includes multi-tool. survival kit includes flashlight. survival kit includes batteries. survival kit includes first aid kit. survival maximize undead. risky behaviors avoid contaminated water. risky behaviors avoid contaminated food. safe stay alert.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fortifying the safe location to keep zombies out is crucial.",
+    "retrieved_context": "zombie apocalypse is a scenario. scenario captured imagination. safe location consider access. safe location develop escape plan. safe location keep out zombies. safe location is for shelter. safe location consider defense. safe location consider visibility. zombie outbreak may seem like fiction. safety prioritize zombies. survival maximize undead.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Teamwork is essential for survival in a zombie apocalypse.",
+    "retrieved_context": "teamwork is essential for survival. survival maximize undead. zombie apocalypse is a scenario. scenario captured imagination. zombie outbreak may seem like fiction. survival maximize undead. supplies include food. supplies include weapons. surviving requires supplies. supplies include medical supplies. supplies include water.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Assigning roles and responsibilities based on skills and abilities is important for group survival.",
+    "retrieved_context": "roles assign based on abilities. roles assign based on skills. survival maximize undead. supplies include food. supplies include weapons. surviving requires supplies. supplies include medical supplies. supplies include water. survival kit includes multi-tool. survival kit includes flashlight. survival kit includes batteries. survival kit includes first aid kit. teamwork is essential for survival. survival maximize undead.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Knowledge about zombies' characteristics and behaviors is crucial.",
+    "retrieved_context": "zombie apocalypse is a scenario. scenario captured imagination. zombie outbreak may seem like fiction. knowledge is power. risky behaviors avoid contaminated water. risky behaviors avoid contaminated food. characteristics learn about behaviors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Aiming for headshots when attacking zombies is effective.",
+    "retrieved_context": "attacking aim for brain. headshots are effective for attacking. attacking aim for brain. zombie apocalypse is a scenario. scenario captured imagination. zombie outbreak may seem like fiction. focused stay group.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Staying physically fit and maintaining good health is crucial.",
+    "retrieved_context": "health requires exercise. health requires rest. physically fit is crucial for health. health requires nutrition. health requires rest. health requires exercise. health requires nutrition. supplies include food. supplies include weapons. surviving requires supplies. supplies include medical supplies. supplies include water. survival maximize undead. coping mechanisms develop for stress. coping mechanisms develop for fear.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mental resilience is important for surviving a zombie apocalypse.",
+    "retrieved_context": "zombie apocalypse is a scenario. scenario captured imagination. survival maximize undead. supplies include food. supplies include weapons. surviving requires supplies. supplies include medical supplies. supplies include water. zombie outbreak may seem like fiction. coping mechanisms develop for stress. coping mechanisms develop for fear. survival kit includes multi-tool. survival kit includes flashlight. survival kit includes batteries. survival kit includes first aid kit.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Adaptability is key to increasing chances of survival during a zombie apocalypse.",
+    "retrieved_context": "decisions change course. adaptability is key for decisions. zombie apocalypse is a scenario. scenario captured imagination. zombie outbreak may seem like fiction. survival maximize undead. supplies include food. supplies include weapons. surviving requires supplies. supplies include medical supplies. supplies include water. survival kit includes multi-tool. survival kit includes flashlight. survival kit includes batteries. survival kit includes first aid kit.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

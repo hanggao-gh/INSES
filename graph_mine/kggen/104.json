@@ -1,0 +1,446 @@
+{
+  "entities": [
+    "actions",
+    "belonging",
+    "benefits",
+    "bonds",
+    "causes",
+    "challenges",
+    "change",
+    "citizenry",
+    "civic engagement",
+    "commitment",
+    "communities",
+    "community",
+    "compassionate",
+    "component",
+    "conclusion",
+    "connections",
+    "detect",
+    "development",
+    "difference",
+    "disabilities",
+    "disaster relief",
+    "education",
+    "elderly",
+    "environmental conservation",
+    "experience",
+    "friendships",
+    "fulfillment",
+    "goal",
+    "good",
+    "groups",
+    "growth",
+    "healthcare",
+    "homeless",
+    "impact",
+    "importance",
+    "inclusive",
+    "individuals",
+    "initiatives",
+    "interests",
+    "issues",
+    "mental health",
+    "needs",
+    "organizations",
+    "passions",
+    "personal benefits",
+    "place",
+    "populations",
+    "prey",
+    "projects",
+    "purpose",
+    "relationships",
+    "resources",
+    "role",
+    "self-discovery",
+    "self-esteem",
+    "services",
+    "sharks",
+    "skill set",
+    "skills",
+    "social justice",
+    "social responsibility",
+    "society",
+    "support",
+    "time",
+    "unity",
+    "values",
+    "volunteerism",
+    "volunteers",
+    "well-being",
+    "world"
+  ],
+  "relations": [
+    [
+      "community",
+      "promotes",
+      "unity"
+    ],
+    [
+      "community",
+      "strengthens",
+      "bonds"
+    ],
+    [
+      "individuals",
+      "build",
+      "relationships"
+    ],
+    [
+      "individuals",
+      "come together to work towards",
+      "goal"
+    ],
+    [
+      "individuals",
+      "contribute to",
+      "well-being"
+    ],
+    [
+      "individuals",
+      "develop",
+      "belonging"
+    ],
+    [
+      "individuals",
+      "expand",
+      "skill set"
+    ],
+    [
+      "individuals",
+      "explore",
+      "interests"
+    ],
+    [
+      "individuals",
+      "explore",
+      "passions"
+    ],
+    [
+      "individuals",
+      "forge",
+      "connections"
+    ],
+    [
+      "individuals",
+      "form",
+      "friendships"
+    ],
+    [
+      "individuals",
+      "gain",
+      "experience"
+    ],
+    [
+      "individuals",
+      "inspire",
+      "actions"
+    ],
+    [
+      "individuals",
+      "make a difference in",
+      "world"
+    ],
+    [
+      "individuals",
+      "share",
+      "interests"
+    ],
+    [
+      "individuals",
+      "share",
+      "values"
+    ],
+    [
+      "individuals",
+      "take an active role in",
+      "issues"
+    ],
+    [
+      "volunteerism",
+      "addresses",
+      "needs"
+    ],
+    [
+      "volunteerism",
+      "boosts",
+      "self-esteem"
+    ],
+    [
+      "volunteerism",
+      "creates",
+      "community"
+    ],
+    [
+      "volunteerism",
+      "enhances",
+      "well-being"
+    ],
+    [
+      "volunteerism",
+      "fosters",
+      "community"
+    ],
+    [
+      "volunteerism",
+      "has",
+      "personal benefits"
+    ],
+    [
+      "volunteerism",
+      "improves",
+      "mental health"
+    ],
+    [
+      "volunteerism",
+      "is a vital component of",
+      "society"
+    ],
+    [
+      "volunteerism",
+      "is an essential aspect of",
+      "civic engagement"
+    ],
+    [
+      "volunteerism",
+      "is an essential aspect of",
+      "social responsibility"
+    ],
+    [
+      "volunteerism",
+      "plays a crucial role in",
+      "society"
+    ],
+    [
+      "volunteerism",
+      "promotes",
+      "social responsibility"
+    ],
+    [
+      "volunteerism",
+      "provides",
+      "fulfillment"
+    ],
+    [
+      "volunteerism",
+      "provides",
+      "purpose"
+    ],
+    [
+      "volunteerism",
+      "provides opportunities for",
+      "development"
+    ],
+    [
+      "volunteerism",
+      "provides opportunities for",
+      "growth"
+    ],
+    [
+      "volunteerism",
+      "provides opportunities for",
+      "self-discovery"
+    ],
+    [
+      "volunteers",
+      "address",
+      "challenges"
+    ],
+    [
+      "volunteers",
+      "benefit",
+      "good"
+    ],
+    [
+      "volunteers",
+      "contribute to",
+      "change"
+    ],
+    [
+      "volunteers",
+      "contribute to",
+      "disaster relief"
+    ],
+    [
+      "volunteers",
+      "contribute to",
+      "initiatives"
+    ],
+    [
+      "volunteers",
+      "contribute to",
+      "projects"
+    ],
+    [
+      "volunteers",
+      "create",
+      "change"
+    ],
+    [
+      "volunteers",
+      "create",
+      "society"
+    ],
+    [
+      "volunteers",
+      "dedicate",
+      "resources"
+    ],
+    [
+      "volunteers",
+      "dedicate",
+      "skills"
+    ],
+    [
+      "volunteers",
+      "dedicate",
+      "time"
+    ],
+    [
+      "volunteers",
+      "demonstrate",
+      "commitment"
+    ],
+    [
+      "volunteers",
+      "help to build",
+      "compassionate"
+    ],
+    [
+      "volunteers",
+      "help to build",
+      "inclusive"
+    ],
+    [
+      "volunteers",
+      "inspire",
+      "actions"
+    ],
+    [
+      "volunteers",
+      "lead to",
+      "citizenry"
+    ],
+    [
+      "volunteers",
+      "make",
+      "place"
+    ],
+    [
+      "volunteers",
+      "make a positive impact on",
+      "communities"
+    ],
+    [
+      "volunteers",
+      "make a positive impact on",
+      "individuals"
+    ],
+    [
+      "volunteers",
+      "make a positive impact on",
+      "world"
+    ],
+    [
+      "volunteers",
+      "provide",
+      "services"
+    ],
+    [
+      "volunteers",
+      "provide",
+      "support"
+    ],
+    [
+      "volunteers",
+      "support",
+      "causes"
+    ],
+    [
+      "volunteers",
+      "support",
+      "disabilities"
+    ],
+    [
+      "volunteers",
+      "support",
+      "education"
+    ],
+    [
+      "volunteers",
+      "support",
+      "elderly"
+    ],
+    [
+      "volunteers",
+      "support",
+      "environmental conservation"
+    ],
+    [
+      "volunteers",
+      "support",
+      "healthcare"
+    ],
+    [
+      "volunteers",
+      "support",
+      "homeless"
+    ],
+    [
+      "volunteers",
+      "support",
+      "organizations"
+    ],
+    [
+      "volunteers",
+      "support",
+      "populations"
+    ],
+    [
+      "volunteers",
+      "support",
+      "social justice"
+    ]
+  ],
+  "edges": [
+    "address",
+    "addresses",
+    "benefit",
+    "boosts",
+    "build",
+    "come together to work towards",
+    "contribute to",
+    "create",
+    "creates",
+    "dedicate",
+    "demonstrate",
+    "develop",
+    "enhances",
+    "expand",
+    "explore",
+    "forge",
+    "form",
+    "fosters",
+    "gain",
+    "has",
+    "help to build",
+    "improves",
+    "inspire",
+    "is a vital component of",
+    "is an essential aspect of",
+    "lead to",
+    "make",
+    "make a difference in",
+    "make a positive impact on",
+    "plays a crucial role in",
+    "promotes",
+    "provide",
+    "provides",
+    "provides opportunities for",
+    "share",
+    "strengthens",
+    "support",
+    "take an active role in"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bread is a staple food in many cultures.",
+    "retrieved_context": "bread is In conclusion blend of art. bread is blend In conclusion. bread is fascinating blend of art. bread has good crumb structure. bread is blend. bread is fascinating blend. bread is In conclusion fascinating blend of art. bread has crumb structure. fascinating blend is In conclusion. bread is complex involves. many artisanal breads require fermentation time. fermentation time develop their flavor potential. long fermentation time develop their full flavor potential. fermentation time develop their full flavor potential. many artisanal breads require long fermentation time. long fermentation time develop their flavor potential. many artisanal breads require sometimes up to 24 hours. many artisanal breads require sometimes up to 24 hours more. long fermentation time develop their full flavor potential. fermentation time develop their flavor potential. fermentation time develop their full flavor potential. artisanal breads require sometimes up to 24 hours more. artisanal breads require long fermentation time. long fermentation time develop their flavor potential. artisanal breads require sometimes up to 24 hours. artisanal breads require fermentation time.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Baking bread is both an art and a science.",
+    "retrieved_context": "baking bread is fascinating blend. baking bread is In conclusion blend of art. baking bread is blend. baking bread is blend In conclusion. baking bread is fascinating blend of art. baking bread is In conclusion fascinating blend of art. fascinating blend is In conclusion. Baking bread is chemical process. Baking bread is complex chemical process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bread is made from flour, water, yeast, and salt.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yeast plays a key role in the fermentation process of bread.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yeast feeds on sugars in flour, producing carbon dioxide gas.",
+    "retrieved_context": "process is important. process is also important. Yeast plays role in process. role is in baking process. Yeast plays key role. Yeast plays role. yeast is When combined. yeast become more active. yeast is When combined with water. yeast become active. yeast is combined. yeast is combined with water.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Carbon dioxide gas causes the dough to rise.",
+    "retrieved_context": "dough is allowed. dough is placed in oven. oven temperature of are factors in baking process. dough has Once has mixed. oven create burst while needed. oven is necessary. dough is When placed in oven. dough has has mixed. oven temperature of are important factors in baking process. oven create burst. oven temperature of are also important factors. oven create burst needed. oven temperature of are factors. oven temperature of are also factors. oven create initial burst of heat. oven temperature of are also important factors in baking process. oven create initial burst. dough allowed to ferment. oven create burst of heat. dough is When placed. dough allowed ferment. dough is placed. oven temperature of are also factors in baking process. oven temperature of are important factors.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fermentation process produces alcohol, contributing to bread flavor.",
+    "retrieved_context": "fermentation process also produces alcohol.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Longer fermentation time leads to more complex flavor in bread.",
+    "retrieved_context": "long fermentation time develop their full flavor potential. long fermentation time develop their flavor potential.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Flour contains proteins called gluten, giving bread structure.",
+    "retrieved_context": "proteins react at high temperatures. proteins react at temperatures. proteins is in dough. Flour is made up of proteins. flour is When mixed. flour is mixed with water. flour is mixed. flour is When mixed with water. gluten proteins form network. gluten proteins form network allowing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gluten network traps carbon dioxide gas, allowing dough to rise.",
+    "retrieved_context": "dough has Once has mixed. dough is allowed. dough allowed ferment. dough is When placed in oven. dough has has mixed. gluten is in dough. dough allowed to ferment. dough is placed. dough is When placed. dough is placed in oven. dough is allowed. dough is placed in oven. oven temperature of are factors in baking process. dough has Once has mixed. oven create burst while needed. oven is necessary. dough is When placed in oven. dough has has mixed. oven temperature of are important factors in baking process. oven create burst. oven temperature of are also important factors. oven create burst needed. oven temperature of are factors. oven temperature of are also factors. oven create initial burst of heat. oven temperature of are also important factors in baking process. oven create initial burst. dough allowed to ferment. oven create burst of heat. dough is When placed. dough allowed ferment. dough is placed. oven temperature of are also factors in baking process. oven temperature of are important factors. gluten proteins form network. gluten proteins form network allowing.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Kneading strengthens gluten strands, giving bread structure.",
+    "retrieved_context": "Proper kneading is crucial for ensuring. Proper kneading is crucial. Kneading stretches giving bread. bread is In conclusion blend of art. bread is blend In conclusion. bread is fascinating blend of art. bread has good crumb structure. bread is blend. bread is fascinating blend. bread is In conclusion fascinating blend of art. Kneading stretches giving its structure. bread has crumb structure. bread is complex involves. kneading process is also important. kneading process is important. bread is In conclusion blend of art. bread is blend In conclusion. bread is fascinating blend of art. bread has good crumb structure. bread is blend. bread is fascinating blend. bread is In conclusion fascinating blend of art. bread has crumb structure. fascinating blend is In conclusion. bread is complex involves. dough has Once has mixed. dough is allowed. dough allowed ferment. dough is When placed in oven. dough has has mixed. gluten is in dough. dough allowed to ferment. dough is placed. dough is When placed. dough is placed in oven.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Proper kneading is crucial for bread to rise properly.",
+    "retrieved_context": "Proper kneading is crucial for ensuring. Proper kneading is crucial. bread is In conclusion blend of art. bread is blend In conclusion. bread is fascinating blend of art. bread has good crumb structure. bread is blend. bread is fascinating blend. bread is In conclusion fascinating blend of art. bread has crumb structure. fascinating blend is In conclusion. bread is complex involves. baking bread is fascinating blend. baking bread is In conclusion blend of art. baking bread is blend. baking bread is blend In conclusion. baking bread is fascinating blend of art. baking bread is In conclusion fascinating blend of art. fascinating blend is In conclusion. Baking bread is chemical process. Baking bread is complex chemical process. kneading process is also important. kneading process is important.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Baking bread involves the interaction of heat with dough ingredients.",
+    "retrieved_context": "baking bread is fascinating blend. baking bread is In conclusion blend of art. baking bread is blend. baking bread is blend In conclusion. baking bread is fascinating blend of art. baking bread is In conclusion fascinating blend of art. fascinating blend is In conclusion. Baking bread is chemical process. Baking bread is complex chemical process.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Heat in the oven causes yeast to become more active.",
+    "retrieved_context": "process is important. process is also important. Yeast plays role in process. role is in baking process. Yeast plays key role. Yeast plays role. yeast is When combined. yeast become more active. yeast is When combined with water. yeast become active. yeast is combined. yeast is combined with water.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Maillard reaction is responsible for browning the crust.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

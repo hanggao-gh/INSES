@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fashion trends reflect the values, beliefs, and attitudes of different eras.",
+    "retrieved_context": "fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fashion has been influenced by culture, technology, politics, and economics.",
+    "retrieved_context": "fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clothing in ancient civilizations symbolized status and identity.",
+    "retrieved_context": "clothing was a symbol of status. clothing was a symbol of identity. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Wealthy individuals in ancient times wore elaborate garments made from luxurious fabrics.",
+    "retrieved_context": "wealthy wore embroidery. wealthy wore jewelry. wealthy wore garments. wealthy wore fabrics. clothing was a symbol of status. clothing was a symbol of identity. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Common people in ancient times wore simpler clothing made from materials like linen and wool.",
+    "retrieved_context": "clothing was a symbol of status. clothing was a symbol of identity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fashion trends in the Middle Ages were influenced by religion and social hierarchy.",
+    "retrieved_context": "middle ages influenced by social hierarchy. middle ages influenced by religion. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nobles and royalty in the Middle Ages wore garments made from expensive fabrics like silk and velvet.",
+    "retrieved_context": "middle ages influenced by social hierarchy. middle ages influenced by religion. nobles wore silk. nobles wore velvet. clothing was a symbol of status. clothing was a symbol of identity. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Peasants in the Middle Ages wore humble clothing made from rougher materials.",
+    "retrieved_context": "middle ages influenced by social hierarchy. middle ages influenced by religion. nobles wore silk. nobles wore velvet. clothing was a symbol of status. clothing was a symbol of identity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Renaissance period saw a resurgence of interest in art, culture, and fashion.",
+    "retrieved_context": "fashion influenced by political movements. fashion influenced by cultural movements. renaissance saw interest in fashion. renaissance saw interest in art. fashion is social commentary. fashion play a role in society. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. renaissance saw interest in culture. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. industrial revolution changed fashion industry. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing. 20th century saw changes in trends.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought about mass production of ready-to-wear clothing.",
+    "retrieved_context": "industrial revolution changed fashion industry. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing. mass production allowed ready-to-wear. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Department stores and fashion magazines democratized fashion in the 18th and 19th centuries.",
+    "retrieved_context": "fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. department stores democratized fashion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Roaring Twenties marked a shift towards more relaxed and liberating clothing styles.",
+    "retrieved_context": "roaring twenties influenced clothing styles. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing. 20th century saw changes in trends. youth culture influenced bell-bottoms. youth culture influenced trends. youth culture influenced psychedelic prints. youth culture influenced mini skirts. audrey hepburn popularized bodices. audrey hepburn popularized sunglasses. 1950s saw rise of audrey hepburn. audrey hepburn popularized skirts. 1950s saw rise of marilyn monroe. audrey hepburn popularized feminine. audrey hepburn popularized elegant.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Great Depression of the 1930s led to a more conservative approach to fashion.",
+    "retrieved_context": "roaring twenties influenced clothing styles. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing. great depression led to economic hardships. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. 20th century saw changes in trends.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The post-World War II era saw a resurgence of glamour and luxury in fashion.",
+    "retrieved_context": "sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. post-world war ii brought glamour. post-world war ii brought luxury. post-world war ii brought optimism. post-world war ii brought prosperity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The 1950s saw the rise of iconic fashion figures like Audrey Hepburn and Marilyn Monroe.",
+    "retrieved_context": "audrey hepburn popularized bodices. audrey hepburn popularized sunglasses. 1950s saw rise of audrey hepburn. audrey hepburn popularized skirts. 1950s saw rise of marilyn monroe. audrey hepburn popularized feminine. audrey hepburn popularized elegant. audrey hepburn popularized bodices. audrey hepburn popularized sunglasses. audrey hepburn popularized skirts. audrey hepburn popularized feminine. audrey hepburn popularized elegant. fashion influenced by political movements. fashion influenced by cultural movements. fashion play a role in society. fashion is social commentary. fashion reflect beliefs. fashion is cultural identity. fashion is self-expression. fashion evolved throughout history. fashion reflect values. fashion influenced by social movements. fashion will adaptation. fashion influenced by culture. fashion reflect attitudes. fashion influenced by economic hardships. 1960s characterized by rebellion. 1960s characterized by experimentation. sustainable fashion includes recycling. sustainable fashion includes upcycling. sustainable fashion addresses environmental impact. sustainable fashion includes ethical sourcing.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

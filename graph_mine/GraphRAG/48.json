@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "NUTRIENT CYCLING",
+    "BIRDS",
+    "PLANTS",
+    "HUMMINGBIRDS",
+    "SEED DISPERSAL",
+    "ECOSYSTEMS",
+    "PEST CONTROL",
+    "SUNBIRDS"
+  ],
+  "relations": [
+    [
+      "BIRDS",
+      "Birds contribute to the functioning and stability of ecosystems through various ecological roles",
+      "ECOSYSTEMS"
+    ],
+    [
+      "BIRDS",
+      "Birds facilitate seed dispersal by consuming fruits and excreting seeds in different locations, aiding in plant reproduction and biodiversity",
+      "SEED DISPERSAL"
+    ],
+    [
+      "BIRDS",
+      "Birds act as natural pest control agents by preying on insects, helping to maintain balanced insect populations and reduce the need for chemical pesticides",
+      "PEST CONTROL"
+    ],
+    [
+      "BIRDS",
+      "Birds, particularly seabirds, contribute to nutrient cycling by depositing nutrients from marine environments onto land and redistributing them through their droppings",
+      "NUTRIENT CYCLING"
+    ],
+    [
+      "BIRDS",
+      "Hummingbirds are a subset of birds that contribute to pollination and ecosystem health",
+      "HUMMINGBIRDS"
+    ],
+    [
+      "BIRDS",
+      "Sunbirds are a subset of birds that contribute to pollination and ecosystem health",
+      "SUNBIRDS"
+    ],
+    [
+      "BIRDS",
+      "Birds, through their role in pollination and seed dispersal, are essential for the survival and propagation of many plant species",
+      "PLANTS"
+    ],
+    [
+      "HUMMINGBIRDS",
+      "Hummingbirds facilitate the reproduction of plants by transferring pollen, contributing to the ecosystem's biodiversity",
+      "PLANTS"
+    ],
+    [
+      "SUNBIRDS",
+      "Sunbirds, by feeding on nectar, play a crucial role in the pollination process of certain plant species, aiding their reproduction",
+      "PLANTS"
+    ]
+  ],
+  "edges": [
+    "Birds contribute to the functioning and stability of ecosystems through various ecological roles",
+    "Birds facilitate seed dispersal by consuming fruits and excreting seeds in different locations, aiding in plant reproduction and biodiversity",
+    "Birds act as natural pest control agents by preying on insects, helping to maintain balanced insect populations and reduce the need for chemical pesticides",
+    "Birds, particularly seabirds, contribute to nutrient cycling by depositing nutrients from marine environments onto land and redistributing them through their droppings",
+    "Hummingbirds are a subset of birds that contribute to pollination and ecosystem health",
+    "Sunbirds are a subset of birds that contribute to pollination and ecosystem health",
+    "Birds, through their role in pollination and seed dispersal, are essential for the survival and propagation of many plant species",
+    "Hummingbirds facilitate the reproduction of plants by transferring pollen, contributing to the ecosystem's biodiversity",
+    "Sunbirds, by feeding on nectar, play a crucial role in the pollination process of certain plant species, aiding their reproduction"
+  ]
+}

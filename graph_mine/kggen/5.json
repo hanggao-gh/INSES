@@ -1,0 +1,687 @@
+{
+  "entities": [
+    "16-bit graphics",
+    "1950s",
+    "1960s",
+    "1962",
+    "1970s",
+    "1980s",
+    "1990s",
+    "3d graphics",
+    "8-bit",
+    "addictive",
+    "advancements",
+    "ages",
+    "ai",
+    "ar",
+    "ar games",
+    "arcade gaming",
+    "artificial intelligence",
+    "atari 2600",
+    "augmented reality",
+    "benchmark",
+    "black-and-white games",
+    "blockchain technology",
+    "blurred",
+    "boundaries",
+    "bright",
+    "butterfly",
+    "call of duty",
+    "cd-rom technology",
+    "changing consumer preferences",
+    "cloud gaming",
+    "collaboration",
+    "colorful",
+    "compete",
+    "complex",
+    "computer scientists",
+    "concepts",
+    "connect",
+    "console",
+    "creativity",
+    "cultural phenomena",
+    "design",
+    "detailed",
+    "development",
+    "developments",
+    "diablo",
+    "doom",
+    "early 2000s",
+    "early days",
+    "electronic games",
+    "emergence",
+    "engage",
+    "engineers",
+    "essay",
+    "evolution",
+    "evolved",
+    "exciting experiences",
+    "experimenting",
+    "explore",
+    "extraordinary",
+    "final fantasy vii",
+    "foundation",
+    "franchises",
+    "future",
+    "future game development",
+    "game worlds",
+    "gameplay",
+    "gameplay mechanics",
+    "gaming",
+    "gaming communities",
+    "golden age",
+    "graphics",
+    "groundbreaking games",
+    "grown",
+    "half-life",
+    "halo",
+    "history",
+    "home gaming consoles",
+    "iconic games",
+    "imagination",
+    "immersive",
+    "immersive experience",
+    "immersive worlds",
+    "impact",
+    "inception",
+    "industry",
+    "innovation",
+    "instant classics",
+    "interactive",
+    "interactive storytelling experiences",
+    "interconnected",
+    "key milestones",
+    "life cycle",
+    "lifelike",
+    "line",
+    "living rooms",
+    "machine learning",
+    "massachusetts institute of technology",
+    "mid-20th century",
+    "milestone",
+    "mit",
+    "multiplayer gameplay",
+    "oculus rift",
+    "online gaming",
+    "online multiplayer gaming",
+    "opportunities",
+    "pc gaming",
+    "physical worlds",
+    "pixelated",
+    "platforms",
+    "players",
+    "playstation network",
+    "playstation vr",
+    "pok\u00e9mon go",
+    "popularity",
+    "push",
+    "quake",
+    "real-time action",
+    "realistic",
+    "recent years",
+    "remarkable journey",
+    "response",
+    "revolutionize",
+    "rise",
+    "simple",
+    "social interaction",
+    "sophisticated",
+    "spacewar!",
+    "standard",
+    "starcraft",
+    "storytelling",
+    "storytelling elements",
+    "success",
+    "super mario bros.",
+    "surge",
+    "synonymous",
+    "technological advancements",
+    "technology",
+    "tetris",
+    "the legend of zelda",
+    "video games",
+    "virtual",
+    "virtual reality",
+    "virtual worlds",
+    "visual aesthetics",
+    "vr",
+    "vr headsets",
+    "world of warcraft",
+    "worlds",
+    "xbox live"
+  ],
+  "relations": [
+    [
+      "1970s",
+      "saw",
+      "arcade gaming"
+    ],
+    [
+      "1980s",
+      "marked",
+      "golden age"
+    ],
+    [
+      "1990s",
+      "saw",
+      "emergence"
+    ],
+    [
+      "8-bit",
+      "and",
+      "16-bit graphics"
+    ],
+    [
+      "advancements",
+      "in",
+      "technology"
+    ],
+    [
+      "ar games",
+      "like",
+      "pok\u00e9mon go"
+    ],
+    [
+      "arcade gaming",
+      "became",
+      "cultural phenomena"
+    ],
+    [
+      "atari 2600",
+      "brought",
+      "living rooms"
+    ],
+    [
+      "benchmark",
+      "set",
+      "popularity"
+    ],
+    [
+      "blockchain technology",
+      "poised to",
+      "revolutionize"
+    ],
+    [
+      "boundaries",
+      "pushed",
+      "gameplay"
+    ],
+    [
+      "boundaries",
+      "pushed",
+      "graphics"
+    ],
+    [
+      "boundaries",
+      "pushed",
+      "storytelling"
+    ],
+    [
+      "call of duty",
+      "became",
+      "synonymous"
+    ],
+    [
+      "collaboration",
+      "in",
+      "gaming communities"
+    ],
+    [
+      "complex",
+      "immersive worlds",
+      "grown"
+    ],
+    [
+      "computer scientists",
+      "began",
+      "experimenting"
+    ],
+    [
+      "concepts",
+      "such as",
+      "multiplayer gameplay"
+    ],
+    [
+      "concepts",
+      "such as",
+      "real-time action"
+    ],
+    [
+      "connect",
+      "and",
+      "compete"
+    ],
+    [
+      "creativity",
+      "and",
+      "innovation"
+    ],
+    [
+      "design",
+      "but",
+      "addictive"
+    ],
+    [
+      "detailed",
+      "and",
+      "colorful"
+    ],
+    [
+      "developments",
+      "in",
+      "artificial intelligence"
+    ],
+    [
+      "developments",
+      "in",
+      "blockchain technology"
+    ],
+    [
+      "developments",
+      "in",
+      "machine learning"
+    ],
+    [
+      "diablo",
+      "became",
+      "instant classics"
+    ],
+    [
+      "early 2000s",
+      "saw",
+      "online gaming"
+    ],
+    [
+      "early days",
+      "of",
+      "arcade gaming"
+    ],
+    [
+      "emergence",
+      "of",
+      "3d graphics"
+    ],
+    [
+      "emergence",
+      "of",
+      "cd-rom technology"
+    ],
+    [
+      "engage",
+      "with",
+      "franchises"
+    ],
+    [
+      "engineers",
+      "began",
+      "experimenting"
+    ],
+    [
+      "essay",
+      "will explore",
+      "key milestones"
+    ],
+    [
+      "exciting experiences",
+      "for",
+      "players"
+    ],
+    [
+      "foundation",
+      "for",
+      "future"
+    ],
+    [
+      "future",
+      "looks",
+      "bright"
+    ],
+    [
+      "future",
+      "of",
+      "gaming"
+    ],
+    [
+      "game worlds",
+      "enhancing",
+      "immersive experience"
+    ],
+    [
+      "gameplay mechanics",
+      "introduced",
+      "storytelling elements"
+    ],
+    [
+      "golden age",
+      "of",
+      "iconic games"
+    ],
+    [
+      "groundbreaking games",
+      "like",
+      "doom"
+    ],
+    [
+      "groundbreaking games",
+      "like",
+      "final fantasy vii"
+    ],
+    [
+      "groundbreaking games",
+      "like",
+      "quake"
+    ],
+    [
+      "grown",
+      "and",
+      "evolved"
+    ],
+    [
+      "halo",
+      "became",
+      "synonymous"
+    ],
+    [
+      "history",
+      "traced back to",
+      "1950s"
+    ],
+    [
+      "history",
+      "traced back to",
+      "1960s"
+    ],
+    [
+      "iconic games",
+      "like",
+      "super mario bros."
+    ],
+    [
+      "iconic games",
+      "like",
+      "tetris"
+    ],
+    [
+      "iconic games",
+      "like",
+      "the legend of zelda"
+    ],
+    [
+      "imagination",
+      "of",
+      "players"
+    ],
+    [
+      "impact",
+      "of",
+      "technological advancements"
+    ],
+    [
+      "inception",
+      "in",
+      "mid-20th century"
+    ],
+    [
+      "innovation",
+      "push",
+      "boundaries"
+    ],
+    [
+      "interactive storytelling experiences",
+      "remarkable",
+      "remarkable journey"
+    ],
+    [
+      "line",
+      "between",
+      "physical worlds"
+    ],
+    [
+      "line",
+      "between",
+      "virtual"
+    ],
+    [
+      "massachusetts institute of technology",
+      "abbreviated as",
+      "mit"
+    ],
+    [
+      "online multiplayer gaming",
+      "creating",
+      "opportunities"
+    ],
+    [
+      "opportunities",
+      "for",
+      "collaboration"
+    ],
+    [
+      "opportunities",
+      "for",
+      "social interaction"
+    ],
+    [
+      "pc gaming",
+      "titles like",
+      "diablo"
+    ],
+    [
+      "pc gaming",
+      "titles like",
+      "half-life"
+    ],
+    [
+      "pc gaming",
+      "titles like",
+      "starcraft"
+    ],
+    [
+      "pixelated",
+      "evolved into",
+      "lifelike"
+    ],
+    [
+      "platforms",
+      "like",
+      "playstation network"
+    ],
+    [
+      "platforms",
+      "like",
+      "xbox live"
+    ],
+    [
+      "players",
+      "of",
+      "ages"
+    ],
+    [
+      "pok\u00e9mon go",
+      "blurred",
+      "line"
+    ],
+    [
+      "popularity",
+      "of",
+      "pc gaming"
+    ],
+    [
+      "realistic",
+      "and",
+      "interconnected"
+    ],
+    [
+      "recent years",
+      "seen",
+      "surge"
+    ],
+    [
+      "response",
+      "to",
+      "changing consumer preferences"
+    ],
+    [
+      "revolutionize",
+      "the",
+      "industry"
+    ],
+    [
+      "rise",
+      "of",
+      "console"
+    ],
+    [
+      "rise",
+      "of",
+      "pc gaming"
+    ],
+    [
+      "simple",
+      "black-and-white games",
+      "complex"
+    ],
+    [
+      "simple",
+      "evolved into",
+      "immersive"
+    ],
+    [
+      "simple",
+      "in",
+      "design"
+    ],
+    [
+      "sophisticated",
+      "and",
+      "realistic"
+    ],
+    [
+      "spacewar!",
+      "considered",
+      "milestone"
+    ],
+    [
+      "spacewar!",
+      "developed at",
+      "massachusetts institute of technology"
+    ],
+    [
+      "spacewar!",
+      "developed in",
+      "1962"
+    ],
+    [
+      "spacewar!",
+      "laid",
+      "foundation"
+    ],
+    [
+      "standard",
+      "for",
+      "future game development"
+    ],
+    [
+      "storytelling elements",
+      "introduced",
+      "visual aesthetics"
+    ],
+    [
+      "success",
+      "of",
+      "home gaming consoles"
+    ],
+    [
+      "surge",
+      "in",
+      "popularity"
+    ],
+    [
+      "technology",
+      "such as",
+      "augmented reality"
+    ],
+    [
+      "technology",
+      "such as",
+      "cloud gaming"
+    ],
+    [
+      "technology",
+      "such as",
+      "virtual reality"
+    ],
+    [
+      "video games",
+      "have come a long way since",
+      "inception"
+    ],
+    [
+      "virtual worlds",
+      "immersed",
+      "players"
+    ],
+    [
+      "visual aesthetics",
+      "set",
+      "standard"
+    ],
+    [
+      "vr headsets",
+      "like",
+      "oculus rift"
+    ],
+    [
+      "vr headsets",
+      "like",
+      "playstation vr"
+    ],
+    [
+      "world of warcraft",
+      "became",
+      "synonymous"
+    ]
+  ],
+  "edges": [
+    "abbreviated as",
+    "and",
+    "became",
+    "began",
+    "between",
+    "black-and-white games",
+    "blurred",
+    "brought",
+    "but",
+    "considered",
+    "creating",
+    "developed at",
+    "developed in",
+    "enhancing",
+    "evolved into",
+    "for",
+    "have come a long way since",
+    "immersed",
+    "immersive worlds",
+    "in",
+    "introduced",
+    "laid",
+    "like",
+    "looks",
+    "marked",
+    "of",
+    "poised to",
+    "push",
+    "pushed",
+    "remarkable",
+    "saw",
+    "seen",
+    "set",
+    "such as",
+    "the",
+    "titles like",
+    "to",
+    "traced back to",
+    "will explore",
+    "with"
+  ]
+}

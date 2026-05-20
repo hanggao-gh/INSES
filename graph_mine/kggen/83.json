@@ -1,0 +1,427 @@
+{
+  "entities": [
+    "brain",
+    "capture",
+    "centuries",
+    "complexities",
+    "complicates",
+    "consciousness",
+    "controlled",
+    "creativity",
+    "curious",
+    "defies",
+    "deja vu",
+    "delay",
+    "describe",
+    "detect",
+    "discrepancy",
+    "dual processing",
+    "eerie",
+    "efforts",
+    "elusive",
+    "encounters",
+    "enigmatic",
+    "episodes",
+    "experience",
+    "experienced",
+    "explanation",
+    "exploration",
+    "factors",
+    "familiarity",
+    "fascinating",
+    "fascination",
+    "fatigue",
+    "feeling",
+    "fleeting",
+    "french",
+    "frequency",
+    "human brain",
+    "imagination",
+    "information",
+    "interpret",
+    "intrigue",
+    "intrigued",
+    "intriguing",
+    "investigation",
+    "laboratory",
+    "likelihood",
+    "meaning",
+    "measure",
+    "mechanisms",
+    "memory",
+    "memory-based",
+    "mysterious",
+    "nature",
+    "origin",
+    "origins",
+    "past",
+    "phenomenon",
+    "prey",
+    "prone",
+    "psychologists",
+    "public",
+    "puzzling",
+    "quantify",
+    "reminiscent",
+    "replicated",
+    "reported",
+    "researchers",
+    "retrieval",
+    "science",
+    "scientists",
+    "secrets",
+    "sensation",
+    "setting",
+    "sharks",
+    "similarities",
+    "simultaneously",
+    "situation",
+    "sleep deprivation",
+    "storage",
+    "stress",
+    "study",
+    "subjective",
+    "term",
+    "theories",
+    "timing",
+    "triggered",
+    "understand",
+    "unexplained",
+    "variability"
+  ],
+  "relations": [
+    [
+      "brain",
+      "encounters",
+      "situation"
+    ],
+    [
+      "brain",
+      "may interpret",
+      "memory"
+    ],
+    [
+      "brain",
+      "processes",
+      "information"
+    ],
+    [
+      "creativity",
+      "associated with",
+      "prone"
+    ],
+    [
+      "deja vu",
+      "capture",
+      "imagination"
+    ],
+    [
+      "deja vu",
+      "defies",
+      "explanation"
+    ],
+    [
+      "deja vu",
+      "has intrigued",
+      "psychologists"
+    ],
+    [
+      "deja vu",
+      "has intrigued",
+      "public"
+    ],
+    [
+      "deja vu",
+      "has intrigued",
+      "scientists"
+    ],
+    [
+      "deja vu",
+      "is",
+      "complexities"
+    ],
+    [
+      "deja vu",
+      "is",
+      "curious"
+    ],
+    [
+      "deja vu",
+      "is",
+      "eerie"
+    ],
+    [
+      "deja vu",
+      "is",
+      "elusive"
+    ],
+    [
+      "deja vu",
+      "is",
+      "enigmatic"
+    ],
+    [
+      "deja vu",
+      "is",
+      "familiarity"
+    ],
+    [
+      "deja vu",
+      "is",
+      "fascinating"
+    ],
+    [
+      "deja vu",
+      "is",
+      "fascination"
+    ],
+    [
+      "deja vu",
+      "is",
+      "fleeting"
+    ],
+    [
+      "deja vu",
+      "is",
+      "intrigue"
+    ],
+    [
+      "deja vu",
+      "is",
+      "intriguing"
+    ],
+    [
+      "deja vu",
+      "is",
+      "mysterious"
+    ],
+    [
+      "deja vu",
+      "is",
+      "nature"
+    ],
+    [
+      "deja vu",
+      "is",
+      "phenomenon"
+    ],
+    [
+      "deja vu",
+      "is",
+      "puzzling"
+    ],
+    [
+      "deja vu",
+      "is",
+      "subjective"
+    ],
+    [
+      "deja vu",
+      "is",
+      "term"
+    ],
+    [
+      "deja vu",
+      "is",
+      "unexplained"
+    ],
+    [
+      "deja vu",
+      "is difficult",
+      "controlled"
+    ],
+    [
+      "deja vu",
+      "is difficult",
+      "measure"
+    ],
+    [
+      "deja vu",
+      "is difficult",
+      "quantify"
+    ],
+    [
+      "deja vu",
+      "is difficult",
+      "replicated"
+    ],
+    [
+      "deja vu",
+      "is difficult",
+      "study"
+    ],
+    [
+      "deja vu",
+      "prompts",
+      "exploration"
+    ],
+    [
+      "deja vu",
+      "prompts",
+      "investigation"
+    ],
+    [
+      "delay",
+      "creates",
+      "sensation"
+    ],
+    [
+      "discrepancy",
+      "creates",
+      "sensation"
+    ],
+    [
+      "dual processing",
+      "is",
+      "theories"
+    ],
+    [
+      "dual processing",
+      "suggests",
+      "deja vu"
+    ],
+    [
+      "efforts",
+      "to",
+      "understand"
+    ],
+    [
+      "factors",
+      "increase",
+      "likelihood"
+    ],
+    [
+      "fatigue",
+      "associated with",
+      "frequency"
+    ],
+    [
+      "human brain",
+      "is",
+      "complexities"
+    ],
+    [
+      "human brain",
+      "is",
+      "consciousness"
+    ],
+    [
+      "human brain",
+      "is",
+      "secrets"
+    ],
+    [
+      "imagination",
+      "associated with",
+      "prone"
+    ],
+    [
+      "information",
+      "is processed",
+      "simultaneously"
+    ],
+    [
+      "information",
+      "is sent",
+      "retrieval"
+    ],
+    [
+      "information",
+      "is sent",
+      "storage"
+    ],
+    [
+      "memory-based",
+      "is",
+      "theories"
+    ],
+    [
+      "memory-based",
+      "is triggered by",
+      "similarities"
+    ],
+    [
+      "similarities",
+      "between",
+      "memory"
+    ],
+    [
+      "similarities",
+      "between",
+      "past"
+    ],
+    [
+      "situation",
+      "is",
+      "reminiscent"
+    ],
+    [
+      "sleep deprivation",
+      "associated with",
+      "frequency"
+    ],
+    [
+      "stress",
+      "associated with",
+      "frequency"
+    ],
+    [
+      "term",
+      "is of",
+      "feeling"
+    ],
+    [
+      "term",
+      "is of",
+      "french"
+    ],
+    [
+      "term",
+      "is of",
+      "meaning"
+    ],
+    [
+      "term",
+      "is of",
+      "origin"
+    ],
+    [
+      "term",
+      "is of",
+      "sensation"
+    ],
+    [
+      "theories",
+      "regarding",
+      "deja vu"
+    ],
+    [
+      "variability",
+      "complicates",
+      "efforts"
+    ]
+  ],
+  "edges": [
+    "associated with",
+    "between",
+    "capture",
+    "complicates",
+    "creates",
+    "defies",
+    "encounters",
+    "has intrigued",
+    "increase",
+    "is",
+    "is difficult",
+    "is of",
+    "is processed",
+    "is sent",
+    "is triggered by",
+    "may interpret",
+    "processes",
+    "prompts",
+    "regarding",
+    "suggests",
+    "to"
+  ]
+}

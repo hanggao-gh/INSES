@@ -1,0 +1,332 @@
+{
+  "entities": [
+    "access",
+    "accessible",
+    "adoption",
+    "advancements",
+    "advancing",
+    "alexander graham bell",
+    "artificial lighting",
+    "aspect",
+    "books",
+    "boundaries",
+    "business",
+    "candles",
+    "century",
+    "cities",
+    "civilization",
+    "collaborate",
+    "communicate",
+    "communication",
+    "component",
+    "computer",
+    "computing",
+    "connect",
+    "contagious",
+    "convenient",
+    "create",
+    "creativity",
+    "democratization",
+    "development",
+    "digital",
+    "digital age",
+    "disseminated",
+    "distances",
+    "e-commerce",
+    "earliest",
+    "economy",
+    "education",
+    "efficiently",
+    "electric lighting",
+    "electronic",
+    "enabled",
+    "enhance",
+    "eniac",
+    "entertainment",
+    "essay",
+    "essential",
+    "explore",
+    "famous",
+    "foundation",
+    "fundamental",
+    "future",
+    "gas lamps",
+    "generations",
+    "global",
+    "globe",
+    "goods",
+    "groundbreaking",
+    "groundwork",
+    "history",
+    "homes",
+    "ideas",
+    "illuminate",
+    "impact",
+    "indoor spaces",
+    "industrial",
+    "industrial revolution",
+    "industries",
+    "information",
+    "ingenuity",
+    "innovate",
+    "innovation",
+    "interact",
+    "internet",
+    "inventions",
+    "inventors",
+    "james watt",
+    "johannes gutenberg",
+    "knowledge",
+    "laughter",
+    "light bulb",
+    "literacy",
+    "live",
+    "lives",
+    "machinery",
+    "mankind",
+    "manufacturing",
+    "mass production",
+    "materials",
+    "mechanization",
+    "modern",
+    "people",
+    "population",
+    "possible",
+    "powered",
+    "printing press",
+    "process",
+    "processes",
+    "progress",
+    "quality of life",
+    "quickly",
+    "real time",
+    "researchers",
+    "reshaped",
+    "revolutionized",
+    "role",
+    "safer",
+    "scale",
+    "shape",
+    "share",
+    "social media",
+    "society",
+    "source",
+    "steam engine",
+    "systems",
+    "technological",
+    "technologies",
+    "telecommunications",
+    "telephone",
+    "thomas edison",
+    "thomas newcomen",
+    "tim berners-lee",
+    "transformed",
+    "transport",
+    "transportation",
+    "urban landscapes",
+    "virtually",
+    "wheel",
+    "wheeled vehicles",
+    "work",
+    "world"
+  ],
+  "relations": [
+    [
+      "computer",
+      "aspect of",
+      "business"
+    ],
+    [
+      "computer",
+      "aspect of",
+      "education"
+    ],
+    [
+      "computer",
+      "aspect of",
+      "entertainment"
+    ],
+    [
+      "computer",
+      "process",
+      "information"
+    ],
+    [
+      "computer",
+      "ushered in",
+      "digital age"
+    ],
+    [
+      "creativity",
+      "of",
+      "mankind"
+    ],
+    [
+      "essay",
+      "explore",
+      "famous"
+    ],
+    [
+      "ingenuity",
+      "of",
+      "mankind"
+    ],
+    [
+      "internet",
+      "access",
+      "information"
+    ],
+    [
+      "internet",
+      "impact on",
+      "society"
+    ],
+    [
+      "internet",
+      "reshaped",
+      "interact"
+    ],
+    [
+      "inventions",
+      "revolutionized",
+      "communicate"
+    ],
+    [
+      "inventions",
+      "revolutionized",
+      "live"
+    ],
+    [
+      "inventions",
+      "revolutionized",
+      "work"
+    ],
+    [
+      "inventions",
+      "role in",
+      "innovation"
+    ],
+    [
+      "inventions",
+      "role in",
+      "progress"
+    ],
+    [
+      "inventions",
+      "role in advancing",
+      "civilization"
+    ],
+    [
+      "light bulb",
+      "adoption of",
+      "electric lighting"
+    ],
+    [
+      "light bulb",
+      "illuminate",
+      "cities"
+    ],
+    [
+      "light bulb",
+      "illuminate",
+      "homes"
+    ],
+    [
+      "mankind",
+      "sought to innovate",
+      "technologies"
+    ],
+    [
+      "printing press",
+      "accessible to",
+      "population"
+    ],
+    [
+      "printing press",
+      "democratization of",
+      "knowledge"
+    ],
+    [
+      "printing press",
+      "disseminated",
+      "information"
+    ],
+    [
+      "printing press",
+      "transformed",
+      "society"
+    ],
+    [
+      "steam engine",
+      "powered",
+      "machinery"
+    ],
+    [
+      "steam engine",
+      "transformed",
+      "global"
+    ],
+    [
+      "technologies",
+      "enhance",
+      "lives"
+    ],
+    [
+      "technologies",
+      "shape",
+      "world"
+    ],
+    [
+      "telephone",
+      "groundwork for",
+      "development"
+    ],
+    [
+      "telephone",
+      "revolutionized",
+      "communication"
+    ],
+    [
+      "wheel",
+      "component of",
+      "modern"
+    ],
+    [
+      "wheel",
+      "enabled",
+      "development"
+    ],
+    [
+      "wheel",
+      "foundation for",
+      "future"
+    ]
+  ],
+  "edges": [
+    "access",
+    "accessible to",
+    "adoption of",
+    "aspect of",
+    "component of",
+    "democratization of",
+    "disseminated",
+    "enabled",
+    "enhance",
+    "explore",
+    "foundation for",
+    "groundwork for",
+    "illuminate",
+    "impact on",
+    "of",
+    "powered",
+    "process",
+    "reshaped",
+    "revolutionized",
+    "role in",
+    "role in advancing",
+    "shape",
+    "sought to innovate",
+    "transformed",
+    "ushered in"
+  ]
+}

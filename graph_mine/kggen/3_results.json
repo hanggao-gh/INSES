@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "AI has rapidly advanced in recent years.",
+    "retrieved_context": "artificial intelligence has advanced industries. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. advancement comes with ethical dilemmas. ethical dilemmas need to be addressed in deployment. autonomous describes technologies. algorithms can perpetuate discrimination. discrimination based on gender. discrimination based on race.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "AI has revolutionized various industries and aspects of daily lives.",
+    "retrieved_context": "artificial intelligence has advanced industries. autonomous describes technologies. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. advancement comes with ethical dilemmas. ethical dilemmas need to be addressed in deployment. algorithms can perpetuate discrimination. discrimination based on gender. discrimination based on race.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ethical dilemmas need to be addressed in the development and deployment of AI technologies.",
+    "retrieved_context": "ethical dilemmas stem from concerns. concerns include transparency. concerns include bias. ethical dilemmas need to be addressed in deployment. concerns include privacy. concerns include impact. concerns include accountability. ethical dilemmas need to be addressed in development. artificial intelligence has advanced industries. autonomous describes technologies. developers are responsible for technologies. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ethical dilemmas stem from concerns about privacy, bias, accountability, transparency, and societal impact.",
+    "retrieved_context": "ethical dilemmas stem from concerns. concerns include transparency. concerns include bias. ethical dilemmas need to be addressed in deployment. concerns include privacy. concerns include impact. concerns include accountability. ethical dilemmas need to be addressed in development. privacy is an ethical dilemmas. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. ethical dilemmas need to be addressed in deployment. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment. ethical dilemmas stem from concerns. bias affects fairness. bias affects equity. ethical dilemmas need to be addressed in deployment. bias is an ethical dilemmas. ethical dilemmas need to be addressed in development. abuse of power. surveillance raises questions about abuse. discrimination based on gender. discrimination based on race. impact is an ethical dilemmas. concerns include transparency. bias affects fairness. concerns include bias. impact raises concerns about job displacement. bias affects equity. transparency affects trust. concerns include privacy. impact raises concerns about inequality. privacy is an ethical dilemmas. accountability is an ethical dilemmas. bias is an ethical dilemmas. concerns include accountability. concerns include impact. transparency is an ethical dilemmas. impact raises concerns about concentration. impact of society.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Privacy is a key ethical dilemma in AI development.",
+    "retrieved_context": "privacy is an ethical dilemmas. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. ethical dilemmas need to be addressed in deployment. ethical dilemmas stem from concerns. concerns include transparency. concerns include bias. ethical dilemmas need to be addressed in deployment. concerns include privacy. concerns include impact. concerns include accountability. ethical dilemmas need to be addressed in development. rights are at risk of violation. artificial intelligence has advanced industries. autonomous describes technologies. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment. regulations are needed for accountability. accountability is an ethical dilemmas. regulations should be manner. regulations should be responsible.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Concerns arise about the use of data and potential privacy violations.",
+    "retrieved_context": "privacy is an ethical dilemmas. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. ethical dilemmas need to be addressed in deployment. impact is an ethical dilemmas. concerns include transparency. bias affects fairness. concerns include bias. impact raises concerns about job displacement. bias affects equity. transparency affects trust. concerns include privacy. impact raises concerns about inequality. privacy is an ethical dilemmas. accountability is an ethical dilemmas. bias is an ethical dilemmas. concerns include accountability. concerns include impact. transparency is an ethical dilemmas. impact raises concerns about concentration. impact of society. data raises concerns about rights. rights are at risk of violation. data is collected by technologies. abuse of power. surveillance raises questions about abuse. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment. ethical dilemmas stem from concerns. concerns include transparency. concerns include bias. ethical dilemmas need to be addressed in deployment. concerns include privacy. concerns include impact. concerns include accountability. ethical dilemmas need to be addressed in development. regulations are needed for accountability. accountability is an ethical dilemmas. regulations should be manner. regulations should be responsible.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Facial recognition technology raises questions about privacy and abuse of power.",
+    "retrieved_context": "privacy is an ethical dilemmas. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. ethical dilemmas need to be addressed in deployment. facial recognition can be used for surveillance. surveillance raises questions about abuse. abuse of power. surveillance raises questions about abuse. power by governments. power by corporations. discrimination based on gender. discrimination based on race. rights are at risk of violation. ethical dilemmas stem from concerns. trust affects adoption. transparency affects trust. trust affects acceptance. ethical dilemmas need to be addressed in deployment. transparency is an ethical dilemmas. ethical dilemmas need to be addressed in development. abuse of power. power by governments. power by corporations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bias is another ethical dilemma in AI development.",
+    "retrieved_context": "ethical dilemmas stem from concerns. concerns include transparency. concerns include bias. ethical dilemmas need to be addressed in deployment. concerns include privacy. concerns include impact. concerns include accountability. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. bias affects fairness. bias affects equity. ethical dilemmas need to be addressed in deployment. bias is an ethical dilemmas. ethical dilemmas need to be addressed in development. artificial intelligence has advanced industries. discrimination based on gender. discrimination based on race. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment. autonomous describes technologies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Biased data can lead to discriminatory outcomes in AI systems.",
+    "retrieved_context": "ethical dilemmas stem from concerns. bias affects fairness. bias affects equity. ethical dilemmas need to be addressed in deployment. bias is an ethical dilemmas. ethical dilemmas need to be addressed in development. discrimination based on gender. discrimination based on race. artificial intelligence has advanced industries. data raises concerns about rights. rights are at risk of violation. data is collected by technologies. autonomous describes technologies. algorithms can perpetuate discrimination. discrimination based on gender. discrimination based on race. ethical dilemmas stem from concerns. concerns include transparency. concerns include bias. ethical dilemmas need to be addressed in deployment. concerns include privacy. concerns include impact. concerns include accountability. ethical dilemmas need to be addressed in development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Addressing bias is crucial for fairness and equity in decision-making.",
+    "retrieved_context": "ethical dilemmas stem from concerns. bias affects fairness. bias affects equity. ethical dilemmas need to be addressed in deployment. bias is an ethical dilemmas. ethical dilemmas need to be addressed in development. discrimination based on gender. discrimination based on race. ethical dilemmas stem from concerns. concerns include transparency. concerns include bias. ethical dilemmas need to be addressed in deployment. concerns include privacy. concerns include impact. concerns include accountability. ethical dilemmas need to be addressed in development. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Accountability is an ethical dilemma in AI development.",
+    "retrieved_context": "ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment. ethical dilemmas stem from concerns. concerns include transparency. concerns include bias. ethical dilemmas need to be addressed in deployment. concerns include privacy. concerns include impact. concerns include accountability. ethical dilemmas need to be addressed in development. artificial intelligence has advanced industries. autonomous describes technologies. developers are responsible for technologies. privacy is an ethical dilemmas. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. ethical dilemmas need to be addressed in deployment.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Establishing clear lines of accountability is crucial as AI systems become more autonomous.",
+    "retrieved_context": "ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment. artificial intelligence has advanced industries. autonomous describes technologies. well-being of communities. well-being of individuals. principles should prioritize well-being. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. advancement comes with ethical dilemmas. ethical dilemmas need to be addressed in deployment. algorithms can perpetuate discrimination. discrimination based on gender. discrimination based on race.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Transparency is a significant ethical dilemma in AI development.",
+    "retrieved_context": "ethical dilemmas stem from concerns. concerns include transparency. concerns include bias. ethical dilemmas need to be addressed in deployment. concerns include privacy. concerns include impact. concerns include accountability. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. trust affects adoption. transparency affects trust. trust affects acceptance. ethical dilemmas need to be addressed in deployment. transparency is an ethical dilemmas. ethical dilemmas need to be addressed in development. privacy is an ethical dilemmas. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. ethical dilemmas need to be addressed in deployment. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment. artificial intelligence has advanced industries. autonomous describes technologies. developers are responsible for technologies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Lack of transparency can lead to distrust in AI systems.",
+    "retrieved_context": "trust affects adoption. trust affects acceptance. artificial intelligence has advanced industries. ethical dilemmas stem from concerns. trust affects adoption. transparency affects trust. trust affects acceptance. ethical dilemmas need to be addressed in deployment. transparency is an ethical dilemmas. ethical dilemmas need to be addressed in development. autonomous describes technologies. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment. privacy is an ethical dilemmas. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. ethical dilemmas need to be addressed in deployment. ethical dilemmas stem from concerns. bias affects fairness. bias affects equity. ethical dilemmas need to be addressed in deployment. bias is an ethical dilemmas. ethical dilemmas need to be addressed in development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ensuring transparency is essential for building trust and accountability.",
+    "retrieved_context": "ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. accountability is an ethical dilemmas. ethical dilemmas need to be addressed in deployment. ethical dilemmas stem from concerns. trust affects adoption. transparency affects trust. trust affects acceptance. ethical dilemmas need to be addressed in deployment. transparency is an ethical dilemmas. ethical dilemmas need to be addressed in development. trust affects adoption. trust affects acceptance. privacy is an ethical dilemmas. ethical dilemmas need to be addressed in development. ethical dilemmas stem from concerns. ethical dilemmas need to be addressed in deployment. guidelines should be responsible. guidelines should be manner. accountability is an ethical dilemmas. guidelines are needed for accountability. abuse of power. surveillance raises questions about abuse.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

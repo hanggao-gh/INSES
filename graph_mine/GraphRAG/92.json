@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "PSYCHOLOGY OF COLORS IN BRANDING",
+    "BLUE",
+    "RED",
+    "COCA-COLA",
+    "MCDONALD'S"
+  ],
+  "relations": [
+    [
+      "PSYCHOLOGY OF COLORS IN BRANDING",
+      "McDonald's use of bright yellow exemplifies the principles discussed in the Psychology of Colors in Branding",
+      "MCDONALD'S"
+    ],
+    [
+      "PSYCHOLOGY OF COLORS IN BRANDING",
+      "Coca-Cola's iconic red logo is a case study in the Psychology of Colors in Branding",
+      "COCA-COLA"
+    ],
+    [
+      "PSYCHOLOGY OF COLORS IN BRANDING",
+      "Red's association with passion and energy is a key example in the study of color psychology in branding",
+      "RED"
+    ],
+    [
+      "PSYCHOLOGY OF COLORS IN BRANDING",
+      "Blue's use to evoke trust and reliability is discussed in the context of color psychology in branding",
+      "BLUE"
+    ],
+    [
+      "COCA-COLA",
+      "Coca-Cola's iconic red logo is a critical part of its brand identity, making it instantly recognizable and helping it stand out",
+      "COCA-COLA"
+    ]
+  ],
+  "edges": [
+    "McDonald's use of bright yellow exemplifies the principles discussed in the Psychology of Colors in Branding",
+    "Coca-Cola's iconic red logo is a case study in the Psychology of Colors in Branding",
+    "Red's association with passion and energy is a key example in the study of color psychology in branding",
+    "Blue's use to evoke trust and reliability is discussed in the context of color psychology in branding",
+    "Coca-Cola's iconic red logo is a critical part of its brand identity, making it instantly recognizable and helping it stand out"
+  ]
+}

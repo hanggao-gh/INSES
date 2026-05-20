@@ -1,0 +1,37 @@
+{
+  "entities": [
+    "COLLECTING",
+    "ANTIQUE FURNITURE",
+    "VINYL RECORDS",
+    "VINTAGE MEMORABILIA",
+    "CONCERT MEMORABILIA"
+  ],
+  "relations": [
+    [
+      "COLLECTING",
+      "Vintage memorabilia are items that people collect to connect with the past",
+      "VINTAGE MEMORABILIA"
+    ],
+    [
+      "COLLECTING",
+      "Antique furniture is collected for its historical and craftsmanship value",
+      "ANTIQUE FURNITURE"
+    ],
+    [
+      "COLLECTING",
+      "Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists",
+      "VINYL RECORDS"
+    ],
+    [
+      "COLLECTING",
+      "Concert memorabilia is collected to commemorate music events and express fandom",
+      "CONCERT MEMORABILIA"
+    ]
+  ],
+  "edges": [
+    "Vintage memorabilia are items that people collect to connect with the past",
+    "Antique furniture is collected for its historical and craftsmanship value",
+    "Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists",
+    "Concert memorabilia is collected to commemorate music events and express fandom"
+  ]
+}

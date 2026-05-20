@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "SNAPCHAT",
+    "TWITTER",
+    "FACEBOOK",
+    "SOCIAL MEDIA",
+    "MISINFORMATION",
+    "INSTAGRAM",
+    "COMMUNICATION",
+    "CITIZEN JOURNALISM"
+  ],
+  "relations": [
+    [
+      "SOCIAL MEDIA",
+      "Facebook is one of the platforms encompassed by the broader term social media",
+      "FACEBOOK"
+    ],
+    [
+      "SOCIAL MEDIA",
+      "Twitter is part of the social media ecosystem, contributing to its impact on communication and information sharing",
+      "TWITTER"
+    ],
+    [
+      "SOCIAL MEDIA",
+      "Instagram is a key player in the social media landscape, affecting how people share and consume visual content",
+      "INSTAGRAM"
+    ],
+    [
+      "SOCIAL MEDIA",
+      "Snapchat is included under the umbrella of social media platforms, known for its unique approach to messaging and content sharing",
+      "SNAPCHAT"
+    ],
+    [
+      "SOCIAL MEDIA",
+      "Social media platforms have facilitated the rise of citizen journalism by allowing users to share news and information instantly, broadening the scope of who can disseminate news",
+      "CITIZEN JOURNALISM"
+    ],
+    [
+      "SOCIAL MEDIA",
+      "Social media platforms have been criticized for the rise of misinformation and fake news, making it hard to discern fact from fiction",
+      "MISINFORMATION"
+    ],
+    [
+      "SOCIAL MEDIA",
+      "Social media has changed the way people connect, share information, and interact, both positively by empowering voices and negatively by promoting shallow interactions",
+      "COMMUNICATION"
+    ],
+    [
+      "TWITTER",
+      "Twitter, in particular, has been instrumental in the spread of citizen journalism, providing a platform for real-time news sharing and discussions",
+      "CITIZEN JOURNALISM"
+    ]
+  ],
+  "edges": [
+    "Facebook is one of the platforms encompassed by the broader term social media",
+    "Twitter is part of the social media ecosystem, contributing to its impact on communication and information sharing",
+    "Instagram is a key player in the social media landscape, affecting how people share and consume visual content",
+    "Snapchat is included under the umbrella of social media platforms, known for its unique approach to messaging and content sharing",
+    "Social media platforms have facilitated the rise of citizen journalism by allowing users to share news and information instantly, broadening the scope of who can disseminate news",
+    "Social media platforms have been criticized for the rise of misinformation and fake news, making it hard to discern fact from fiction",
+    "Social media has changed the way people connect, share information, and interact, both positively by empowering voices and negatively by promoting shallow interactions",
+    "Twitter, in particular, has been instrumental in the spread of citizen journalism, providing a platform for real-time news sharing and discussions"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sir Alexander Fleming discovered penicillin in 1928.",
+    "retrieved_context": "penicillin ability to combat. penicillin made game-changer. discovery significantly improved. sir alexander fleming hypothesized substance. discovery is serendipitous. discovery coincided with onset. discovery saving lives. observation change course. discovery stands as innovation. sir alexander fleming working at st. mary's hospital. discovery stands as testament. discovery stands as enduring. discovery was breakthrough. substance had antibacterial properties. discovery revolutionizing treatment. sir alexander fleming researching properties. discovery marks milestone. sir alexander fleming is scottish. discovery is groundbreaking. discovery played role. discovery laid foundation. st. mary's hospital in london. sir alexander fleming is bacteriologist. sir alexander fleming credited with discovery. discovery stands as power. sir alexander fleming made observation. discovery stands as serendipity. discovery revolutionize field. antibiotics prevent spread. antibiotics become indispensable.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fleming was researching the properties of Staphylococcus bacteria.",
+    "retrieved_context": "discovery significantly improved. sir alexander fleming hypothesized substance. discovery is serendipitous. discovery coincided with onset. discovery saving lives. observation change course. discovery stands as innovation. sir alexander fleming working at st. mary's hospital. discovery stands as testament. discovery stands as enduring. discovery was breakthrough. substance had antibacterial properties. discovery revolutionizing treatment. sir alexander fleming researching properties. discovery marks milestone. sir alexander fleming is scottish. discovery is groundbreaking. discovery played role. discovery laid foundation. st. mary's hospital in london. sir alexander fleming is bacteriologist. sir alexander fleming credited with discovery. discovery stands as power. sir alexander fleming made observation. discovery stands as serendipity. discovery revolutionize field. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fleming observed that a mold contaminated a petri dish with Staphylococcus bacteria.",
+    "retrieved_context": "mold identified as penicillium genus. petri dish contaminated with mold. petri dish containing staphylococcus bacteria. mold identified as penicillium genus. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The mold was identified as belonging to the Penicillium genus.",
+    "retrieved_context": "mold identified as penicillium genus. penicillin ability to combat. penicillin made game-changer. antibiotics prevent spread. antibiotics become indispensable.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bacteria surrounding the mold were being destroyed.",
+    "retrieved_context": "mold identified as penicillium genus. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold. antibiotics prevent spread. antibiotics become indispensable.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fleming hypothesized that the mold was producing a substance with antibacterial properties.",
+    "retrieved_context": "mold identified as penicillium genus. antibiotics prevent spread. antibiotics become indispensable. penicillin ability to combat. penicillin made game-changer.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fleming named the substance produced by the mold as penicillin.",
+    "retrieved_context": "penicillin ability to combat. penicillin made game-changer. antibiotics prevent spread. antibiotics become indispensable. mold identified as penicillium genus. discovery significantly improved. sir alexander fleming hypothesized substance. discovery is serendipitous. discovery coincided with onset. discovery saving lives. observation change course. discovery stands as innovation. sir alexander fleming working at st. mary's hospital. discovery stands as testament. discovery stands as enduring. discovery was breakthrough. substance had antibacterial properties. discovery revolutionizing treatment. sir alexander fleming researching properties. discovery marks milestone. sir alexander fleming is scottish. discovery is groundbreaking. discovery played role. discovery laid foundation. st. mary's hospital in london. sir alexander fleming is bacteriologist. sir alexander fleming credited with discovery. discovery stands as power. sir alexander fleming made observation. discovery stands as serendipity. discovery revolutionize field.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin was the first antibiotic drug developed.",
+    "retrieved_context": "penicillin ability to combat. penicillin made game-changer. antibiotics prevent spread. antibiotics become indispensable. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Howard Florey and Ernst Chain successfully purified penicillin in the early 1940s.",
+    "retrieved_context": "penicillin ability to combat. penicillin made game-changer. antibiotics prevent spread. antibiotics become indispensable.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin was demonstrated to be effective in treating bacterial infections.",
+    "retrieved_context": "penicillin ability to combat. penicillin made game-changer. antibiotics prevent spread. antibiotics become indispensable. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of penicillin coincided with World War II.",
+    "retrieved_context": "penicillin ability to combat. penicillin made game-changer. antibiotics prevent spread. antibiotics become indispensable. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin played a crucial role in saving lives during the war.",
+    "retrieved_context": "penicillin ability to combat. penicillin made game-changer. antibiotics prevent spread. antibiotics become indispensable. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Penicillin revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "penicillin ability to combat. penicillin made game-changer. antibiotics prevent spread. antibiotics become indispensable. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The overuse of antibiotics has led to the emergence of antibiotic-resistant bacteria.",
+    "retrieved_context": "antibiotics prevent spread. antibiotics become indispensable. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold. penicillin ability to combat. penicillin made game-changer.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The rise of antibiotic resistance poses a significant challenge to global public health.",
+    "retrieved_context": "antibiotics prevent spread. antibiotics become indispensable. mold identified as penicillium genus. bacterial infections were mortality. bacterial infections destroyed clear. bacterial infections surrounding mold.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

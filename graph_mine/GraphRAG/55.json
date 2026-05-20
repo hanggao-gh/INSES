@@ -1,0 +1,122 @@
+{
+  "entities": [
+    "COLD FRONT",
+    "ENHANCED FUJITA SCALE",
+    "DRY LINE",
+    "SATELLITE IMAGERY",
+    "MESOCYCLONE",
+    "INSTABILITY",
+    "WEATHER RADAR",
+    "OUTFLOW BOUNDARY",
+    "CUMULONIMBUS CLOUDS",
+    "TORNADOES",
+    "PREPAREDNESS AND RESILIENCE",
+    "TORNADO",
+    "GROUND OBSERVATIONS",
+    "DOPPLER RADAR",
+    "SEVERE THUNDERSTORMS",
+    "WIND SHEAR",
+    "EF5 TORNADO",
+    "EF0 TORNADO"
+  ],
+  "relations": [
+    [
+      "TORNADOES",
+      "Cold fronts can act as a trigger mechanism for the development of tornadoes",
+      "COLD FRONT"
+    ],
+    [
+      "TORNADOES",
+      "Dry lines can serve as a focal point for lifting air, leading to severe thunderstorms and potentially tornadoes",
+      "DRY LINE"
+    ],
+    [
+      "TORNADOES",
+      "Outflow boundaries can trigger the lifting of air, leading to the development of severe thunderstorms and tornadoes",
+      "OUTFLOW BOUNDARY"
+    ],
+    [
+      "TORNADOES",
+      "Tornadoes form within severe thunderstorms when atmospheric conditions like wind shear and instability are present",
+      "SEVERE THUNDERSTORMS"
+    ],
+    [
+      "TORNADOES",
+      "A mesocyclone within a severe thunderstorm can tighten and intensify, leading to tornado formation",
+      "MESOCYCLONE"
+    ],
+    [
+      "TORNADOES",
+      "Understanding tornadoes is crucial for improving preparedness and resilience against these natural disasters",
+      "PREPAREDNESS AND RESILIENCE"
+    ],
+    [
+      "WIND SHEAR",
+      "Wind shear creates the mesocyclone within a thunderstorm, which can produce a tornado",
+      "MESOCYCLONE"
+    ],
+    [
+      "INSTABILITY",
+      "Instability in the atmosphere leads to the formation of cumulonimbus clouds, the breeding grounds for tornadoes",
+      "CUMULONIMBUS CLOUDS"
+    ],
+    [
+      "CUMULONIMBUS CLOUDS",
+      "Cumulonimbus clouds, formed from atmospheric instability, are associated with severe thunderstorms that can produce tornadoes",
+      "SEVERE THUNDERSTORMS"
+    ],
+    [
+      "TORNADO",
+      "Tornadoes are classified by their intensity using the Enhanced Fujita Scale, which assesses their estimated wind speeds and resulting damage.",
+      "ENHANCED FUJITA SCALE"
+    ],
+    [
+      "TORNADO",
+      "Doppler radar is used to detect rotation within thunderstorms, which is crucial for issuing timely tornado warnings.",
+      "DOPPLER RADAR"
+    ],
+    [
+      "TORNADO",
+      "Weather radar is crucial for monitoring atmospheric conditions that can lead to the development of tornadoes.",
+      "WEATHER RADAR"
+    ],
+    [
+      "TORNADO",
+      "Satellite imagery is used to observe weather patterns and the development of thunderstorms that may result in tornadoes.",
+      "SATELLITE IMAGERY"
+    ],
+    [
+      "TORNADO",
+      "Ground observations contribute to understanding atmospheric conditions at the surface level, which is essential for predicting tornado formation.",
+      "GROUND OBSERVATIONS"
+    ],
+    [
+      "ENHANCED FUJITA SCALE",
+      "EF0 tornadoes are classified as the weakest tornadoes on the Enhanced Fujita Scale, indicating minor damage.",
+      "EF0 TORNADO"
+    ],
+    [
+      "ENHANCED FUJITA SCALE",
+      "EF5 tornadoes are classified as the strongest tornadoes on the Enhanced Fujita Scale, indicating catastrophic destruction.",
+      "EF5 TORNADO"
+    ]
+  ],
+  "edges": [
+    "Cold fronts can act as a trigger mechanism for the development of tornadoes",
+    "Dry lines can serve as a focal point for lifting air, leading to severe thunderstorms and potentially tornadoes",
+    "Outflow boundaries can trigger the lifting of air, leading to the development of severe thunderstorms and tornadoes",
+    "Tornadoes form within severe thunderstorms when atmospheric conditions like wind shear and instability are present",
+    "A mesocyclone within a severe thunderstorm can tighten and intensify, leading to tornado formation",
+    "Understanding tornadoes is crucial for improving preparedness and resilience against these natural disasters",
+    "Wind shear creates the mesocyclone within a thunderstorm, which can produce a tornado",
+    "Instability in the atmosphere leads to the formation of cumulonimbus clouds, the breeding grounds for tornadoes",
+    "Cumulonimbus clouds, formed from atmospheric instability, are associated with severe thunderstorms that can produce tornadoes",
+    "Tornadoes are classified by their intensity using the Enhanced Fujita Scale, which assesses their estimated wind speeds and resulting damage.",
+    "Doppler radar is used to detect rotation within thunderstorms, which is crucial for issuing timely tornado warnings.",
+    "Weather radar is crucial for monitoring atmospheric conditions that can lead to the development of tornadoes.",
+    "Satellite imagery is used to observe weather patterns and the development of thunderstorms that may result in tornadoes.",
+    "Ground observations contribute to understanding atmospheric conditions at the surface level, which is essential for predicting tornado formation.",
+    "EF0 tornadoes are classified as the weakest tornadoes on the Enhanced Fujita Scale, indicating minor damage.",
+    "EF5 tornadoes are classified as the strongest tornadoes on the Enhanced Fujita Scale, indicating catastrophic destruction."
+  ]
+}

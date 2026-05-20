@@ -1,0 +1,114 @@
+{
+  "entities": [
+    "RUSSIAN REVOLUTION",
+    "CIVIL RIGHTS MOVEMENT",
+    "VLADIMIR LENIN",
+    "FRENCH REVOLUTION",
+    "ROMANOV DYNASTY",
+    "AMERICAN REVOLUTION",
+    "ANCIENT EGYPT",
+    "TIANANMEN SQUARE MASSACRE",
+    "MARTIN LUTHER KING JR.",
+    "BELARUS",
+    "ARAB SPRING",
+    "ROSA PARKS",
+    "BLACK LIVES MATTER MOVEMENT",
+    "CHINA",
+    "DECLARATION OF INDEPENDENCE",
+    "PROTESTS AND REVOLUTIONS"
+  ],
+  "relations": [
+    [
+      "ANCIENT EGYPT",
+      "Ancient Egypt was the site of one of the earliest recorded protests contributing to the history of protests and revolutions",
+      "PROTESTS AND REVOLUTIONS"
+    ],
+    [
+      "AMERICAN REVOLUTION",
+      "The American Revolution was characterized by the principles outlined in the Declaration of Independence",
+      "DECLARATION OF INDEPENDENCE"
+    ],
+    [
+      "AMERICAN REVOLUTION",
+      "The French Revolution was inspired by the American Revolution and its ideals",
+      "FRENCH REVOLUTION"
+    ],
+    [
+      "AMERICAN REVOLUTION",
+      "The American Revolution is a pivotal event in the history of protests and revolutions",
+      "PROTESTS AND REVOLUTIONS"
+    ],
+    [
+      "FRENCH REVOLUTION",
+      "The French Revolution is a key event in the history of protests and revolutions, transforming political landscapes",
+      "PROTESTS AND REVOLUTIONS"
+    ],
+    [
+      "RUSSIAN REVOLUTION",
+      "The Russian Revolution is a significant event in the history of protests and revolutions, led by the Bolsheviks",
+      "PROTESTS AND REVOLUTIONS"
+    ],
+    [
+      "RUSSIAN REVOLUTION",
+      "Vladimir Lenin led the Bolsheviks in the Russian Revolution",
+      "VLADIMIR LENIN"
+    ],
+    [
+      "RUSSIAN REVOLUTION",
+      "The Russian Revolution brought an end to the Romanov Dynasty",
+      "ROMANOV DYNASTY"
+    ],
+    [
+      "PROTESTS AND REVOLUTIONS",
+      "The Tiananmen Square Massacre is an example of government crackdown on protests and revolutions",
+      "TIANANMEN SQUARE MASSACRE"
+    ],
+    [
+      "PROTESTS AND REVOLUTIONS",
+      "Belarus has experienced government crackdowns on pro-democracy protests, linking it to the global phenomenon of protests and revolutions",
+      "BELARUS"
+    ],
+    [
+      "CIVIL RIGHTS MOVEMENT",
+      "Martin Luther King Jr. was a leading figure in the Civil Rights Movement",
+      "MARTIN LUTHER KING JR."
+    ],
+    [
+      "CIVIL RIGHTS MOVEMENT",
+      "Rosa Parks played a significant role in the Civil Rights Movement",
+      "ROSA PARKS"
+    ],
+    [
+      "CIVIL RIGHTS MOVEMENT",
+      "The Black Lives Matter Movement is inspired by and seen as a continuation of the Civil Rights Movement",
+      "BLACK LIVES MATTER MOVEMENT"
+    ],
+    [
+      "ARAB SPRING",
+      "Both movements are part of a global wave of protests and revolutions aiming for social and political change",
+      "BLACK LIVES MATTER MOVEMENT"
+    ],
+    [
+      "TIANANMEN SQUARE MASSACRE",
+      "The Tiananmen Square massacre occurred in China, showcasing the government's attempt to suppress pro-democracy movements",
+      "CHINA"
+    ]
+  ],
+  "edges": [
+    "Ancient Egypt was the site of one of the earliest recorded protests contributing to the history of protests and revolutions",
+    "The American Revolution was characterized by the principles outlined in the Declaration of Independence",
+    "The French Revolution was inspired by the American Revolution and its ideals",
+    "The American Revolution is a pivotal event in the history of protests and revolutions",
+    "The French Revolution is a key event in the history of protests and revolutions, transforming political landscapes",
+    "The Russian Revolution is a significant event in the history of protests and revolutions, led by the Bolsheviks",
+    "Vladimir Lenin led the Bolsheviks in the Russian Revolution",
+    "The Russian Revolution brought an end to the Romanov Dynasty",
+    "The Tiananmen Square Massacre is an example of government crackdown on protests and revolutions",
+    "Belarus has experienced government crackdowns on pro-democracy protests, linking it to the global phenomenon of protests and revolutions",
+    "Martin Luther King Jr. was a leading figure in the Civil Rights Movement",
+    "Rosa Parks played a significant role in the Civil Rights Movement",
+    "The Black Lives Matter Movement is inspired by and seen as a continuation of the Civil Rights Movement",
+    "Both movements are part of a global wave of protests and revolutions aiming for social and political change",
+    "The Tiananmen Square massacre occurred in China, showcasing the government's attempt to suppress pro-democracy movements"
+  ]
+}

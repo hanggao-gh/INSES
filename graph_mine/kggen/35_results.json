@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Writing allows us to record and communicate information across time and space.",
+    "retrieved_context": "writing allowing us to communicate. writing is one of inventions. writing allowing us to record. meanings through ideographic. scribes convey meanings. meanings through phonetic. technology with the rise of internet. internet enabling instant. technology with the rise of computers. technology with the rise of smartphones.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The development of writing systems is a crucial milestone in human culture and society.",
+    "retrieved_context": "writing allowing us to communicate. writing is one of inventions. writing allowing us to record. meanings through ideographic. scribes convey meanings. meanings through phonetic. language perceive and interact. interact with written. language in the age. connect across time. creativity express connect. connect with digital. connect across space.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Early writing systems were primarily pictographic, with symbols representing objects, ideas, or sounds.",
+    "retrieved_context": "writing allowing us to communicate. writing is one of inventions. writing allowing us to record. symbols for consonants. symbols representing objects. symbols representing ideas. symbols for vowels. symbols representing sounds. hieroglyphics consisted of intricate. intricate represented sounds. hieroglyphics used in religious. hieroglyphics used in historical. intricate represented ideas. pictographs evolved into logographic. pictographs evolved into abstract. pictographs evolved into syllabic. meanings through ideographic. scribes convey meanings. meanings through phonetic.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cuneiform was used by the ancient Sumerians in Mesopotamia for accounting and record-keeping.",
+    "retrieved_context": "cuneiform used by sumerians. wedge-shaped impressed on tablets. cuneiform evolved to represent sounds. cuneiform evolved to represent concepts. cuneiform consisted of wedge-shaped. cuneiform making it versatile. cuneiform used for record-keeping. versatile convey a range. cuneiform used for accounting. cuneiform used in mesopotamia. wedge-shaped impressed on clay. meanings through ideographic. scribes convey meanings. meanings through phonetic. civilizations such as china. civilizations such as egypt. civilizations such as sumer.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hieroglyphics in ancient Egypt were used to record important religious and historical texts.",
+    "retrieved_context": "hieroglyphics consisted of intricate. intricate represented sounds. hieroglyphics used in religious. hieroglyphics used in historical. intricate represented ideas. meanings through ideographic. scribes convey meanings. meanings through phonetic. cuneiform used by sumerians. wedge-shaped impressed on tablets. cuneiform evolved to represent sounds. cuneiform evolved to represent concepts. cuneiform consisted of wedge-shaped. cuneiform making it versatile. cuneiform used for record-keeping. versatile convey a range. cuneiform used for accounting. cuneiform used in mesopotamia. wedge-shaped impressed on clay.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Chinese characters are complex symbols representing words or morphemes.",
+    "retrieved_context": "characters are morphemes. characters are words. words to inspire. strokes convey meanings. characters comprising strokes. words to connect. words to inform. symbols for consonants. symbols representing objects. symbols representing ideas. symbols for vowels. symbols representing sounds. characters are morphemes. characters comprising strokes. chinese development of characters. characters are words. global exchange of texts. global exchange of languages. unicode facilitated global. hieroglyphics consisted of intricate. intricate represented sounds. hieroglyphics used in religious. hieroglyphics used in historical. intricate represented ideas. alphabet originated in near east. alphabet representing speech.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The alphabet introduced a more efficient method of representing speech sounds.",
+    "retrieved_context": "alphabet originated in near east. alphabet representing speech. hieroglyphics consisted of intricate. intricate represented sounds. hieroglyphics used in religious. hieroglyphics used in historical. intricate represented ideas.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The spread of the Greek alphabet laid the foundation for many modern writing systems.",
+    "retrieved_context": "alphabet originated in near east. alphabet representing speech. symbols for consonants. symbols representing objects. symbols for vowels. symbols representing ideas. symbols representing sounds. greeks developed symbols. writing allowing us to communicate. writing is one of inventions. writing allowing us to record. meanings through ideographic. scribes convey meanings. meanings through phonetic. hieroglyphics consisted of intricate. intricate represented sounds. hieroglyphics used in religious. hieroglyphics used in historical. intricate represented ideas.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Writing systems are influenced by cultural, technological, and social factors.",
+    "retrieved_context": "writing allowing us to communicate. writing is one of inventions. writing allowing us to record. meanings through ideographic. scribes convey meanings. meanings through phonetic. language perceive and interact. interact with written. language in the age. technology with the rise of internet. internet enabling instant. technology with the rise of computers. technology with the rise of smartphones.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Digital technology has transformed the way we write and communicate.",
+    "retrieved_context": "technology with the rise of internet. internet enabling instant. technology with the rise of computers. technology with the rise of smartphones. technology with the rise of internet. technology with the rise of computers. digital transformed technology. technology with the rise of smartphones. writing allowing us to communicate. writing is one of inventions. writing allowing us to record.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Unicode facilitates the global exchange of written texts in multiple languages and scripts.",
+    "retrieved_context": "global exchange of texts. global exchange of languages. unicode facilitated global. language perceive and interact. interact with written. language in the age. language perceive and interact. scripts reflects language. scripts reflects culture. language in the age. alphabet originated in near east. alphabet representing speech. writing allowing us to communicate. writing is one of inventions. writing allowing us to record.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "New forms of communication are emerging in response to the changing needs of society.",
+    "retrieved_context": "technology with the rise of internet. internet enabling instant. technology with the rise of computers. technology with the rise of smartphones.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Writing systems have played a crucial role in shaping human civilization and culture.",
+    "retrieved_context": "writing allowing us to communicate. writing is one of inventions. writing allowing us to record. meanings through ideographic. scribes convey meanings. meanings through phonetic. civilizations such as china. civilizations such as egypt. civilizations such as sumer.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Writing systems have evolved to meet the diverse needs of human communication.",
+    "retrieved_context": "writing allowing us to communicate. writing is one of inventions. writing allowing us to record. meanings through ideographic. scribes convey meanings. meanings through phonetic. language perceive and interact. interact with written. language in the age. connect across time. creativity express connect. connect with digital. connect across space.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The legacy of ancient writing systems reminds us of the enduring power of words.",
+    "retrieved_context": "writing allowing us to communicate. writing is one of inventions. writing allowing us to record. meanings through ideographic. scribes convey meanings. meanings through phonetic. power of words. legacy reminds us of power. connect across space. words to inspire. words to connect. connect with digital. words to inform. connect across time. cuneiform used by sumerians. wedge-shaped impressed on tablets. cuneiform evolved to represent sounds. cuneiform evolved to represent concepts. cuneiform consisted of wedge-shaped. cuneiform making it versatile. cuneiform used for record-keeping. versatile convey a range. cuneiform used for accounting. cuneiform used in mesopotamia. wedge-shaped impressed on clay.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

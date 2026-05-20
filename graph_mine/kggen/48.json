@@ -1,0 +1,362 @@
+{
+  "entities": [
+    "balance",
+    "biodiversity",
+    "birds",
+    "chemical pesticides",
+    "climate change",
+    "colonize",
+    "conclusion",
+    "conservation efforts",
+    "contagious",
+    "crops",
+    "diverse",
+    "ecological roles",
+    "ecosystem function",
+    "ecosystem quality",
+    "ecosystems",
+    "environmental health",
+    "essential role",
+    "flower",
+    "forests",
+    "fruits",
+    "functioning",
+    "future generations",
+    "genetic diversity",
+    "guano",
+    "habitat loss",
+    "habitats",
+    "harmful effects",
+    "health",
+    "human health",
+    "hummingbirds",
+    "indicators",
+    "insect populations",
+    "laughter",
+    "marine environments",
+    "natural pest control",
+    "natural systems",
+    "nectar",
+    "nutrient cycling",
+    "outbreaks",
+    "pest control",
+    "pollen",
+    "pollination",
+    "pollution",
+    "protect",
+    "protecting",
+    "reproduce",
+    "reproduction",
+    "resilience",
+    "seabirds",
+    "seed dispersal",
+    "seeds",
+    "services",
+    "soils",
+    "species",
+    "stability",
+    "sunbirds",
+    "vegetation"
+  ],
+  "relations": [
+    [
+      "balance",
+      "in",
+      "natural systems"
+    ],
+    [
+      "birds",
+      "consume",
+      "fruits"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "biodiversity"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "fruits"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "functioning"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "nutrient cycling"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "pest control"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "seed dispersal"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "seeds"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "services"
+    ],
+    [
+      "birds",
+      "contribute to",
+      "stability"
+    ],
+    [
+      "birds",
+      "control",
+      "insect populations"
+    ],
+    [
+      "birds",
+      "ensure",
+      "future generations"
+    ],
+    [
+      "birds",
+      "ensure",
+      "health"
+    ],
+    [
+      "birds",
+      "ensure",
+      "resilience"
+    ],
+    [
+      "birds",
+      "facilitate",
+      "reproduction"
+    ],
+    [
+      "birds",
+      "guide",
+      "conservation efforts"
+    ],
+    [
+      "birds",
+      "help plant species",
+      "colonize"
+    ],
+    [
+      "birds",
+      "help plant species",
+      "reproduce"
+    ],
+    [
+      "birds",
+      "help prevent",
+      "outbreaks"
+    ],
+    [
+      "birds",
+      "help regenerate",
+      "vegetation"
+    ],
+    [
+      "birds",
+      "play",
+      "ecological roles"
+    ],
+    [
+      "birds",
+      "play",
+      "essential role"
+    ],
+    [
+      "birds",
+      "play a crucial role in",
+      "ecosystems"
+    ],
+    [
+      "birds",
+      "play a role in",
+      "pollination"
+    ],
+    [
+      "birds",
+      "promote",
+      "genetic diversity"
+    ],
+    [
+      "birds",
+      "serve as",
+      "indicators"
+    ],
+    [
+      "birds",
+      "serve as",
+      "natural pest control"
+    ],
+    [
+      "birds",
+      "signal",
+      "climate change"
+    ],
+    [
+      "birds",
+      "signal",
+      "habitat loss"
+    ],
+    [
+      "birds",
+      "signal",
+      "pollution"
+    ],
+    [
+      "birds",
+      "spread",
+      "seeds"
+    ],
+    [
+      "birds",
+      "support",
+      "forests"
+    ],
+    [
+      "chemical pesticides",
+      "can have",
+      "harmful effects"
+    ],
+    [
+      "conservation efforts",
+      "protect",
+      "biodiversity"
+    ],
+    [
+      "conservation efforts",
+      "protect",
+      "ecosystem function"
+    ],
+    [
+      "ecological roles",
+      "help maintain",
+      "balance"
+    ],
+    [
+      "harmful effects",
+      "on",
+      "human health"
+    ],
+    [
+      "hummingbirds",
+      "are",
+      "pollination"
+    ],
+    [
+      "hummingbirds",
+      "feed on",
+      "nectar"
+    ],
+    [
+      "hummingbirds",
+      "transfer",
+      "pollen"
+    ],
+    [
+      "indicators",
+      "of",
+      "ecosystem quality"
+    ],
+    [
+      "indicators",
+      "of",
+      "environmental health"
+    ],
+    [
+      "natural pest control",
+      "reduces need for",
+      "chemical pesticides"
+    ],
+    [
+      "outbreaks",
+      "can damage",
+      "crops"
+    ],
+    [
+      "outbreaks",
+      "of",
+      "pest control"
+    ],
+    [
+      "pollen",
+      "from",
+      "flower"
+    ],
+    [
+      "pollen",
+      "to",
+      "flower"
+    ],
+    [
+      "seabirds",
+      "deposit nutrients from",
+      "marine environments"
+    ],
+    [
+      "seabirds",
+      "enrich",
+      "soils"
+    ],
+    [
+      "sunbirds",
+      "are",
+      "pollination"
+    ],
+    [
+      "sunbirds",
+      "feed on",
+      "nectar"
+    ],
+    [
+      "sunbirds",
+      "transfer",
+      "pollen"
+    ]
+  ],
+  "edges": [
+    "are",
+    "can damage",
+    "can have",
+    "consume",
+    "contribute to",
+    "control",
+    "deposit nutrients from",
+    "enrich",
+    "ensure",
+    "facilitate",
+    "feed on",
+    "from",
+    "guide",
+    "help maintain",
+    "help plant species",
+    "help prevent",
+    "help regenerate",
+    "in",
+    "of",
+    "on",
+    "play",
+    "play a crucial role in",
+    "play a role in",
+    "promote",
+    "protect",
+    "reduces need for",
+    "serve as",
+    "signal",
+    "spread",
+    "support",
+    "to",
+    "transfer"
+  ]
+}

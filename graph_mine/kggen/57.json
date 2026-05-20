@@ -1,0 +1,716 @@
+{
+  "entities": [
+    "19th century",
+    "20th century",
+    "accidents",
+    "adoption",
+    "advancements",
+    "aerodynamic",
+    "agile",
+    "alternatives",
+    "aluminum",
+    "baron karl von drais",
+    "beginnings",
+    "beloved",
+    "bicycle",
+    "boneshaker",
+    "carbon fiber",
+    "cars",
+    "center of gravity",
+    "centuries",
+    "chain drive system",
+    "chapter",
+    "circular motion",
+    "comfortable",
+    "commuting",
+    "competitive racing",
+    "competitive sport",
+    "conclusion",
+    "construction",
+    "contagious",
+    "contraption",
+    "cost",
+    "creativity",
+    "cruisers",
+    "culture",
+    "cumbersome",
+    "dangerous",
+    "design",
+    "development",
+    "developments",
+    "distances",
+    "draisine",
+    "dropped handlebars",
+    "durability",
+    "eco-friendly",
+    "efficiency",
+    "electric bikes",
+    "elegance",
+    "elite cyclists",
+    "endurance",
+    "evolution",
+    "exercise",
+    "feet",
+    "frames",
+    "front wheel",
+    "function",
+    "future",
+    "gentlemen",
+    "german",
+    "ground",
+    "heavy",
+    "high-performance cycling",
+    "high-wheel bicycle",
+    "history",
+    "human power",
+    "impact",
+    "improvement",
+    "industry",
+    "ingenuity",
+    "innovation",
+    "inventor",
+    "journey",
+    "large",
+    "laughter",
+    "leisure",
+    "lightweight",
+    "machines",
+    "maneuver",
+    "manufacturing",
+    "materials",
+    "mid-19th century",
+    "milestone",
+    "millions",
+    "mode",
+    "motorized assistance",
+    "needs",
+    "pedals",
+    "penny-farthing",
+    "performance",
+    "perseverance",
+    "pneumatic tires",
+    "popularity",
+    "practicality",
+    "precarious",
+    "preferences",
+    "professional races",
+    "prototype",
+    "public transportation",
+    "racing bikes",
+    "recreation",
+    "responsive",
+    "revolutionary",
+    "revolutionizing",
+    "ride",
+    "rider",
+    "riders",
+    "rough terrain",
+    "safety bicycle",
+    "scooter",
+    "skill",
+    "sleek",
+    "small",
+    "smoother",
+    "society",
+    "speed",
+    "stable",
+    "steel",
+    "stiffness",
+    "strength",
+    "strong",
+    "styles",
+    "sustainable",
+    "technology",
+    "testament",
+    "titanium",
+    "tour de france",
+    "transformations",
+    "transportation",
+    "turning point",
+    "two-wheeled",
+    "upright seating",
+    "vehicle",
+    "velocipede",
+    "wealthy",
+    "weight",
+    "wooden"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "continued",
+      "advancements"
+    ],
+    [
+      "adoption",
+      "of",
+      "technology"
+    ],
+    [
+      "advancements",
+      "and",
+      "developments"
+    ],
+    [
+      "advancements",
+      "in",
+      "materials"
+    ],
+    [
+      "aerodynamic",
+      "for",
+      "competitive racing"
+    ],
+    [
+      "agile",
+      "and",
+      "responsive"
+    ],
+    [
+      "alternatives",
+      "providing",
+      "weight"
+    ],
+    [
+      "aluminum",
+      "and",
+      "titanium"
+    ],
+    [
+      "baron karl von drais",
+      "created",
+      "draisine"
+    ],
+    [
+      "beginnings",
+      "as a",
+      "wooden"
+    ],
+    [
+      "bicycle",
+      "has a",
+      "history"
+    ],
+    [
+      "bicycle",
+      "has undergone",
+      "transformations"
+    ],
+    [
+      "bicycle",
+      "is a",
+      "two-wheeled"
+    ],
+    [
+      "bicycle",
+      "propelled by",
+      "human power"
+    ],
+    [
+      "boneshaker",
+      "featured",
+      "front wheel"
+    ],
+    [
+      "boneshaker",
+      "offering",
+      "smoother"
+    ],
+    [
+      "boneshaker",
+      "was",
+      "heavy"
+    ],
+    [
+      "carbon fiber",
+      "lightweight",
+      "strong"
+    ],
+    [
+      "carbon fiber",
+      "revolutionary",
+      "construction"
+    ],
+    [
+      "carbon fiber",
+      "transformed",
+      "manufacturing"
+    ],
+    [
+      "cars",
+      "and",
+      "public transportation"
+    ],
+    [
+      "center of gravity",
+      "and",
+      "precarious"
+    ],
+    [
+      "chain drive system",
+      "and",
+      "pneumatic tires"
+    ],
+    [
+      "comfortable",
+      "turning point",
+      "popularity"
+    ],
+    [
+      "commuting",
+      "exercise",
+      "leisure"
+    ],
+    [
+      "competitive racing",
+      "and",
+      "high-performance cycling"
+    ],
+    [
+      "competitive sport",
+      "enjoyed by",
+      "millions"
+    ],
+    [
+      "conclusion",
+      "testament to",
+      "ingenuity"
+    ],
+    [
+      "cruisers",
+      "upright",
+      "upright seating"
+    ],
+    [
+      "culture",
+      "mode",
+      "commuting"
+    ],
+    [
+      "cumbersome",
+      "to",
+      "maneuver"
+    ],
+    [
+      "dangerous",
+      "and prone to",
+      "accidents"
+    ],
+    [
+      "design",
+      "and",
+      "function"
+    ],
+    [
+      "development",
+      "of",
+      "racing bikes"
+    ],
+    [
+      "developments",
+      "chapter",
+      "beloved"
+    ],
+    [
+      "distances",
+      "impact",
+      "transportation"
+    ],
+    [
+      "draisine",
+      "had no",
+      "pedals"
+    ],
+    [
+      "draisine",
+      "like a",
+      "scooter"
+    ],
+    [
+      "draisine",
+      "limited in",
+      "practicality"
+    ],
+    [
+      "dropped handlebars",
+      "to",
+      "cruisers"
+    ],
+    [
+      "durability",
+      "at",
+      "cost"
+    ],
+    [
+      "eco-friendly",
+      "alternative to",
+      "cars"
+    ],
+    [
+      "electric bikes",
+      "motorized",
+      "motorized assistance"
+    ],
+    [
+      "endurance",
+      "of",
+      "elite cyclists"
+    ],
+    [
+      "evolution",
+      "and",
+      "innovation"
+    ],
+    [
+      "frames",
+      "offering",
+      "strength"
+    ],
+    [
+      "front wheel",
+      "circular",
+      "circular motion"
+    ],
+    [
+      "function",
+      "and",
+      "impact"
+    ],
+    [
+      "german",
+      "inventor",
+      "baron karl von drais"
+    ],
+    [
+      "ground",
+      "with",
+      "feet"
+    ],
+    [
+      "heavy",
+      "and",
+      "cumbersome"
+    ],
+    [
+      "high-wheel bicycle",
+      "also known as",
+      "penny-farthing"
+    ],
+    [
+      "history",
+      "of",
+      "evolution"
+    ],
+    [
+      "impact",
+      "on",
+      "society"
+    ],
+    [
+      "improvement",
+      "future",
+      "advancements"
+    ],
+    [
+      "ingenuity",
+      "creativity",
+      "perseverance"
+    ],
+    [
+      "innovation",
+      "spans",
+      "centuries"
+    ],
+    [
+      "large",
+      "and",
+      "small"
+    ],
+    [
+      "leisure",
+      "sustainable",
+      "eco-friendly"
+    ],
+    [
+      "maneuver",
+      "on",
+      "rough terrain"
+    ],
+    [
+      "manufacturing",
+      "industry",
+      "development"
+    ],
+    [
+      "materials",
+      "steel",
+      "frames"
+    ],
+    [
+      "mid-19th century",
+      "invention of",
+      "velocipede"
+    ],
+    [
+      "milestone",
+      "in the",
+      "high-wheel bicycle"
+    ],
+    [
+      "millions",
+      "professional",
+      "professional races"
+    ],
+    [
+      "motorized assistance",
+      "for",
+      "distances"
+    ],
+    [
+      "needs",
+      "and",
+      "preferences"
+    ],
+    [
+      "penny-farthing",
+      "featured",
+      "large"
+    ],
+    [
+      "penny-farthing",
+      "popular among",
+      "wealthy"
+    ],
+    [
+      "penny-farthing",
+      "was",
+      "dangerous"
+    ],
+    [
+      "perseverance",
+      "journey",
+      "improvement"
+    ],
+    [
+      "pneumatic tires",
+      "making it",
+      "stable"
+    ],
+    [
+      "popularity",
+      "and",
+      "adoption"
+    ],
+    [
+      "practicality",
+      "and",
+      "efficiency"
+    ],
+    [
+      "preferences",
+      "of",
+      "riders"
+    ],
+    [
+      "professional races",
+      "like",
+      "tour de france"
+    ],
+    [
+      "prototype",
+      "dates back to",
+      "19th century"
+    ],
+    [
+      "prototype",
+      "of the",
+      "bicycle"
+    ],
+    [
+      "public transportation",
+      "competitive",
+      "competitive sport"
+    ],
+    [
+      "racing bikes",
+      "dropped",
+      "dropped handlebars"
+    ],
+    [
+      "racing bikes",
+      "faster",
+      "agile"
+    ],
+    [
+      "responsive",
+      "design",
+      "needs"
+    ],
+    [
+      "rider",
+      "pushing off",
+      "ground"
+    ],
+    [
+      "riders",
+      "styles",
+      "racing bikes"
+    ],
+    [
+      "safety bicycle",
+      "featured",
+      "chain drive system"
+    ],
+    [
+      "safety bicycle",
+      "revolutionizing",
+      "bicycle"
+    ],
+    [
+      "small",
+      "center of",
+      "center of gravity"
+    ],
+    [
+      "smoother",
+      "ride and",
+      "speed"
+    ],
+    [
+      "speed",
+      "skill",
+      "endurance"
+    ],
+    [
+      "stable",
+      "and",
+      "comfortable"
+    ],
+    [
+      "stiffness",
+      "for",
+      "performance"
+    ],
+    [
+      "strength",
+      "and",
+      "durability"
+    ],
+    [
+      "strong",
+      "and",
+      "aerodynamic"
+    ],
+    [
+      "titanium",
+      "alternatives to",
+      "steel"
+    ],
+    [
+      "tour de france",
+      "showcasing",
+      "speed"
+    ],
+    [
+      "transformations",
+      "shaped",
+      "design"
+    ],
+    [
+      "transportation",
+      "recreation",
+      "culture"
+    ],
+    [
+      "velocipede",
+      "also known as",
+      "boneshaker"
+    ],
+    [
+      "wealthy",
+      "gentlemen for",
+      "elegance"
+    ],
+    [
+      "weight",
+      "and",
+      "stiffness"
+    ],
+    [
+      "wooden",
+      "in the",
+      "19th century"
+    ]
+  ],
+  "edges": [
+    "also known as",
+    "alternative to",
+    "alternatives to",
+    "and",
+    "and prone to",
+    "as a",
+    "at",
+    "center of",
+    "chapter",
+    "circular",
+    "competitive",
+    "continued",
+    "created",
+    "creativity",
+    "dates back to",
+    "design",
+    "dropped",
+    "enjoyed by",
+    "exercise",
+    "faster",
+    "featured",
+    "for",
+    "future",
+    "gentlemen for",
+    "had no",
+    "has a",
+    "has undergone",
+    "impact",
+    "in",
+    "in the",
+    "industry",
+    "invention of",
+    "inventor",
+    "is a",
+    "journey",
+    "lightweight",
+    "like",
+    "like a",
+    "limited in",
+    "making it",
+    "mode",
+    "motorized",
+    "of",
+    "of the",
+    "offering",
+    "on",
+    "popular among",
+    "professional",
+    "propelled by",
+    "providing",
+    "pushing off",
+    "recreation",
+    "revolutionary",
+    "revolutionizing",
+    "ride and",
+    "shaped",
+    "showcasing",
+    "skill",
+    "spans",
+    "steel",
+    "styles",
+    "sustainable",
+    "testament to",
+    "to",
+    "transformed",
+    "turning point",
+    "upright",
+    "was",
+    "with"
+  ]
+}

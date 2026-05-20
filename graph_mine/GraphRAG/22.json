@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "MYCORRHIZAL NETWORKS",
+    "MYCORRHIZAL FUNGI",
+    "RHIZOSPHERE COMMUNICATION",
+    "MICROBES",
+    "PLANTS",
+    "NITROGEN-FIXING BACTERIA",
+    "INSECTS",
+    "VOLATILE ORGANIC COMPOUNDS (VOCS)"
+  ],
+  "relations": [
+    [
+      "VOLATILE ORGANIC COMPOUNDS (VOCS)",
+      "Both VOCs and mycorrhizal networks are methods through which plants communicate and support each other in their ecosystems",
+      "MYCORRHIZAL NETWORKS"
+    ],
+    [
+      "VOLATILE ORGANIC COMPOUNDS (VOCS)",
+      "Plants release VOCs to communicate with neighboring plants about dangers such as herbivore attacks",
+      "PLANTS"
+    ],
+    [
+      "MYCORRHIZAL NETWORKS",
+      "Plants use mycorrhizal networks to exchange nutrients, water, and chemical signals with each other",
+      "PLANTS"
+    ],
+    [
+      "PLANTS",
+      "Plants release chemicals to attract insects for pollination, forming a mutualistic relationship",
+      "INSECTS"
+    ],
+    [
+      "PLANTS",
+      "Plants interact with soil microbes through rhizosphere communication to improve nutrient uptake and disease resistance",
+      "MICROBES"
+    ],
+    [
+      "PLANTS",
+      "Plants use rhizosphere communication to attract beneficial microbes and enhance their growth and resilience",
+      "RHIZOSPHERE COMMUNICATION"
+    ],
+    [
+      "PLANTS",
+      "Plants attract nitrogen-fixing bacteria to improve nutrient uptake and enhance growth",
+      "NITROGEN-FIXING BACTERIA"
+    ],
+    [
+      "PLANTS",
+      "Plants form symbiotic relationships with mycorrhizal fungi to increase water and nutrient absorption",
+      "MYCORRHIZAL FUNGI"
+    ]
+  ],
+  "edges": [
+    "Both VOCs and mycorrhizal networks are methods through which plants communicate and support each other in their ecosystems",
+    "Plants release VOCs to communicate with neighboring plants about dangers such as herbivore attacks",
+    "Plants use mycorrhizal networks to exchange nutrients, water, and chemical signals with each other",
+    "Plants release chemicals to attract insects for pollination, forming a mutualistic relationship",
+    "Plants interact with soil microbes through rhizosphere communication to improve nutrient uptake and disease resistance",
+    "Plants use rhizosphere communication to attract beneficial microbes and enhance their growth and resilience",
+    "Plants attract nitrogen-fixing bacteria to improve nutrient uptake and enhance growth",
+    "Plants form symbiotic relationships with mycorrhizal fungi to increase water and nutrient absorption"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Hoaxes have been a part of human history for centuries.",
+    "retrieved_context": "hoaxes about critical thinking. hoaxes capture imagination. hoaxes shaping historical narratives. hoaxes about manipulation. hoaxes question reliability. debate about deception. hoaxes challenging established beliefs. hoaxes are thought-provoking. hoaxes are cautionary tales. debate about truth. hoaxes tested boundaries. hoaxes part of history. hoaxes question motives. hoaxes spark debate. hoaxes are entertaining. hoaxes about misinformation. mass hysteria fueled by deception. skepticism about evolutionary theory.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals and groups perpetrate elaborate deceptions for various purposes.",
+    "retrieved_context": "forgery combination of cranium. forgery combination of orangutan jawbone. mass hysteria fueled by deception.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hoaxes often capture the public's imagination.",
+    "retrieved_context": "hoaxes about critical thinking. hoaxes capture imagination. hoaxes shaping historical narratives. hoaxes about manipulation. hoaxes question reliability. debate about deception. hoaxes challenging established beliefs. hoaxes are thought-provoking. hoaxes are cautionary tales. debate about truth. hoaxes tested boundaries. hoaxes part of history. hoaxes question motives. hoaxes spark debate. hoaxes are entertaining. hoaxes about misinformation. mass hysteria fueled by deception.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes spark debate about the nature of truth and deception.",
+    "retrieved_context": "hoaxes about critical thinking. hoaxes capture imagination. hoaxes shaping historical narratives. hoaxes about manipulation. hoaxes question reliability. debate about deception. hoaxes challenging established beliefs. hoaxes are thought-provoking. hoaxes are cautionary tales. debate about truth. hoaxes tested boundaries. hoaxes part of history. hoaxes question motives. hoaxes spark debate. hoaxes are entertaining. hoaxes about misinformation. skepticism about evolutionary theory.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Piltdown Man hoax was discovered in England in 1912.",
+    "retrieved_context": "piltdown man is missing link. piltdown man misled scientific community. piltdown man is forgery. forgery combination of orangutan jawbone. skepticism about evolutionary theory. piltdown man fueled skepticism. piltdown man discovered in england. forgery combination of cranium. hoaxes about critical thinking. hoaxes capture imagination. hoaxes shaping historical narratives. hoaxes about manipulation. hoaxes question reliability. debate about deception. hoaxes challenging established beliefs. hoaxes are thought-provoking. hoaxes are cautionary tales. debate about truth. hoaxes tested boundaries. hoaxes part of history. hoaxes question motives. hoaxes spark debate. hoaxes are entertaining. hoaxes about misinformation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Piltdown Man was a supposed missing link between humans and apes.",
+    "retrieved_context": "piltdown man is missing link. piltdown man misled scientific community. piltdown man is forgery. forgery combination of orangutan jawbone. skepticism about evolutionary theory. piltdown man fueled skepticism. piltdown man discovered in england. forgery combination of cranium.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Piltdown Man was revealed to be a forgery in 1953.",
+    "retrieved_context": "piltdown man is missing link. piltdown man misled scientific community. piltdown man is forgery. forgery combination of orangutan jawbone. skepticism about evolutionary theory. piltdown man fueled skepticism. piltdown man discovered in england. forgery combination of cranium. forgery combination of cranium. forgery combination of orangutan jawbone. hoaxes about critical thinking. hoaxes capture imagination. hoaxes shaping historical narratives. hoaxes about manipulation. hoaxes question reliability. debate about deception. hoaxes challenging established beliefs. hoaxes are thought-provoking. hoaxes are cautionary tales. debate about truth. hoaxes tested boundaries. hoaxes part of history. hoaxes question motives. hoaxes spark debate. hoaxes are entertaining. hoaxes about misinformation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Cardiff Giant hoax was discovered in Cardiff, New York, in 1869.",
+    "retrieved_context": "cardiff giant created by george hull. cardiff giant generated revenue. cardiff giant attracted crowds. cardiff giant is petrified man. hoaxes about critical thinking. hoaxes capture imagination. hoaxes shaping historical narratives. hoaxes about manipulation. hoaxes question reliability. debate about deception. hoaxes challenging established beliefs. hoaxes are thought-provoking. hoaxes are cautionary tales. debate about truth. hoaxes tested boundaries. hoaxes part of history. hoaxes question motives. hoaxes spark debate. hoaxes are entertaining. hoaxes about misinformation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Cardiff Giant was later revealed to be a sculpture created by George Hull.",
+    "retrieved_context": "cardiff giant created by george hull. cardiff giant generated revenue. cardiff giant attracted crowds. cardiff giant is petrified man. fake vermeer paintings fooled art experts. fake vermeer paintings raised questions about authenticity. fake vermeer paintings fooled collectors.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The War of the Worlds radio broadcast by Orson Welles occurred in 1938.",
+    "retrieved_context": "war of the worlds presented as news bulletins. war of the worlds led to confusion. war of the worlds by orson welles. war of the worlds is radio broadcast. war of the worlds caused mass hysteria. mass hysteria fueled by deception. war of the worlds led to panic. mass media manipulate public perception. mass media incite fear.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The War of the Worlds broadcast led to panic and confusion.",
+    "retrieved_context": "war of the worlds presented as news bulletins. war of the worlds led to confusion. war of the worlds by orson welles. war of the worlds is radio broadcast. war of the worlds caused mass hysteria. mass hysteria fueled by deception. war of the worlds led to panic. mass media manipulate public perception. mass media incite fear. mass hysteria fueled by deception.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Han van Meegeren created and sold fake Vermeer paintings during the 1930s and 1940s.",
+    "retrieved_context": "fake vermeer paintings fooled art experts. fake vermeer paintings raised questions about authenticity. fake vermeer paintings fooled collectors. han van meegeren is forger. fake vermeer paintings fooled art experts. han van meegeren created fake vermeer paintings. fake vermeer paintings raised questions about authenticity. fake vermeer paintings fooled collectors. journal is social text. fake paper to journal.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Sokal Affair of 1996 exposed the shortcomings of postmodernist academic discourse.",
+    "retrieved_context": "sokal affair sparked debate about credibility. sokal affair sparked debate about intellectual rigor. sokal affair exposed postmodernist academic discourse. alan sokal submitted fake paper. fake paper to journal.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Alan Sokal submitted a fake paper to the journal Social Text.",
+    "retrieved_context": "alan sokal submitted fake paper. fake paper to journal. sokal affair sparked debate about credibility. sokal affair sparked debate about intellectual rigor. sokal affair exposed postmodernist academic discourse. journal is social text. fake paper to journal. journal is social text. fake news requires vigilant. fake news requires veracity. fake news requires skeptical.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hoaxes have tested the boundaries of truth and fiction.",
+    "retrieved_context": "hoaxes about critical thinking. hoaxes capture imagination. hoaxes shaping historical narratives. hoaxes about manipulation. hoaxes question reliability. debate about deception. hoaxes challenging established beliefs. hoaxes are thought-provoking. hoaxes are cautionary tales. debate about truth. hoaxes tested boundaries. hoaxes part of history. hoaxes question motives. hoaxes spark debate. hoaxes are entertaining. hoaxes about misinformation. skepticism about evolutionary theory.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

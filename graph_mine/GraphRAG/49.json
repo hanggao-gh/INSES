@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "SILK",
+    "SPIDERS",
+    "SPINNERETS",
+    "WEB",
+    "SPIDER"
+  ],
+  "relations": [
+    [
+      "SPIDERS",
+      "Spiders produce silk from their spinnerets for various purposes including web building",
+      "SILK"
+    ],
+    [
+      "SPIDERS",
+      "Spiders use spinnerets located at their abdomen to produce silk",
+      "SPINNERETS"
+    ],
+    [
+      "SILK",
+      "Spiders produce silk to construct their webs",
+      "SPIDER"
+    ],
+    [
+      "SILK",
+      "Silk is the material used by spiders to construct webs",
+      "WEB"
+    ],
+    [
+      "SPIDER",
+      "Spiders use their skill and silk to build webs as homes and hunting grounds",
+      "WEB"
+    ]
+  ],
+  "edges": [
+    "Spiders produce silk from their spinnerets for various purposes including web building",
+    "Spiders use spinnerets located at their abdomen to produce silk",
+    "Spiders produce silk to construct their webs",
+    "Silk is the material used by spiders to construct webs",
+    "Spiders use their skill and silk to build webs as homes and hunting grounds"
+  ]
+}

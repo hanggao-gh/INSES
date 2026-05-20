@@ -1,0 +1,455 @@
+{
+  "entities": [
+    "accountable",
+    "accuracy",
+    "advance",
+    "analysis",
+    "analytical",
+    "analyze",
+    "application",
+    "attention to detail",
+    "biology",
+    "cataloging",
+    "cause of death",
+    "chemistry",
+    "chromatography",
+    "clues",
+    "collection",
+    "communication",
+    "conclusions",
+    "consistent",
+    "controlled",
+    "court",
+    "creative",
+    "crime scene",
+    "crime scene investigation",
+    "crimes",
+    "criminal justice system",
+    "critical thinking skills",
+    "data",
+    "detect",
+    "disciplines",
+    "dna profiling",
+    "dna samples",
+    "documenting",
+    "drugs",
+    "effective",
+    "events",
+    "evidence",
+    "expert witnesses",
+    "fibers",
+    "findings",
+    "fingerprints",
+    "firearms",
+    "forensic science",
+    "guilty",
+    "hair",
+    "identity",
+    "instrumentation",
+    "integrity",
+    "interpretation",
+    "investigation",
+    "judges",
+    "justice",
+    "law enforcement agencies",
+    "lawyers",
+    "legal issues",
+    "logical conclusions",
+    "mass spectrometry",
+    "mathematics",
+    "meticulous",
+    "microscopy",
+    "physical evidence",
+    "physics",
+    "presentation",
+    "preserving",
+    "pressure",
+    "prey",
+    "prosecution",
+    "puzzles",
+    "reconstruct",
+    "reliability",
+    "role",
+    "scanning electron microscopes",
+    "scientific methods",
+    "sharks",
+    "solve",
+    "sophisticated",
+    "spectroscopy",
+    "substance",
+    "suspect",
+    "technical expertise",
+    "techniques",
+    "technology",
+    "testifying",
+    "tool marks",
+    "toxins",
+    "trace evidence",
+    "truth"
+  ],
+  "relations": [
+    [
+      "conclusions",
+      "presented in",
+      "court"
+    ],
+    [
+      "disciplines",
+      "include",
+      "biology"
+    ],
+    [
+      "disciplines",
+      "include",
+      "chemistry"
+    ],
+    [
+      "disciplines",
+      "include",
+      "mathematics"
+    ],
+    [
+      "disciplines",
+      "include",
+      "physics"
+    ],
+    [
+      "evidence",
+      "helps in",
+      "investigation"
+    ],
+    [
+      "evidence",
+      "helps in",
+      "prosecution"
+    ],
+    [
+      "forensic science",
+      "analyze",
+      "physical evidence"
+    ],
+    [
+      "forensic science",
+      "become more",
+      "effective"
+    ],
+    [
+      "forensic science",
+      "become more",
+      "sophisticated"
+    ],
+    [
+      "forensic science",
+      "combines",
+      "disciplines"
+    ],
+    [
+      "forensic science",
+      "communicate",
+      "judges"
+    ],
+    [
+      "forensic science",
+      "communicate",
+      "law enforcement agencies"
+    ],
+    [
+      "forensic science",
+      "communicate",
+      "lawyers"
+    ],
+    [
+      "forensic science",
+      "determine",
+      "cause of death"
+    ],
+    [
+      "forensic science",
+      "determine",
+      "identity"
+    ],
+    [
+      "forensic science",
+      "determine",
+      "substance"
+    ],
+    [
+      "forensic science",
+      "draw",
+      "conclusions"
+    ],
+    [
+      "forensic science",
+      "ensuring",
+      "guilty"
+    ],
+    [
+      "forensic science",
+      "ensuring",
+      "justice"
+    ],
+    [
+      "forensic science",
+      "handled in",
+      "consistent"
+    ],
+    [
+      "forensic science",
+      "handled in",
+      "controlled"
+    ],
+    [
+      "forensic science",
+      "held",
+      "accountable"
+    ],
+    [
+      "forensic science",
+      "interpretation of",
+      "evidence"
+    ],
+    [
+      "forensic science",
+      "involves",
+      "analysis"
+    ],
+    [
+      "forensic science",
+      "involves",
+      "cataloging"
+    ],
+    [
+      "forensic science",
+      "involves",
+      "collection"
+    ],
+    [
+      "forensic science",
+      "involves",
+      "crime scene investigation"
+    ],
+    [
+      "forensic science",
+      "involves",
+      "instrumentation"
+    ],
+    [
+      "forensic science",
+      "involves",
+      "technology"
+    ],
+    [
+      "forensic science",
+      "is the application of",
+      "scientific methods"
+    ],
+    [
+      "forensic science",
+      "meticulous in",
+      "documenting"
+    ],
+    [
+      "forensic science",
+      "plays a crucial role in",
+      "criminal justice system"
+    ],
+    [
+      "forensic science",
+      "presentation of",
+      "findings"
+    ],
+    [
+      "forensic science",
+      "preserving",
+      "integrity"
+    ],
+    [
+      "forensic science",
+      "reconstruct",
+      "events"
+    ],
+    [
+      "forensic science",
+      "requires",
+      "analytical"
+    ],
+    [
+      "forensic science",
+      "requires",
+      "attention to detail"
+    ],
+    [
+      "forensic science",
+      "requires",
+      "creative"
+    ],
+    [
+      "forensic science",
+      "requires",
+      "critical thinking skills"
+    ],
+    [
+      "forensic science",
+      "requires",
+      "technical expertise"
+    ],
+    [
+      "forensic science",
+      "responsible for",
+      "documenting"
+    ],
+    [
+      "forensic science",
+      "solve",
+      "crimes"
+    ],
+    [
+      "forensic science",
+      "solve",
+      "legal issues"
+    ],
+    [
+      "forensic science",
+      "solve",
+      "puzzles"
+    ],
+    [
+      "forensic science",
+      "testifying as",
+      "expert witnesses"
+    ],
+    [
+      "forensic science",
+      "uncover",
+      "clues"
+    ],
+    [
+      "forensic science",
+      "uncover",
+      "truth"
+    ],
+    [
+      "forensic science",
+      "use",
+      "chromatography"
+    ],
+    [
+      "forensic science",
+      "use",
+      "dna profiling"
+    ],
+    [
+      "forensic science",
+      "use",
+      "mass spectrometry"
+    ],
+    [
+      "forensic science",
+      "use",
+      "microscopy"
+    ],
+    [
+      "forensic science",
+      "use",
+      "scanning electron microscopes"
+    ],
+    [
+      "forensic science",
+      "use",
+      "spectroscopy"
+    ],
+    [
+      "forensic science",
+      "work under",
+      "pressure"
+    ],
+    [
+      "mass spectrometry",
+      "identify",
+      "drugs"
+    ],
+    [
+      "mass spectrometry",
+      "identify",
+      "toxins"
+    ],
+    [
+      "physical evidence",
+      "includes",
+      "dna samples"
+    ],
+    [
+      "physical evidence",
+      "includes",
+      "fingerprints"
+    ],
+    [
+      "physical evidence",
+      "includes",
+      "firearms"
+    ],
+    [
+      "physical evidence",
+      "includes",
+      "tool marks"
+    ],
+    [
+      "technology",
+      "continues to",
+      "advance"
+    ],
+    [
+      "technology",
+      "improved",
+      "accuracy"
+    ],
+    [
+      "technology",
+      "improved",
+      "reliability"
+    ],
+    [
+      "trace evidence",
+      "includes",
+      "fibers"
+    ],
+    [
+      "trace evidence",
+      "includes",
+      "hair"
+    ]
+  ],
+  "edges": [
+    "analyze",
+    "become more",
+    "combines",
+    "communicate",
+    "continues to",
+    "determine",
+    "draw",
+    "ensuring",
+    "handled in",
+    "held",
+    "helps in",
+    "identify",
+    "improved",
+    "include",
+    "includes",
+    "interpretation of",
+    "involves",
+    "is the application of",
+    "meticulous in",
+    "plays a crucial role in",
+    "presentation of",
+    "presented in",
+    "preserving",
+    "reconstruct",
+    "requires",
+    "responsible for",
+    "solve",
+    "testifying as",
+    "uncover",
+    "use",
+    "work under"
+  ]
+}

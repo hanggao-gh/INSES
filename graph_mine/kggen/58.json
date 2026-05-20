@@ -1,0 +1,424 @@
+{
+  "entities": [
+    "afterlife",
+    "ancestors",
+    "angels",
+    "apparitions",
+    "awe",
+    "beliefs",
+    "believability",
+    "books",
+    "comfort",
+    "connection",
+    "contagious",
+    "continuity",
+    "cultural",
+    "cultural beliefs",
+    "cultures",
+    "death",
+    "demons",
+    "desire",
+    "encounters",
+    "environmental factors",
+    "evidence",
+    "existence",
+    "experiences",
+    "explanations",
+    "exposure",
+    "factors",
+    "familiarity",
+    "fear",
+    "fiction",
+    "folklore",
+    "ghostly presence",
+    "ghosts",
+    "history",
+    "illusions",
+    "imagination",
+    "immortality",
+    "impactful",
+    "laughter",
+    "legends",
+    "meaning",
+    "mind",
+    "mortality",
+    "motivators",
+    "movies",
+    "mysteries",
+    "noises",
+    "occurrences",
+    "paranormal",
+    "paranormal entities",
+    "past",
+    "perceptions",
+    "personal",
+    "phenomena",
+    "phenomenon",
+    "physical body",
+    "physical realm",
+    "popular culture",
+    "portrayal",
+    "presence",
+    "psychological",
+    "real",
+    "reasons",
+    "reassurance",
+    "religious beliefs",
+    "religious teachings",
+    "room",
+    "security",
+    "skeptics",
+    "solace",
+    "spirits",
+    "spiritual realm",
+    "stories",
+    "supernatural",
+    "supernatural occurrences",
+    "superstition",
+    "superstitions",
+    "traditions",
+    "tricks",
+    "tv shows",
+    "unexplained",
+    "unknown",
+    "validation",
+    "wonder"
+  ],
+  "relations": [
+    [
+      "afterlife",
+      "beyond",
+      "physical body"
+    ],
+    [
+      "afterlife",
+      "possibility of",
+      "existence"
+    ],
+    [
+      "apparitions",
+      "seeing",
+      "spirits"
+    ],
+    [
+      "comfort",
+      "offers",
+      "connection"
+    ],
+    [
+      "comfort",
+      "offers",
+      "continuity"
+    ],
+    [
+      "comfort",
+      "offers",
+      "past"
+    ],
+    [
+      "comfort",
+      "provides",
+      "reassurance"
+    ],
+    [
+      "connection",
+      "with",
+      "spiritual realm"
+    ],
+    [
+      "continuity",
+      "after",
+      "death"
+    ],
+    [
+      "cultural beliefs",
+      "influence",
+      "perceptions"
+    ],
+    [
+      "cultural beliefs",
+      "influence",
+      "supernatural occurrences"
+    ],
+    [
+      "desire",
+      "for",
+      "immortality"
+    ],
+    [
+      "encounters",
+      "with",
+      "paranormal entities"
+    ],
+    [
+      "encounters",
+      "with",
+      "spirits"
+    ],
+    [
+      "evidence",
+      "of",
+      "ghostly presence"
+    ],
+    [
+      "experiences",
+      "intensely",
+      "real"
+    ],
+    [
+      "experiences",
+      "lead to",
+      "beliefs"
+    ],
+    [
+      "explanations",
+      "seek for",
+      "unexplained"
+    ],
+    [
+      "exposure",
+      "shapes",
+      "beliefs"
+    ],
+    [
+      "exposure",
+      "shapes",
+      "perceptions"
+    ],
+    [
+      "fear",
+      "of",
+      "unknown"
+    ],
+    [
+      "ghosts",
+      "believe in",
+      "existence"
+    ],
+    [
+      "ghosts",
+      "dismissed as",
+      "fiction"
+    ],
+    [
+      "ghosts",
+      "dismissed as",
+      "superstition"
+    ],
+    [
+      "imagination",
+      "inspires",
+      "awe"
+    ],
+    [
+      "imagination",
+      "inspires",
+      "mysteries"
+    ],
+    [
+      "imagination",
+      "inspires",
+      "wonder"
+    ],
+    [
+      "meaning",
+      "found in",
+      "comfort"
+    ],
+    [
+      "meaning",
+      "found in",
+      "connection"
+    ],
+    [
+      "motivators",
+      "for",
+      "beliefs"
+    ],
+    [
+      "noises",
+      "unexplained",
+      "presence"
+    ],
+    [
+      "occurrences",
+      "mysterious",
+      "phenomena"
+    ],
+    [
+      "perceptions",
+      "shaped by",
+      "supernatural"
+    ],
+    [
+      "phenomenon",
+      "complex",
+      "factors"
+    ],
+    [
+      "popular culture",
+      "includes",
+      "books"
+    ],
+    [
+      "popular culture",
+      "includes",
+      "movies"
+    ],
+    [
+      "popular culture",
+      "includes",
+      "tv shows"
+    ],
+    [
+      "portrayal",
+      "in",
+      "popular culture"
+    ],
+    [
+      "portrayal",
+      "reinforces",
+      "real"
+    ],
+    [
+      "presence",
+      "felt in",
+      "room"
+    ],
+    [
+      "reasons",
+      "rooted in",
+      "cultural"
+    ],
+    [
+      "reasons",
+      "rooted in",
+      "personal"
+    ],
+    [
+      "reasons",
+      "rooted in",
+      "psychological"
+    ],
+    [
+      "religious teachings",
+      "about",
+      "angels"
+    ],
+    [
+      "religious teachings",
+      "about",
+      "demons"
+    ],
+    [
+      "religious teachings",
+      "about",
+      "spirits"
+    ],
+    [
+      "skeptics",
+      "attribute to",
+      "environmental factors"
+    ],
+    [
+      "skeptics",
+      "attribute to",
+      "mind"
+    ],
+    [
+      "skeptics",
+      "attribute to",
+      "tricks"
+    ],
+    [
+      "skeptics",
+      "dismiss",
+      "illusions"
+    ],
+    [
+      "skeptics",
+      "dismiss",
+      "superstitions"
+    ],
+    [
+      "solace",
+      "offers",
+      "mortality"
+    ],
+    [
+      "solace",
+      "offers",
+      "unknown"
+    ],
+    [
+      "solace",
+      "provides",
+      "comfort"
+    ],
+    [
+      "solace",
+      "provides",
+      "security"
+    ],
+    [
+      "stories",
+      "create",
+      "believability"
+    ],
+    [
+      "stories",
+      "create",
+      "familiarity"
+    ],
+    [
+      "stories",
+      "prevalence in",
+      "cultures"
+    ],
+    [
+      "supernatural",
+      "fascinated people",
+      "ghosts"
+    ],
+    [
+      "validation",
+      "found in",
+      "encounters"
+    ]
+  ],
+  "edges": [
+    "about",
+    "after",
+    "attribute to",
+    "believe in",
+    "beyond",
+    "complex",
+    "create",
+    "dismiss",
+    "dismissed as",
+    "fascinated people",
+    "felt in",
+    "for",
+    "found in",
+    "in",
+    "includes",
+    "influence",
+    "inspires",
+    "intensely",
+    "lead to",
+    "mysterious",
+    "of",
+    "offers",
+    "possibility of",
+    "prevalence in",
+    "provides",
+    "reinforces",
+    "rooted in",
+    "seeing",
+    "seek for",
+    "shaped by",
+    "shapes",
+    "unexplained",
+    "with"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "entities": [
+    "GREENWICH MEAN TIME (GMT)",
+    "SIR SANDFORD FLEMING",
+    "LONDON",
+    "TRANSPORTATION NETWORKS",
+    "INTERNATIONAL MERIDIAN CONFERENCE",
+    "TIME ZONES",
+    "GLOBAL TELECOMMUNICATIONS NETWORKS",
+    "RAILWAY TIME",
+    "INTERNET",
+    "WASHINGTON, D.C.",
+    "GLOBAL TRADE",
+    "TRAINS",
+    "TELEGRAPHS",
+    "UNITED STATES",
+    "GREENWICH MERIDIAN",
+    "DAYLIGHT SAVING TIME (DST)"
+  ],
+  "relations": [
+    [
+      "TIME ZONES",
+      "Sir Sandford Fleming proposed the concept of time zones, which are now used worldwide to standardize time",
+      "SIR SANDFORD FLEMING"
+    ],
+    [
+      "TIME ZONES",
+      "Railway Time was an early form of standardized timekeeping that influenced the development of time zones",
+      "RAILWAY TIME"
+    ],
+    [
+      "TIME ZONES",
+      "The expansion of global trade necessitated the creation of time zones to standardize time measurement across international borders",
+      "GLOBAL TRADE"
+    ],
+    [
+      "TIME ZONES",
+      "The development of transportation networks was a key factor in the need for the standardization of time, leading to the establishment of time zones",
+      "TRANSPORTATION NETWORKS"
+    ],
+    [
+      "TIME ZONES",
+      "The inefficiency of local time for train schedules across long distances was a significant factor in the development of standardized time and time zones",
+      "TRAINS"
+    ],
+    [
+      "TIME ZONES",
+      "The use of telegraphs and the need for synchronized communication further emphasized the need for standardized time zones",
+      "TELEGRAPHS"
+    ],
+    [
+      "TIME ZONES",
+      "The internet has made coordinating time across different time zones easier, highlighting the importance of time zones in global communication",
+      "INTERNET"
+    ],
+    [
+      "TIME ZONES",
+      "Global telecommunications networks facilitate real-time collaboration across time zones, underscoring the significance of time zones in international logistics",
+      "GLOBAL TELECOMMUNICATIONS NETWORKS"
+    ],
+    [
+      "INTERNATIONAL MERIDIAN CONFERENCE",
+      "The Greenwich Meridian was chosen as the Prime Meridian at the International Meridian Conference",
+      "GREENWICH MERIDIAN"
+    ],
+    [
+      "INTERNATIONAL MERIDIAN CONFERENCE",
+      "GMT was established as the reference point for time coordination at the International Meridian Conference",
+      "GREENWICH MEAN TIME (GMT)"
+    ],
+    [
+      "INTERNATIONAL MERIDIAN CONFERENCE",
+      "The International Meridian Conference was held in Washington, D.C.",
+      "WASHINGTON, D.C."
+    ],
+    [
+      "GREENWICH MERIDIAN",
+      "The Greenwich Meridian is located in London",
+      "LONDON"
+    ],
+    [
+      "UNITED STATES",
+      "The United States implemented Daylight Saving Time following the development of time zones",
+      "DAYLIGHT SAVING TIME (DST)"
+    ],
+    [
+      "INTERNET",
+      "Both the internet and global telecommunications networks facilitate instant communication and collaboration across different time zones",
+      "GLOBAL TELECOMMUNICATIONS NETWORKS"
+    ]
+  ],
+  "edges": [
+    "Sir Sandford Fleming proposed the concept of time zones, which are now used worldwide to standardize time",
+    "Railway Time was an early form of standardized timekeeping that influenced the development of time zones",
+    "The expansion of global trade necessitated the creation of time zones to standardize time measurement across international borders",
+    "The development of transportation networks was a key factor in the need for the standardization of time, leading to the establishment of time zones",
+    "The inefficiency of local time for train schedules across long distances was a significant factor in the development of standardized time and time zones",
+    "The use of telegraphs and the need for synchronized communication further emphasized the need for standardized time zones",
+    "The internet has made coordinating time across different time zones easier, highlighting the importance of time zones in global communication",
+    "Global telecommunications networks facilitate real-time collaboration across time zones, underscoring the significance of time zones in international logistics",
+    "The Greenwich Meridian was chosen as the Prime Meridian at the International Meridian Conference",
+    "GMT was established as the reference point for time coordination at the International Meridian Conference",
+    "The International Meridian Conference was held in Washington, D.C.",
+    "The Greenwich Meridian is located in London",
+    "The United States implemented Daylight Saving Time following the development of time zones",
+    "Both the internet and global telecommunications networks facilitate instant communication and collaboration across different time zones"
+  ]
+}

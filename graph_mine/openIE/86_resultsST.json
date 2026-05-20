@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sputnik 1 was the first artificial satellite launched by the Soviet Union on October 4, 1957.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The launch of Sputnik 1 marked the beginning of the space age.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The United States and the Soviet Union engaged in a race to explore space after the launch of Sputnik 1.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin was the first human to travel into space on April 12, 1961.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin's flight aboard Vostok 1 was a significant milestone in human history.",
+    "retrieved_context": "Gagarin has historic flight aboard Vostok 1.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "NASA is the National Aeronautics and Space Administration of the United States.",
+    "retrieved_context": "human space travel history of is In conclusion testament to ingenuity. human space travel history of is testament to ingenuity. human space travel has evolved significantly Since then. human space travel history of is not challenges. human space travel history of is testament. human space travel has evolved significantly with numerous milestones. human space travel history of is not its challenges. testament is In conclusion. human space travel history of is In conclusion testament. human space travel has evolved significantly with milestones. space shuttle served as reminders. space shuttle served as reminders of risks involved. space shuttle served as stark reminders. space shuttle served as reminders of risks involved in space exploration. space shuttle served as stark reminders of risks involved in space exploration. space shuttle served as reminders of risks. space shuttle served as stark reminders of risks involved. space shuttle served as stark reminders of risks. space shuttle is in 1986. International Space Station effort between multiple countries. space travel history of is In conclusion testament. space travel history of is testament. space travel history of is testament to ingenuity. space travel has evolved with numerous milestones. space travel has evolved significantly with milestones. space travel history of is In conclusion testament to ingenuity. space travel has evolved Since then. testament is In conclusion. SpaceX has launched missions. SpaceX has successfully launched multiple missions. SpaceX has plans. SpaceX has successfully launched multiple crewed missions to ISS. SpaceX has successfully launched multiple missions to ISS. SpaceX has successfully launched crewed missions to ISS. SpaceX has launched multiple crewed missions. SpaceX has launched crewed missions. SpaceX has launched missions to ISS. space race companies such SpaceX.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Apollo 11 landed on the moon on July 20, 1969.",
+    "retrieved_context": "Apollo 11 landed with Neil Armstrong becoming. Apollo 11 landed with Neil Armstrong. Apollo 11 landed on moon. Apollo landed with Neil Armstrong becoming. Apollo landed with Neil Armstrong. Apollo landed on moon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to set foot on the moon during the Apollo 11 mission.",
+    "retrieved_context": "Apollo 11 landed with Neil Armstrong becoming. Apollo 11 landed with Neil Armstrong. Apollo 11 landed on moon. Apollo landed with Neil Armstrong becoming. Apollo landed with Neil Armstrong. Apollo landed on moon.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space shuttle program was initiated by NASA in the 1980s.",
+    "retrieved_context": "space travel history of is In conclusion testament. space travel history of is testament. space travel history of is testament to ingenuity. space travel has evolved with numerous milestones. space shuttle program revolutionized space travel. space travel has evolved significantly with milestones. space travel history of is In conclusion testament to ingenuity. space shuttle program initiated in 1980s. space travel has evolved Since then. space shuttle program initiated by NASA. space shuttle program space travel initiated in 1980s. space shuttle program space travel initiated by NASA. space shuttle served as reminders. space shuttle served as reminders of risks involved. space shuttle served as stark reminders. space shuttle served as reminders of risks involved in space exploration. space shuttle served as stark reminders of risks involved in space exploration. space shuttle served as reminders of risks. space shuttle served as stark reminders of risks involved. space shuttle served as stark reminders of risks. space shuttle is in 1986. shuttle program enabled construction. shuttle program enabled construction of International Space Station.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The space shuttle program provided a reusable spacecraft for multiple missions.",
+    "retrieved_context": "space shuttle program space travel initiated in 1980s. space shuttle program space travel initiated by NASA. space travel history of is In conclusion testament. space travel history of is testament. space travel history of is testament to ingenuity. space travel has evolved with numerous milestones. space shuttle program revolutionized space travel. space travel has evolved significantly with milestones. space travel history of is In conclusion testament to ingenuity. space shuttle program initiated in 1980s. space travel has evolved Since then. space shuttle program initiated by NASA. shuttle program enabled construction. shuttle program enabled construction of International Space Station. space shuttle served as reminders. space shuttle served as reminders of risks involved. space shuttle served as stark reminders. space shuttle served as reminders of risks involved in space exploration. space shuttle served as stark reminders of risks involved in space exploration. space shuttle served as reminders of risks. space shuttle served as stark reminders of risks involved. space shuttle served as stark reminders of risks. space shuttle is in 1986. SpaceX multiple missions founded by entrepreneur Elon Musk.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed as a collaborative effort between multiple countries.",
+    "retrieved_context": "International Space Station effort between multiple countries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX is a private company founded by Elon Musk.",
+    "retrieved_context": "SpaceX has launched missions. SpaceX has successfully launched multiple missions. plans make it more accessible to public. plans make it more accessible. SpaceX has plans. plans commercialize space travel. SpaceX has successfully launched multiple missions to ISS. SpaceX has successfully launched multiple crewed missions to ISS. plans make it accessible. SpaceX has successfully launched crewed missions to ISS. SpaceX has launched multiple crewed missions. SpaceX has launched crewed missions. SpaceX has launched missions to ISS. plans make it accessible to public. plans make it accessible to general public. plans make it more accessible to general public. SpaceX missions founded by entrepreneur Elon Musk. International Space Station effort between multiple countries. private companies have entered space race In years. private companies have entered space race. space race companies such SpaceX. private companies have entered space race In recent years. SpaceX crewed missions founded by entrepreneur Elon Musk.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX has successfully launched multiple crewed missions to the ISS.",
+    "retrieved_context": "SpaceX multiple crewed missions founded by entrepreneur Elon Musk. SpaceX crewed missions founded by entrepreneur Elon Musk. SpaceX multiple missions founded by entrepreneur Elon Musk. SpaceX missions founded by entrepreneur Elon Musk.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space shuttle Challenger disaster occurred in 1986.",
+    "retrieved_context": "space shuttle served as reminders. space shuttle served as reminders of risks involved. space shuttle served as stark reminders. space shuttle served as reminders of risks involved in space exploration. space shuttle served as stark reminders of risks involved in space exploration. space shuttle served as reminders of risks. space shuttle served as stark reminders of risks involved. space shuttle served as stark reminders of risks. space shuttle is in 1986. space shuttle program space travel initiated in 1980s. space shuttle program space travel initiated by NASA. space travel history of is In conclusion testament. space travel history of is testament. space travel history of is testament to ingenuity. space travel has evolved with numerous milestones. space shuttle program revolutionized space travel. space travel has evolved significantly with milestones. space travel history of is In conclusion testament to ingenuity. space shuttle program initiated in 1980s. space travel has evolved Since then. space shuttle program initiated by NASA. shuttle program enabled construction. shuttle program enabled construction of International Space Station.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Plans for manned missions to Mars and the establishment of lunar bases are part of the future of human space travel.",
+    "retrieved_context": "human space travel history of is In conclusion testament to ingenuity. human space travel history of is testament to ingenuity. human space travel has evolved significantly Since then. human space travel history of is not challenges. human space travel history of is testament. human space travel has evolved significantly with numerous milestones. human space travel history of is not its challenges. testament is In conclusion. human space travel history of is In conclusion testament. human space travel has evolved significantly with milestones.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

@@ -1,0 +1,573 @@
+{
+  "entities": [
+    "acidic environment",
+    "activity",
+    "adaptability",
+    "alerting",
+    "autoimmune diseases",
+    "b cells",
+    "bacteria",
+    "balanced",
+    "bind",
+    "burden",
+    "cancer",
+    "capturing",
+    "cause",
+    "cells",
+    "chance",
+    "chronic inflammation",
+    "combat",
+    "complement proteins",
+    "complex",
+    "contribute",
+    "coordinate",
+    "coordinated responses",
+    "crucial role",
+    "cytokines",
+    "damage",
+    "deeper tissues",
+    "defense mechanisms",
+    "dendritic cells",
+    "destroy",
+    "detect",
+    "development",
+    "diabetes",
+    "differentiate",
+    "digestive tract",
+    "directly attack",
+    "disease",
+    "dysfunction",
+    "dysregulated",
+    "effective",
+    "eliminate",
+    "eliminates",
+    "encounters",
+    "engulf",
+    "enhance",
+    "evolved",
+    "fight",
+    "full-blown infection",
+    "fungi",
+    "generates",
+    "harmful pathogens",
+    "health",
+    "heart disease",
+    "human body",
+    "identify",
+    "immune system",
+    "immunological memory",
+    "infection",
+    "interplay",
+    "intricate",
+    "invade",
+    "kill",
+    "lupus",
+    "lymphocytes",
+    "macrophages",
+    "mark",
+    "mechanisms",
+    "memory cells",
+    "minimizing",
+    "mistakenly attacks",
+    "molecules",
+    "mounting",
+    "mucous membranes",
+    "mucus",
+    "multiple sclerosis",
+    "natural killer cells",
+    "network",
+    "neutrophils",
+    "organs",
+    "parasites",
+    "past infections",
+    "patrol",
+    "penetrating",
+    "phagocytosis",
+    "physical barriers",
+    "presence",
+    "presenting antigens",
+    "prevent",
+    "preventing",
+    "prey",
+    "produce",
+    "produce antibodies",
+    "protect",
+    "protective barrier",
+    "rapid",
+    "re-exposure",
+    "recognize",
+    "reducing",
+    "regulate",
+    "remember",
+    "resilience",
+    "respiratory tract",
+    "restore",
+    "rheumatoid arthritis",
+    "sharks",
+    "signaling molecules",
+    "skin",
+    "sophisticated",
+    "specialized cells",
+    "specific",
+    "stomach",
+    "strategies",
+    "system",
+    "t cells",
+    "targeted",
+    "threat",
+    "tightly regulated",
+    "tissue damage",
+    "tissues",
+    "traps",
+    "treating",
+    "understanding",
+    "vaccination",
+    "viruses",
+    "white blood cells"
+  ],
+  "relations": [
+    [
+      "acidic environment",
+      "can",
+      "kill"
+    ],
+    [
+      "acidic environment",
+      "is in",
+      "stomach"
+    ],
+    [
+      "autoimmune diseases",
+      "include",
+      "lupus"
+    ],
+    [
+      "autoimmune diseases",
+      "include",
+      "multiple sclerosis"
+    ],
+    [
+      "autoimmune diseases",
+      "include",
+      "rheumatoid arthritis"
+    ],
+    [
+      "autoimmune diseases",
+      "mistakenly attacks",
+      "dysfunction"
+    ],
+    [
+      "autoimmune diseases",
+      "mistakenly attacks",
+      "tissue damage"
+    ],
+    [
+      "b cells",
+      "produce antibodies",
+      "harmful pathogens"
+    ],
+    [
+      "chronic inflammation",
+      "contribute",
+      "cancer"
+    ],
+    [
+      "chronic inflammation",
+      "contribute",
+      "diabetes"
+    ],
+    [
+      "chronic inflammation",
+      "contribute",
+      "heart disease"
+    ],
+    [
+      "complement proteins",
+      "enhance",
+      "immune system"
+    ],
+    [
+      "coordinated responses",
+      "eliminate",
+      "threat"
+    ],
+    [
+      "coordinated responses",
+      "involve",
+      "cells"
+    ],
+    [
+      "coordinated responses",
+      "involve",
+      "organs"
+    ],
+    [
+      "coordinated responses",
+      "involve",
+      "tissues"
+    ],
+    [
+      "cytokines",
+      "coordinate",
+      "immune system"
+    ],
+    [
+      "cytokines",
+      "regulate",
+      "activity"
+    ],
+    [
+      "defense mechanisms",
+      "protect",
+      "harmful pathogens"
+    ],
+    [
+      "dendritic cells",
+      "capturing",
+      "presenting antigens"
+    ],
+    [
+      "harmful pathogens",
+      "invade",
+      "human body"
+    ],
+    [
+      "harmful pathogens",
+      "such as",
+      "bacteria"
+    ],
+    [
+      "harmful pathogens",
+      "such as",
+      "fungi"
+    ],
+    [
+      "harmful pathogens",
+      "such as",
+      "parasites"
+    ],
+    [
+      "harmful pathogens",
+      "such as",
+      "viruses"
+    ],
+    [
+      "human body",
+      "is a",
+      "complex"
+    ],
+    [
+      "human body",
+      "is a",
+      "intricate"
+    ],
+    [
+      "immune system",
+      "dysregulated",
+      "chronic inflammation"
+    ],
+    [
+      "immune system",
+      "effective",
+      "re-exposure"
+    ],
+    [
+      "immune system",
+      "eliminates",
+      "harmful pathogens"
+    ],
+    [
+      "immune system",
+      "encounters",
+      "harmful pathogens"
+    ],
+    [
+      "immune system",
+      "evolved",
+      "combat"
+    ],
+    [
+      "immune system",
+      "fight",
+      "infection"
+    ],
+    [
+      "immune system",
+      "generates",
+      "specific"
+    ],
+    [
+      "immune system",
+      "interplay",
+      "cells"
+    ],
+    [
+      "immune system",
+      "interplay",
+      "molecules"
+    ],
+    [
+      "immune system",
+      "interplay",
+      "tissues"
+    ],
+    [
+      "immune system",
+      "is a",
+      "network"
+    ],
+    [
+      "immune system",
+      "is a",
+      "sophisticated"
+    ],
+    [
+      "immune system",
+      "is a",
+      "specific"
+    ],
+    [
+      "immune system",
+      "is a",
+      "targeted"
+    ],
+    [
+      "immune system",
+      "mechanisms",
+      "disease"
+    ],
+    [
+      "immune system",
+      "mechanisms",
+      "health"
+    ],
+    [
+      "immune system",
+      "minimizing",
+      "damage"
+    ],
+    [
+      "immune system",
+      "rapid",
+      "re-exposure"
+    ],
+    [
+      "immune system",
+      "remember",
+      "past infections"
+    ],
+    [
+      "immune system",
+      "restore",
+      "health"
+    ],
+    [
+      "immune system",
+      "tightly regulated",
+      "balanced"
+    ],
+    [
+      "immunological memory",
+      "is the basis for",
+      "vaccination"
+    ],
+    [
+      "lymphocytes",
+      "differentiate",
+      "memory cells"
+    ],
+    [
+      "lymphocytes",
+      "mounting",
+      "targeted"
+    ],
+    [
+      "macrophages",
+      "alerting",
+      "presence"
+    ],
+    [
+      "macrophages",
+      "patrol",
+      "human body"
+    ],
+    [
+      "memory cells",
+      "preventing",
+      "development"
+    ],
+    [
+      "memory cells",
+      "recognize",
+      "harmful pathogens"
+    ],
+    [
+      "mucous membranes",
+      "are in",
+      "digestive tract"
+    ],
+    [
+      "mucous membranes",
+      "are in",
+      "respiratory tract"
+    ],
+    [
+      "mucous membranes",
+      "produce",
+      "mucus"
+    ],
+    [
+      "mucus",
+      "traps",
+      "harmful pathogens"
+    ],
+    [
+      "natural killer cells",
+      "directly attack",
+      "infection"
+    ],
+    [
+      "neutrophils",
+      "destroy",
+      "harmful pathogens"
+    ],
+    [
+      "neutrophils",
+      "engulf",
+      "harmful pathogens"
+    ],
+    [
+      "neutrophils",
+      "through",
+      "phagocytosis"
+    ],
+    [
+      "physical barriers",
+      "play",
+      "crucial role"
+    ],
+    [
+      "physical barriers",
+      "prevent",
+      "harmful pathogens"
+    ],
+    [
+      "physical barriers",
+      "reducing",
+      "burden"
+    ],
+    [
+      "skin",
+      "is a",
+      "protective barrier"
+    ],
+    [
+      "skin",
+      "prevents",
+      "penetrating"
+    ],
+    [
+      "system",
+      "is equipped with",
+      "defense mechanisms"
+    ],
+    [
+      "t cells",
+      "directly attack",
+      "infection"
+    ],
+    [
+      "understanding",
+      "provides insights into",
+      "adaptability"
+    ],
+    [
+      "understanding",
+      "provides insights into",
+      "preventing"
+    ],
+    [
+      "understanding",
+      "provides insights into",
+      "resilience"
+    ],
+    [
+      "understanding",
+      "provides insights into",
+      "strategies"
+    ],
+    [
+      "understanding",
+      "provides insights into",
+      "treating"
+    ],
+    [
+      "white blood cells",
+      "destroy",
+      "harmful pathogens"
+    ],
+    [
+      "white blood cells",
+      "engulf",
+      "harmful pathogens"
+    ],
+    [
+      "white blood cells",
+      "identify",
+      "harmful pathogens"
+    ]
+  ],
+  "edges": [
+    "alerting",
+    "are in",
+    "can",
+    "capturing",
+    "contribute",
+    "coordinate",
+    "destroy",
+    "differentiate",
+    "directly attack",
+    "dysregulated",
+    "effective",
+    "eliminate",
+    "eliminates",
+    "encounters",
+    "engulf",
+    "enhance",
+    "evolved",
+    "fight",
+    "generates",
+    "identify",
+    "include",
+    "interplay",
+    "invade",
+    "involve",
+    "is a",
+    "is equipped with",
+    "is in",
+    "is the basis for",
+    "mechanisms",
+    "minimizing",
+    "mistakenly attacks",
+    "mounting",
+    "patrol",
+    "play",
+    "prevent",
+    "preventing",
+    "prevents",
+    "produce",
+    "produce antibodies",
+    "protect",
+    "provides insights into",
+    "rapid",
+    "recognize",
+    "reducing",
+    "regulate",
+    "remember",
+    "restore",
+    "such as",
+    "through",
+    "tightly regulated",
+    "traps"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Leonardo da Vinci painted the Mona Lisa in the early 16th century.",
+    "retrieved_context": "mona lisa is a masterpieces. leonardo da vinci was inventor. mona lisa showcases skill. leonardo da vinci embodies renaissance man. leonardo da vinci is known for mona lisa. leonardo da vinci was scientist. mona lisa showcases detail. mona lisa is a masterpieces. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. mona lisa showcases skill. masterpieces have influenced perception. masterpieces have played role. mona lisa showcases detail. masterpieces explore possibilities. masterpieces are a testament to power. masterpieces have shaped course. michelangelo mastered perspective. michelangelo created frescoes. michelangelo mastered anatomy. frescoes are considered masterpieces. frescoes are in sistine chapel. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. masterpieces have influenced perception. masterpieces have played role. masterpieces explore possibilities. frescoes are considered masterpieces. masterpieces are a testament to power. frescoes are in sistine chapel. masterpieces have shaped course. renaissance includes paintings.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Mona Lisa is considered a masterpiece of the Renaissance period.",
+    "retrieved_context": "mona lisa is a masterpieces. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. mona lisa showcases skill. masterpieces have influenced perception. masterpieces have played role. mona lisa showcases detail. masterpieces explore possibilities. masterpieces are a testament to power. masterpieces have shaped course. mona lisa is a masterpieces. leonardo da vinci was inventor. mona lisa showcases skill. leonardo da vinci embodies renaissance man. leonardo da vinci is known for mona lisa. leonardo da vinci was scientist. mona lisa showcases detail. renaissance includes paintings. michelangelo mastered perspective. michelangelo created frescoes. michelangelo mastered anatomy. frescoes are considered masterpieces. frescoes are in sistine chapel. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. masterpieces have influenced perception. masterpieces have played role. masterpieces explore possibilities. masterpieces are a testament to power. masterpieces have shaped course.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Michelangelo painted the frescoes on the ceiling of the Sistine Chapel between 1508 and 1512.",
+    "retrieved_context": "michelangelo mastered perspective. michelangelo created frescoes. michelangelo mastered anatomy. frescoes are considered masterpieces. frescoes are in sistine chapel. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. masterpieces have influenced perception. masterpieces have played role. masterpieces explore possibilities. frescoes are considered masterpieces. masterpieces are a testament to power. frescoes are in sistine chapel. masterpieces have shaped course. mona lisa is a masterpieces. leonardo da vinci was inventor. mona lisa showcases skill. leonardo da vinci embodies renaissance man. leonardo da vinci is known for mona lisa. leonardo da vinci was scientist. mona lisa showcases detail. renaissance includes paintings.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The frescoes on the Sistine Chapel ceiling feature scenes from the Bible.",
+    "retrieved_context": "masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. masterpieces have influenced perception. masterpieces have played role. masterpieces explore possibilities. frescoes are considered masterpieces. masterpieces are a testament to power. frescoes are in sistine chapel. masterpieces have shaped course. michelangelo mastered perspective. michelangelo created frescoes. michelangelo mastered anatomy. frescoes are considered masterpieces. frescoes are in sistine chapel. the calling of saint matthew depicts matthew. the calling of saint matthew depicts jesus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Caravaggio was known for his dramatic use of light and shadow in his paintings.",
+    "retrieved_context": "caravaggio is known for emotional depth. caravaggio is known for shadow. caravaggio is known for realism. caravaggio is known for light. michelangelo mastered perspective. michelangelo created frescoes. michelangelo mastered anatomy. frescoes are considered masterpieces. frescoes are in sistine chapel. vincent van gogh created landscapes. mona lisa is a masterpieces. leonardo da vinci was inventor. mona lisa showcases skill. leonardo da vinci embodies renaissance man. leonardo da vinci is known for mona lisa. leonardo da vinci was scientist. mona lisa showcases detail.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One of Caravaggio's famous works is 'The Calling of Saint Matthew'.",
+    "retrieved_context": "the calling of saint matthew depicts matthew. the calling of saint matthew depicts jesus. caravaggio is known for emotional depth. caravaggio is known for shadow. caravaggio is known for realism. caravaggio is known for light. michelangelo mastered perspective. michelangelo created frescoes. michelangelo mastered anatomy. frescoes are considered masterpieces. frescoes are in sistine chapel. mona lisa is a masterpieces. leonardo da vinci was inventor. mona lisa showcases skill. leonardo da vinci embodies renaissance man. leonardo da vinci is known for mona lisa. leonardo da vinci was scientist. mona lisa showcases detail. mona lisa is a masterpieces. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. mona lisa showcases skill. masterpieces have influenced perception. masterpieces have played role. mona lisa showcases detail. masterpieces explore possibilities. masterpieces are a testament to power. masterpieces have shaped course.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Claude Monet is famous for his series of paintings of water lilies and gardens at Giverny.",
+    "retrieved_context": "gardens are at giverny. claude monet is known for gardens. claude monet is known for water lilies. vincent van gogh created landscapes. gardens are at giverny.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Monet's paintings are known for their loose brushwork and vibrant colors.",
+    "retrieved_context": "gardens are at giverny. claude monet is known for gardens. claude monet is known for water lilies. impressionists captured color. impressionists captured effects. impressionists revolutionized 19th century. impressionists captured light. brushwork created movement. brushwork created atmosphere. brushwork is vibrant colors. brushwork broke away from traditions. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. masterpieces have influenced perception. masterpieces have played role. masterpieces explore possibilities. frescoes are considered masterpieces. masterpieces are a testament to power. frescoes are in sistine chapel. masterpieces have shaped course.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pablo Picasso was a pioneer of Cubism in the 20th century.",
+    "retrieved_context": "pablo picasso is modern era. cubism depicted viewpoints. cubism is a movement. pablo picasso was a pioneer of cubism. pablo picasso is from 20th century. cubism depicted viewpoints. cubism is a movement. vincent van gogh created landscapes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Picasso's painting 'Les Demoiselles d'Avignon' shattered traditional notions of perspective.",
+    "retrieved_context": "les demoiselles d'avignon shattered perspective. les demoiselles d'avignon shattered representation. pablo picasso is modern era. cubism depicted viewpoints. cubism is a movement. pablo picasso was a pioneer of cubism. pablo picasso is from 20th century. cubism depicted viewpoints. cubism is a movement.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Vincent van Gogh created emotionally charged landscapes in his artworks.",
+    "retrieved_context": "vincent van gogh created landscapes. pablo picasso is modern era. cubism depicted viewpoints. cubism is a movement. pablo picasso was a pioneer of cubism. pablo picasso is from 20th century. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. art has been expression. masterpieces have influenced perception. masterpieces have played role. masterpieces explore possibilities. masterpieces are a testament to power. art has been masterpieces. masterpieces have shaped course.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Frida Kahlo is known for her powerful self-portraits.",
+    "retrieved_context": "frida kahlo created self-portraits. mona lisa is a masterpieces. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. mona lisa showcases skill. masterpieces have influenced perception. masterpieces have played role. mona lisa showcases detail. masterpieces explore possibilities. masterpieces are a testament to power. masterpieces have shaped course. pablo picasso is modern era. cubism depicted viewpoints. cubism is a movement. pablo picasso was a pioneer of cubism. pablo picasso is from 20th century. michelangelo mastered perspective. michelangelo created frescoes. michelangelo mastered anatomy. frescoes are considered masterpieces. frescoes are in sistine chapel. mona lisa is a masterpieces. leonardo da vinci was inventor. mona lisa showcases skill. leonardo da vinci embodies renaissance man. leonardo da vinci is known for mona lisa. leonardo da vinci was scientist. mona lisa showcases detail. gardens are at giverny. claude monet is known for gardens. claude monet is known for water lilies.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Artists like Leonardo da Vinci embodied the Renaissance ideal of the 'Renaissance man'.",
+    "retrieved_context": "mona lisa is a masterpieces. leonardo da vinci was inventor. mona lisa showcases skill. leonardo da vinci embodies renaissance man. leonardo da vinci is known for mona lisa. leonardo da vinci was scientist. mona lisa showcases detail. renaissance includes paintings. michelangelo mastered perspective. michelangelo created frescoes. michelangelo mastered anatomy. frescoes are considered masterpieces. frescoes are in sistine chapel. vincent van gogh created landscapes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Michelangelo's work on the Sistine Chapel ceiling continues to inspire artists.",
+    "retrieved_context": "michelangelo mastered perspective. michelangelo created frescoes. michelangelo mastered anatomy. frescoes are considered masterpieces. frescoes are in sistine chapel. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. masterpieces have influenced perception. masterpieces have played role. masterpieces explore possibilities. frescoes are considered masterpieces. masterpieces are a testament to power. frescoes are in sistine chapel. masterpieces have shaped course. mona lisa is a masterpieces. leonardo da vinci was inventor. mona lisa showcases skill. leonardo da vinci embodies renaissance man. leonardo da vinci is known for mona lisa. leonardo da vinci was scientist. mona lisa showcases detail.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Impressionists aimed to capture the effects of light and color in their paintings.",
+    "retrieved_context": "impressionists captured color. impressionists captured effects. impressionists revolutionized 19th century. impressionists captured light. vincent van gogh created landscapes. masterpieces provoke audiences. masterpieces have influenced beauty. masterpieces have influenced techniques. masterpieces have stood history. masterpieces have shaped art history. masterpieces inspire generations. masterpieces move us on emotional level. art has been expression. masterpieces have influenced perception. masterpieces have played role. masterpieces explore possibilities. masterpieces are a testament to power. art has been masterpieces. masterpieces have shaped course.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

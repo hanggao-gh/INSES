@@ -1,0 +1,700 @@
+{
+  "entities": [
+    "ability",
+    "alzheimer's disease",
+    "ancestors",
+    "animals",
+    "anxiety",
+    "applications",
+    "appreciate",
+    "appreciation",
+    "aroma",
+    "aromatherapy",
+    "aspects",
+    "attraction",
+    "author",
+    "beauty",
+    "behavior",
+    "brain",
+    "brains",
+    "business",
+    "chemical reactions",
+    "choices",
+    "citrus",
+    "colognes",
+    "complexity",
+    "conclusion",
+    "conditions",
+    "connection",
+    "connections",
+    "cues",
+    "cultural significance",
+    "danger",
+    "detect",
+    "dish",
+    "emotions",
+    "enthusiasts",
+    "essay",
+    "essential oils",
+    "evolution",
+    "evolutionary significance",
+    "exposure",
+    "feelings",
+    "field",
+    "flood",
+    "floral",
+    "focus",
+    "food",
+    "fragrance industry",
+    "fragrances",
+    "fruits",
+    "functions",
+    "geographical location",
+    "hearing",
+    "historical traditions",
+    "human body",
+    "humans",
+    "impact",
+    "incense",
+    "influence",
+    "insights",
+    "interactions",
+    "interpreted",
+    "lasting impressions",
+    "lavender",
+    "limbic system",
+    "lives",
+    "madeleine cookie",
+    "marcel proust",
+    "mates",
+    "meals",
+    "medicine",
+    "memories",
+    "mood",
+    "mysteries",
+    "nasal cavity",
+    "nostalgia",
+    "nostrils",
+    "odor molecules",
+    "olfaction",
+    "olfactory epithelium",
+    "olfactory receptors",
+    "olfactory system",
+    "partners",
+    "peppermint",
+    "perceptions",
+    "perfume",
+    "perfumes",
+    "personal preferences",
+    "phenomenon",
+    "post-traumatic stress disorder",
+    "potential",
+    "power",
+    "predators",
+    "preferences",
+    "prey",
+    "processed",
+    "proustian effect",
+    "psychology",
+    "ptsd",
+    "recall",
+    "receptor",
+    "relationship",
+    "relaxation",
+    "researchers",
+    "responsible",
+    "role",
+    "scents",
+    "science",
+    "sense",
+    "senses",
+    "settings",
+    "sharks",
+    "sight",
+    "signals",
+    "smell",
+    "smoke",
+    "social significance",
+    "society",
+    "spices",
+    "spoiled food",
+    "studies",
+    "survival",
+    "therapeutic effects",
+    "therapy",
+    "time",
+    "tissue",
+    "well-being",
+    "works",
+    "world"
+  ],
+  "relations": [
+    [
+      "ancestors",
+      "rely on",
+      "senses"
+    ],
+    [
+      "applications",
+      "in",
+      "psychology"
+    ],
+    [
+      "applications",
+      "in",
+      "therapy"
+    ],
+    [
+      "applications",
+      "of",
+      "smell"
+    ],
+    [
+      "appreciate",
+      "power of",
+      "smell"
+    ],
+    [
+      "appreciation",
+      "for",
+      "beauty"
+    ],
+    [
+      "appreciation",
+      "for",
+      "complexity"
+    ],
+    [
+      "aroma",
+      "of",
+      "fruits"
+    ],
+    [
+      "aroma",
+      "of",
+      "meals"
+    ],
+    [
+      "aromatherapy",
+      "is",
+      "medicine"
+    ],
+    [
+      "aromatherapy",
+      "uses",
+      "essential oils"
+    ],
+    [
+      "author",
+      "is",
+      "marcel proust"
+    ],
+    [
+      "chemical reactions",
+      "send",
+      "signals"
+    ],
+    [
+      "choices",
+      "guided by",
+      "aroma"
+    ],
+    [
+      "conclusion",
+      "science of",
+      "smell"
+    ],
+    [
+      "conditions",
+      "like",
+      "alzheimer's disease"
+    ],
+    [
+      "conditions",
+      "like",
+      "post-traumatic stress disorder"
+    ],
+    [
+      "connection",
+      "between",
+      "olfactory system"
+    ],
+    [
+      "connections",
+      "with",
+      "insights"
+    ],
+    [
+      "connections",
+      "with",
+      "mysteries"
+    ],
+    [
+      "cues",
+      "sensory",
+      "smell"
+    ],
+    [
+      "danger",
+      "like",
+      "smoke"
+    ],
+    [
+      "danger",
+      "like",
+      "spoiled food"
+    ],
+    [
+      "essay",
+      "explore",
+      "science"
+    ],
+    [
+      "essential oils",
+      "improve",
+      "well-being"
+    ],
+    [
+      "exposure",
+      "to",
+      "scents"
+    ],
+    [
+      "feelings",
+      "of",
+      "nostalgia"
+    ],
+    [
+      "field",
+      "intrigue",
+      "enthusiasts"
+    ],
+    [
+      "field",
+      "intrigue",
+      "researchers"
+    ],
+    [
+      "flood",
+      "of",
+      "memories"
+    ],
+    [
+      "fragrance industry",
+      "is",
+      "business"
+    ],
+    [
+      "fragrances",
+      "influence",
+      "attraction"
+    ],
+    [
+      "fragrances",
+      "influence",
+      "partners"
+    ],
+    [
+      "fragrances",
+      "influence",
+      "perceptions"
+    ],
+    [
+      "functions",
+      "warning of",
+      "danger"
+    ],
+    [
+      "humans",
+      "rely on",
+      "sense"
+    ],
+    [
+      "lavender",
+      "for",
+      "relaxation"
+    ],
+    [
+      "limbic system",
+      "responsible for",
+      "emotions"
+    ],
+    [
+      "limbic system",
+      "responsible for",
+      "memories"
+    ],
+    [
+      "madeleine cookie",
+      "triggered",
+      "flood"
+    ],
+    [
+      "nasal cavity",
+      "through",
+      "nostrils"
+    ],
+    [
+      "odor molecules",
+      "bind to",
+      "olfactory receptors"
+    ],
+    [
+      "odor molecules",
+      "enter",
+      "nasal cavity"
+    ],
+    [
+      "odor molecules",
+      "triggers",
+      "chemical reactions"
+    ],
+    [
+      "olfactory epithelium",
+      "is",
+      "tissue"
+    ],
+    [
+      "olfactory receptors",
+      "located in",
+      "olfactory epithelium"
+    ],
+    [
+      "olfactory system",
+      "and",
+      "limbic system"
+    ],
+    [
+      "peppermint",
+      "for",
+      "focus"
+    ],
+    [
+      "perfumes",
+      "create",
+      "lasting impressions"
+    ],
+    [
+      "phenomenon",
+      "known as",
+      "proustian effect"
+    ],
+    [
+      "post-traumatic stress disorder",
+      "also known as",
+      "ptsd"
+    ],
+    [
+      "power",
+      "of",
+      "smell"
+    ],
+    [
+      "preferences",
+      "based on",
+      "geographical location"
+    ],
+    [
+      "preferences",
+      "based on",
+      "historical traditions"
+    ],
+    [
+      "preferences",
+      "based on",
+      "personal preferences"
+    ],
+    [
+      "preferences",
+      "for",
+      "citrus"
+    ],
+    [
+      "preferences",
+      "for",
+      "floral"
+    ],
+    [
+      "preferences",
+      "for",
+      "incense"
+    ],
+    [
+      "preferences",
+      "for",
+      "scents"
+    ],
+    [
+      "preferences",
+      "for",
+      "spices"
+    ],
+    [
+      "proustian effect",
+      "named after",
+      "author"
+    ],
+    [
+      "receptor",
+      "sensitive to",
+      "odor molecules"
+    ],
+    [
+      "relationship",
+      "and",
+      "world"
+    ],
+    [
+      "relationship",
+      "between",
+      "brains"
+    ],
+    [
+      "researchers",
+      "believe",
+      "sense"
+    ],
+    [
+      "role",
+      "in",
+      "lives"
+    ],
+    [
+      "scents",
+      "evoke",
+      "feelings"
+    ],
+    [
+      "scents",
+      "have",
+      "therapeutic effects"
+    ],
+    [
+      "scents",
+      "help",
+      "conditions"
+    ],
+    [
+      "scents",
+      "like",
+      "dish"
+    ],
+    [
+      "scents",
+      "like",
+      "perfume"
+    ],
+    [
+      "scents",
+      "recall",
+      "memories"
+    ],
+    [
+      "scents",
+      "reduce",
+      "anxiety"
+    ],
+    [
+      "science",
+      "behind",
+      "smell"
+    ],
+    [
+      "sense",
+      "serve",
+      "functions"
+    ],
+    [
+      "sense",
+      "to detect",
+      "predators"
+    ],
+    [
+      "sense",
+      "to find",
+      "food"
+    ],
+    [
+      "sense",
+      "to identify",
+      "mates"
+    ],
+    [
+      "senses",
+      "in",
+      "human body"
+    ],
+    [
+      "signals",
+      "interpreted",
+      "brain"
+    ],
+    [
+      "signals",
+      "processed",
+      "brain"
+    ],
+    [
+      "signals",
+      "to",
+      "brain"
+    ],
+    [
+      "smell",
+      "evoke",
+      "emotions"
+    ],
+    [
+      "smell",
+      "evoke",
+      "memories"
+    ],
+    [
+      "smell",
+      "harness",
+      "potential"
+    ],
+    [
+      "smell",
+      "influence",
+      "emotions"
+    ],
+    [
+      "smell",
+      "influence",
+      "interactions"
+    ],
+    [
+      "smell",
+      "influence",
+      "memories"
+    ],
+    [
+      "smell",
+      "influences",
+      "behavior"
+    ],
+    [
+      "smell",
+      "influences",
+      "emotions"
+    ],
+    [
+      "smell",
+      "influences",
+      "memories"
+    ],
+    [
+      "smell",
+      "is one of",
+      "senses"
+    ],
+    [
+      "smell",
+      "known as",
+      "olfaction"
+    ],
+    [
+      "smell",
+      "plays",
+      "role"
+    ],
+    [
+      "smell",
+      "role in",
+      "cultural significance"
+    ],
+    [
+      "smell",
+      "role in",
+      "social significance"
+    ],
+    [
+      "smell",
+      "role in",
+      "society"
+    ],
+    [
+      "smell",
+      "role in",
+      "survival"
+    ],
+    [
+      "smell",
+      "trigger",
+      "memories"
+    ],
+    [
+      "studies",
+      "shown",
+      "smell"
+    ],
+    [
+      "therapeutic effects",
+      "on",
+      "behavior"
+    ],
+    [
+      "therapeutic effects",
+      "on",
+      "mood"
+    ]
+  ],
+  "edges": [
+    "also known as",
+    "and",
+    "based on",
+    "behind",
+    "believe",
+    "between",
+    "bind to",
+    "create",
+    "enter",
+    "evoke",
+    "explore",
+    "for",
+    "guided by",
+    "harness",
+    "have",
+    "help",
+    "improve",
+    "in",
+    "influence",
+    "influences",
+    "interpreted",
+    "intrigue",
+    "is",
+    "is one of",
+    "known as",
+    "like",
+    "located in",
+    "named after",
+    "of",
+    "on",
+    "plays",
+    "power of",
+    "processed",
+    "recall",
+    "reduce",
+    "rely on",
+    "responsible for",
+    "role in",
+    "science of",
+    "send",
+    "sensitive to",
+    "sensory",
+    "serve",
+    "shown",
+    "through",
+    "to",
+    "to detect",
+    "to find",
+    "to identify",
+    "trigger",
+    "triggered",
+    "triggers",
+    "uses",
+    "warning of",
+    "with"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Film editing is an essential aspect of the filmmaking process.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editing involves selecting and arranging shots in a film.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editing creates a cohesive and engaging narrative.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editing is often referred to as the 'invisible art'.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Editing transforms raw footage into a compelling cinematic experience.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A film editor shapes the story by deciding what shots to include.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A film editor decides the order in which shots appear.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "A film editor manipulates timing, pace, and rhythm to evoke emotions.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The editing process starts with the assembly of raw footage.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The rough cut serves as the foundation for the final film.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Film editors refine the rough cut by fine-tuning pacing and trimming footage.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Continuity editing techniques maintain spatial and temporal coherence.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Creative editing techniques convey meaning and evoke emotions.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Film editors manipulate time and space using techniques like flashbacks.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sound design impacts the emotional impact of a scene.",
+    "retrieved_context": "FILM EDITING The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative FILM EDITOR. FILM EDITING The rough cut is the first step in the film editing process, serving as the foundation for the final film ROUGH CUT.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

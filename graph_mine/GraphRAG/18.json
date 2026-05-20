@@ -1,0 +1,16 @@
+{
+  "entities": [
+    "AXOLOTL",
+    "MEXICO"
+  ],
+  "relations": [
+    [
+      "AXOLOTL",
+      "The axolotl is native to Mexico and has remarkable regenerative abilities",
+      "MEXICO"
+    ]
+  ],
+  "edges": [
+    "The axolotl is native to Mexico and has remarkable regenerative abilities"
+  ]
+}

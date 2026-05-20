@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "OLFACTORY SYSTEM",
+    "LATERAL LINE",
+    "GREAT WHITE SHARK",
+    "SHARKS",
+    "TAPETUM LUCIDUM",
+    "LATERAL LINE SYSTEM",
+    "AMPULLAE OF LORENZINI"
+  ],
+  "relations": [
+    [
+      "SHARKS",
+      "Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting",
+      "OLFACTORY SYSTEM"
+    ],
+    [
+      "SHARKS",
+      "Sharks rely on their lateral line system to detect vibrations and movements in the water",
+      "LATERAL LINE SYSTEM"
+    ],
+    [
+      "SHARKS",
+      "Sharks have ampullae of Lorenzini to detect electrical signals from other organisms",
+      "AMPULLAE OF LORENZINI"
+    ],
+    [
+      "SHARKS",
+      "Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators",
+      "GREAT WHITE SHARK"
+    ],
+    [
+      "SHARKS",
+      "The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision",
+      "TAPETUM LUCIDUM"
+    ],
+    [
+      "SHARKS",
+      "Sharks use the lateral line system to detect prey through changes in water pressure and movement",
+      "LATERAL LINE"
+    ]
+  ],
+  "edges": [
+    "Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting",
+    "Sharks rely on their lateral line system to detect vibrations and movements in the water",
+    "Sharks have ampullae of Lorenzini to detect electrical signals from other organisms",
+    "Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators",
+    "The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision",
+    "Sharks use the lateral line system to detect prey through changes in water pressure and movement"
+  ]
+}

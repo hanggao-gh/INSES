@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "People collect items like stamps, coins, or vintage memorabilia.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can be a reflection of human nature.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can trigger fond memories and emotions.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "A person who collects antique furniture may appreciate craftsmanship and history.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting allows individuals to express their identity and interests.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music enthusiasts may collect vinyl records or concert memorabilia.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of accomplishment and fulfillment.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collectors derive pride and fulfillment from completing sets or finding unique pieces.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can serve as a form of investment.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Artwork, rare books, or vintage cars can appreciate in value over time.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can be linked to psychological motivations and behaviors.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can satisfy the human need for completion and closure.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can offer individuals a source of novelty and excitement.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of adventure and exploration.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting serves as a meaningful and rewarding pursuit for many individuals.",
+    "retrieved_context": "COLLECTING Concert memorabilia is collected to commemorate music events and express fandom CONCERT MEMORABILIA. COLLECTING Vintage memorabilia are items that people collect to connect with the past VINTAGE MEMORABILIA. COLLECTING Antique furniture is collected for its historical and craftsmanship value ANTIQUE FURNITURE. COLLECTING Vinyl records are collected by music enthusiasts as a form of self-expression and to celebrate favorite artists VINYL RECORDS.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

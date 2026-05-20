@@ -1,0 +1,919 @@
+{
+  "entities": [
+    "actions",
+    "affordable prices",
+    "air pollution",
+    "alarming",
+    "alterations",
+    "carbon emissions",
+    "carbon footprint",
+    "cheap labor",
+    "circular economy principles",
+    "conclusion",
+    "conscious consumer behavior",
+    "consume clothing",
+    "consumers",
+    "cotton",
+    "decompose",
+    "deforestation",
+    "demand",
+    "depletion",
+    "designing clothing",
+    "desire",
+    "detect",
+    "developing countries",
+    "discard clothing",
+    "dominant force",
+    "eco-friendly practices",
+    "efficient production processes",
+    "environment",
+    "environmental footprint",
+    "environmental impact",
+    "environmental protection agency",
+    "ethical clothing ecosystem",
+    "ethical fashion brands",
+    "excessive consumption",
+    "extraction",
+    "fashion industry",
+    "fast fashion",
+    "fertilizers",
+    "finished products",
+    "fossil fuel reserves",
+    "garment production",
+    "garments",
+    "global carbon emissions",
+    "greenhouse gas emissions",
+    "landfill space",
+    "landfills",
+    "long hours",
+    "longevity",
+    "massive quantities",
+    "mindful consumption",
+    "mitigate",
+    "multifaceted",
+    "negative effects",
+    "non-renewable resources",
+    "nylon",
+    "organic materials",
+    "pesticides",
+    "petrochemicals",
+    "pollution",
+    "polyester",
+    "potential solutions",
+    "prey",
+    "processing",
+    "production",
+    "quick turnover",
+    "rapid turnover",
+    "raw materials",
+    "recycled materials",
+    "recycling",
+    "repairs",
+    "resource depletion",
+    "responsibility",
+    "reuse",
+    "revolutionized",
+    "sharks",
+    "significant",
+    "strategies",
+    "sustainable fashion practices",
+    "sustainable future",
+    "synthetic fibers",
+    "synthetic materials",
+    "textile waste",
+    "textiles",
+    "transportation",
+    "trends",
+    "trendy clothing",
+    "united nations environment programme",
+    "united states",
+    "unsafe working conditions",
+    "virgin resources",
+    "waste",
+    "water pollution",
+    "water scarcity",
+    "wears"
+  ],
+  "relations": [
+    [
+      "actions",
+      "towards",
+      "sustainable future"
+    ],
+    [
+      "cheap labor",
+      "in",
+      "developing countries"
+    ],
+    [
+      "circular economy principles",
+      "minimize",
+      "virgin resources"
+    ],
+    [
+      "circular economy principles",
+      "prioritize",
+      "recycling"
+    ],
+    [
+      "circular economy principles",
+      "prioritize",
+      "reuse"
+    ],
+    [
+      "conscious consumer behavior",
+      "reduces",
+      "environmental footprint"
+    ],
+    [
+      "consumers",
+      "extend",
+      "alterations"
+    ],
+    [
+      "consumers",
+      "extend",
+      "repairs"
+    ],
+    [
+      "consumers",
+      "practice",
+      "mindful consumption"
+    ],
+    [
+      "consumers",
+      "support",
+      "ethical fashion brands"
+    ],
+    [
+      "consumers",
+      "to",
+      "discard clothing"
+    ],
+    [
+      "cotton",
+      "linked to",
+      "deforestation"
+    ],
+    [
+      "cotton",
+      "linked to",
+      "fertilizers"
+    ],
+    [
+      "cotton",
+      "linked to",
+      "pesticides"
+    ],
+    [
+      "cotton",
+      "linked to",
+      "water scarcity"
+    ],
+    [
+      "demand",
+      "continues to",
+      "actions"
+    ],
+    [
+      "demand",
+      "continues to",
+      "air pollution"
+    ],
+    [
+      "demand",
+      "continues to",
+      "alarming"
+    ],
+    [
+      "demand",
+      "continues to",
+      "alterations"
+    ],
+    [
+      "demand",
+      "continues to",
+      "carbon emissions"
+    ],
+    [
+      "demand",
+      "continues to",
+      "carbon footprint"
+    ],
+    [
+      "demand",
+      "continues to",
+      "cheap labor"
+    ],
+    [
+      "demand",
+      "continues to",
+      "circular economy principles"
+    ],
+    [
+      "demand",
+      "continues to",
+      "conclusion"
+    ],
+    [
+      "demand",
+      "continues to",
+      "conscious consumer behavior"
+    ],
+    [
+      "demand",
+      "continues to",
+      "consumers"
+    ],
+    [
+      "demand",
+      "continues to",
+      "cotton"
+    ],
+    [
+      "demand",
+      "continues to",
+      "decompose"
+    ],
+    [
+      "demand",
+      "continues to",
+      "deforestation"
+    ],
+    [
+      "demand",
+      "continues to",
+      "depletion"
+    ],
+    [
+      "demand",
+      "continues to",
+      "designing clothing"
+    ],
+    [
+      "demand",
+      "continues to",
+      "developing countries"
+    ],
+    [
+      "demand",
+      "continues to",
+      "discard clothing"
+    ],
+    [
+      "demand",
+      "continues to",
+      "eco-friendly practices"
+    ],
+    [
+      "demand",
+      "continues to",
+      "efficient production processes"
+    ],
+    [
+      "demand",
+      "continues to",
+      "environment"
+    ],
+    [
+      "demand",
+      "continues to",
+      "environmental footprint"
+    ],
+    [
+      "demand",
+      "continues to",
+      "environmental protection agency"
+    ],
+    [
+      "demand",
+      "continues to",
+      "ethical clothing ecosystem"
+    ],
+    [
+      "demand",
+      "continues to",
+      "ethical fashion brands"
+    ],
+    [
+      "demand",
+      "continues to",
+      "excessive consumption"
+    ],
+    [
+      "demand",
+      "continues to",
+      "extraction"
+    ],
+    [
+      "demand",
+      "continues to",
+      "fashion industry"
+    ],
+    [
+      "demand",
+      "continues to",
+      "fertilizers"
+    ],
+    [
+      "demand",
+      "continues to",
+      "finished products"
+    ],
+    [
+      "demand",
+      "continues to",
+      "fossil fuel reserves"
+    ],
+    [
+      "demand",
+      "continues to",
+      "garment production"
+    ],
+    [
+      "demand",
+      "continues to",
+      "garments"
+    ],
+    [
+      "demand",
+      "continues to",
+      "global carbon emissions"
+    ],
+    [
+      "demand",
+      "continues to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "demand",
+      "continues to",
+      "landfill space"
+    ],
+    [
+      "demand",
+      "continues to",
+      "landfills"
+    ],
+    [
+      "demand",
+      "continues to",
+      "long hours"
+    ],
+    [
+      "demand",
+      "continues to",
+      "longevity"
+    ],
+    [
+      "demand",
+      "continues to",
+      "massive quantities"
+    ],
+    [
+      "demand",
+      "continues to",
+      "mindful consumption"
+    ],
+    [
+      "demand",
+      "continues to",
+      "mitigate"
+    ],
+    [
+      "demand",
+      "continues to",
+      "multifaceted"
+    ],
+    [
+      "demand",
+      "continues to",
+      "negative effects"
+    ],
+    [
+      "demand",
+      "continues to",
+      "non-renewable resources"
+    ],
+    [
+      "demand",
+      "continues to",
+      "nylon"
+    ],
+    [
+      "demand",
+      "continues to",
+      "organic materials"
+    ],
+    [
+      "demand",
+      "continues to",
+      "pesticides"
+    ],
+    [
+      "demand",
+      "continues to",
+      "petrochemicals"
+    ],
+    [
+      "demand",
+      "continues to",
+      "pollution"
+    ],
+    [
+      "demand",
+      "continues to",
+      "polyester"
+    ],
+    [
+      "demand",
+      "continues to",
+      "potential solutions"
+    ],
+    [
+      "demand",
+      "continues to",
+      "processing"
+    ],
+    [
+      "demand",
+      "continues to",
+      "production"
+    ],
+    [
+      "demand",
+      "continues to",
+      "rapid turnover"
+    ],
+    [
+      "demand",
+      "continues to",
+      "raw materials"
+    ],
+    [
+      "demand",
+      "continues to",
+      "recycled materials"
+    ],
+    [
+      "demand",
+      "continues to",
+      "recycling"
+    ],
+    [
+      "demand",
+      "continues to",
+      "repairs"
+    ],
+    [
+      "demand",
+      "continues to",
+      "resource depletion"
+    ],
+    [
+      "demand",
+      "continues to",
+      "responsibility"
+    ],
+    [
+      "demand",
+      "continues to",
+      "reuse"
+    ],
+    [
+      "demand",
+      "continues to",
+      "significant"
+    ],
+    [
+      "demand",
+      "continues to",
+      "strategies"
+    ],
+    [
+      "demand",
+      "continues to",
+      "sustainable fashion practices"
+    ],
+    [
+      "demand",
+      "continues to",
+      "sustainable future"
+    ],
+    [
+      "demand",
+      "continues to",
+      "synthetic fibers"
+    ],
+    [
+      "demand",
+      "continues to",
+      "synthetic materials"
+    ],
+    [
+      "demand",
+      "continues to",
+      "textile waste"
+    ],
+    [
+      "demand",
+      "continues to",
+      "textiles"
+    ],
+    [
+      "demand",
+      "continues to",
+      "transportation"
+    ],
+    [
+      "demand",
+      "continues to",
+      "trends"
+    ],
+    [
+      "demand",
+      "continues to",
+      "united nations environment programme"
+    ],
+    [
+      "demand",
+      "continues to",
+      "united states"
+    ],
+    [
+      "demand",
+      "continues to",
+      "unsafe working conditions"
+    ],
+    [
+      "demand",
+      "continues to",
+      "virgin resources"
+    ],
+    [
+      "demand",
+      "continues to",
+      "waste"
+    ],
+    [
+      "demand",
+      "continues to",
+      "water pollution"
+    ],
+    [
+      "demand",
+      "continues to",
+      "water scarcity"
+    ],
+    [
+      "demand",
+      "continues to",
+      "wears"
+    ],
+    [
+      "demand",
+      "for",
+      "fast fashion"
+    ],
+    [
+      "depletion",
+      "of",
+      "fossil fuel reserves"
+    ],
+    [
+      "designing clothing",
+      "for",
+      "longevity"
+    ],
+    [
+      "desire",
+      "for",
+      "quick turnover"
+    ],
+    [
+      "discard clothing",
+      "after",
+      "wears"
+    ],
+    [
+      "eco-friendly practices",
+      "promote",
+      "conscious consumer behavior"
+    ],
+    [
+      "environmental footprint",
+      "creates",
+      "ethical clothing ecosystem"
+    ],
+    [
+      "environmental footprint",
+      "encompasses",
+      "carbon emissions"
+    ],
+    [
+      "environmental footprint",
+      "encompasses",
+      "resource depletion"
+    ],
+    [
+      "environmental footprint",
+      "encompasses",
+      "textile waste"
+    ],
+    [
+      "environmental footprint",
+      "is",
+      "alarming"
+    ],
+    [
+      "environmental footprint",
+      "is",
+      "multifaceted"
+    ],
+    [
+      "environmental footprint",
+      "is",
+      "significant"
+    ],
+    [
+      "environmental footprint",
+      "of",
+      "fashion industry"
+    ],
+    [
+      "environmental footprint",
+      "of",
+      "fast fashion"
+    ],
+    [
+      "environmental protection agency",
+      "states",
+      "textiles"
+    ],
+    [
+      "excessive consumption",
+      "of",
+      "non-renewable resources"
+    ],
+    [
+      "extraction",
+      "contributes to",
+      "air pollution"
+    ],
+    [
+      "extraction",
+      "contributes to",
+      "depletion"
+    ],
+    [
+      "extraction",
+      "contributes to",
+      "water pollution"
+    ],
+    [
+      "extraction",
+      "of",
+      "petrochemicals"
+    ],
+    [
+      "fashion industry",
+      "responsible for",
+      "global carbon emissions"
+    ],
+    [
+      "fast fashion",
+      "causes",
+      "excessive consumption"
+    ],
+    [
+      "fast fashion",
+      "causes",
+      "textile waste"
+    ],
+    [
+      "fast fashion",
+      "driven by",
+      "desire"
+    ],
+    [
+      "fast fashion",
+      "has",
+      "carbon footprint"
+    ],
+    [
+      "fast fashion",
+      "has",
+      "negative effects"
+    ],
+    [
+      "fast fashion",
+      "has become",
+      "dominant force"
+    ],
+    [
+      "fast fashion",
+      "produces",
+      "massive quantities"
+    ],
+    [
+      "fast fashion",
+      "relies on",
+      "cheap labor"
+    ],
+    [
+      "fast fashion",
+      "revolutionized",
+      "consume clothing"
+    ],
+    [
+      "garment production",
+      "involves",
+      "long hours"
+    ],
+    [
+      "garment production",
+      "involves",
+      "unsafe working conditions"
+    ],
+    [
+      "garments",
+      "relies on",
+      "synthetic materials"
+    ],
+    [
+      "landfill space",
+      "in",
+      "united states"
+    ],
+    [
+      "massive quantities",
+      "end up in",
+      "landfills"
+    ],
+    [
+      "negative effects",
+      "on",
+      "environment"
+    ],
+    [
+      "processing",
+      "of",
+      "petrochemicals"
+    ],
+    [
+      "production",
+      "of",
+      "cotton"
+    ],
+    [
+      "production",
+      "of",
+      "garments"
+    ],
+    [
+      "quick turnover",
+      "of",
+      "trendy clothing"
+    ],
+    [
+      "rapid turnover",
+      "encourages",
+      "consumers"
+    ],
+    [
+      "responsibility",
+      "for",
+      "actions"
+    ],
+    [
+      "strategies",
+      "include",
+      "sustainable fashion practices"
+    ],
+    [
+      "strategies",
+      "to",
+      "mitigate"
+    ],
+    [
+      "sustainable fashion practices",
+      "reduce",
+      "waste"
+    ],
+    [
+      "sustainable fashion practices",
+      "through",
+      "efficient production processes"
+    ],
+    [
+      "sustainable fashion practices",
+      "use",
+      "organic materials"
+    ],
+    [
+      "sustainable fashion practices",
+      "use",
+      "recycled materials"
+    ],
+    [
+      "synthetic fibers",
+      "contribute to",
+      "pollution"
+    ],
+    [
+      "synthetic fibers",
+      "take",
+      "decompose"
+    ],
+    [
+      "synthetic materials",
+      "derived from",
+      "petrochemicals"
+    ],
+    [
+      "synthetic materials",
+      "include",
+      "nylon"
+    ],
+    [
+      "synthetic materials",
+      "include",
+      "polyester"
+    ],
+    [
+      "textiles",
+      "account for",
+      "landfill space"
+    ],
+    [
+      "transportation",
+      "of",
+      "finished products"
+    ],
+    [
+      "transportation",
+      "of",
+      "raw materials"
+    ],
+    [
+      "transportation",
+      "results in",
+      "greenhouse gas emissions"
+    ],
+    [
+      "trendy clothing",
+      "at",
+      "affordable prices"
+    ],
+    [
+      "united nations environment programme",
+      "reports",
+      "fashion industry"
+    ]
+  ],
+  "edges": [
+    "account for",
+    "after",
+    "at",
+    "causes",
+    "continues to",
+    "contribute to",
+    "contributes to",
+    "creates",
+    "derived from",
+    "driven by",
+    "encompasses",
+    "encourages",
+    "end up in",
+    "extend",
+    "for",
+    "has",
+    "has become",
+    "in",
+    "include",
+    "involves",
+    "is",
+    "linked to",
+    "minimize",
+    "of",
+    "on",
+    "practice",
+    "prioritize",
+    "produces",
+    "promote",
+    "reduce",
+    "reduces",
+    "relies on",
+    "reports",
+    "responsible for",
+    "results in",
+    "revolutionized",
+    "states",
+    "support",
+    "take",
+    "through",
+    "to",
+    "towards",
+    "use"
+  ]
+}

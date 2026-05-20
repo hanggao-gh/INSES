@@ -1,0 +1,970 @@
+{
+    "entities": [
+        "us",
+        "complex chemical reaction",
+        "techniques",
+        "temperature ranges",
+        "changes",
+        "their dishes",
+        "better cooks",
+        "browning",
+        "unique flavor profiles",
+        "important chemical process",
+        "exposed to heat",
+        "Different chemical reactions",
+        "food preservation techniques",
+        "new flavors",
+        "fascinating aspect",
+        "desired results",
+        "Emulsions",
+        "essential",
+        "addition",
+        "emulsion",
+        "acidity",
+        "overall taste",
+        "cooking influences",
+        "hand",
+        "chemistry",
+        "more delicious dishes",
+        "chemical reaction",
+        "taste",
+        "browning process",
+        "conclusion",
+        "In conclusion aspect of culinary arts",
+        "two immiscible liquids",
+        "other hand",
+        "critical role",
+        "In conclusion aspect of arts",
+        "dish",
+        "browning of food",
+        "As we continue",
+        "Pickling",
+        "cooks",
+        "overall taste of dish",
+        "also chemical reaction",
+        "desired results in their dishes",
+        "desired flavor profile",
+        "example",
+        "smooth emulsions",
+        "culinary arts",
+        "food",
+        "role",
+        "results in their dishes",
+        "Salt",
+        "chemical reactions",
+        "creating creamy sauces",
+        "flavors of roasted meats",
+        "Acids",
+        "lemon juice",
+        "also complex chemical reaction",
+        "proteins",
+        "their ingredients",
+        "best flavors",
+        "arts",
+        "preserving food",
+        "it",
+        "delicious dishes",
+        "flavor profile",
+        "take",
+        "chemistry of cooking",
+        "meat",
+        "place",
+        "rich flavors of meats",
+        "we",
+        "we continue",
+        "In conclusion fascinating aspect",
+        "flavors",
+        "rich flavors",
+        "creating sauces",
+        "cooking",
+        "goods",
+        "natural flavors",
+        "natural flavors of ingredients",
+        "In conclusion fascinating aspect of arts",
+        "creamy sauces",
+        "chefs",
+        "when exposed to heat",
+        "microorganisms",
+        "when exposed",
+        "Fermentation",
+        "sugars",
+        "crucial role",
+        "responsible",
+        "refreshing acidity",
+        "salts",
+        "sauces",
+        "rich flavors of roasted meats",
+        "In conclusion aspect",
+        "exposed",
+        "fruits",
+        "texture of meat",
+        "flavors of ingredients",
+        "complex",
+        "taste of dish",
+        "Maillard reaction",
+        "fruits from browning",
+        "fruit salad",
+        "emulsions",
+        "results",
+        "aspect",
+        "dishes",
+        "stable emulsion",
+        "flavor profiles",
+        "In conclusion fascinating aspect of culinary arts",
+        "flavors of meats",
+        "acids",
+        "different temperature ranges",
+        "two liquids",
+        "process"
+    ],
+    "relations": [
+        [
+            "it",
+            "is",
+            "complex"
+        ],
+        [
+            "it",
+            "is",
+            "also complex chemical reaction"
+        ],
+        [
+            "it",
+            "is",
+            "chemical reaction"
+        ],
+        [
+            "it",
+            "is",
+            "also chemical reaction"
+        ],
+        [
+            "it",
+            "is",
+            "complex chemical reaction"
+        ],
+        [
+            "chemistry",
+            "plays",
+            "crucial role"
+        ],
+        [
+            "chemistry",
+            "plays",
+            "role"
+        ],
+        [
+            "role",
+            "chemistry of",
+            "cooking"
+        ],
+        [
+            "crucial role",
+            "chemistry of",
+            "cooking"
+        ],
+        [
+            "us",
+            "become",
+            "better cooks"
+        ],
+        [
+            "us",
+            "create",
+            "delicious dishes"
+        ],
+        [
+            "us",
+            "become",
+            "cooks"
+        ],
+        [
+            "us",
+            "create",
+            "more delicious dishes"
+        ],
+        [
+            "take",
+            "place during",
+            "cooking"
+        ],
+        [
+            "proteins",
+            "are",
+            "when exposed to heat"
+        ],
+        [
+            "sugars",
+            "resulting in",
+            "browning of food"
+        ],
+        [
+            "proteins",
+            "is in",
+            "food"
+        ],
+        [
+            "proteins",
+            "are",
+            "exposed"
+        ],
+        [
+            "proteins",
+            "are",
+            "when exposed"
+        ],
+        [
+            "proteins",
+            "are",
+            "exposed to heat"
+        ],
+        [
+            "sugars",
+            "resulting in",
+            "browning"
+        ],
+        [
+            "sugars",
+            "proteins in",
+            "food"
+        ],
+        [
+            "Maillard reaction",
+            "is responsible for",
+            "flavors of meats"
+        ],
+        [
+            "Maillard reaction",
+            "is",
+            "responsible"
+        ],
+        [
+            "Maillard reaction",
+            "baked",
+            "goods"
+        ],
+        [
+            "Maillard reaction",
+            "is responsible for",
+            "flavors of roasted meats"
+        ],
+        [
+            "Maillard reaction",
+            "is responsible for",
+            "rich flavors of roasted meats"
+        ],
+        [
+            "Maillard reaction",
+            "is responsible for",
+            "flavors"
+        ],
+        [
+            "Maillard reaction",
+            "is responsible for",
+            "rich flavors"
+        ],
+        [
+            "Maillard reaction",
+            "is responsible for",
+            "rich flavors of meats"
+        ],
+        [
+            "browning process",
+            "achieve",
+            "desired flavor profile"
+        ],
+        [
+            "browning process",
+            "achieve",
+            "flavor profile"
+        ],
+        [
+            "cooks",
+            "can control",
+            "browning process"
+        ],
+        [
+            "browning process",
+            "achieve flavor profile in",
+            "their dishes"
+        ],
+        [
+            "important chemical process",
+            "is in",
+            "cooking"
+        ],
+        [
+            "two immiscible liquids",
+            "form",
+            "stable emulsion"
+        ],
+        [
+            "two liquids",
+            "form",
+            "stable emulsion"
+        ],
+        [
+            "two liquids",
+            "form",
+            "emulsion"
+        ],
+        [
+            "two immiscible liquids",
+            "form",
+            "emulsion"
+        ],
+        [
+            "Emulsions",
+            "play role in",
+            "creating sauces"
+        ],
+        [
+            "Emulsions",
+            "play role in",
+            "creating creamy sauces"
+        ],
+        [
+            "Emulsions",
+            "play role in",
+            "creamy sauces"
+        ],
+        [
+            "Emulsions",
+            "play",
+            "role"
+        ],
+        [
+            "Emulsions",
+            "play role in",
+            "sauces"
+        ],
+        [
+            "Emulsions",
+            "play",
+            "crucial role"
+        ],
+        [
+            "cooks",
+            "can create",
+            "emulsions"
+        ],
+        [
+            "cooks",
+            "can create",
+            "smooth emulsions"
+        ],
+        [
+            "Acids",
+            "play",
+            "critical role"
+        ],
+        [
+            "Acids",
+            "play",
+            "role"
+        ],
+        [
+            "Acids",
+            "also play",
+            "critical role"
+        ],
+        [
+            "Acids",
+            "also play",
+            "role"
+        ],
+        [
+            "Acids",
+            "play role in",
+            "cooking"
+        ],
+        [
+            "Acids",
+            "also play role in",
+            "cooking"
+        ],
+        [
+            "meat",
+            "enhance",
+            "taste of dish"
+        ],
+        [
+            "meat",
+            "enhance",
+            "overall taste of dish"
+        ],
+        [
+            "meat",
+            "enhance",
+            "overall taste"
+        ],
+        [
+            "meat",
+            "enhance",
+            "taste"
+        ],
+        [
+            "addition",
+            "add",
+            "acidity"
+        ],
+        [
+            "addition",
+            "can prevent",
+            "fruits"
+        ],
+        [
+            "addition",
+            "can prevent",
+            "fruits from browning"
+        ],
+        [
+            "addition",
+            "add",
+            "refreshing acidity"
+        ],
+        [
+            "addition",
+            "can prevent fruits For",
+            "example"
+        ],
+        [
+            "fruits",
+            "addition of",
+            "lemon juice"
+        ],
+        [
+            "fruits",
+            "addition to",
+            "fruit salad"
+        ],
+        [
+            "addition",
+            "add acidity to",
+            "dish"
+        ],
+        [
+            "role",
+            "is in",
+            "cooking"
+        ],
+        [
+            "salts",
+            "are essential In",
+            "acids"
+        ],
+        [
+            "salts",
+            "are",
+            "essential"
+        ],
+        [
+            "Salt",
+            "amplify",
+            "natural flavors"
+        ],
+        [
+            "flavors",
+            "tenderize",
+            "proteins"
+        ],
+        [
+            "Salt",
+            "amplify",
+            "flavors"
+        ],
+        [
+            "Salt",
+            "amplify",
+            "flavors of ingredients"
+        ],
+        [
+            "natural flavors",
+            "tenderize",
+            "proteins"
+        ],
+        [
+            "Salt",
+            "amplify",
+            "natural flavors of ingredients"
+        ],
+        [
+            "chefs",
+            "bring out",
+            "flavors"
+        ],
+        [
+            "chefs",
+            "bring out flavors in",
+            "their ingredients"
+        ],
+        [
+            "chefs",
+            "can season effectively",
+            "their dishes"
+        ],
+        [
+            "chefs",
+            "bring out",
+            "best flavors"
+        ],
+        [
+            "chefs",
+            "can season",
+            "their dishes"
+        ],
+        [
+            "role",
+            "is in",
+            "cooking"
+        ],
+        [
+            "chemical reactions",
+            "take place at",
+            "different temperature ranges"
+        ],
+        [
+            "Different chemical reactions",
+            "take place at",
+            "temperature ranges"
+        ],
+        [
+            "Different chemical reactions",
+            "take place at",
+            "different temperature ranges"
+        ],
+        [
+            "chemical reactions",
+            "take",
+            "place"
+        ],
+        [
+            "chemical reactions",
+            "take place at",
+            "temperature ranges"
+        ],
+        [
+            "Different chemical reactions",
+            "take",
+            "place"
+        ],
+        [
+            "changes",
+            "is in",
+            "texture of meat"
+        ],
+        [
+            "cooks",
+            "can achieve",
+            "desired results"
+        ],
+        [
+            "cooks",
+            "can achieve",
+            "desired results in their dishes"
+        ],
+        [
+            "desired results",
+            "is in",
+            "their dishes"
+        ],
+        [
+            "cooks",
+            "can achieve",
+            "results in their dishes"
+        ],
+        [
+            "cooks",
+            "can achieve",
+            "results"
+        ],
+        [
+            "chemistry",
+            "also extends to",
+            "food preservation techniques"
+        ],
+        [
+            "chemistry",
+            "extends to",
+            "food preservation techniques"
+        ],
+        [
+            "sugars",
+            "produce",
+            "acids"
+        ],
+        [
+            "Fermentation",
+            "is",
+            "process"
+        ],
+        [
+            "microorganisms",
+            "break down",
+            "sugars"
+        ],
+        [
+            "Pickling",
+            "involves food on",
+            "hand"
+        ],
+        [
+            "Pickling",
+            "involves",
+            "preserving food"
+        ],
+        [
+            "Pickling",
+            "involves food on",
+            "other hand"
+        ],
+        [
+            "Pickling",
+            "involves",
+            "food"
+        ],
+        [
+            "cooks",
+            "create",
+            "unique flavor profiles"
+        ],
+        [
+            "cooks",
+            "can preserve",
+            "food"
+        ],
+        [
+            "cooks",
+            "create",
+            "flavor profiles"
+        ],
+        [
+            "cooks",
+            "can safely preserve",
+            "food"
+        ],
+        [
+            "chemistry",
+            "is",
+            "In conclusion fascinating aspect of culinary arts"
+        ],
+        [
+            "chemistry",
+            "is",
+            "fascinating aspect"
+        ],
+        [
+            "cooking",
+            "chemistry of is",
+            "In conclusion fascinating aspect"
+        ],
+        [
+            "chemistry",
+            "is",
+            "In conclusion fascinating aspect of arts"
+        ],
+        [
+            "chemistry",
+            "is fascinating and essential aspect of",
+            "culinary arts"
+        ],
+        [
+            "chemistry",
+            "is",
+            "In conclusion aspect of arts"
+        ],
+        [
+            "cooking",
+            "chemistry of is",
+            "fascinating aspect"
+        ],
+        [
+            "chemistry",
+            "is fascinating aspect of",
+            "culinary arts"
+        ],
+        [
+            "chemistry",
+            "is fascinating",
+            "arts"
+        ],
+        [
+            "fascinating aspect",
+            "is In",
+            "conclusion"
+        ],
+        [
+            "chemistry",
+            "is fascinating and essential aspect In",
+            "conclusion"
+        ],
+        [
+            "cooking",
+            "chemistry of is",
+            "In conclusion aspect of culinary arts"
+        ],
+        [
+            "chemistry",
+            "is fascinating and essential aspect of",
+            "arts"
+        ],
+        [
+            "chemistry",
+            "is aspect of",
+            "culinary arts"
+        ],
+        [
+            "chemistry",
+            "is fascinating aspect of",
+            "arts"
+        ],
+        [
+            "chemistry",
+            "is",
+            "aspect"
+        ],
+        [
+            "cooking",
+            "chemistry of is",
+            "In conclusion fascinating aspect of culinary arts"
+        ],
+        [
+            "cooking",
+            "chemistry of is",
+            "aspect"
+        ],
+        [
+            "cooking",
+            "chemistry of is",
+            "In conclusion aspect"
+        ],
+        [
+            "chemistry",
+            "is aspect In",
+            "conclusion"
+        ],
+        [
+            "chemistry",
+            "is fascinating aspect In",
+            "conclusion"
+        ],
+        [
+            "chemistry",
+            "is",
+            "In conclusion aspect of culinary arts"
+        ],
+        [
+            "cooking",
+            "chemistry of is",
+            "In conclusion aspect of arts"
+        ],
+        [
+            "chemistry",
+            "is aspect of",
+            "arts"
+        ],
+        [
+            "cooking",
+            "chemistry of is",
+            "In conclusion fascinating aspect of arts"
+        ],
+        [
+            "chefs",
+            "understanding",
+            "chemical reactions"
+        ],
+        [
+            "chefs",
+            "can create",
+            "delicious dishes"
+        ],
+        [
+            "take",
+            "place during",
+            "cooking"
+        ],
+        [
+            "chefs",
+            "can create",
+            "dishes"
+        ],
+        [
+            "techniques",
+            "chemistry of",
+            "cooking influences"
+        ],
+        [
+            "we",
+            "can unlock flavors",
+            "we continue"
+        ],
+        [
+            "we",
+            "explore",
+            "chemistry of cooking"
+        ],
+        [
+            "we",
+            "can unlock flavors",
+            "As we continue"
+        ],
+        [
+            "we",
+            "can unlock",
+            "flavors"
+        ],
+        [
+            "we",
+            "explore",
+            "chemistry"
+        ],
+        [
+            "we",
+            "can unlock",
+            "new flavors"
+        ]
+    ],
+    "edges": [
+        "is",
+        "is",
+        "is",
+        "is",
+        "is",
+        "plays",
+        "plays",
+        "chemistry of",
+        "chemistry of",
+        "become",
+        "create",
+        "become",
+        "create",
+        "place during",
+        "are",
+        "resulting in",
+        "is in",
+        "are",
+        "are",
+        "are",
+        "resulting in",
+        "proteins in",
+        "is responsible for",
+        "is",
+        "baked",
+        "is responsible for",
+        "is responsible for",
+        "is responsible for",
+        "is responsible for",
+        "is responsible for",
+        "achieve",
+        "achieve",
+        "can control",
+        "achieve flavor profile in",
+        "is in",
+        "form",
+        "form",
+        "form",
+        "form",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play",
+        "play role in",
+        "play",
+        "can create",
+        "can create",
+        "play",
+        "play",
+        "also play",
+        "also play",
+        "play role in",
+        "also play role in",
+        "enhance",
+        "enhance",
+        "enhance",
+        "enhance",
+        "add",
+        "can prevent",
+        "can prevent",
+        "add",
+        "can prevent fruits For",
+        "addition of",
+        "addition to",
+        "add acidity to",
+        "is in",
+        "are essential In",
+        "are",
+        "amplify",
+        "tenderize",
+        "amplify",
+        "amplify",
+        "tenderize",
+        "amplify",
+        "bring out",
+        "bring out flavors in",
+        "can season effectively",
+        "bring out",
+        "can season",
+        "is in",
+        "take place at",
+        "take place at",
+        "take place at",
+        "take",
+        "take place at",
+        "take",
+        "is in",
+        "can achieve",
+        "can achieve",
+        "is in",
+        "can achieve",
+        "can achieve",
+        "also extends to",
+        "extends to",
+        "produce",
+        "is",
+        "break down",
+        "involves food on",
+        "involves",
+        "involves food on",
+        "involves",
+        "create",
+        "can preserve",
+        "create",
+        "can safely preserve",
+        "is",
+        "is",
+        "chemistry of is",
+        "is",
+        "is fascinating and essential aspect of",
+        "is",
+        "chemistry of is",
+        "is fascinating aspect of",
+        "is fascinating",
+        "is In",
+        "is fascinating and essential aspect In",
+        "chemistry of is",
+        "is fascinating and essential aspect of",
+        "is aspect of",
+        "is fascinating aspect of",
+        "is",
+        "chemistry of is",
+        "chemistry of is",
+        "chemistry of is",
+        "is aspect In",
+        "is fascinating aspect In",
+        "is",
+        "chemistry of is",
+        "is aspect of",
+        "chemistry of is",
+        "understanding",
+        "can create",
+        "place during",
+        "can create",
+        "chemistry of",
+        "can unlock flavors",
+        "explore",
+        "can unlock flavors",
+        "can unlock",
+        "explore",
+        "can unlock"
+    ]
+}

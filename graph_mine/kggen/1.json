@@ -1,0 +1,503 @@
+{
+  "entities": [
+    "adult",
+    "adulthood",
+    "antennae",
+    "appearance",
+    "appreciation",
+    "balance",
+    "beauty",
+    "biodiversity",
+    "birds",
+    "body",
+    "butterfly",
+    "camouflage",
+    "caterpillar",
+    "changes",
+    "chrysalis",
+    "color",
+    "conclusion",
+    "connections",
+    "creatures",
+    "days",
+    "eaters",
+    "eating",
+    "ecosystem",
+    "egg",
+    "emerges",
+    "essay",
+    "feeding",
+    "female",
+    "flight",
+    "flowers",
+    "fluid",
+    "food",
+    "food source",
+    "grace",
+    "growing",
+    "hairs",
+    "hatches",
+    "host plants",
+    "insects",
+    "journey",
+    "larva",
+    "larvae",
+    "leaves",
+    "life cycle",
+    "lifespan",
+    "mate",
+    "metamorphosis",
+    "molting",
+    "moment",
+    "mouthparts",
+    "nectar",
+    "organs",
+    "phase",
+    "plant populations",
+    "plants",
+    "point",
+    "pollen",
+    "pollination",
+    "predators",
+    "proboscis",
+    "process",
+    "processes",
+    "protection",
+    "pupa",
+    "reproduce",
+    "reproducing",
+    "reproduction",
+    "reptiles",
+    "role",
+    "shape",
+    "shell",
+    "size",
+    "skin",
+    "species",
+    "spines",
+    "stage",
+    "stages",
+    "structures",
+    "substance",
+    "survival",
+    "tissues",
+    "transformation",
+    "transformations",
+    "twigs",
+    "understanding",
+    "weeks",
+    "wings",
+    "wonder",
+    "world"
+  ],
+  "relations": [
+    [
+      "adult",
+      "emerges from",
+      "chrysalis"
+    ],
+    [
+      "appearance",
+      "of",
+      "leaves"
+    ],
+    [
+      "appearance",
+      "of",
+      "twigs"
+    ],
+    [
+      "appreciation",
+      "for",
+      "connections"
+    ],
+    [
+      "balance",
+      "of",
+      "plant populations"
+    ],
+    [
+      "body",
+      "undergoes",
+      "changes"
+    ],
+    [
+      "butterfly",
+      "are",
+      "creatures"
+    ],
+    [
+      "butterfly",
+      "are",
+      "insects"
+    ],
+    [
+      "butterfly",
+      "contribute to",
+      "biodiversity"
+    ],
+    [
+      "butterfly",
+      "contribute to",
+      "ecosystem"
+    ],
+    [
+      "butterfly",
+      "feed on",
+      "nectar"
+    ],
+    [
+      "butterfly",
+      "focus on",
+      "mate"
+    ],
+    [
+      "butterfly",
+      "focus on",
+      "reproducing"
+    ],
+    [
+      "butterfly",
+      "have",
+      "lifespan"
+    ],
+    [
+      "butterfly",
+      "help",
+      "plants"
+    ],
+    [
+      "butterfly",
+      "play role in",
+      "pollination"
+    ],
+    [
+      "butterfly",
+      "reach",
+      "adulthood"
+    ],
+    [
+      "butterfly",
+      "ready for",
+      "flight"
+    ],
+    [
+      "butterfly",
+      "serve as",
+      "food source"
+    ],
+    [
+      "butterfly",
+      "undergo",
+      "transformation"
+    ],
+    [
+      "butterfly",
+      "use",
+      "mouthparts"
+    ],
+    [
+      "caterpillar",
+      "are",
+      "eaters"
+    ],
+    [
+      "caterpillar",
+      "are essential to",
+      "ecosystem"
+    ],
+    [
+      "caterpillar",
+      "forms",
+      "shell"
+    ],
+    [
+      "caterpillar",
+      "have",
+      "hairs"
+    ],
+    [
+      "caterpillar",
+      "have",
+      "spines"
+    ],
+    [
+      "caterpillar",
+      "maintain",
+      "balance"
+    ],
+    [
+      "caterpillar",
+      "mimic",
+      "appearance"
+    ],
+    [
+      "caterpillar",
+      "play role in",
+      "pollination"
+    ],
+    [
+      "caterpillar",
+      "reach",
+      "point"
+    ],
+    [
+      "caterpillar",
+      "shed",
+      "skin"
+    ],
+    [
+      "caterpillar",
+      "spend time",
+      "feeding"
+    ],
+    [
+      "caterpillar",
+      "spend time",
+      "growing"
+    ],
+    [
+      "caterpillar",
+      "stops",
+      "eating"
+    ],
+    [
+      "caterpillar",
+      "undergoes",
+      "metamorphosis"
+    ],
+    [
+      "connections",
+      "and",
+      "processes"
+    ],
+    [
+      "egg",
+      "hatches into",
+      "larva"
+    ],
+    [
+      "essay",
+      "explore",
+      "stages"
+    ],
+    [
+      "female",
+      "lay",
+      "egg"
+    ],
+    [
+      "food source",
+      "for",
+      "birds"
+    ],
+    [
+      "food source",
+      "for",
+      "insects"
+    ],
+    [
+      "food source",
+      "for",
+      "reptiles"
+    ],
+    [
+      "hairs",
+      "for",
+      "protection"
+    ],
+    [
+      "host plants",
+      "provide",
+      "food"
+    ],
+    [
+      "journey",
+      "filled with",
+      "stages"
+    ],
+    [
+      "journey",
+      "filled with",
+      "transformations"
+    ],
+    [
+      "larva",
+      "is known as",
+      "caterpillar"
+    ],
+    [
+      "life cycle",
+      "is",
+      "journey"
+    ],
+    [
+      "life cycle",
+      "is filled with",
+      "beauty"
+    ],
+    [
+      "life cycle",
+      "is filled with",
+      "wonder"
+    ],
+    [
+      "lifespan",
+      "of",
+      "days"
+    ],
+    [
+      "lifespan",
+      "of",
+      "weeks"
+    ],
+    [
+      "moment",
+      "of",
+      "beauty"
+    ],
+    [
+      "moment",
+      "of",
+      "grace"
+    ],
+    [
+      "mouthparts",
+      "are called",
+      "proboscis"
+    ],
+    [
+      "nectar",
+      "from",
+      "flowers"
+    ],
+    [
+      "organs",
+      "dissolve into",
+      "substance"
+    ],
+    [
+      "phase",
+      "plays role in",
+      "reproduction"
+    ],
+    [
+      "phase",
+      "plays role in",
+      "survival"
+    ],
+    [
+      "process",
+      "is known as",
+      "molting"
+    ],
+    [
+      "processes",
+      "of",
+      "world"
+    ],
+    [
+      "shell",
+      "is called",
+      "chrysalis"
+    ],
+    [
+      "spines",
+      "for",
+      "protection"
+    ],
+    [
+      "stage",
+      "is",
+      "adult"
+    ],
+    [
+      "stage",
+      "is",
+      "egg"
+    ],
+    [
+      "stage",
+      "is",
+      "pupa"
+    ],
+    [
+      "structures",
+      "such as",
+      "antennae"
+    ],
+    [
+      "structures",
+      "such as",
+      "wings"
+    ],
+    [
+      "substance",
+      "is",
+      "tissues"
+    ],
+    [
+      "tissues",
+      "form",
+      "structures"
+    ],
+    [
+      "transformation",
+      "throughout",
+      "life cycle"
+    ],
+    [
+      "understanding",
+      "and",
+      "appreciation"
+    ],
+    [
+      "wings",
+      "are pumped with",
+      "fluid"
+    ]
+  ],
+  "edges": [
+    "and",
+    "are",
+    "are called",
+    "are essential to",
+    "are pumped with",
+    "contribute to",
+    "dissolve into",
+    "emerges from",
+    "explore",
+    "feed on",
+    "filled with",
+    "focus on",
+    "for",
+    "form",
+    "forms",
+    "from",
+    "hatches into",
+    "have",
+    "help",
+    "is",
+    "is called",
+    "is filled with",
+    "is known as",
+    "lay",
+    "maintain",
+    "mimic",
+    "of",
+    "play role in",
+    "plays role in",
+    "provide",
+    "reach",
+    "ready for",
+    "serve as",
+    "shed",
+    "spend time",
+    "stops",
+    "such as",
+    "throughout",
+    "undergo",
+    "undergoes",
+    "use"
+  ]
+}

@@ -1,0 +1,844 @@
+{
+  "entities": [
+    "accessibility",
+    "advancements",
+    "artificial objects",
+    "atmosphere",
+    "balance",
+    "batteries",
+    "body",
+    "broadcasting",
+    "bus",
+    "cameras",
+    "climate",
+    "climate patterns",
+    "communicate",
+    "communication",
+    "communication satellite",
+    "communication systems",
+    "complex",
+    "components",
+    "conclusion",
+    "connect",
+    "conservation efforts",
+    "contagious",
+    "continents",
+    "control systems",
+    "costs",
+    "coverage",
+    "cubesats",
+    "cutting-edge technology",
+    "data",
+    "data transmission rates",
+    "depths",
+    "developing countries",
+    "drive innovation",
+    "earth",
+    "earth observation",
+    "earth stations",
+    "earth-orbiting",
+    "educational institutions",
+    "electric propulsion systems",
+    "electricity",
+    "environmental monitoring",
+    "equator",
+    "equipment",
+    "essay",
+    "essential tools",
+    "explore",
+    "faster communication",
+    "forms",
+    "functions",
+    "future",
+    "geostationary orbit (geo)",
+    "geostationary satellites",
+    "global connectivity",
+    "gravity",
+    "ground stations",
+    "harnessing",
+    "health",
+    "hurricanes",
+    "industries",
+    "industry",
+    "infrastructure",
+    "instruments",
+    "internet",
+    "land cover",
+    "laser communication technology",
+    "laughter",
+    "launch",
+    "laws",
+    "limitless",
+    "low earth orbit (leo)",
+    "low earth orbit satellites",
+    "maneuver",
+    "meteorologists",
+    "miniaturization",
+    "monitor",
+    "motion",
+    "national security",
+    "natural disasters",
+    "navigation",
+    "object",
+    "oceans",
+    "operate",
+    "operational lifetimes",
+    "orbit",
+    "orbiting",
+    "payload",
+    "people",
+    "phone calls",
+    "physics",
+    "planet",
+    "point",
+    "polar orbit",
+    "potential",
+    "power",
+    "precision",
+    "predict",
+    "primary function",
+    "principles",
+    "propulsion",
+    "pull",
+    "purpose",
+    "radio signals",
+    "relay",
+    "reliable communication",
+    "remote areas",
+    "remote sensing",
+    "revolutionized",
+    "role",
+    "rotation",
+    "rural areas",
+    "satellite internet",
+    "satellite technology",
+    "satellites",
+    "scientific research",
+    "scientific research satellites",
+    "sectors",
+    "sensors",
+    "signals",
+    "small satellites",
+    "solar panels",
+    "solve challenges",
+    "space",
+    "specific orbits",
+    "speed",
+    "startups",
+    "storms",
+    "structure",
+    "study",
+    "sunlight",
+    "systems",
+    "technology",
+    "telecommunications",
+    "television",
+    "tools",
+    "track",
+    "tsunamis",
+    "types",
+    "understanding",
+    "uses",
+    "warnings",
+    "way of life",
+    "weather forecasting",
+    "weather patterns",
+    "weather satellites",
+    "work",
+    "world"
+  ],
+  "relations": [
+    [
+      "accessibility",
+      "for",
+      "developing countries"
+    ],
+    [
+      "accessibility",
+      "for",
+      "educational institutions"
+    ],
+    [
+      "accessibility",
+      "for",
+      "startups"
+    ],
+    [
+      "advancements",
+      "in",
+      "communication systems"
+    ],
+    [
+      "advancements",
+      "in",
+      "miniaturization"
+    ],
+    [
+      "advancements",
+      "in",
+      "propulsion"
+    ],
+    [
+      "artificial objects",
+      "orbiting",
+      "earth"
+    ],
+    [
+      "balance",
+      "between",
+      "pull"
+    ],
+    [
+      "balance",
+      "between",
+      "speed"
+    ],
+    [
+      "bus",
+      "houses",
+      "payload"
+    ],
+    [
+      "bus",
+      "provides",
+      "communication systems"
+    ],
+    [
+      "bus",
+      "provides",
+      "control systems"
+    ],
+    [
+      "bus",
+      "provides",
+      "power"
+    ],
+    [
+      "communication",
+      "through",
+      "radio signals"
+    ],
+    [
+      "communication satellite",
+      "relay",
+      "signals"
+    ],
+    [
+      "components",
+      "include",
+      "payload"
+    ],
+    [
+      "cubesats",
+      "increasing",
+      "accessibility"
+    ],
+    [
+      "cubesats",
+      "reducing",
+      "costs"
+    ],
+    [
+      "cubesats",
+      "revolutionizing",
+      "industry"
+    ],
+    [
+      "data",
+      "for",
+      "conservation efforts"
+    ],
+    [
+      "data",
+      "for",
+      "environmental monitoring"
+    ],
+    [
+      "data",
+      "for",
+      "meteorologists"
+    ],
+    [
+      "data transmission rates",
+      "between",
+      "ground stations"
+    ],
+    [
+      "data transmission rates",
+      "between",
+      "satellites"
+    ],
+    [
+      "data transmission rates",
+      "enable",
+      "faster communication"
+    ],
+    [
+      "data transmission rates",
+      "enable",
+      "reliable communication"
+    ],
+    [
+      "earth-orbiting",
+      "is",
+      "communication satellite"
+    ],
+    [
+      "electric propulsion systems",
+      "enable",
+      "maneuver"
+    ],
+    [
+      "electric propulsion systems",
+      "extend",
+      "operational lifetimes"
+    ],
+    [
+      "electricity",
+      "charge",
+      "batteries"
+    ],
+    [
+      "electricity",
+      "operate",
+      "systems"
+    ],
+    [
+      "future",
+      "of",
+      "satellite technology"
+    ],
+    [
+      "geostationary satellites",
+      "orbit at",
+      "speed"
+    ],
+    [
+      "geostationary satellites",
+      "provide",
+      "coverage"
+    ],
+    [
+      "geostationary satellites",
+      "remain fixed over",
+      "point"
+    ],
+    [
+      "geostationary satellites",
+      "used for",
+      "broadcasting"
+    ],
+    [
+      "geostationary satellites",
+      "used for",
+      "telecommunications"
+    ],
+    [
+      "global connectivity",
+      "in",
+      "remote areas"
+    ],
+    [
+      "global connectivity",
+      "in",
+      "rural areas"
+    ],
+    [
+      "global connectivity",
+      "where",
+      "infrastructure"
+    ],
+    [
+      "ground stations",
+      "known as",
+      "earth stations"
+    ],
+    [
+      "laser communication technology",
+      "increase",
+      "data transmission rates"
+    ],
+    [
+      "laws",
+      "of",
+      "gravity"
+    ],
+    [
+      "laws",
+      "of",
+      "motion"
+    ],
+    [
+      "low earth orbit satellites",
+      "used for",
+      "earth observation"
+    ],
+    [
+      "low earth orbit satellites",
+      "used for",
+      "remote sensing"
+    ],
+    [
+      "low earth orbit satellites",
+      "used for",
+      "satellite internet"
+    ],
+    [
+      "maneuver",
+      "in",
+      "space"
+    ],
+    [
+      "natural disasters",
+      "like",
+      "hurricanes"
+    ],
+    [
+      "natural disasters",
+      "like",
+      "tsunamis"
+    ],
+    [
+      "object",
+      "orbits",
+      "body"
+    ],
+    [
+      "payload",
+      "is",
+      "equipment"
+    ],
+    [
+      "payload",
+      "is",
+      "instruments"
+    ],
+    [
+      "payload",
+      "perform",
+      "primary function"
+    ],
+    [
+      "physics",
+      "includes",
+      "laws"
+    ],
+    [
+      "point",
+      "on",
+      "equator"
+    ],
+    [
+      "potential",
+      "is",
+      "limitless"
+    ],
+    [
+      "potential",
+      "of",
+      "satellite technology"
+    ],
+    [
+      "potential",
+      "to",
+      "connect"
+    ],
+    [
+      "potential",
+      "to",
+      "drive innovation"
+    ],
+    [
+      "potential",
+      "to",
+      "people"
+    ],
+    [
+      "potential",
+      "to",
+      "solve challenges"
+    ],
+    [
+      "principles",
+      "of",
+      "physics"
+    ],
+    [
+      "radio signals",
+      "transmitted to",
+      "ground stations"
+    ],
+    [
+      "satellite technology",
+      "explore",
+      "essay"
+    ],
+    [
+      "satellite technology",
+      "explore",
+      "future"
+    ],
+    [
+      "satellite technology",
+      "explore",
+      "types"
+    ],
+    [
+      "satellite technology",
+      "explore",
+      "uses"
+    ],
+    [
+      "satellite technology",
+      "explore",
+      "work"
+    ],
+    [
+      "satellite technology",
+      "is",
+      "object"
+    ],
+    [
+      "satellites",
+      "achieve",
+      "balance"
+    ],
+    [
+      "satellites",
+      "are",
+      "artificial objects"
+    ],
+    [
+      "satellites",
+      "are",
+      "complex"
+    ],
+    [
+      "satellites",
+      "are",
+      "essential tools"
+    ],
+    [
+      "satellites",
+      "are",
+      "technology"
+    ],
+    [
+      "satellites",
+      "are",
+      "tools"
+    ],
+    [
+      "satellites",
+      "communicate",
+      "continents"
+    ],
+    [
+      "satellites",
+      "expanded",
+      "understanding"
+    ],
+    [
+      "satellites",
+      "explore",
+      "depths"
+    ],
+    [
+      "satellites",
+      "harnessing",
+      "cutting-edge technology"
+    ],
+    [
+      "satellites",
+      "have",
+      "uses"
+    ],
+    [
+      "satellites",
+      "launched",
+      "orbit"
+    ],
+    [
+      "satellites",
+      "launched into",
+      "specific orbits"
+    ],
+    [
+      "satellites",
+      "monitor",
+      "health"
+    ],
+    [
+      "satellites",
+      "operate",
+      "principles"
+    ],
+    [
+      "satellites",
+      "perform",
+      "functions"
+    ],
+    [
+      "satellites",
+      "powered by",
+      "solar panels"
+    ],
+    [
+      "satellites",
+      "predict",
+      "precision"
+    ],
+    [
+      "satellites",
+      "revolutionized",
+      "way of life"
+    ],
+    [
+      "satellites",
+      "role in",
+      "global connectivity"
+    ],
+    [
+      "satellites",
+      "transformed",
+      "communication"
+    ],
+    [
+      "satellites",
+      "transformed",
+      "data"
+    ],
+    [
+      "satellites",
+      "transformed",
+      "monitor"
+    ],
+    [
+      "satellites",
+      "transformed",
+      "navigation"
+    ],
+    [
+      "scientific research satellites",
+      "provide",
+      "data"
+    ],
+    [
+      "scientific research satellites",
+      "study",
+      "atmosphere"
+    ],
+    [
+      "scientific research satellites",
+      "study",
+      "climate"
+    ],
+    [
+      "scientific research satellites",
+      "study",
+      "land cover"
+    ],
+    [
+      "scientific research satellites",
+      "study",
+      "oceans"
+    ],
+    [
+      "signals",
+      "for",
+      "forms"
+    ],
+    [
+      "signals",
+      "for",
+      "internet"
+    ],
+    [
+      "signals",
+      "for",
+      "phone calls"
+    ],
+    [
+      "signals",
+      "for",
+      "television"
+    ],
+    [
+      "small satellites",
+      "known as",
+      "cubesats"
+    ],
+    [
+      "solar panels",
+      "convert",
+      "sunlight"
+    ],
+    [
+      "specific orbits",
+      "depend on",
+      "purpose"
+    ],
+    [
+      "specific orbits",
+      "include",
+      "geostationary orbit (geo)"
+    ],
+    [
+      "specific orbits",
+      "include",
+      "low earth orbit (leo)"
+    ],
+    [
+      "specific orbits",
+      "include",
+      "polar orbit"
+    ],
+    [
+      "speed",
+      "of",
+      "rotation"
+    ],
+    [
+      "sunlight",
+      "into",
+      "electricity"
+    ],
+    [
+      "tools",
+      "for",
+      "national security"
+    ],
+    [
+      "tools",
+      "for",
+      "scientific research"
+    ],
+    [
+      "tools",
+      "for",
+      "telecommunications"
+    ],
+    [
+      "tools",
+      "for",
+      "weather forecasting"
+    ],
+    [
+      "types",
+      "include",
+      "geostationary satellites"
+    ],
+    [
+      "understanding",
+      "of",
+      "world"
+    ],
+    [
+      "uses",
+      "across",
+      "industries"
+    ],
+    [
+      "uses",
+      "across",
+      "sectors"
+    ],
+    [
+      "warnings",
+      "for",
+      "natural disasters"
+    ],
+    [
+      "weather satellites",
+      "equipped with",
+      "cameras"
+    ],
+    [
+      "weather satellites",
+      "equipped with",
+      "sensors"
+    ],
+    [
+      "weather satellites",
+      "issue",
+      "warnings"
+    ],
+    [
+      "weather satellites",
+      "monitor",
+      "climate patterns"
+    ],
+    [
+      "weather satellites",
+      "monitor",
+      "weather patterns"
+    ],
+    [
+      "weather satellites",
+      "provide",
+      "data"
+    ],
+    [
+      "weather satellites",
+      "track",
+      "storms"
+    ]
+  ],
+  "edges": [
+    "achieve",
+    "across",
+    "are",
+    "between",
+    "charge",
+    "communicate",
+    "convert",
+    "depend on",
+    "enable",
+    "equipped with",
+    "expanded",
+    "explore",
+    "extend",
+    "for",
+    "harnessing",
+    "have",
+    "houses",
+    "in",
+    "include",
+    "includes",
+    "increase",
+    "increasing",
+    "into",
+    "is",
+    "issue",
+    "known as",
+    "launched",
+    "launched into",
+    "like",
+    "monitor",
+    "of",
+    "on",
+    "operate",
+    "orbit at",
+    "orbiting",
+    "orbits",
+    "perform",
+    "powered by",
+    "predict",
+    "provide",
+    "provides",
+    "reducing",
+    "relay",
+    "remain fixed over",
+    "revolutionized",
+    "revolutionizing",
+    "role in",
+    "study",
+    "through",
+    "to",
+    "track",
+    "transformed",
+    "transmitted to",
+    "used for",
+    "where"
+  ]
+}

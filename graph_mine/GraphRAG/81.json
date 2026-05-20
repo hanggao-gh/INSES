@@ -1,0 +1,71 @@
+{
+  "entities": [
+    "WORKER ANTS",
+    "ANT COLONIES",
+    "ANTS",
+    "SOLDIER ANTS",
+    "PHEROMONES",
+    "ANT COLONY",
+    "LEAFCUTTER ANTS",
+    "NEST BUILDING",
+    "QUEEN ANT"
+  ],
+  "relations": [
+    [
+      "ANT COLONY",
+      "The queen ant is central to the ant colony's survival and prosperity, laying eggs and being protected by worker ants",
+      "QUEEN ANT"
+    ],
+    [
+      "ANT COLONY",
+      "Worker ants are integral members of the ant colony, playing a crucial role in its survival and prosperity. They are responsible for performing essential tasks such as foraging for food, caring for the young, and maintaining and building the nest. These activities support the ant colony, ensuring its growth and the well-being of its members. Through their diligent work, worker ants contribute significantly to the functioning and organization of the colony, demonstrating the importance of their role within the ant community.",
+      "WORKER ANTS"
+    ],
+    [
+      "ANT COLONY",
+      "Soldier ants protect the ant colony from external threats and intruders",
+      "SOLDIER ANTS"
+    ],
+    [
+      "ANT COLONY",
+      "The ant colony engages in the event of nest building to ensure the survival and growth of the colony, utilizing the collective efforts of its members",
+      "NEST BUILDING"
+    ],
+    [
+      "QUEEN ANT",
+      "Worker ants cater to the queen ant's needs and protect her within the colony",
+      "WORKER ANTS"
+    ],
+    [
+      "WORKER ANTS",
+      "Worker ants use pheromones to communicate and coordinate their nest-building activities",
+      "PHEROMONES"
+    ],
+    [
+      "WORKER ANTS",
+      "Leafcutter ants are a specific type of worker ants that engage in cultivating fungi",
+      "LEAFCUTTER ANTS"
+    ],
+    [
+      "LEAFCUTTER ANTS",
+      "Leafcutter ants participate in the event of nest building by creating underground fungus gardens, showcasing their unique contribution to the colony's infrastructure",
+      "NEST BUILDING"
+    ],
+    [
+      "ANTS",
+      "Ants are responsible for the creation and maintenance of ant colonies, demonstrating their skills in teamwork and adaptability",
+      "ANT COLONIES"
+    ]
+  ],
+  "edges": [
+    "The queen ant is central to the ant colony's survival and prosperity, laying eggs and being protected by worker ants",
+    "Worker ants are integral members of the ant colony, playing a crucial role in its survival and prosperity. They are responsible for performing essential tasks such as foraging for food, caring for the young, and maintaining and building the nest. These activities support the ant colony, ensuring its growth and the well-being of its members. Through their diligent work, worker ants contribute significantly to the functioning and organization of the colony, demonstrating the importance of their role within the ant community.",
+    "Soldier ants protect the ant colony from external threats and intruders",
+    "The ant colony engages in the event of nest building to ensure the survival and growth of the colony, utilizing the collective efforts of its members",
+    "Worker ants cater to the queen ant's needs and protect her within the colony",
+    "Worker ants use pheromones to communicate and coordinate their nest-building activities",
+    "Leafcutter ants are a specific type of worker ants that engage in cultivating fungi",
+    "Leafcutter ants participate in the event of nest building by creating underground fungus gardens, showcasing their unique contribution to the colony's infrastructure",
+    "Ants are responsible for the creation and maintenance of ant colonies, demonstrating their skills in teamwork and adaptability"
+  ]
+}

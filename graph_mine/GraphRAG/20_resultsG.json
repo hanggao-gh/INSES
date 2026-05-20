@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Board games are a popular form of entertainment and social interaction.",
+    "retrieved_context": "BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. ONLINE PLATFORMS Online platforms facilitate the playing of board games digitally, expanding the community BOARD GAMES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Board games have a rich history that spans cultures and civilizations around the world.",
+    "retrieved_context": "BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The origins of board games can be traced back to ancient times.",
+    "retrieved_context": "BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Senet is one of the earliest known board games, dating back to around 3100 BC.",
+    "retrieved_context": "BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. SENET Senet originated in Ancient Egypt around 3100 BC ANCIENT EGYPT. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Senet was a game of chance and strategy played on a grid of 30 squares.",
+    "retrieved_context": "SENET Senet originated in Ancient Egypt around 3100 BC ANCIENT EGYPT. BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Royal Game of Ur was played by the Sumerians around 2600 BC.",
+    "retrieved_context": "ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Royal Game of Ur was found in royal tombs, indicating its importance.",
+    "retrieved_context": "ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Go and Xiangqi are ancient Chinese board games dating back thousands of years.",
+    "retrieved_context": "XIANGQI Xiangqi, also known as Chinese Chess, has its origins in ancient China CHINA. BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Go is considered one of the oldest board games still played today.",
+    "retrieved_context": "BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. GO Go is one of the oldest board games still played today, originating from the Zhou Dynasty in China CHINA. GO Go was developed during the Zhou Dynasty in ancient China ZHOU DYNASTY. MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chaturanga was the ancient Indian precursor to modern-day chess.",
+    "retrieved_context": "CHATURANGA Both Chaturanga and Backgammon are ancient games that evolved over time and spread across cultures BACKGAMMON. BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Backgammon originated in Persia and spread throughout the Middle East and Europe.",
+    "retrieved_context": "MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Checkers and Tric-Trac emerged as popular board games during the Renaissance period.",
+    "retrieved_context": "BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. CHECKERS Both emerged during the Renaissance and were played by people across different social classes TRIC-TRAC. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution led to the mass production of board games in the 19th and 20th centuries.",
+    "retrieved_context": "BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA. ONLINE PLATFORMS Online platforms facilitate the playing of board games digitally, expanding the community BOARD GAMES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Monopoly, Scrabble, and Clue became household names in the 20th century.",
+    "retrieved_context": "CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. CHECKERS Both emerged during the Renaissance and were played by people across different social classes TRIC-TRAC.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Board games continue to thrive in the digital age, driven by a new generation of designers and enthusiasts.",
+    "retrieved_context": "BOARD GAME CONVENTIONS Board game conventions are events that celebrate and promote board games BOARD GAMES. TABLETOP GAMING CAFES Tabletop gaming cafes contribute to the popularity and community of board games BOARD GAMES. CLUE Clue is an example of a board game, recognized for its mystery-themed gameplay BOARD GAMES. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. ONLINE PLATFORMS Online platforms facilitate the playing of board games digitally, expanding the community BOARD GAMES. MONOPOLY Both games became household names due to mass production in the 19th and 20th centuries SCRABBLE. MONOPOLY Monopoly is an example of a board game that has become a household name BOARD GAMES. SCRABBLE Both Scrabble and Clue were popularized through advancements in printing technology and the Industrial Revolution CLUE. SCRABBLE Scrabble is an example of a board game, known for its word-based gameplay BOARD GAMES. ROYAL GAME OF UR The Royal Game of Ur was played in ancient Mesopotamia around 2600 BC MESOPOTAMIA.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

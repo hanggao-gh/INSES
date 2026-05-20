@@ -1,0 +1,130 @@
+{
+  "entities": [
+    "SEROTONIN",
+    "N2 STAGE",
+    "CARDIOVASCULAR DISEASE",
+    "ADENOSINE",
+    "CIRCADIAN RHYTHM",
+    "DOPAMINE",
+    "SLEEP DEPRIVATION",
+    "SLEEP",
+    "MELATONIN",
+    "DIABETES",
+    "IMMUNE FUNCTION",
+    "MENTAL HEALTH DISORDERS",
+    "N3 STAGE",
+    "NON-REM SLEEP",
+    "OBESITY",
+    "METABOLISM",
+    "REM SLEEP",
+    "N1 STAGE",
+    "COGNITIVE FUNCTION",
+    "SUPRACHIASMATIC NUCLEUS"
+  ],
+  "relations": [
+    [
+      "SLEEP",
+      "REM sleep is a crucial stage within the overall sleep process, involved in memory consolidation and emotional processing",
+      "REM SLEEP"
+    ],
+    [
+      "SLEEP",
+      "Non-REM sleep is a fundamental part of the sleep cycle, consisting of stages N1, N2, and N3",
+      "NON-REM SLEEP"
+    ],
+    [
+      "SLEEP",
+      "Adenosine is a neurotransmitter that promotes sleep",
+      "ADENOSINE"
+    ],
+    [
+      "SLEEP",
+      "Serotonin plays a role in the regulation of sleep",
+      "SEROTONIN"
+    ],
+    [
+      "SLEEP",
+      "Dopamine is involved in the regulation of sleep and wakefulness",
+      "DOPAMINE"
+    ],
+    [
+      "SLEEP",
+      "Sleep is crucial for the proper functioning of the immune system",
+      "IMMUNE FUNCTION"
+    ],
+    [
+      "SLEEP",
+      "Sleep plays a crucial role in metabolism",
+      "METABOLISM"
+    ],
+    [
+      "SLEEP",
+      "Sleep significantly affects cognitive functions",
+      "COGNITIVE FUNCTION"
+    ],
+    [
+      "NON-REM SLEEP",
+      "N1 stage is the initial phase of non-REM sleep, marking the transition from wakefulness to sleep",
+      "N1 STAGE"
+    ],
+    [
+      "NON-REM SLEEP",
+      "N2 stage is a deeper phase of non-REM sleep, characterized by specific physiological markers like sleep spindles",
+      "N2 STAGE"
+    ],
+    [
+      "NON-REM SLEEP",
+      "N3 stage is the deepest phase of non-REM sleep, essential for restorative processes",
+      "N3 STAGE"
+    ],
+    [
+      "CIRCADIAN RHYTHM",
+      "The circadian rhythm is regulated by the suprachiasmatic nucleus in the brain",
+      "SUPRACHIASMATIC NUCLEUS"
+    ],
+    [
+      "SUPRACHIASMATIC NUCLEUS",
+      "The suprachiasmatic nucleus regulates the release of melatonin",
+      "MELATONIN"
+    ],
+    [
+      "OBESITY",
+      "Chronic sleep deprivation has been linked to an increased risk of obesity",
+      "SLEEP DEPRIVATION"
+    ],
+    [
+      "DIABETES",
+      "Chronic sleep deprivation has been linked to an increased risk of diabetes",
+      "SLEEP DEPRIVATION"
+    ],
+    [
+      "CARDIOVASCULAR DISEASE",
+      "Chronic sleep deprivation has been linked to an increased risk of cardiovascular disease",
+      "SLEEP DEPRIVATION"
+    ],
+    [
+      "MENTAL HEALTH DISORDERS",
+      "Chronic sleep deprivation has been linked to an increased risk of mental health disorders",
+      "SLEEP DEPRIVATION"
+    ]
+  ],
+  "edges": [
+    "REM sleep is a crucial stage within the overall sleep process, involved in memory consolidation and emotional processing",
+    "Non-REM sleep is a fundamental part of the sleep cycle, consisting of stages N1, N2, and N3",
+    "Adenosine is a neurotransmitter that promotes sleep",
+    "Serotonin plays a role in the regulation of sleep",
+    "Dopamine is involved in the regulation of sleep and wakefulness",
+    "Sleep is crucial for the proper functioning of the immune system",
+    "Sleep plays a crucial role in metabolism",
+    "Sleep significantly affects cognitive functions",
+    "N1 stage is the initial phase of non-REM sleep, marking the transition from wakefulness to sleep",
+    "N2 stage is a deeper phase of non-REM sleep, characterized by specific physiological markers like sleep spindles",
+    "N3 stage is the deepest phase of non-REM sleep, essential for restorative processes",
+    "The circadian rhythm is regulated by the suprachiasmatic nucleus in the brain",
+    "The suprachiasmatic nucleus regulates the release of melatonin",
+    "Chronic sleep deprivation has been linked to an increased risk of obesity",
+    "Chronic sleep deprivation has been linked to an increased risk of diabetes",
+    "Chronic sleep deprivation has been linked to an increased risk of cardiovascular disease",
+    "Chronic sleep deprivation has been linked to an increased risk of mental health disorders"
+  ]
+}

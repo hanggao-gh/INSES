@@ -1,0 +1,529 @@
+{
+  "entities": [
+    "20th century",
+    "abuse",
+    "adaptation",
+    "adapting",
+    "authority",
+    "balances",
+    "challenges",
+    "characteristics",
+    "checks",
+    "civilization",
+    "coexistence",
+    "cold war",
+    "communism",
+    "community",
+    "complexities",
+    "complexity",
+    "concerns",
+    "conclusion",
+    "constitution",
+    "constitutional monarchies",
+    "corruption",
+    "countries",
+    "customs",
+    "dangers",
+    "decision-making",
+    "democracies",
+    "democracy",
+    "democratic systems",
+    "democratic values",
+    "detect",
+    "development",
+    "effective",
+    "elections",
+    "enlightenment",
+    "equality",
+    "essential",
+    "evolution",
+    "fascism",
+    "framework",
+    "fraternity",
+    "freedom",
+    "freedoms",
+    "french revolution",
+    "goals",
+    "governance",
+    "groups",
+    "history",
+    "horrors",
+    "ideas",
+    "inequality",
+    "informal structures",
+    "innovation",
+    "institutions",
+    "just",
+    "justice",
+    "kinship",
+    "leader",
+    "leadership",
+    "liberty",
+    "modern world",
+    "monarchies",
+    "movements",
+    "needs",
+    "order",
+    "organization",
+    "parliament",
+    "participation",
+    "party",
+    "people",
+    "polarization",
+    "political systems",
+    "power",
+    "prevalent",
+    "prey",
+    "progression",
+    "prosperous future",
+    "quest",
+    "reform",
+    "republican",
+    "respect",
+    "rights",
+    "rule of law",
+    "ruler",
+    "self-determination",
+    "separation of powers",
+    "sharks",
+    "size",
+    "social contract",
+    "societies",
+    "sophisticated",
+    "stability",
+    "state power",
+    "strength",
+    "struggle",
+    "thinkers",
+    "totalitarian regimes",
+    "tribal system",
+    "uphold",
+    "values",
+    "vigilance",
+    "wisdom",
+    "world war ii"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "witnessed",
+      "totalitarian regimes"
+    ],
+    [
+      "challenges",
+      "including",
+      "corruption"
+    ],
+    [
+      "challenges",
+      "including",
+      "inequality"
+    ],
+    [
+      "challenges",
+      "including",
+      "polarization"
+    ],
+    [
+      "characteristics",
+      "such as",
+      "strength"
+    ],
+    [
+      "characteristics",
+      "such as",
+      "wisdom"
+    ],
+    [
+      "complexities",
+      "of",
+      "modern world"
+    ],
+    [
+      "concerns",
+      "about",
+      "abuse"
+    ],
+    [
+      "conclusion",
+      "reflects",
+      "adaptation"
+    ],
+    [
+      "conclusion",
+      "reflects",
+      "innovation"
+    ],
+    [
+      "conclusion",
+      "reflects",
+      "struggle"
+    ],
+    [
+      "constitutional monarchies",
+      "limited by",
+      "constitution"
+    ],
+    [
+      "constitutional monarchies",
+      "limited by",
+      "parliament"
+    ],
+    [
+      "countries",
+      "in",
+      "20th century"
+    ],
+    [
+      "decision-making",
+      "was decentralized among",
+      "community"
+    ],
+    [
+      "democracy",
+      "exercised through",
+      "elections"
+    ],
+    [
+      "democracy",
+      "founded on",
+      "respect"
+    ],
+    [
+      "democracy",
+      "founded on",
+      "rule of law"
+    ],
+    [
+      "democracy",
+      "is",
+      "prevalent"
+    ],
+    [
+      "democracy",
+      "not without",
+      "challenges"
+    ],
+    [
+      "democracy",
+      "provides",
+      "framework"
+    ],
+    [
+      "democracy",
+      "where power is vested in",
+      "people"
+    ],
+    [
+      "democratic systems",
+      "where power is vested in",
+      "people"
+    ],
+    [
+      "democratic values",
+      "and",
+      "institutions"
+    ],
+    [
+      "development",
+      "was",
+      "monarchies"
+    ],
+    [
+      "enlightenment",
+      "marked",
+      "development"
+    ],
+    [
+      "essential",
+      "to",
+      "uphold"
+    ],
+    [
+      "essential",
+      "to ensure",
+      "prosperous future"
+    ],
+    [
+      "framework",
+      "for",
+      "coexistence"
+    ],
+    [
+      "framework",
+      "for",
+      "participation"
+    ],
+    [
+      "freedoms",
+      "suppressed",
+      "rights"
+    ],
+    [
+      "french revolution",
+      "was",
+      "republican"
+    ],
+    [
+      "goals",
+      "in the name of",
+      "horrors"
+    ],
+    [
+      "governance",
+      "became",
+      "sophisticated"
+    ],
+    [
+      "groups",
+      "governed through",
+      "informal structures"
+    ],
+    [
+      "ideas",
+      "about",
+      "separation of powers"
+    ],
+    [
+      "ideas",
+      "about",
+      "social contract"
+    ],
+    [
+      "ideas",
+      "laid the groundwork for",
+      "democratic systems"
+    ],
+    [
+      "informal structures",
+      "based on",
+      "customs"
+    ],
+    [
+      "informal structures",
+      "based on",
+      "kinship"
+    ],
+    [
+      "institutions",
+      "designed to prevent",
+      "abuse"
+    ],
+    [
+      "leadership",
+      "based on",
+      "characteristics"
+    ],
+    [
+      "monarchies",
+      "evolved to include",
+      "balances"
+    ],
+    [
+      "monarchies",
+      "evolved to include",
+      "checks"
+    ],
+    [
+      "monarchies",
+      "provided",
+      "authority"
+    ],
+    [
+      "monarchies",
+      "provided",
+      "order"
+    ],
+    [
+      "monarchies",
+      "provided",
+      "stability"
+    ],
+    [
+      "monarchies",
+      "raised",
+      "concerns"
+    ],
+    [
+      "movements",
+      "for",
+      "self-determination"
+    ],
+    [
+      "organization",
+      "was",
+      "tribal system"
+    ],
+    [
+      "people",
+      "through",
+      "elections"
+    ],
+    [
+      "political systems",
+      "adapting to",
+      "needs"
+    ],
+    [
+      "political systems",
+      "adapting to",
+      "values"
+    ],
+    [
+      "political systems",
+      "have evolved",
+      "history"
+    ],
+    [
+      "political systems",
+      "reflects",
+      "civilization"
+    ],
+    [
+      "political systems",
+      "reflects",
+      "progression"
+    ],
+    [
+      "political systems",
+      "reflects",
+      "quest"
+    ],
+    [
+      "power",
+      "centralized in",
+      "leader"
+    ],
+    [
+      "power",
+      "centralized in",
+      "party"
+    ],
+    [
+      "power",
+      "was concentrated in",
+      "ruler"
+    ],
+    [
+      "quest",
+      "for",
+      "effective"
+    ],
+    [
+      "quest",
+      "for",
+      "just"
+    ],
+    [
+      "republican",
+      "based on",
+      "equality"
+    ],
+    [
+      "republican",
+      "based on",
+      "fraternity"
+    ],
+    [
+      "republican",
+      "based on",
+      "liberty"
+    ],
+    [
+      "societies",
+      "grew in",
+      "complexity"
+    ],
+    [
+      "societies",
+      "grew in",
+      "size"
+    ],
+    [
+      "state power",
+      "underscored",
+      "democratic values"
+    ],
+    [
+      "struggle",
+      "for",
+      "freedom"
+    ],
+    [
+      "struggle",
+      "for",
+      "justice"
+    ],
+    [
+      "thinkers",
+      "proposed",
+      "ideas"
+    ],
+    [
+      "totalitarian regimes",
+      "such as",
+      "communism"
+    ],
+    [
+      "totalitarian regimes",
+      "such as",
+      "fascism"
+    ],
+    [
+      "tribal system",
+      "was",
+      "groups"
+    ],
+    [
+      "vigilance",
+      "and",
+      "reform"
+    ],
+    [
+      "world war ii",
+      "underscored",
+      "dangers"
+    ]
+  ],
+  "edges": [
+    "about",
+    "adapting to",
+    "and",
+    "based on",
+    "became",
+    "centralized in",
+    "designed to prevent",
+    "evolved to include",
+    "exercised through",
+    "for",
+    "founded on",
+    "governed through",
+    "grew in",
+    "have evolved",
+    "in",
+    "in the name of",
+    "including",
+    "is",
+    "laid the groundwork for",
+    "limited by",
+    "marked",
+    "not without",
+    "of",
+    "proposed",
+    "provided",
+    "provides",
+    "raised",
+    "reflects",
+    "such as",
+    "suppressed",
+    "through",
+    "to",
+    "to ensure",
+    "underscored",
+    "was",
+    "was concentrated in",
+    "was decentralized among",
+    "where power is vested in",
+    "witnessed"
+  ]
+}

@@ -1,0 +1,1219 @@
+{
+    "entities": [
+        "trade routes",
+        "their survival",
+        "technological advancements",
+        "their environment",
+        "sources of water",
+        "longevity",
+        "Moreover has source of power",
+        "ancient societies",
+        "highways",
+        "has fundamental element",
+        "has source",
+        "role in development of civilization",
+        "harnessing",
+        "From ancient times to present day has essential for survival",
+        "Furthermore has essential for transportation",
+        "sustainable future generations come",
+        "role in campaigns",
+        "has essential for survival",
+        "established",
+        "has essential for transportation",
+        "In conclusion has fundamental element in development of civilization",
+        "sustainable future generations to come",
+        "essential",
+        "In conclusion has element in development",
+        "areas of land",
+        "societies",
+        "growth of population centers",
+        "natural highways",
+        "Water",
+        "role in military campaigns",
+        "From times has essential",
+        "future generations to come",
+        "future for generations to come",
+        "From ancient times to present day has essential",
+        "From ancient times to present day has essential for human survival",
+        "has fundamental element in development",
+        "exchange of goods",
+        "mechanization",
+        "success",
+        "conclusion",
+        "Industrial Revolution",
+        "sustainable future for generations to come",
+        "critical role",
+        "has vital",
+        "From times has essential for human survival",
+        "development",
+        "human settlements",
+        "mechanization of production processes",
+        "success of settlements leading to growth of civilizations",
+        "Moreover has source of power for industry",
+        "future generations come",
+        "Watermills",
+        "Waterways",
+        "history",
+        "grain",
+        "maritime trade routes",
+        "success leading to growth of civilizations",
+        "movement",
+        "civilizations",
+        "From times has essential for survival",
+        "role in development",
+        "significance",
+        "wood",
+        "success of settlements",
+        "can seen in construction of elaborate irrigation systems",
+        "has element in development of civilization",
+        "has fundamental element in development of civilization",
+        "has element in development",
+        "sustainable future for generations come",
+        "From ancient times to day has essential for survival",
+        "distant civilizations",
+        "waterwheels",
+        "water",
+        "used in times",
+        "progress",
+        "growth",
+        "ability",
+        "Moreover has source",
+        "military campaigns",
+        "role",
+        "Furthermore has essential",
+        "strategic role in campaigns",
+        "rise of societies",
+        "future for generations come",
+        "can seen in construction of irrigation systems",
+        "18th centuries",
+        "seas",
+        "fundamental roles",
+        "various devices",
+        "From times to day has essential for survival",
+        "larger areas",
+        "generating power",
+        "it",
+        "success of settlements leading to growth of early civilizations",
+        "movement of people",
+        "has source of power for industry",
+        "strategic role",
+        "crucial role in development of civilization",
+        "can seen",
+        "various mechanical devices",
+        "In conclusion has element",
+        "used",
+        "success leading to growth",
+        "surplus food",
+        "strategic role in military campaigns",
+        "has essential",
+        "From ancient times to day has essential",
+        "areas",
+        "crucial",
+        "has source of power",
+        "power",
+        "progress of civilization",
+        "we",
+        "From times to present day has essential for human survival",
+        "From ancient times has essential for survival",
+        "From times to present day has essential for survival",
+        "crops",
+        "In conclusion has fundamental element",
+        "success of settlements leading",
+        "Rivers",
+        "success leading to growth of early civilizations",
+        "hydroelectric power",
+        "From times to present day has essential",
+        "availability",
+        "success leading",
+        "can seen in construction",
+        "sources",
+        "devices",
+        "importance",
+        "used in ancient times",
+        "From ancient times has essential",
+        "crucial role",
+        "way humans",
+        "In conclusion has element in development of civilization",
+        "sustaining life",
+        "success of settlements leading to growth",
+        "often established",
+        "crucial role in development",
+        "its role",
+        "has element",
+        "rise of complex societies",
+        "larger areas of land",
+        "advancements",
+        "sustaining human life",
+        "challenges",
+        "From times to day has essential",
+        "exchange",
+        "significance of water",
+        "has essential for human survival",
+        "generating hydroelectric power",
+        "From ancient times to day has essential for human survival",
+        "has vital for agriculture",
+        "development of civilization",
+        "life",
+        "rise",
+        "From ancient times has essential for human survival",
+        "mechanical devices",
+        "From times to day has essential for human survival",
+        "In conclusion has fundamental element in development",
+        "settlements",
+        "development of trade networks"
+    ],
+    "relations": [
+        [
+            "Water",
+            "has played",
+            "role"
+        ],
+        [
+            "Water",
+            "has played",
+            "crucial role"
+        ],
+        [
+            "Water",
+            "has played",
+            "role in development of civilization"
+        ],
+        [
+            "crucial role",
+            "is in",
+            "development of civilization"
+        ],
+        [
+            "Water",
+            "has played",
+            "role in development"
+        ],
+        [
+            "Water",
+            "has played role throughout",
+            "history"
+        ],
+        [
+            "Water",
+            "has played",
+            "crucial role in development of civilization"
+        ],
+        [
+            "Water",
+            "has played",
+            "crucial role in development"
+        ],
+        [
+            "water",
+            "has",
+            "From times to present day has essential for survival"
+        ],
+        [
+            "water",
+            "has",
+            "From ancient times to present day has essential for human survival"
+        ],
+        [
+            "water",
+            "has",
+            "From times to day has essential for survival"
+        ],
+        [
+            "water",
+            "has",
+            "has essential for survival"
+        ],
+        [
+            "water",
+            "has",
+            "From ancient times has essential"
+        ],
+        [
+            "water",
+            "has",
+            "From times to day has essential"
+        ],
+        [
+            "water",
+            "has",
+            "From times has essential for human survival"
+        ],
+        [
+            "water",
+            "has",
+            "From ancient times to day has essential for human survival"
+        ],
+        [
+            "water",
+            "has",
+            "From ancient times to day has essential"
+        ],
+        [
+            "water",
+            "has",
+            "From times to day has essential for human survival"
+        ],
+        [
+            "water",
+            "has",
+            "From ancient times has essential for survival"
+        ],
+        [
+            "water",
+            "has",
+            "has essential"
+        ],
+        [
+            "water",
+            "has",
+            "From times has essential"
+        ],
+        [
+            "water",
+            "has",
+            "From times to present day has essential"
+        ],
+        [
+            "water",
+            "has",
+            "has essential for human survival"
+        ],
+        [
+            "water",
+            "has",
+            "From ancient times to present day has essential"
+        ],
+        [
+            "water",
+            "has",
+            "From ancient times to present day has essential for survival"
+        ],
+        [
+            "water",
+            "has",
+            "From times to present day has essential for human survival"
+        ],
+        [
+            "water",
+            "has",
+            "From ancient times has essential for human survival"
+        ],
+        [
+            "water",
+            "has",
+            "From times has essential for survival"
+        ],
+        [
+            "water",
+            "has",
+            "From ancient times to day has essential for survival"
+        ],
+        [
+            "fundamental roles",
+            "is in",
+            "development of civilization"
+        ],
+        [
+            "Water",
+            "is",
+            "essential"
+        ],
+        [
+            "settlements",
+            "were established near",
+            "sources of water"
+        ],
+        [
+            "settlements",
+            "were often established near",
+            "sources"
+        ],
+        [
+            "established",
+            "was crucial for",
+            "their survival"
+        ],
+        [
+            "established",
+            "was",
+            "crucial"
+        ],
+        [
+            "settlements",
+            "were",
+            "established"
+        ],
+        [
+            "human settlements",
+            "were often established near",
+            "sources of water"
+        ],
+        [
+            "settlements",
+            "were often established near",
+            "sources of water"
+        ],
+        [
+            "human settlements",
+            "were",
+            "established"
+        ],
+        [
+            "settlements",
+            "were established near",
+            "sources"
+        ],
+        [
+            "human settlements",
+            "were established near",
+            "sources"
+        ],
+        [
+            "human settlements",
+            "were often established near",
+            "sources"
+        ],
+        [
+            "settlements",
+            "were",
+            "often established"
+        ],
+        [
+            "human settlements",
+            "were",
+            "often established"
+        ],
+        [
+            "human settlements",
+            "were established near",
+            "sources of water"
+        ],
+        [
+            "availability",
+            "determined",
+            "success of settlements"
+        ],
+        [
+            "availability",
+            "determined",
+            "success leading"
+        ],
+        [
+            "availability",
+            "determined",
+            "success of settlements leading to growth of early civilizations"
+        ],
+        [
+            "availability",
+            "determined",
+            "success of settlements leading to growth of civilizations"
+        ],
+        [
+            "success",
+            "availability of",
+            "water"
+        ],
+        [
+            "availability",
+            "determined",
+            "success of settlements leading"
+        ],
+        [
+            "availability",
+            "determined",
+            "success"
+        ],
+        [
+            "availability",
+            "determined",
+            "success leading to growth of early civilizations"
+        ],
+        [
+            "availability",
+            "determined",
+            "success leading to growth of civilizations"
+        ],
+        [
+            "availability",
+            "determined",
+            "success of settlements leading to growth"
+        ],
+        [
+            "success",
+            "availability",
+            "longevity"
+        ],
+        [
+            "availability",
+            "determined",
+            "success leading to growth"
+        ],
+        [
+            "water",
+            "has",
+            "has vital for agriculture"
+        ],
+        [
+            "water",
+            "has",
+            "has vital"
+        ],
+        [
+            "its role",
+            "is in",
+            "sustaining human life"
+        ],
+        [
+            "societies",
+            "cultivate",
+            "areas"
+        ],
+        [
+            "ability",
+            "irrigate",
+            "crops"
+        ],
+        [
+            "societies",
+            "cultivate",
+            "larger areas"
+        ],
+        [
+            "larger areas",
+            "produce",
+            "surplus food"
+        ],
+        [
+            "areas",
+            "produce",
+            "surplus food"
+        ],
+        [
+            "ancient societies",
+            "cultivate",
+            "larger areas"
+        ],
+        [
+            "ancient societies",
+            "cultivate",
+            "larger areas of land"
+        ],
+        [
+            "societies",
+            "cultivate",
+            "areas of land"
+        ],
+        [
+            "ancient societies",
+            "cultivate",
+            "areas of land"
+        ],
+        [
+            "societies",
+            "cultivate",
+            "larger areas of land"
+        ],
+        [
+            "ancient societies",
+            "cultivate",
+            "areas"
+        ],
+        [
+            "growth",
+            "food",
+            "development"
+        ],
+        [
+            "growth",
+            "food",
+            "development of trade networks"
+        ],
+        [
+            "surplus food",
+            "enabled",
+            "growth of population centers"
+        ],
+        [
+            "growth",
+            "food",
+            "rise of complex societies"
+        ],
+        [
+            "growth",
+            "food",
+            "rise of societies"
+        ],
+        [
+            "growth",
+            "food",
+            "rise"
+        ],
+        [
+            "surplus food",
+            "enabled",
+            "growth"
+        ],
+        [
+            "importance",
+            "can",
+            "can seen in construction"
+        ],
+        [
+            "importance",
+            "can",
+            "can seen"
+        ],
+        [
+            "importance",
+            "can",
+            "can seen in construction of elaborate irrigation systems"
+        ],
+        [
+            "importance",
+            "can",
+            "can seen in construction of irrigation systems"
+        ],
+        [
+            "water",
+            "has",
+            "Furthermore has essential"
+        ],
+        [
+            "water",
+            "has",
+            "Furthermore has essential for transportation"
+        ],
+        [
+            "water",
+            "has",
+            "has essential"
+        ],
+        [
+            "water",
+            "has",
+            "has essential for transportation"
+        ],
+        [
+            "Rivers",
+            "have served as",
+            "highways"
+        ],
+        [
+            "seas",
+            "have served for",
+            "movement of people"
+        ],
+        [
+            "Rivers",
+            "have served as",
+            "natural highways"
+        ],
+        [
+            "Rivers",
+            "have served for",
+            "movement of people"
+        ],
+        [
+            "seas",
+            "have served for",
+            "movement"
+        ],
+        [
+            "seas",
+            "have served as",
+            "highways"
+        ],
+        [
+            "Rivers",
+            "have served for",
+            "movement"
+        ],
+        [
+            "seas",
+            "have served as",
+            "natural highways"
+        ],
+        [
+            "development",
+            "fostered",
+            "exchange"
+        ],
+        [
+            "civilizations",
+            "development of",
+            "maritime trade routes"
+        ],
+        [
+            "distant civilizations",
+            "development of",
+            "trade routes"
+        ],
+        [
+            "development",
+            "connected",
+            "distant civilizations"
+        ],
+        [
+            "civilizations",
+            "development of",
+            "trade routes"
+        ],
+        [
+            "distant civilizations",
+            "development of",
+            "maritime trade routes"
+        ],
+        [
+            "development",
+            "connected",
+            "civilizations"
+        ],
+        [
+            "development",
+            "fostered",
+            "exchange of goods"
+        ],
+        [
+            "strategic role",
+            "is in",
+            "military campaigns"
+        ],
+        [
+            "Waterways",
+            "have played",
+            "strategic role in military campaigns"
+        ],
+        [
+            "Waterways",
+            "have played",
+            "role"
+        ],
+        [
+            "Waterways",
+            "have also played",
+            "role"
+        ],
+        [
+            "Waterways",
+            "have played",
+            "strategic role in campaigns"
+        ],
+        [
+            "Waterways",
+            "have played",
+            "strategic role"
+        ],
+        [
+            "Waterways",
+            "have also played",
+            "strategic role"
+        ],
+        [
+            "Waterways",
+            "have also played",
+            "strategic role in campaigns"
+        ],
+        [
+            "Waterways",
+            "have also played",
+            "role in campaigns"
+        ],
+        [
+            "Waterways",
+            "have also played",
+            "strategic role in military campaigns"
+        ],
+        [
+            "Waterways",
+            "have played",
+            "role in military campaigns"
+        ],
+        [
+            "Waterways",
+            "have also played",
+            "role in military campaigns"
+        ],
+        [
+            "Waterways",
+            "have played",
+            "role in campaigns"
+        ],
+        [
+            "water",
+            "has",
+            "Moreover has source of power for industry"
+        ],
+        [
+            "has source",
+            "driving",
+            "advancements"
+        ],
+        [
+            "water",
+            "has",
+            "Moreover has source of power"
+        ],
+        [
+            "water",
+            "has",
+            "Moreover has source"
+        ],
+        [
+            "has source",
+            "driving",
+            "technological advancements"
+        ],
+        [
+            "water",
+            "has",
+            "has source of power"
+        ],
+        [
+            "water",
+            "has",
+            "has source of power for industry"
+        ],
+        [
+            "water",
+            "has",
+            "has source"
+        ],
+        [
+            "grain",
+            "power",
+            "various mechanical devices"
+        ],
+        [
+            "grain",
+            "saw",
+            "wood"
+        ],
+        [
+            "Watermills",
+            "were",
+            "used"
+        ],
+        [
+            "Watermills",
+            "were",
+            "used in ancient times"
+        ],
+        [
+            "waterwheels",
+            "grind",
+            "grain"
+        ],
+        [
+            "Watermills",
+            "were",
+            "used in times"
+        ],
+        [
+            "grain",
+            "power",
+            "mechanical devices"
+        ],
+        [
+            "grain",
+            "power",
+            "various devices"
+        ],
+        [
+            "grain",
+            "power",
+            "devices"
+        ],
+        [
+            "Industrial Revolution",
+            "is in",
+            "18th centuries"
+        ],
+        [
+            "harnessing",
+            "led to",
+            "mechanization of production processes"
+        ],
+        [
+            "harnessing",
+            "led to",
+            "mechanization"
+        ],
+        [
+            "Water",
+            "play role in",
+            "generating hydroelectric power"
+        ],
+        [
+            "Water",
+            "play role in",
+            "generating power"
+        ],
+        [
+            "Water",
+            "play role in",
+            "hydroelectric power"
+        ],
+        [
+            "Water",
+            "play",
+            "critical role"
+        ],
+        [
+            "Water",
+            "play",
+            "role"
+        ],
+        [
+            "Water",
+            "play role in",
+            "power"
+        ],
+        [
+            "water",
+            "has",
+            "In conclusion has fundamental element in development"
+        ],
+        [
+            "water",
+            "has",
+            "In conclusion has element in development"
+        ],
+        [
+            "water",
+            "has",
+            "In conclusion has element"
+        ],
+        [
+            "water",
+            "has",
+            "has fundamental element in development of civilization"
+        ],
+        [
+            "water",
+            "shaping live",
+            "way humans"
+        ],
+        [
+            "has fundamental element",
+            "is in",
+            "development of civilization"
+        ],
+        [
+            "water",
+            "shaping",
+            "way humans"
+        ],
+        [
+            "has fundamental element",
+            "is In",
+            "conclusion"
+        ],
+        [
+            "water",
+            "has",
+            "In conclusion has fundamental element"
+        ],
+        [
+            "water",
+            "has",
+            "has fundamental element in development"
+        ],
+        [
+            "water",
+            "has",
+            "has element in development of civilization"
+        ],
+        [
+            "water",
+            "interact with",
+            "their environment"
+        ],
+        [
+            "water",
+            "has",
+            "has fundamental element"
+        ],
+        [
+            "water",
+            "has",
+            "has element in development"
+        ],
+        [
+            "water",
+            "has",
+            "In conclusion has element in development of civilization"
+        ],
+        [
+            "water",
+            "has",
+            "has element"
+        ],
+        [
+            "water",
+            "been fundamental",
+            "development"
+        ],
+        [
+            "water",
+            "has",
+            "In conclusion has fundamental element in development of civilization"
+        ],
+        [
+            "significance",
+            "promoting",
+            "progress"
+        ],
+        [
+            "we",
+            "face",
+            "challenges"
+        ],
+        [
+            "it",
+            "is",
+            "essential"
+        ],
+        [
+            "it",
+            "recognize",
+            "significance"
+        ],
+        [
+            "it",
+            "recognize significance in",
+            "sustaining life"
+        ],
+        [
+            "significance",
+            "promoting",
+            "progress of civilization"
+        ],
+        [
+            "it",
+            "recognize",
+            "significance of water"
+        ],
+        [
+            "it",
+            "recognize significance in",
+            "life"
+        ],
+        [
+            "we",
+            "can ensure",
+            "sustainable future for generations to come"
+        ],
+        [
+            "we",
+            "can ensure",
+            "future generations come"
+        ],
+        [
+            "we",
+            "can ensure",
+            "future for generations come"
+        ],
+        [
+            "we",
+            "can ensure",
+            "future for generations to come"
+        ],
+        [
+            "we",
+            "can ensure",
+            "sustainable future generations come"
+        ],
+        [
+            "we",
+            "can ensure",
+            "sustainable future for generations come"
+        ],
+        [
+            "we",
+            "can ensure",
+            "future generations to come"
+        ],
+        [
+            "we",
+            "can ensure",
+            "sustainable future generations to come"
+        ]
+    ],
+    "edges": [
+        "has played",
+        "has played",
+        "has played",
+        "is in",
+        "has played",
+        "has played role throughout",
+        "has played",
+        "has played",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "is in",
+        "is",
+        "were established near",
+        "were often established near",
+        "was crucial for",
+        "was",
+        "were",
+        "were often established near",
+        "were often established near",
+        "were",
+        "were established near",
+        "were established near",
+        "were often established near",
+        "were",
+        "were",
+        "were established near",
+        "determined",
+        "determined",
+        "determined",
+        "determined",
+        "availability of",
+        "determined",
+        "determined",
+        "determined",
+        "determined",
+        "determined",
+        "availability",
+        "determined",
+        "has",
+        "has",
+        "is in",
+        "cultivate",
+        "irrigate",
+        "cultivate",
+        "produce",
+        "produce",
+        "cultivate",
+        "cultivate",
+        "cultivate",
+        "cultivate",
+        "cultivate",
+        "cultivate",
+        "food",
+        "food",
+        "enabled",
+        "food",
+        "food",
+        "food",
+        "enabled",
+        "can",
+        "can",
+        "can",
+        "can",
+        "has",
+        "has",
+        "has",
+        "has",
+        "have served as",
+        "have served for",
+        "have served as",
+        "have served for",
+        "have served for",
+        "have served as",
+        "have served for",
+        "have served as",
+        "fostered",
+        "development of",
+        "development of",
+        "connected",
+        "development of",
+        "development of",
+        "connected",
+        "fostered",
+        "is in",
+        "have played",
+        "have played",
+        "have also played",
+        "have played",
+        "have played",
+        "have also played",
+        "have also played",
+        "have also played",
+        "have also played",
+        "have played",
+        "have also played",
+        "have played",
+        "has",
+        "driving",
+        "has",
+        "has",
+        "driving",
+        "has",
+        "has",
+        "has",
+        "power",
+        "saw",
+        "were",
+        "were",
+        "grind",
+        "were",
+        "power",
+        "power",
+        "power",
+        "is in",
+        "led to",
+        "led to",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play",
+        "play",
+        "play role in",
+        "has",
+        "has",
+        "has",
+        "has",
+        "shaping live",
+        "is in",
+        "shaping",
+        "is In",
+        "has",
+        "has",
+        "has",
+        "interact with",
+        "has",
+        "has",
+        "has",
+        "has",
+        "been fundamental",
+        "has",
+        "promoting",
+        "face",
+        "is",
+        "recognize",
+        "recognize significance in",
+        "promoting",
+        "recognize",
+        "recognize significance in",
+        "can ensure",
+        "can ensure",
+        "can ensure",
+        "can ensure",
+        "can ensure",
+        "can ensure",
+        "can ensure",
+        "can ensure"
+    ]
+}

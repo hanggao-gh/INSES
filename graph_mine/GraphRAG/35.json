@@ -1,0 +1,128 @@
+{
+  "entities": [
+    "JEAN-FRAN\u00c7OIS CHAMPOLLION",
+    "UNICODE",
+    "AUGMENTED REALITY AND VIRTUAL REALITY INTERFACES",
+    "EGYPT",
+    "LATIN ALPHABET",
+    "WRITING SYSTEMS",
+    "GREECE",
+    "DIGITAL TECHNOLOGY",
+    "MESOPOTAMIA",
+    "HIEROGLYPHICS",
+    "CUNEIFORM",
+    "SUMER",
+    "CHINA",
+    "CHINESE CHARACTERS",
+    "ANCIENT EGYPTIAN CIVILIZATION",
+    "ANCIENT NEAR EAST",
+    "EMOJIS AND EMOTICONS",
+    "ALPHABET"
+  ],
+  "relations": [
+    [
+      "WRITING SYSTEMS",
+      "Sumer contributed to the development of early writing systems",
+      "SUMER"
+    ],
+    [
+      "WRITING SYSTEMS",
+      "Egypt contributed to the development of early writing systems",
+      "EGYPT"
+    ],
+    [
+      "WRITING SYSTEMS",
+      "China contributed to the development of early writing systems",
+      "CHINA"
+    ],
+    [
+      "SUMER",
+      "Cuneiform was used by the ancient Sumerians in Mesopotamia",
+      "CUNEIFORM"
+    ],
+    [
+      "EGYPT",
+      "Hieroglyphics were used as a writing system in ancient Egypt",
+      "HIEROGLYPHICS"
+    ],
+    [
+      "CHINA",
+      "While Champollion's work was unrelated to China, both represent significant developments in the history of writing systems",
+      "JEAN-FRAN\u00c7OIS CHAMPOLLION"
+    ],
+    [
+      "CHINA",
+      "Greece and China developed distinct writing systems that significantly impacted the evolution of written communication",
+      "GREECE"
+    ],
+    [
+      "CHINA",
+      "Chinese characters are a significant part of China's writing system evolution",
+      "CHINESE CHARACTERS"
+    ],
+    [
+      "CUNEIFORM",
+      "Cuneiform was developed and used in the region of Mesopotamia by the ancient Sumerians",
+      "MESOPOTAMIA"
+    ],
+    [
+      "HIEROGLYPHICS",
+      "Hieroglyphics were used as a writing system by the ancient Egyptian civilization",
+      "ANCIENT EGYPTIAN CIVILIZATION"
+    ],
+    [
+      "JEAN-FRAN\u00c7OIS CHAMPOLLION",
+      "Champollion's decipherment of hieroglyphics provided new insights into the ancient Egyptian civilization",
+      "ANCIENT EGYPTIAN CIVILIZATION"
+    ],
+    [
+      "GREECE",
+      "Greece developed the first true alphabet, influencing many modern writing systems",
+      "ALPHABET"
+    ],
+    [
+      "GREECE",
+      "The Latin alphabet, used in English and most European languages, was derived from the Greek alphabet",
+      "LATIN ALPHABET"
+    ],
+    [
+      "ALPHABET",
+      "The alphabet originated in the ancient Near East before being adapted by the Greeks",
+      "ANCIENT NEAR EAST"
+    ],
+    [
+      "DIGITAL TECHNOLOGY",
+      "Digital technology's rise facilitated the development and adoption of Unicode for global text exchange",
+      "UNICODE"
+    ],
+    [
+      "DIGITAL TECHNOLOGY",
+      "Emojis and emoticons are products of digital technology, representing new forms of digital communication",
+      "EMOJIS AND EMOTICONS"
+    ],
+    [
+      "DIGITAL TECHNOLOGY",
+      "Augmented and virtual reality interfaces are advancements in digital technology, shaping the future of how we interact with written content",
+      "AUGMENTED REALITY AND VIRTUAL REALITY INTERFACES"
+    ]
+  ],
+  "edges": [
+    "Sumer contributed to the development of early writing systems",
+    "Egypt contributed to the development of early writing systems",
+    "China contributed to the development of early writing systems",
+    "Cuneiform was used by the ancient Sumerians in Mesopotamia",
+    "Hieroglyphics were used as a writing system in ancient Egypt",
+    "While Champollion's work was unrelated to China, both represent significant developments in the history of writing systems",
+    "Greece and China developed distinct writing systems that significantly impacted the evolution of written communication",
+    "Chinese characters are a significant part of China's writing system evolution",
+    "Cuneiform was developed and used in the region of Mesopotamia by the ancient Sumerians",
+    "Hieroglyphics were used as a writing system by the ancient Egyptian civilization",
+    "Champollion's decipherment of hieroglyphics provided new insights into the ancient Egyptian civilization",
+    "Greece developed the first true alphabet, influencing many modern writing systems",
+    "The Latin alphabet, used in English and most European languages, was derived from the Greek alphabet",
+    "The alphabet originated in the ancient Near East before being adapted by the Greeks",
+    "Digital technology's rise facilitated the development and adoption of Unicode for global text exchange",
+    "Emojis and emoticons are products of digital technology, representing new forms of digital communication",
+    "Augmented and virtual reality interfaces are advancements in digital technology, shaping the future of how we interact with written content"
+  ]
+}

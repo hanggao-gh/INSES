@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Esports are also known as electronic sports.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming. events sell out arenas. sports networks like espn. sports networks like tbs. events sell out stadiums. sports networks broadcasting events.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Esports have experienced a meteoric rise in popularity over the past decade.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming. popularity over the past decade. professional players monetize personalities. professional players monetize skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Esports have transformed into a global phenomenon.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming. global phenomenon generating revenue. global phenomenon attracting viewers. professional players monetize personalities. professional players monetize skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Esports attract millions of viewers.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming. events sell out arenas. sports networks like espn. sports networks like tbs. events sell out stadiums. sports networks broadcasting events. popularity over the past decade.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Esports generate billions of dollars in revenue.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming. professional players monetize personalities. professional players monetize skills. game companies drive revenue. game companies drive engagement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The growth of esports is driven by accessibility to high-speed internet and advanced gaming technology.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Online gaming platforms like Twitch and YouTube Gaming enable global connectivity for gamers.",
+    "retrieved_context": "streaming platforms enabled personal brands. streaming services like youtube gaming. streaming services like twitch.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Esports have created a vibrant community of players and fans.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming. enthusiastic fans cheer players. enthusiastic fans cheer teams. players participating in essay. fans engage with professional players. players participating in essay. fans supporting essay. community of players. community of fans. fans engage with games. professional players monetize personalities. professional players monetize skills.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Major game developers invest in competitive gaming leagues and tournaments.",
+    "retrieved_context": "game companies drive revenue. game companies drive engagement. game developers invest competitive gaming leagues. game developers invest tournaments. professional players monetize personalities. professional players monetize skills. esports experienced rise. esports also known as electronic sports. rise of competitive gaming.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Competitive gaming leagues offer substantial prize pools.",
+    "retrieved_context": "exposure for teams. competitions offer prize pools. competitions offer exposure. competitions offer sponsorships. exposure for top players. game companies drive revenue. game companies drive engagement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Esports players can monetize their skills and personalities through sponsorships and endorsements.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming. professional players monetize personalities. professional players monetize skills. essay explore impact. essay explore factors. players participating in essay.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Esports have gained mainstream acceptance as a legitimate form of entertainment.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming. essay explore impact. mainstream acceptance of essay. essay explore factors. essay explore impact. essay explore factors. form of entertainment recognized as essay.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Major sports networks like ESPN and TBS broadcast esports events.",
+    "retrieved_context": "events sell out arenas. sports networks like espn. sports networks like tbs. events sell out stadiums. sports networks broadcasting events. esports experienced rise. esports also known as electronic sports. rise of competitive gaming. streaming services like youtube gaming. streaming services like twitch.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Esports events sell out arenas and stadiums.",
+    "retrieved_context": "esports experienced rise. esports also known as electronic sports. rise of competitive gaming. events sell out arenas. sports networks like espn. sports networks like tbs. events sell out stadiums. sports networks broadcasting events.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Game developers prioritize competitive gaming features to attract and retain players.",
+    "retrieved_context": "game developers invest competitive gaming leagues. game developers invest tournaments. game companies drive revenue. game companies drive engagement.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

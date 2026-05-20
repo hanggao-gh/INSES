@@ -1,0 +1,538 @@
+{
+  "entities": [
+    "advances",
+    "air parcels",
+    "aloft",
+    "atmosphere",
+    "atmospheric conditions",
+    "base",
+    "breeding grounds",
+    "buildings",
+    "capabilities",
+    "catastrophic destruction",
+    "challenging",
+    "change",
+    "classified",
+    "cloud base",
+    "cold front",
+    "communities",
+    "complex",
+    "conclusion",
+    "condensation funnel",
+    "condition",
+    "contagious",
+    "cooler",
+    "cumulonimbus clouds",
+    "damage",
+    "destructive",
+    "detecting",
+    "development",
+    "direction",
+    "disappear",
+    "dissipating stage",
+    "doppler radar",
+    "drier air",
+    "dry line",
+    "dust whirl stage",
+    "earth",
+    "ef0",
+    "ef5",
+    "emergency responders",
+    "enhanced fujita scale",
+    "enhancing",
+    "events",
+    "focal points",
+    "forecasting",
+    "formation",
+    "govern",
+    "ground",
+    "ground observations",
+    "height",
+    "human lives",
+    "impact",
+    "inflow",
+    "instability",
+    "intensification",
+    "intensifies",
+    "interplay",
+    "knowledge",
+    "laughter",
+    "lifting air",
+    "mature stage",
+    "mesocyclone",
+    "meteorologists",
+    "minor damage",
+    "mitigating",
+    "moist air",
+    "monitor",
+    "natural disasters",
+    "outflow boundary",
+    "path",
+    "phenomena",
+    "powerful",
+    "predicting",
+    "prepare",
+    "preparedness",
+    "processes",
+    "property",
+    "protecting",
+    "public",
+    "rapid",
+    "rating",
+    "regions",
+    "resilience",
+    "respond",
+    "rise",
+    "risk",
+    "rotating column",
+    "rotation",
+    "satellite imagery",
+    "science",
+    "scientists",
+    "severe thunderstorms",
+    "shrink",
+    "speed",
+    "stages",
+    "surface",
+    "task",
+    "technology",
+    "threat",
+    "tightens",
+    "tools",
+    "tornadoes",
+    "trees",
+    "trigger mechanism",
+    "understanding",
+    "united states",
+    "unpredictable",
+    "visible",
+    "warm",
+    "warnings",
+    "weakens",
+    "weather radar",
+    "well-defined",
+    "wind shear",
+    "wind speeds",
+    "world"
+  ],
+  "relations": [
+    [
+      "advances",
+      "in",
+      "capabilities"
+    ],
+    [
+      "advances",
+      "in",
+      "technology"
+    ],
+    [
+      "air parcels",
+      "can",
+      "rise"
+    ],
+    [
+      "change",
+      "in",
+      "direction"
+    ],
+    [
+      "change",
+      "in",
+      "speed"
+    ],
+    [
+      "classified",
+      "using",
+      "enhanced fujita scale"
+    ],
+    [
+      "communities",
+      "across",
+      "united states"
+    ],
+    [
+      "communities",
+      "across",
+      "world"
+    ],
+    [
+      "condensation funnel",
+      "descends from",
+      "base"
+    ],
+    [
+      "cooler",
+      "is",
+      "drier air"
+    ],
+    [
+      "cumulonimbus clouds",
+      "are",
+      "breeding grounds"
+    ],
+    [
+      "damage",
+      "to",
+      "buildings"
+    ],
+    [
+      "damage",
+      "to",
+      "trees"
+    ],
+    [
+      "detecting",
+      "within",
+      "rotation"
+    ],
+    [
+      "development",
+      "of",
+      "severe thunderstorms"
+    ],
+    [
+      "development",
+      "of",
+      "tornadoes"
+    ],
+    [
+      "dissipating stage",
+      "weakens",
+      "inflow"
+    ],
+    [
+      "doppler radar",
+      "is instrumental in",
+      "detecting"
+    ],
+    [
+      "drier air",
+      "is",
+      "aloft"
+    ],
+    [
+      "dust whirl stage",
+      "is",
+      "visible"
+    ],
+    [
+      "ef0",
+      "cause",
+      "minor damage"
+    ],
+    [
+      "ef0",
+      "have",
+      "wind speeds"
+    ],
+    [
+      "ef5",
+      "cause",
+      "catastrophic destruction"
+    ],
+    [
+      "ef5",
+      "have",
+      "wind speeds"
+    ],
+    [
+      "emergency responders",
+      "prepare",
+      "events"
+    ],
+    [
+      "emergency responders",
+      "respond",
+      "events"
+    ],
+    [
+      "enhanced fujita scale",
+      "ranges from",
+      "ef0"
+    ],
+    [
+      "enhanced fujita scale",
+      "ranges to",
+      "ef5"
+    ],
+    [
+      "enhancing",
+      "our",
+      "knowledge"
+    ],
+    [
+      "focal points",
+      "for",
+      "lifting air"
+    ],
+    [
+      "forecasting",
+      "remains",
+      "challenging"
+    ],
+    [
+      "forecasting",
+      "remains",
+      "complex"
+    ],
+    [
+      "inflow",
+      "causes",
+      "shrink"
+    ],
+    [
+      "instability",
+      "in",
+      "atmosphere"
+    ],
+    [
+      "interplay",
+      "of",
+      "processes"
+    ],
+    [
+      "knowledge",
+      "is essential for",
+      "protecting"
+    ],
+    [
+      "lifting air",
+      "leads to",
+      "development"
+    ],
+    [
+      "mature stage",
+      "is",
+      "well-defined"
+    ],
+    [
+      "mesocyclone",
+      "tightens",
+      "tornadoes"
+    ],
+    [
+      "meteorologists",
+      "monitor",
+      "risk"
+    ],
+    [
+      "meteorologists",
+      "use",
+      "tools"
+    ],
+    [
+      "mitigating",
+      "impact on",
+      "human lives"
+    ],
+    [
+      "mitigating",
+      "impact on",
+      "property"
+    ],
+    [
+      "phenomena",
+      "on",
+      "earth"
+    ],
+    [
+      "preparedness",
+      "and",
+      "resilience"
+    ],
+    [
+      "processes",
+      "govern",
+      "development"
+    ],
+    [
+      "processes",
+      "govern",
+      "intensification"
+    ],
+    [
+      "protecting",
+      "in",
+      "regions"
+    ],
+    [
+      "resilience",
+      "in face of",
+      "natural disasters"
+    ],
+    [
+      "rise",
+      "form",
+      "cumulonimbus clouds"
+    ],
+    [
+      "rotating column",
+      "is",
+      "mesocyclone"
+    ],
+    [
+      "scientists",
+      "and",
+      "emergency responders"
+    ],
+    [
+      "shrink",
+      "and",
+      "disappear"
+    ],
+    [
+      "threat",
+      "to",
+      "communities"
+    ],
+    [
+      "tools",
+      "include",
+      "ground observations"
+    ],
+    [
+      "tools",
+      "include",
+      "satellite imagery"
+    ],
+    [
+      "tools",
+      "include",
+      "weather radar"
+    ],
+    [
+      "tornadoes",
+      "are",
+      "classified"
+    ],
+    [
+      "tornadoes",
+      "are",
+      "destructive"
+    ],
+    [
+      "tornadoes",
+      "are",
+      "phenomena"
+    ],
+    [
+      "tornadoes",
+      "are",
+      "powerful"
+    ],
+    [
+      "tornadoes",
+      "cause",
+      "damage"
+    ],
+    [
+      "tornadoes",
+      "form in",
+      "severe thunderstorms"
+    ],
+    [
+      "tornadoes",
+      "go through",
+      "stages"
+    ],
+    [
+      "tornadoes",
+      "pose",
+      "threat"
+    ],
+    [
+      "trigger mechanism",
+      "is",
+      "cold front"
+    ],
+    [
+      "trigger mechanism",
+      "is",
+      "dry line"
+    ],
+    [
+      "trigger mechanism",
+      "is",
+      "outflow boundary"
+    ],
+    [
+      "understanding",
+      "is crucial for",
+      "mitigating"
+    ],
+    [
+      "understanding",
+      "is crucial for",
+      "predicting"
+    ],
+    [
+      "warm",
+      "near",
+      "surface"
+    ],
+    [
+      "warnings",
+      "to",
+      "public"
+    ],
+    [
+      "well-defined",
+      "rotating column",
+      "ground"
+    ],
+    [
+      "wind shear",
+      "creates",
+      "rotating column"
+    ],
+    [
+      "wind shear",
+      "is",
+      "change"
+    ]
+  ],
+  "edges": [
+    "across",
+    "and",
+    "are",
+    "can",
+    "cause",
+    "causes",
+    "creates",
+    "descends from",
+    "for",
+    "form",
+    "form in",
+    "go through",
+    "govern",
+    "have",
+    "impact on",
+    "in",
+    "in face of",
+    "include",
+    "is",
+    "is crucial for",
+    "is essential for",
+    "is instrumental in",
+    "leads to",
+    "monitor",
+    "near",
+    "of",
+    "on",
+    "our",
+    "pose",
+    "prepare",
+    "ranges from",
+    "ranges to",
+    "remains",
+    "respond",
+    "rotating column",
+    "tightens",
+    "to",
+    "use",
+    "using",
+    "weakens",
+    "within"
+  ]
+}

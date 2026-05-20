@@ -1,0 +1,97 @@
+{
+  "entities": [
+    "THOMAS NEWCOMEN",
+    "SOCIAL MEDIA",
+    "PRINTING PRESS",
+    "TELEPHONE",
+    "JOHANNES GUTENBERG",
+    "LIGHT BULB",
+    "INTERNET",
+    "STEAM ENGINE",
+    "THOMAS EDISON",
+    "TIM BERNERS-LEE",
+    "E-COMMERCE",
+    "MESOPOTAMIA",
+    "ENIAC",
+    "JAMES WATT",
+    "ALEXANDER GRAHAM BELL",
+    "COMPUTER",
+    "WHEEL"
+  ],
+  "relations": [
+    [
+      "WHEEL",
+      "The wheel was invented in Mesopotamia around 3500 BC",
+      "MESOPOTAMIA"
+    ],
+    [
+      "WHEEL",
+      "Both the internet and the wheel are inventions that significantly impacted human civilization",
+      "INTERNET"
+    ],
+    [
+      "PRINTING PRESS",
+      "Johannes Gutenberg invented the printing press in the 15th century",
+      "JOHANNES GUTENBERG"
+    ],
+    [
+      "PRINTING PRESS",
+      "Both the printing press and the internet revolutionized the dissemination of information",
+      "INTERNET"
+    ],
+    [
+      "STEAM ENGINE",
+      "James Watt was one of the inventors who developed the steam engine in the 18th century",
+      "JAMES WATT"
+    ],
+    [
+      "STEAM ENGINE",
+      "Thomas Newcomen was one of the inventors who developed the steam engine in the 18th century",
+      "THOMAS NEWCOMEN"
+    ],
+    [
+      "INTERNET",
+      "Tim Berners-Lee is recognized for his crucial role in developing the internet, which has transformed global communication and commerce",
+      "TIM BERNERS-LEE"
+    ],
+    [
+      "INTERNET",
+      "The development of the internet paved the way for the creation of social media, changing how people communicate and share information",
+      "SOCIAL MEDIA"
+    ],
+    [
+      "INTERNET",
+      "The invention of the internet enabled the emergence of e-commerce, altering the landscape of business and consumer behavior",
+      "E-COMMERCE"
+    ],
+    [
+      "ALEXANDER GRAHAM BELL",
+      "Alexander Graham Bell invented the telephone, revolutionizing communication",
+      "TELEPHONE"
+    ],
+    [
+      "THOMAS EDISON",
+      "Thomas Edison invented the light bulb, transforming artificial lighting",
+      "LIGHT BULB"
+    ],
+    [
+      "ENIAC",
+      "ENIAC was the precursor to modern computing technologies",
+      "COMPUTER"
+    ]
+  ],
+  "edges": [
+    "The wheel was invented in Mesopotamia around 3500 BC",
+    "Both the internet and the wheel are inventions that significantly impacted human civilization",
+    "Johannes Gutenberg invented the printing press in the 15th century",
+    "Both the printing press and the internet revolutionized the dissemination of information",
+    "James Watt was one of the inventors who developed the steam engine in the 18th century",
+    "Thomas Newcomen was one of the inventors who developed the steam engine in the 18th century",
+    "Tim Berners-Lee is recognized for his crucial role in developing the internet, which has transformed global communication and commerce",
+    "The development of the internet paved the way for the creation of social media, changing how people communicate and share information",
+    "The invention of the internet enabled the emergence of e-commerce, altering the landscape of business and consumer behavior",
+    "Alexander Graham Bell invented the telephone, revolutionizing communication",
+    "Thomas Edison invented the light bulb, transforming artificial lighting",
+    "ENIAC was the precursor to modern computing technologies"
+  ]
+}

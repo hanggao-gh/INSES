@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Roller coasters are thrilling amusement park rides.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. riders experience fear. riders experience excitement. principles include energy conservation. experience showcases principles. principles are in setting.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters provide riders with an exhilarating experience of twists, turns, drops, and loops.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. riders experience fear. riders experience excitement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Roller coasters are a fascinating example of physics in action.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. physics includes principles. forces include centripetal force. principles are in setting. principles include energy conservation. physics includes acceleration. velocity is direction. acceleration is rate. physics includes forces. physics includes velocity. acceleration affects riders. velocity is speed. forces include gravitational force. forces include friction. potential energy is converted into kinetic energy. mechanical energy includes potential energy. mechanical energy includes kinetic energy. friction affects excitement. friction provides traction. friction affects speed. friction provides stability. velocity is direction. velocity is speed.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forces play a key role in the physics of roller coasters.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. gravitational force affects motion. friction affects excitement. forces include centripetal force. friction affects speed. centripetal force is directed curves. gravitational force causes weightlessness. centripetal force keeps track. friction provides traction. friction provides stability. forces include gravitational force. forces include friction. friction affects excitement. friction provides traction. friction affects speed. friction provides stability. physics includes principles. forces include centripetal force. principles are in setting. principles include energy conservation. physics includes acceleration. velocity is direction. acceleration is rate. physics includes forces. physics includes velocity. acceleration affects riders. velocity is speed. forces include gravitational force. forces include friction. acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational force pulls objects toward the center of the Earth.",
+    "retrieved_context": "weightlessness is airtime. gravitational force causes weightlessness. gravitational force affects motion. gravitational force affects motion. friction affects excitement. forces include centripetal force. friction affects speed. centripetal force is directed curves. gravitational force causes weightlessness. centripetal force keeps track. friction provides traction. friction provides stability. forces include gravitational force. forces include friction. centripetal force is directed curves. centripetal force keeps track. physics includes principles. forces include centripetal force. principles are in setting. principles include energy conservation. physics includes acceleration. velocity is direction. acceleration is rate. physics includes forces. physics includes velocity. acceleration affects riders. velocity is speed. forces include gravitational force. forces include friction. friction affects excitement. friction provides traction. friction affects speed. friction provides stability. acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Gravity causes the roller coaster car to accelerate as it descends.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders. weightlessness is airtime. gravitational force causes weightlessness. gravitational force affects motion. velocity is direction. velocity is speed. friction affects excitement. friction provides traction. friction affects speed. friction provides stability. weightlessness is airtime.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Centripetal force keeps the roller coaster car on the track during curves and loops.",
+    "retrieved_context": "centripetal force is directed curves. centripetal force keeps track. roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. friction affects excitement. friction provides traction. friction affects speed. friction provides stability. acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Friction can have both positive and negative effects on a roller coaster ride.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. friction affects excitement. friction provides traction. friction affects speed. friction provides stability. acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders. weightlessness is airtime.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters rely on the conservation of mechanical energy.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. mechanical energy includes potential energy. mechanical energy includes kinetic energy. energy conservation involves mechanical energy. potential energy is converted into kinetic energy. mechanical energy includes potential energy. mechanical energy includes kinetic energy. friction affects excitement. friction provides traction. friction affects speed. friction provides stability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Potential energy is converted into kinetic energy as the roller coaster car descends a hill.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. potential energy is converted into kinetic energy. mechanical energy includes potential energy. mechanical energy includes kinetic energy. energy conservation involves mechanical energy. potential energy is converted into kinetic energy. mechanical energy includes potential energy. mechanical energy includes kinetic energy. velocity is direction. velocity is speed.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Acceleration is the rate of change of velocity.",
+    "retrieved_context": "acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders. velocity is direction. velocity is speed. physics includes principles. forces include centripetal force. principles are in setting. principles include energy conservation. physics includes acceleration. velocity is direction. acceleration is rate. physics includes forces. physics includes velocity. acceleration affects riders. velocity is speed. forces include gravitational force. forces include friction. friction affects excitement. friction provides traction. friction affects speed. friction provides stability.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Riders experience acceleration when the roller coaster car speeds up, slows down, or changes direction.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders. velocity is direction. velocity is speed. riders experience fear. riders experience excitement.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Velocity is the speed and direction of an object's motion.",
+    "retrieved_context": "velocity is direction. velocity is speed. acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders. physics includes principles. forces include centripetal force. principles are in setting. principles include energy conservation. physics includes acceleration. velocity is direction. acceleration is rate. physics includes forces. physics includes velocity. acceleration affects riders. velocity is speed. forces include gravitational force. forces include friction. friction affects excitement. friction provides traction. friction affects speed. friction provides stability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters reach high velocities during drops and loops.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. velocity is direction. velocity is speed. acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Understanding the physics of roller coasters helps appreciate the design and engineering behind them.",
+    "retrieved_context": "roller coasters are amusement park. roller coasters provide experience. riders experience fear. roller coasters provide riders. roller coasters reach speed. riders experience excitement. example of physics. roller coasters are example. experience showcases principles. physics includes principles. forces include centripetal force. principles are in setting. principles include energy conservation. physics includes acceleration. velocity is direction. acceleration is rate. physics includes forces. physics includes velocity. acceleration affects riders. velocity is speed. forces include gravitational force. forces include friction. friction affects excitement. friction provides traction. friction affects speed. friction provides stability. potential energy is converted into kinetic energy. mechanical energy includes potential energy. mechanical energy includes kinetic energy. velocity is direction. velocity is speed. acceleration is rate. riders experience fear. riders experience excitement. acceleration affects riders.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

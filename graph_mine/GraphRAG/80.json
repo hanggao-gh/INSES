@@ -1,0 +1,43 @@
+{
+  "entities": [
+    "MOVIES",
+    "COMEDY",
+    "STAND-UP COMEDY",
+    "LAUGHTER",
+    "SITCOMS"
+  ],
+  "relations": [
+    [
+      "COMEDY",
+      "Comedy is a primary source of laughter, contributing to various health benefits",
+      "LAUGHTER"
+    ],
+    [
+      "COMEDY",
+      "Stand-up comedy is a direct form of comedy, engaging audiences through live performances",
+      "STAND-UP COMEDY"
+    ],
+    [
+      "COMEDY",
+      "Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios",
+      "SITCOMS"
+    ],
+    [
+      "COMEDY",
+      "Movies include comedy as a genre, aiming to entertain and bring joy to viewers",
+      "MOVIES"
+    ],
+    [
+      "COMEDY",
+      "Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society",
+      "COMEDY"
+    ]
+  ],
+  "edges": [
+    "Comedy is a primary source of laughter, contributing to various health benefits",
+    "Stand-up comedy is a direct form of comedy, engaging audiences through live performances",
+    "Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios",
+    "Movies include comedy as a genre, aiming to entertain and bring joy to viewers",
+    "Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society"
+  ]
+}

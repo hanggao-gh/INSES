@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Transportation is crucial for human civilization development.",
+    "retrieved_context": "transportation invention of wheel. transportation continue evolve. transportation continue to evolve. Transportation has played crucial role. Transportation has played role in development. Transportation has played role throughout history. Transportation has played crucial role in development of civilization. crucial role is in development of human civilization. Transportation has played crucial role in development. Transportation has played crucial role in development of human civilization. Transportation has played role in development of civilization. Transportation has played role in development of human civilization. Transportation has played role.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transportation systems connect people, goods, and ideas over long distances.",
+    "retrieved_context": "transportation systems development of been In conclusion has driving force behind progress. transportation systems development of been has driving force behind progress. transportation systems development of been In conclusion has driving force. transportation systems development of been has driving force behind human progress. has driving force is In conclusion. transportation systems development of been has force. transportation systems development of been has force behind human progress. transportation systems development of been In conclusion has force behind human progress. transportation systems development of been In conclusion has driving force behind human progress. transportation systems development of been has force behind progress. transportation systems development of been In conclusion has force behind progress. transportation systems development of been has driving force. transportation systems development of been In conclusion has force. transportation invention of wheel. transportation continue evolve. transportation continue to evolve. Transportation has played crucial role. Transportation has played role in development. Transportation has played role throughout history. Transportation has played crucial role in development of civilization. crucial role is in development of human civilization. Transportation has played crucial role in development. Transportation has played crucial role in development of human civilization. Transportation has played role in development of civilization. Transportation has played role in development of human civilization. Transportation has played role.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Walking was one of the earliest forms of transportation.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Animals like horses, camels, and oxen were used for transportation in ancient times.",
+    "retrieved_context": "goods leading to growth of industries. animals carry goods. goods leading to growth. transportation invention of wheel. transportation continue evolve. transportation continue to evolve.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the wheel led to wheeled carts and chariots for transportation.",
+    "retrieved_context": "invention revolutionized transportation. invention is in 18th century. turning point invention in 18th century. invention marked turning point in transportation history. invention revolutionized transportation leading to development of wheeled carts. invention marked significant turning point in transportation history. invention revolutionized transportation leading to development. significant turning point is in transportation history. turning point invention in century. significant turning point invention in 18th century. significant turning point invention of steam engine. transportation continue to evolve. invention marked turning point. significant turning point invention in century. turning point invention of steam engine. invention marked significant turning point. invention revolutionized transportation leading to development of carts. transportation continue evolve. transportation invention of wheel. invention revolutionized transportation leading.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sailing ships enabled travel across oceans and exploration of new lands.",
+    "retrieved_context": "steamships making it faster reliable. steamships making it reliable. steamships making it faster more reliable. steamships revolutionized land travel. steamships making it more reliable.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Steam engine revolutionized land and sea travel in the 18th century.",
+    "retrieved_context": "steamships making it faster reliable. steamships making it reliable. steamships making it faster more reliable. steamships revolutionized land travel. steamships making it more reliable.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Steam-powered locomotives and steamships made transportation faster and more reliable.",
+    "retrieved_context": "steamships making it faster reliable. steamships making it reliable. steamships making it faster more reliable. steamships revolutionized land travel. steamships making it more reliable. powered locomotives revolutionized land travel. locomotives revolutionized land travel.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Automobiles and airplanes became dominant modes of transportation in the 20th century.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Mass production of automobiles made personal transportation more affordable.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Commercial aviation enabled long-distance travel in a matter of hours.",
+    "retrieved_context": "Space travel is becoming reality with companies. Space travel reality with companies. Space travel is becoming reality. reality is with companies like SpaceX. Space travel is becoming reality with companies like SpaceX. Space travel reality with companies like SpaceX. Space travel once is becoming reality. reality is with companies like SpaceX. Space travel once reality with companies. Space travel once is becoming reality with companies. Space travel once reality with companies like SpaceX. Space travel once is becoming reality with companies like SpaceX. transportation invention of wheel. transportation continue evolve. transportation continue to evolve. Transportation has played crucial role. Transportation has played role in development. Transportation has played role throughout history. Transportation has played crucial role in development of civilization. crucial role is in development of human civilization. Transportation has played crucial role in development. Transportation has played crucial role in development of human civilization. Transportation has played role in development of civilization. Transportation has played role in development of human civilization. Transportation has played role.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in technology led to the development of ride-sharing services and electric vehicles.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hyperloop trains aim to transport passengers in high-speed pods through vacuum tubes.",
+    "retrieved_context": "Hyperloop technology transport passengers in high speed pods. Hyperloop technology transport passengers. Hyperloop technology transport passengers in speed pods. Hyperloop technology transport passengers through vacuum tubes. Space travel is becoming reality with companies. Space travel reality with companies. Space travel is becoming reality. reality is with companies like SpaceX. Space travel is becoming reality with companies like SpaceX. Space travel reality with companies like SpaceX.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Drones are used for delivery services and aerial surveys in transportation.",
+    "retrieved_context": "Drones are are used. Drones are are used for delivery services. Hyperloop technology transport passengers in high speed pods. Hyperloop technology transport passengers. Hyperloop technology transport passengers in speed pods. Hyperloop technology transport passengers through vacuum tubes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space travel is becoming a reality with companies like SpaceX and Blue Origin.",
+    "retrieved_context": "Space travel is becoming reality with companies. Space travel reality with companies. Space travel is becoming reality. reality is with companies like SpaceX. Space travel is becoming reality with companies like SpaceX. Space travel reality with companies like SpaceX. Space travel once is becoming reality. reality is with companies like SpaceX. Space travel once reality with companies. Space travel once is becoming reality with companies. Space travel once reality with companies like SpaceX. Space travel once is becoming reality with companies like SpaceX.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

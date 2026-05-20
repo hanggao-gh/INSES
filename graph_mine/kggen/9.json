@@ -1,0 +1,408 @@
+{
+  "entities": [
+    "advertising",
+    "appetite",
+    "arousal",
+    "associations",
+    "attention",
+    "authority",
+    "bedrooms",
+    "behavior",
+    "black",
+    "blood pressure",
+    "blue",
+    "blues",
+    "butterfly",
+    "calming",
+    "calmness",
+    "cheerfulness",
+    "color psychology",
+    "concentration",
+    "conclusion",
+    "cool",
+    "creativity",
+    "cultural backgrounds",
+    "daily lives",
+    "danger",
+    "death",
+    "duality",
+    "emotions",
+    "energizing",
+    "energy",
+    "excitement",
+    "experiences",
+    "feelings",
+    "focus",
+    "green",
+    "happiness",
+    "heart rate",
+    "impact",
+    "individual",
+    "influence",
+    "innocence",
+    "joy",
+    "kitchen",
+    "life cycle",
+    "meditation rooms",
+    "mindset",
+    "mood",
+    "mourning",
+    "mystery",
+    "nature",
+    "optimism",
+    "orange",
+    "passion",
+    "peace",
+    "perception",
+    "physical reactions",
+    "positivity",
+    "power",
+    "productivity",
+    "psychological",
+    "purity",
+    "purple",
+    "red",
+    "relaxation",
+    "sadness",
+    "serenity",
+    "serotonin",
+    "sophistication",
+    "stimulating",
+    "study",
+    "tranquility",
+    "unique",
+    "universal",
+    "urgency",
+    "versatile",
+    "warm",
+    "warmth",
+    "well-being",
+    "workout space",
+    "yellow",
+    "yellows"
+  ],
+  "relations": [
+    [
+      "advertising",
+      "create",
+      "urgency"
+    ],
+    [
+      "advertising",
+      "grab",
+      "attention"
+    ],
+    [
+      "black",
+      "associated with",
+      "authority"
+    ],
+    [
+      "black",
+      "associated with",
+      "power"
+    ],
+    [
+      "black",
+      "associated with",
+      "sophistication"
+    ],
+    [
+      "black",
+      "described as",
+      "duality"
+    ],
+    [
+      "black",
+      "described as",
+      "versatile"
+    ],
+    [
+      "black",
+      "evoke",
+      "mystery"
+    ],
+    [
+      "black",
+      "evoke",
+      "sadness"
+    ],
+    [
+      "blue",
+      "effect on",
+      "concentration"
+    ],
+    [
+      "blue",
+      "effect on",
+      "focus"
+    ],
+    [
+      "calming",
+      "associated with",
+      "blues"
+    ],
+    [
+      "color psychology",
+      "affect",
+      "mood"
+    ],
+    [
+      "color psychology",
+      "affect",
+      "physical reactions"
+    ],
+    [
+      "color psychology",
+      "influence",
+      "behavior"
+    ],
+    [
+      "conclusion",
+      "impact on",
+      "mindset"
+    ],
+    [
+      "conclusion",
+      "influence",
+      "daily lives"
+    ],
+    [
+      "conclusion",
+      "promote",
+      "creativity"
+    ],
+    [
+      "conclusion",
+      "promote",
+      "productivity"
+    ],
+    [
+      "cool",
+      "associated with",
+      "blue"
+    ],
+    [
+      "cool",
+      "associated with",
+      "calmness"
+    ],
+    [
+      "cool",
+      "associated with",
+      "green"
+    ],
+    [
+      "cool",
+      "associated with",
+      "peace"
+    ],
+    [
+      "cool",
+      "associated with",
+      "purple"
+    ],
+    [
+      "cool",
+      "associated with",
+      "relaxation"
+    ],
+    [
+      "cool",
+      "associated with",
+      "serenity"
+    ],
+    [
+      "cool",
+      "associated with",
+      "tranquility"
+    ],
+    [
+      "cool",
+      "used in",
+      "bedrooms"
+    ],
+    [
+      "cool",
+      "used in",
+      "meditation rooms"
+    ],
+    [
+      "death",
+      "associated with",
+      "mourning"
+    ],
+    [
+      "energizing",
+      "associated with",
+      "yellows"
+    ],
+    [
+      "individual",
+      "influence",
+      "cultural backgrounds"
+    ],
+    [
+      "individual",
+      "influence",
+      "experiences"
+    ],
+    [
+      "perception",
+      "influence",
+      "arousal"
+    ],
+    [
+      "perception",
+      "influence",
+      "blood pressure"
+    ],
+    [
+      "perception",
+      "influence",
+      "heart rate"
+    ],
+    [
+      "psychological",
+      "evoke",
+      "emotions"
+    ],
+    [
+      "psychological",
+      "evoke",
+      "feelings"
+    ],
+    [
+      "psychological",
+      "impact on",
+      "well-being"
+    ],
+    [
+      "purity",
+      "associated with",
+      "innocence"
+    ],
+    [
+      "red",
+      "used in",
+      "workout space"
+    ],
+    [
+      "study",
+      "known as",
+      "color psychology"
+    ],
+    [
+      "unique",
+      "associated with",
+      "associations"
+    ],
+    [
+      "universal",
+      "associated with",
+      "danger"
+    ],
+    [
+      "universal",
+      "associated with",
+      "nature"
+    ],
+    [
+      "warm",
+      "associated with",
+      "energy"
+    ],
+    [
+      "warm",
+      "associated with",
+      "orange"
+    ],
+    [
+      "warm",
+      "associated with",
+      "passion"
+    ],
+    [
+      "warm",
+      "associated with",
+      "red"
+    ],
+    [
+      "warm",
+      "associated with",
+      "warmth"
+    ],
+    [
+      "warm",
+      "associated with",
+      "yellow"
+    ],
+    [
+      "warm",
+      "create",
+      "urgency"
+    ],
+    [
+      "warm",
+      "evoke",
+      "excitement"
+    ],
+    [
+      "warm",
+      "stimulating",
+      "appetite"
+    ],
+    [
+      "yellow",
+      "associated with",
+      "happiness"
+    ],
+    [
+      "yellow",
+      "associated with",
+      "positivity"
+    ],
+    [
+      "yellow",
+      "increase",
+      "serotonin"
+    ],
+    [
+      "yellow",
+      "lead to",
+      "cheerfulness"
+    ],
+    [
+      "yellow",
+      "lead to",
+      "joy"
+    ],
+    [
+      "yellow",
+      "lead to",
+      "optimism"
+    ],
+    [
+      "yellow",
+      "used in",
+      "kitchen"
+    ]
+  ],
+  "edges": [
+    "affect",
+    "associated with",
+    "create",
+    "described as",
+    "effect on",
+    "evoke",
+    "grab",
+    "impact on",
+    "increase",
+    "influence",
+    "known as",
+    "lead to",
+    "promote",
+    "stimulating",
+    "used in"
+  ]
+}

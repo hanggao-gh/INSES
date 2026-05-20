@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "axolotl is a type of salamander native to Mexico",
+    "retrieved_context": "axolotl recover from injuries. axolotl native to Mexico. axolotl has regenerative abilities in hopes of unlocking new medical treatments for humans.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "axolotl can regenerate lost body parts, including limbs, tail, and parts of its brain and spinal cord",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "mantis shrimp is a colorful crustacean found in tropical waters",
+    "retrieved_context": "mantis shrimp uses punch. mantis shrimp is in its underwater habitat. mantis shrimp uses deadly punch. mantis shrimp predator. mantis shrimp formidable predator. mantis shrimp predator in its underwater habitat. mantis shrimp predator in its habitat. deep sea dweller is with transparent head. fish has transparent head.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "mantis shrimp has one of the most powerful punches in the animal kingdom",
+    "retrieved_context": "mantis shrimp uses punch. mantis shrimp is in its underwater habitat. mantis shrimp uses deadly punch. mantis shrimp predator. mantis shrimp formidable predator. mantis shrimp predator in its underwater habitat. mantis shrimp predator in its habitat. animal kingdom is full. animal kingdom is In conclusion full of remarkable adaptations. adaptations enable common. animal kingdom is full In conclusion. adaptations enable common swift. animal kingdom is full of adaptations. animal kingdom is full of remarkable adaptations. animal kingdom is In conclusion full of adaptations.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "pangolin has protective scales made of keratin",
+    "retrieved_context": "pangolin curls is with its overlapping scales forming. axolotl recover from injuries. axolotl native to Mexico. axolotl has regenerative abilities in hopes of unlocking new medical treatments for humans. astonishing array protective armor to specialized foraging techniques. array armor From regenerative abilities to punches. array protective armor From abilities to punches. array armor to techniques. astonishing array ensure their survival. array protective armor to animals. astonishing array protective armor to foraging techniques. astonishing array protective armor From regenerative abilities. astonishing array protective armor to specialized techniques. array armor to foraging techniques. astonishing array protective armor From regenerative abilities to powerful punches. array ensure their survival. astonishing array protective armor From abilities to powerful punches. array protective armor to specialized techniques. protective armor have evolved astonishing array of adaptations. array protective armor From abilities to powerful punches. protective armor have evolved astonishing array. array protective armor From abilities. astonishing array protective armor to techniques. protective armor have evolved array of adaptations. astonishing array armor to animals. astonishing array protective armor From abilities to punches. array armor From regenerative abilities. astonishing array armor From abilities. array protective armor to specialized foraging techniques. protective armor have evolved array. astonishing array armor From regenerative abilities to punches. array armor From regenerative abilities to powerful punches.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "pangolin curls into a tight ball with overlapping scales when threatened",
+    "retrieved_context": "pangolin curls is with its overlapping scales forming. incredible strength is due specialized appendage. incredible strength is due specialized club like appendage. incredible strength is due club like appendage. incredible strength is due appendage. axolotl recover from injuries. unusual animal adaptations striking examples of is axolotl. axolotl native to Mexico. axolotl has regenerative abilities in hopes of unlocking new medical treatments for humans.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "common swift spends almost its entire life in the air",
+    "retrieved_context": "common swift spends its entire life. common swift spends its life. common swift spends almost its entire life. common swift spends almost its life. swift spends its entire life. swift has evolved specialized adaptations. swift spends almost its life. swift conserve energy. swift spends its life. swift spends almost its entire life. swift has evolved adaptations. adaptations enable common. adaptations enable common swift. swift conserve energy during flights. swift conserve energy during long flights.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "common swift can stay aloft for months at a time",
+    "retrieved_context": "common swift spends its entire life. common swift spends its life. common swift spends almost its entire life. common swift spends almost its life. swift spends its entire life. swift has evolved specialized adaptations. swift spends almost its life. swift conserve energy. swift spends its life. swift spends almost its entire life. swift has evolved adaptations. adaptations enable common. adaptations enable common swift. swift conserve energy during flights. swift conserve energy during long flights.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "barreleye fish is a deep-sea dweller with a transparent head and tubular eyes",
+    "retrieved_context": "barreleye fish dweller with transparent head. barreleye fish see prey silhouetted. barreleye fish see prey silhouetted against darkness. barreleye fish see prey silhouetted against darkness above. fish has transparent head. deep sea dweller is with transparent head.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "barreleye fish can see prey silhouetted against the darkness above",
+    "retrieved_context": "barreleye fish dweller with transparent head. barreleye fish see prey silhouetted. barreleye fish see prey silhouetted against darkness. barreleye fish see prey silhouetted against darkness above. fish has transparent head.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "aye-aye is a lemur native to Madagascar",
+    "retrieved_context": "mantis shrimp uses punch. mantis shrimp is in its underwater habitat. mantis shrimp uses deadly punch. axolotl recover from injuries. unusual animal adaptations striking examples of is axolotl. axolotl native to Mexico. axolotl has regenerative abilities in hopes of unlocking new medical treatments for humans.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "aye-aye has an elongated middle finger used to extract insects from tree bark",
+    "retrieved_context": "insects is with surgical precision. mantis shrimp uses punch. mantis shrimp is in its underwater habitat. mantis shrimp uses deadly punch. taps is with its finger. taps listening for hollow chambers. taps listening for chambers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "animals have evolved an astonishing array of adaptations to ensure their survival",
+    "retrieved_context": "axolotl recover from injuries. unusual animal adaptations striking examples of is axolotl. axolotl native to Mexico. axolotl has regenerative abilities in hopes of unlocking new medical treatments for humans. common swift spends its entire life. common swift spends its life. common swift spends almost its entire life. adaptations enable common. adaptations enable common swift. common swift spends almost its life.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "studying unusual adaptations provides valuable insights into the complexities of evolution",
+    "retrieved_context": "common swift spends its entire life. common swift spends its life. common swift spends almost its entire life. adaptations enable common. adaptations enable common swift. common swift spends almost its life. axolotl recover from injuries. unusual animal adaptations striking examples of is axolotl. axolotl native to Mexico. axolotl has regenerative abilities in hopes of unlocking new medical treatments for humans.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "animal adaptations showcase the ingenuity and diversity of life on Earth",
+    "retrieved_context": "common swift spends its entire life. common swift spends its life. common swift spends almost its entire life. adaptations enable common. adaptations enable common swift. common swift spends almost its life. axolotl recover from injuries. unusual animal adaptations striking examples of is axolotl. axolotl native to Mexico. axolotl has regenerative abilities in hopes of unlocking new medical treatments for humans. animal adaptation fascinating example of is mantis shrimp. mantis shrimp uses punch. mantis shrimp is in its underwater habitat. mantis shrimp uses deadly punch.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "13.33%"
+  }
+]

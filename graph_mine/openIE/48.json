@@ -1,0 +1,1463 @@
+{
+    "entities": [
+        "Monitoring bird populations",
+        "valuable insights into state of ecosystems",
+        "although commonly associated with insects",
+        "Birds",
+        "Protecting bird populations",
+        "new areas",
+        "ecosystems serving as indicators contributing",
+        "insects",
+        "they fly",
+        "valuable insights",
+        "nutrient cycling",
+        "Changes",
+        "indicators",
+        "although more commonly associated",
+        "associated",
+        "associated with insects",
+        "insects serving",
+        "functioning of ecosystems worldwide",
+        "functioning of ecosystems",
+        "their populations",
+        "numerous ways",
+        "monitoring",
+        "form",
+        "forests",
+        "bird pollinators",
+        "ecosystems serving as indicators of environmental health contributing to biodiversity",
+        "ecosystems contributing",
+        "more commonly associated with insects",
+        "pollination",
+        "ecosystems serving as indicators of environmental health contributing",
+        "outbreaks",
+        "insights into state of ecosystems",
+        "ecosystems contributing to biodiversity",
+        "conclusion",
+        "need",
+        "recycling of nutrients",
+        "shifts in conditions",
+        "many plant species",
+        "feeding on nectar",
+        "ecosystems serving as indicators",
+        "reproduction",
+        "check",
+        "key role",
+        "insect populations",
+        "although commonly associated",
+        "crucial for biodiversity",
+        "seed dispersal",
+        "ecosystems serving",
+        "more commonly associated",
+        "pollinators",
+        "genetic diversity",
+        "functioning worldwide",
+        "indicators of health",
+        "although more commonly associated with insects",
+        "ecosystems around world",
+        "natural form",
+        "diversity",
+        "growth",
+        "controlling insect populations",
+        "pest control",
+        "bird populations",
+        "role",
+        "shifts in environmental conditions",
+        "seeds",
+        "numerous ways to functioning",
+        "important pollinators",
+        "ecosystems serving as indicators of environmental health",
+        "environmental conditions",
+        "plant species",
+        "they",
+        "ways",
+        "need for chemical pesticides",
+        "maintaining biodiversity",
+        "insects serving as pest control agents",
+        "plant populations",
+        "conservation efforts",
+        "help",
+        "seed dispersal to pest control",
+        "functioning",
+        "growth of new vegetation",
+        "areas",
+        "production",
+        "crucial",
+        "ecosystems serving as indicators of health contributing",
+        "valuable insights into state",
+        "shifts",
+        "Many bird species",
+        "overall biodiversity",
+        "commonly associated with insects",
+        "diverse role",
+        "ecosystems",
+        "reproduction of plants",
+        "cycle nutrients",
+        "commonly associated",
+        "preying",
+        "recycling",
+        "biodiversity",
+        "ecosystems serving as indicators contributing to biodiversity",
+        "birds",
+        "balance",
+        "insects serving as natural pest control agents",
+        "outbreaks of pests",
+        "ecosystems serving contributing to biodiversity",
+        "ecosystems serving contributing",
+        "preying on insects",
+        "crucial role",
+        "insights",
+        "them",
+        "feeding",
+        "ecosystems serving as indicators of health",
+        "decline",
+        "although associated",
+        "although associated with insects",
+        "fruits",
+        "their activities",
+        "crucial for maintaining biodiversity",
+        "their habitats",
+        "ways to functioning",
+        "natural systems",
+        "insights into state",
+        "certain plant species",
+        "indicators of environmental health",
+        "as they fly",
+        "growth of vegetation",
+        "ecosystems serving as indicators of health contributing to biodiversity",
+        "environmental monitoring",
+        "production of fruits",
+        "bird species",
+        "process"
+    ],
+    "relations": [
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving as indicators of health contributing to biodiversity"
+        ],
+        [
+            "Birds",
+            "play",
+            "crucial role"
+        ],
+        [
+            "Birds",
+            "play",
+            "role"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving as indicators of health contributing"
+        ],
+        [
+            "balance",
+            "is in",
+            "natural systems"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems contributing to biodiversity"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving contributing to biodiversity"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving as indicators contributing"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving as indicators of environmental health contributing to biodiversity"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving as indicators contributing to biodiversity"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving as indicators"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving as indicators of health"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving contributing"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving as indicators of environmental health"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems serving as indicators of environmental health contributing"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "ecosystems contributing"
+        ],
+        [
+            "birds",
+            "contribute From",
+            "seed dispersal"
+        ],
+        [
+            "birds",
+            "contribute to",
+            "functioning"
+        ],
+        [
+            "birds",
+            "contribute to",
+            "functioning of ecosystems"
+        ],
+        [
+            "birds",
+            "contribute to",
+            "functioning of ecosystems worldwide"
+        ],
+        [
+            "birds",
+            "contribute From",
+            "seed dispersal to pest control"
+        ],
+        [
+            "birds",
+            "contribute to",
+            "functioning worldwide"
+        ],
+        [
+            "Many bird species",
+            "spread",
+            "seeds"
+        ],
+        [
+            "Many bird species",
+            "spread seeds",
+            "as they fly"
+        ],
+        [
+            "Many bird species",
+            "spread far and wide",
+            "seeds"
+        ],
+        [
+            "bird species",
+            "spread seeds far and wide",
+            "they fly"
+        ],
+        [
+            "Many bird species",
+            "spread seeds",
+            "they fly"
+        ],
+        [
+            "Many bird species",
+            "spread seeds far",
+            "as they fly"
+        ],
+        [
+            "bird species",
+            "consume",
+            "fruits"
+        ],
+        [
+            "bird species",
+            "spread seeds",
+            "they fly"
+        ],
+        [
+            "Many bird species",
+            "spread seeds far and wide",
+            "as they fly"
+        ],
+        [
+            "Many bird species",
+            "spread far",
+            "seeds"
+        ],
+        [
+            "they",
+            "excrete",
+            "them"
+        ],
+        [
+            "bird species",
+            "spread far and wide",
+            "seeds"
+        ],
+        [
+            "Many bird species",
+            "spread seeds far and wide",
+            "they fly"
+        ],
+        [
+            "bird species",
+            "spread seeds far and wide",
+            "as they fly"
+        ],
+        [
+            "Many bird species",
+            "consume",
+            "fruits"
+        ],
+        [
+            "bird species",
+            "spread seeds far",
+            "they fly"
+        ],
+        [
+            "bird species",
+            "spread seeds far",
+            "as they fly"
+        ],
+        [
+            "bird species",
+            "spread",
+            "seeds"
+        ],
+        [
+            "bird species",
+            "spread seeds",
+            "as they fly"
+        ],
+        [
+            "bird species",
+            "spread far",
+            "seeds"
+        ],
+        [
+            "Many bird species",
+            "spread seeds far",
+            "they fly"
+        ],
+        [
+            "plant populations",
+            "promote",
+            "genetic diversity"
+        ],
+        [
+            "plant populations",
+            "support",
+            "growth"
+        ],
+        [
+            "plant populations",
+            "promote",
+            "diversity"
+        ],
+        [
+            "plant populations",
+            "support",
+            "growth of new vegetation"
+        ],
+        [
+            "plant populations",
+            "support",
+            "growth of vegetation"
+        ],
+        [
+            "process",
+            "regenerate",
+            "plant populations"
+        ],
+        [
+            "many plant species",
+            "reproduce",
+            "areas"
+        ],
+        [
+            "many plant species",
+            "reproduce",
+            "new areas"
+        ],
+        [
+            "plant species",
+            "reproduce",
+            "new areas"
+        ],
+        [
+            "many plant species",
+            "would struggle Without",
+            "birds"
+        ],
+        [
+            "plant species",
+            "would struggle Without",
+            "birds"
+        ],
+        [
+            "decline",
+            "is in",
+            "overall biodiversity"
+        ],
+        [
+            "plant species",
+            "reproduce",
+            "areas"
+        ],
+        [
+            "birds",
+            "also play role in",
+            "controlling insect populations"
+        ],
+        [
+            "birds",
+            "play",
+            "key role"
+        ],
+        [
+            "birds",
+            "also play",
+            "role"
+        ],
+        [
+            "birds",
+            "play role in",
+            "insect populations"
+        ],
+        [
+            "birds",
+            "also play role In",
+            "seed dispersal"
+        ],
+        [
+            "birds",
+            "also play role in",
+            "insect populations"
+        ],
+        [
+            "birds",
+            "play",
+            "role"
+        ],
+        [
+            "birds",
+            "play role In",
+            "seed dispersal"
+        ],
+        [
+            "birds",
+            "play role in",
+            "controlling insect populations"
+        ],
+        [
+            "birds",
+            "also play",
+            "key role"
+        ],
+        [
+            "Many bird species",
+            "feed on",
+            "insects serving as pest control agents"
+        ],
+        [
+            "help",
+            "keep",
+            "insect populations"
+        ],
+        [
+            "bird species",
+            "feed on",
+            "insects serving as pest control agents"
+        ],
+        [
+            "help",
+            "keep insect populations in",
+            "check"
+        ],
+        [
+            "bird species",
+            "feed on",
+            "insects serving as natural pest control agents"
+        ],
+        [
+            "Many bird species",
+            "feed on",
+            "insects serving as natural pest control agents"
+        ],
+        [
+            "bird species",
+            "feed on",
+            "insects"
+        ],
+        [
+            "bird species",
+            "feed on",
+            "insects serving"
+        ],
+        [
+            "Many bird species",
+            "feed on",
+            "insects"
+        ],
+        [
+            "Many bird species",
+            "feed on",
+            "insects serving"
+        ],
+        [
+            "birds",
+            "help By",
+            "preying"
+        ],
+        [
+            "birds",
+            "help By",
+            "preying on insects"
+        ],
+        [
+            "birds",
+            "prevent",
+            "outbreaks"
+        ],
+        [
+            "birds",
+            "prevent",
+            "outbreaks of pests"
+        ],
+        [
+            "need",
+            "form of",
+            "pest control"
+        ],
+        [
+            "form",
+            "reduces",
+            "need"
+        ],
+        [
+            "form",
+            "reduces",
+            "need for chemical pesticides"
+        ],
+        [
+            "need",
+            "natural form of",
+            "pest control"
+        ],
+        [
+            "natural form",
+            "reduces",
+            "need"
+        ],
+        [
+            "natural form",
+            "reduces",
+            "need for chemical pesticides"
+        ],
+        [
+            "birds",
+            "contribute in",
+            "ecosystems"
+        ],
+        [
+            "birds",
+            "Furthermore contribute to",
+            "nutrient cycling"
+        ],
+        [
+            "birds",
+            "contribute to",
+            "nutrient cycling"
+        ],
+        [
+            "birds",
+            "contribute through",
+            "their activities"
+        ],
+        [
+            "birds",
+            "Furthermore contribute through",
+            "their activities"
+        ],
+        [
+            "birds",
+            "Furthermore contribute in",
+            "ecosystems"
+        ],
+        [
+            "birds",
+            "help In",
+            "forests"
+        ],
+        [
+            "birds",
+            "help to",
+            "cycle nutrients"
+        ],
+        [
+            "process",
+            "contributes to",
+            "recycling of nutrients"
+        ],
+        [
+            "process",
+            "contributes to",
+            "recycling"
+        ],
+        [
+            "role",
+            "is",
+            "although more commonly associated with insects"
+        ],
+        [
+            "Birds",
+            "also play role in",
+            "pollination"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "associated"
+        ],
+        [
+            "Birds",
+            "play role",
+            "although more commonly associated with insects"
+        ],
+        [
+            "role",
+            "is",
+            "although commonly associated with insects"
+        ],
+        [
+            "role",
+            "is",
+            "commonly associated"
+        ],
+        [
+            "role",
+            "is more commonly associated with",
+            "insects"
+        ],
+        [
+            "Birds",
+            "play role",
+            "although more commonly associated"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "more commonly associated"
+        ],
+        [
+            "Birds",
+            "play role",
+            "although commonly associated with insects"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "although commonly associated with insects"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "more commonly associated with insects"
+        ],
+        [
+            "Birds",
+            "also play",
+            "role"
+        ],
+        [
+            "Birds",
+            "play role",
+            "although commonly associated"
+        ],
+        [
+            "role",
+            "is",
+            "although commonly associated"
+        ],
+        [
+            "Birds",
+            "play role",
+            "more commonly associated"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "although commonly associated"
+        ],
+        [
+            "role",
+            "is associated with",
+            "insects"
+        ],
+        [
+            "role",
+            "is",
+            "associated"
+        ],
+        [
+            "role",
+            "is",
+            "although associated"
+        ],
+        [
+            "role",
+            "is",
+            "more commonly associated"
+        ],
+        [
+            "role",
+            "is",
+            "although more commonly associated"
+        ],
+        [
+            "Birds",
+            "play",
+            "role"
+        ],
+        [
+            "Birds",
+            "play role",
+            "although associated"
+        ],
+        [
+            "Birds",
+            "play role in",
+            "pollination"
+        ],
+        [
+            "Birds",
+            "play role",
+            "associated with insects"
+        ],
+        [
+            "role",
+            "is commonly associated with",
+            "insects"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "commonly associated"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "associated with insects"
+        ],
+        [
+            "Birds",
+            "play role",
+            "associated"
+        ],
+        [
+            "Birds",
+            "play role",
+            "although associated with insects"
+        ],
+        [
+            "Birds",
+            "play role",
+            "commonly associated with insects"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "although more commonly associated"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "although associated with insects"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "although more commonly associated with insects"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "commonly associated with insects"
+        ],
+        [
+            "Birds",
+            "also play role",
+            "although associated"
+        ],
+        [
+            "role",
+            "is",
+            "although associated with insects"
+        ],
+        [
+            "Birds",
+            "play role",
+            "commonly associated"
+        ],
+        [
+            "Birds",
+            "play role",
+            "more commonly associated with insects"
+        ],
+        [
+            "bird species",
+            "are pollinators for",
+            "plant species"
+        ],
+        [
+            "bird species",
+            "are important pollinators for",
+            "plant species"
+        ],
+        [
+            "bird species",
+            "are",
+            "pollinators"
+        ],
+        [
+            "bird species",
+            "are important pollinators for",
+            "certain plant species"
+        ],
+        [
+            "bird species",
+            "are",
+            "important pollinators"
+        ],
+        [
+            "bird species",
+            "are pollinators for",
+            "certain plant species"
+        ],
+        [
+            "birds",
+            "facilitate reproduction By",
+            "feeding"
+        ],
+        [
+            "birds",
+            "facilitate",
+            "reproduction"
+        ],
+        [
+            "birds",
+            "facilitate reproduction By",
+            "feeding on nectar"
+        ],
+        [
+            "birds",
+            "contribute to",
+            "production of fruits"
+        ],
+        [
+            "birds",
+            "facilitate",
+            "reproduction of plants"
+        ],
+        [
+            "birds",
+            "contribute to",
+            "production"
+        ],
+        [
+            "many plant species",
+            "would struggle Without",
+            "bird pollinators"
+        ],
+        [
+            "plant species",
+            "reproduce",
+            "their populations"
+        ],
+        [
+            "plant species",
+            "would struggle Without",
+            "bird pollinators"
+        ],
+        [
+            "many plant species",
+            "reproduce",
+            "their populations"
+        ],
+        [
+            "birds",
+            "Moreover serve as",
+            "indicators"
+        ],
+        [
+            "birds",
+            "serve as",
+            "indicators"
+        ],
+        [
+            "birds",
+            "serve as",
+            "indicators of health"
+        ],
+        [
+            "birds",
+            "serve as",
+            "indicators of environmental health"
+        ],
+        [
+            "birds",
+            "Moreover serve as",
+            "indicators of health"
+        ],
+        [
+            "birds",
+            "Moreover serve as",
+            "indicators of environmental health"
+        ],
+        [
+            "Changes",
+            "can signal",
+            "shifts"
+        ],
+        [
+            "Changes",
+            "can signal",
+            "shifts in conditions"
+        ],
+        [
+            "Changes",
+            "is in",
+            "bird populations"
+        ],
+        [
+            "shifts",
+            "Changes in",
+            "bird populations"
+        ],
+        [
+            "shifts",
+            "is in",
+            "environmental conditions"
+        ],
+        [
+            "Changes",
+            "can signal",
+            "shifts in environmental conditions"
+        ],
+        [
+            "Monitoring bird populations",
+            "can provide",
+            "insights into state of ecosystems"
+        ],
+        [
+            "Monitoring bird populations",
+            "can provide",
+            "valuable insights"
+        ],
+        [
+            "Monitoring bird populations",
+            "can provide",
+            "insights"
+        ],
+        [
+            "Monitoring bird populations",
+            "can provide",
+            "valuable insights into state of ecosystems"
+        ],
+        [
+            "Monitoring bird populations",
+            "can provide",
+            "insights into state"
+        ],
+        [
+            "Monitoring bird populations",
+            "can provide",
+            "valuable insights into state"
+        ],
+        [
+            "conservation efforts",
+            "protect",
+            "biodiversity"
+        ],
+        [
+            "birds",
+            "play role in",
+            "ecosystems around world"
+        ],
+        [
+            "birds",
+            "play",
+            "diverse role"
+        ],
+        [
+            "birds",
+            "play role In",
+            "conclusion"
+        ],
+        [
+            "birds",
+            "play role in",
+            "ecosystems"
+        ],
+        [
+            "birds",
+            "play",
+            "role"
+        ],
+        [
+            "monitoring",
+            "contribute in",
+            "numerous ways"
+        ],
+        [
+            "pollination",
+            "contribute in",
+            "ways"
+        ],
+        [
+            "environmental monitoring",
+            "contribute in",
+            "numerous ways to functioning"
+        ],
+        [
+            "pollination",
+            "contribute in",
+            "numerous ways to functioning"
+        ],
+        [
+            "birds",
+            "contribute in",
+            "ways to functioning"
+        ],
+        [
+            "environmental monitoring",
+            "contribute in",
+            "ways to functioning"
+        ],
+        [
+            "nutrient cycling",
+            "contribute From",
+            "seed dispersal"
+        ],
+        [
+            "monitoring",
+            "contribute From",
+            "seed dispersal to pest control"
+        ],
+        [
+            "monitoring",
+            "contribute in",
+            "numerous ways to functioning"
+        ],
+        [
+            "monitoring",
+            "contribute in",
+            "ways to functioning"
+        ],
+        [
+            "nutrient cycling",
+            "contribute From",
+            "seed dispersal to pest control"
+        ],
+        [
+            "monitoring",
+            "contribute in",
+            "ways"
+        ],
+        [
+            "environmental monitoring",
+            "contribute From",
+            "seed dispersal to pest control"
+        ],
+        [
+            "monitoring",
+            "contribute From",
+            "seed dispersal"
+        ],
+        [
+            "nutrient cycling",
+            "contribute in",
+            "ways to functioning"
+        ],
+        [
+            "pollination",
+            "contribute From",
+            "seed dispersal to pest control"
+        ],
+        [
+            "environmental monitoring",
+            "contribute From",
+            "seed dispersal"
+        ],
+        [
+            "nutrient cycling",
+            "contribute in",
+            "numerous ways to functioning"
+        ],
+        [
+            "environmental monitoring",
+            "contribute in",
+            "numerous ways"
+        ],
+        [
+            "birds",
+            "contribute in",
+            "numerous ways"
+        ],
+        [
+            "nutrient cycling",
+            "contribute in",
+            "ways"
+        ],
+        [
+            "birds",
+            "contribute From",
+            "seed dispersal to pest control"
+        ],
+        [
+            "pollination",
+            "contribute in",
+            "numerous ways"
+        ],
+        [
+            "pollination",
+            "contribute in",
+            "ways to functioning"
+        ],
+        [
+            "pollination",
+            "contribute From",
+            "seed dispersal"
+        ],
+        [
+            "birds",
+            "contribute in",
+            "ways"
+        ],
+        [
+            "birds",
+            "contribute From",
+            "seed dispersal"
+        ],
+        [
+            "environmental monitoring",
+            "contribute in",
+            "ways"
+        ],
+        [
+            "nutrient cycling",
+            "contribute in",
+            "numerous ways"
+        ],
+        [
+            "birds",
+            "contribute in",
+            "numerous ways to functioning"
+        ],
+        [
+            "bird populations",
+            "is",
+            "crucial"
+        ],
+        [
+            "Protecting bird populations",
+            "is",
+            "crucial for maintaining biodiversity"
+        ],
+        [
+            "Protecting bird populations",
+            "is crucial for",
+            "biodiversity"
+        ],
+        [
+            "Protecting bird populations",
+            "is crucial for",
+            "maintaining biodiversity"
+        ],
+        [
+            "Protecting bird populations",
+            "is",
+            "crucial"
+        ],
+        [
+            "their habitats",
+            "is crucial for",
+            "maintaining biodiversity"
+        ],
+        [
+            "their habitats",
+            "is",
+            "crucial"
+        ],
+        [
+            "bird populations",
+            "is",
+            "crucial for biodiversity"
+        ],
+        [
+            "their habitats",
+            "is crucial for",
+            "biodiversity"
+        ],
+        [
+            "Protecting bird populations",
+            "is",
+            "crucial for biodiversity"
+        ],
+        [
+            "bird populations",
+            "is crucial for",
+            "biodiversity"
+        ],
+        [
+            "bird populations",
+            "is crucial for",
+            "maintaining biodiversity"
+        ],
+        [
+            "bird populations",
+            "is",
+            "crucial for maintaining biodiversity"
+        ]
+    ],
+    "edges": [
+        "play role in",
+        "play",
+        "play",
+        "play role in",
+        "play role in",
+        "is in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "play role in",
+        "contribute From",
+        "contribute to",
+        "contribute to",
+        "contribute to",
+        "contribute From",
+        "contribute to",
+        "spread",
+        "spread seeds",
+        "spread far and wide",
+        "spread seeds far and wide",
+        "spread seeds",
+        "spread seeds far",
+        "consume",
+        "spread seeds",
+        "spread seeds far and wide",
+        "spread far",
+        "excrete",
+        "spread far and wide",
+        "spread seeds far and wide",
+        "spread seeds far and wide",
+        "consume",
+        "spread seeds far",
+        "spread seeds far",
+        "spread",
+        "spread seeds",
+        "spread far",
+        "spread seeds far",
+        "promote",
+        "support",
+        "promote",
+        "support",
+        "support",
+        "regenerate",
+        "reproduce",
+        "reproduce",
+        "reproduce",
+        "would struggle Without",
+        "would struggle Without",
+        "is in",
+        "reproduce",
+        "also play role in",
+        "play",
+        "also play",
+        "play role in",
+        "also play role In",
+        "also play role in",
+        "play",
+        "play role In",
+        "play role in",
+        "also play",
+        "feed on",
+        "keep",
+        "feed on",
+        "keep insect populations in",
+        "feed on",
+        "feed on",
+        "feed on",
+        "feed on",
+        "feed on",
+        "feed on",
+        "help By",
+        "help By",
+        "prevent",
+        "prevent",
+        "form of",
+        "reduces",
+        "reduces",
+        "natural form of",
+        "reduces",
+        "reduces",
+        "contribute in",
+        "Furthermore contribute to",
+        "contribute to",
+        "contribute through",
+        "Furthermore contribute through",
+        "Furthermore contribute in",
+        "help In",
+        "help to",
+        "contributes to",
+        "contributes to",
+        "is",
+        "also play role in",
+        "also play role",
+        "play role",
+        "is",
+        "is",
+        "is more commonly associated with",
+        "play role",
+        "also play role",
+        "play role",
+        "also play role",
+        "also play role",
+        "also play",
+        "play role",
+        "is",
+        "play role",
+        "also play role",
+        "is associated with",
+        "is",
+        "is",
+        "is",
+        "is",
+        "play",
+        "play role",
+        "play role in",
+        "play role",
+        "is commonly associated with",
+        "also play role",
+        "also play role",
+        "play role",
+        "play role",
+        "play role",
+        "also play role",
+        "also play role",
+        "also play role",
+        "also play role",
+        "also play role",
+        "is",
+        "play role",
+        "play role",
+        "are pollinators for",
+        "are important pollinators for",
+        "are",
+        "are important pollinators for",
+        "are",
+        "are pollinators for",
+        "facilitate reproduction By",
+        "facilitate",
+        "facilitate reproduction By",
+        "contribute to",
+        "facilitate",
+        "contribute to",
+        "would struggle Without",
+        "reproduce",
+        "would struggle Without",
+        "reproduce",
+        "Moreover serve as",
+        "serve as",
+        "serve as",
+        "serve as",
+        "Moreover serve as",
+        "Moreover serve as",
+        "can signal",
+        "can signal",
+        "is in",
+        "Changes in",
+        "is in",
+        "can signal",
+        "can provide",
+        "can provide",
+        "can provide",
+        "can provide",
+        "can provide",
+        "can provide",
+        "protect",
+        "play role in",
+        "play",
+        "play role In",
+        "play role in",
+        "play",
+        "contribute in",
+        "contribute in",
+        "contribute in",
+        "contribute in",
+        "contribute in",
+        "contribute in",
+        "contribute From",
+        "contribute From",
+        "contribute in",
+        "contribute in",
+        "contribute From",
+        "contribute in",
+        "contribute From",
+        "contribute From",
+        "contribute in",
+        "contribute From",
+        "contribute From",
+        "contribute in",
+        "contribute in",
+        "contribute in",
+        "contribute in",
+        "contribute From",
+        "contribute in",
+        "contribute in",
+        "contribute From",
+        "contribute in",
+        "contribute From",
+        "contribute in",
+        "contribute in",
+        "contribute in",
+        "is",
+        "is",
+        "is crucial for",
+        "is crucial for",
+        "is",
+        "is crucial for",
+        "is",
+        "is",
+        "is crucial for",
+        "is",
+        "is crucial for",
+        "is crucial for",
+        "is"
+    ]
+}

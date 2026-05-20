@@ -1,0 +1,554 @@
+{
+  "entities": [
+    "18th century",
+    "19th century",
+    "access",
+    "agriculture",
+    "ancient times",
+    "armies",
+    "availability",
+    "benefit",
+    "canals",
+    "challenges",
+    "civilization",
+    "clean energy",
+    "climate change",
+    "complex societies",
+    "conserving",
+    "cooking",
+    "course",
+    "crops",
+    "culture",
+    "detect",
+    "development",
+    "distant civilizations",
+    "drinking",
+    "early civilizations",
+    "element",
+    "empires",
+    "environment",
+    "exchange",
+    "expansion",
+    "generations",
+    "goods",
+    "grain",
+    "growth",
+    "harnessed",
+    "history",
+    "human survival",
+    "hydroelectric power",
+    "ideas",
+    "importance",
+    "inca empire",
+    "industrial revolution",
+    "industry",
+    "innovation",
+    "interact",
+    "irrigate",
+    "irrigation systems",
+    "lakes",
+    "land",
+    "live",
+    "longevity",
+    "maritime trade routes",
+    "mechanical devices",
+    "mechanization",
+    "mesopotamia",
+    "military campaigns",
+    "modern industry",
+    "modern societies",
+    "movement",
+    "natural highways",
+    "oceans",
+    "overstated",
+    "people",
+    "pollution",
+    "population centers",
+    "power",
+    "precious metals",
+    "precious resource",
+    "prey",
+    "production processes",
+    "progress",
+    "regions",
+    "renewable energy",
+    "rivers",
+    "sanitation",
+    "scarcity",
+    "settlements",
+    "shaping",
+    "sharks",
+    "significance",
+    "silk",
+    "societies",
+    "sources",
+    "spices",
+    "spread",
+    "strategic role",
+    "streams",
+    "success",
+    "surplus food",
+    "sustainable",
+    "sustainable future",
+    "sustaining life",
+    "technological advancements",
+    "technology",
+    "terraced fields",
+    "territories",
+    "trade",
+    "trade networks",
+    "transportation",
+    "valuing",
+    "water",
+    "watermills",
+    "waterwheels",
+    "wood",
+    "work"
+  ],
+  "relations": [
+    [
+      "access",
+      "crucial for",
+      "surplus food"
+    ],
+    [
+      "agriculture",
+      "foundation of",
+      "early civilizations"
+    ],
+    [
+      "armies",
+      "to conquer",
+      "territories"
+    ],
+    [
+      "availability",
+      "determined",
+      "longevity"
+    ],
+    [
+      "availability",
+      "determined",
+      "success"
+    ],
+    [
+      "availability",
+      "led to",
+      "growth"
+    ],
+    [
+      "canals",
+      "constructed in",
+      "mesopotamia"
+    ],
+    [
+      "civilization",
+      "harnessed",
+      "benefit"
+    ],
+    [
+      "conserving",
+      "ensures",
+      "sustainable future"
+    ],
+    [
+      "exchange",
+      "of",
+      "goods"
+    ],
+    [
+      "exchange",
+      "of",
+      "ideas"
+    ],
+    [
+      "human survival",
+      "dependent on",
+      "water"
+    ],
+    [
+      "hydroelectric power",
+      "providing",
+      "clean energy"
+    ],
+    [
+      "hydroelectric power",
+      "providing",
+      "renewable energy"
+    ],
+    [
+      "importance",
+      "cannot be",
+      "overstated"
+    ],
+    [
+      "industrial revolution",
+      "led to",
+      "mechanization"
+    ],
+    [
+      "industrial revolution",
+      "led to",
+      "modern industry"
+    ],
+    [
+      "industrial revolution",
+      "led to",
+      "production processes"
+    ],
+    [
+      "industrial revolution",
+      "occurred in",
+      "18th century"
+    ],
+    [
+      "industrial revolution",
+      "occurred in",
+      "19th century"
+    ],
+    [
+      "irrigate",
+      "using",
+      "streams"
+    ],
+    [
+      "irrigation systems",
+      "include",
+      "canals"
+    ],
+    [
+      "irrigation systems",
+      "include",
+      "terraced fields"
+    ],
+    [
+      "maritime trade routes",
+      "connected",
+      "distant civilizations"
+    ],
+    [
+      "maritime trade routes",
+      "fostered exchange of",
+      "precious metals"
+    ],
+    [
+      "maritime trade routes",
+      "fostered exchange of",
+      "silk"
+    ],
+    [
+      "maritime trade routes",
+      "fostered exchange of",
+      "spices"
+    ],
+    [
+      "natural highways",
+      "enabled",
+      "expansion"
+    ],
+    [
+      "natural highways",
+      "enabled",
+      "movement"
+    ],
+    [
+      "natural highways",
+      "enabled",
+      "spread"
+    ],
+    [
+      "rivers",
+      "served as",
+      "natural highways"
+    ],
+    [
+      "settlements",
+      "established near",
+      "sources"
+    ],
+    [
+      "settlements",
+      "served as",
+      "natural highways"
+    ],
+    [
+      "societies",
+      "cultivate",
+      "land"
+    ],
+    [
+      "societies",
+      "produce",
+      "surplus food"
+    ],
+    [
+      "sources",
+      "include",
+      "lakes"
+    ],
+    [
+      "sources",
+      "include",
+      "oceans"
+    ],
+    [
+      "sources",
+      "include",
+      "rivers"
+    ],
+    [
+      "surplus food",
+      "enabled",
+      "complex societies"
+    ],
+    [
+      "surplus food",
+      "enabled",
+      "population centers"
+    ],
+    [
+      "surplus food",
+      "enabled",
+      "trade networks"
+    ],
+    [
+      "sustainable future",
+      "for",
+      "generations"
+    ],
+    [
+      "terraced fields",
+      "constructed by",
+      "inca empire"
+    ],
+    [
+      "valuing",
+      "ensures",
+      "sustainable future"
+    ],
+    [
+      "water",
+      "allowed",
+      "armies"
+    ],
+    [
+      "water",
+      "critical for",
+      "modern societies"
+    ],
+    [
+      "water",
+      "driving",
+      "innovation"
+    ],
+    [
+      "water",
+      "driving",
+      "technological advancements"
+    ],
+    [
+      "water",
+      "element in",
+      "development"
+    ],
+    [
+      "water",
+      "essential for",
+      "agriculture"
+    ],
+    [
+      "water",
+      "essential for",
+      "cooking"
+    ],
+    [
+      "water",
+      "essential for",
+      "drinking"
+    ],
+    [
+      "water",
+      "essential for",
+      "human survival"
+    ],
+    [
+      "water",
+      "essential for",
+      "industry"
+    ],
+    [
+      "water",
+      "essential for",
+      "sanitation"
+    ],
+    [
+      "water",
+      "essential for",
+      "trade"
+    ],
+    [
+      "water",
+      "essential for",
+      "transportation"
+    ],
+    [
+      "water",
+      "facilitating",
+      "exchange"
+    ],
+    [
+      "water",
+      "facing",
+      "climate change"
+    ],
+    [
+      "water",
+      "facing",
+      "pollution"
+    ],
+    [
+      "water",
+      "facing",
+      "scarcity"
+    ],
+    [
+      "water",
+      "generating",
+      "hydroelectric power"
+    ],
+    [
+      "water",
+      "harnessed during",
+      "industrial revolution"
+    ],
+    [
+      "water",
+      "importance for",
+      "human survival"
+    ],
+    [
+      "water",
+      "played a crucial role in",
+      "development"
+    ],
+    [
+      "water",
+      "played a strategic role in",
+      "military campaigns"
+    ],
+    [
+      "water",
+      "promoting",
+      "progress"
+    ],
+    [
+      "water",
+      "shaping",
+      "environment"
+    ],
+    [
+      "water",
+      "significance in",
+      "sustaining life"
+    ],
+    [
+      "water",
+      "significance in shaping",
+      "course"
+    ],
+    [
+      "water",
+      "source of",
+      "power"
+    ],
+    [
+      "water",
+      "used to irrigate",
+      "crops"
+    ],
+    [
+      "water",
+      "vital for",
+      "agriculture"
+    ],
+    [
+      "watermills",
+      "to grind",
+      "grain"
+    ],
+    [
+      "watermills",
+      "to power",
+      "mechanical devices"
+    ],
+    [
+      "watermills",
+      "used in",
+      "ancient times"
+    ],
+    [
+      "waterwheels",
+      "to power",
+      "mechanical devices"
+    ],
+    [
+      "waterwheels",
+      "to saw",
+      "wood"
+    ],
+    [
+      "waterwheels",
+      "used in",
+      "ancient times"
+    ]
+  ],
+  "edges": [
+    "allowed",
+    "cannot be",
+    "connected",
+    "constructed by",
+    "constructed in",
+    "critical for",
+    "crucial for",
+    "cultivate",
+    "dependent on",
+    "determined",
+    "driving",
+    "element in",
+    "enabled",
+    "ensures",
+    "essential for",
+    "established near",
+    "facilitating",
+    "facing",
+    "for",
+    "fostered exchange of",
+    "foundation of",
+    "generating",
+    "harnessed",
+    "harnessed during",
+    "importance for",
+    "include",
+    "led to",
+    "occurred in",
+    "of",
+    "played a crucial role in",
+    "played a strategic role in",
+    "produce",
+    "promoting",
+    "providing",
+    "served as",
+    "shaping",
+    "significance in",
+    "significance in shaping",
+    "source of",
+    "to conquer",
+    "to grind",
+    "to power",
+    "to saw",
+    "used in",
+    "used to irrigate",
+    "using",
+    "vital for"
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "entities": [
+    "actions",
+    "alienation",
+    "amusement",
+    "barriers",
+    "benefits",
+    "blood pressure",
+    "body language",
+    "brain cells",
+    "brain imaging techniques",
+    "brains",
+    "camaraderie",
+    "cardiovascular health",
+    "centuries",
+    "cognitive processes",
+    "communication",
+    "community",
+    "compassionate society",
+    "complex interplay",
+    "conclusion",
+    "connection",
+    "contagious",
+    "cultural barriers",
+    "cultural differences",
+    "deep breathing exercises",
+    "diverse backgrounds",
+    "diversity",
+    "embarrassment",
+    "emotion regulation",
+    "emotional contagion",
+    "emotional level",
+    "emotions",
+    "empathize",
+    "empathy",
+    "endorphins",
+    "environment",
+    "exclusion",
+    "expression",
+    "facial expressions",
+    "fmri",
+    "functional magnetic resonance imaging",
+    "genuine connection",
+    "group settings",
+    "harmonious",
+    "health benefits",
+    "human beings",
+    "humor",
+    "immune function",
+    "inclusive laughter",
+    "individuals",
+    "instinctual response",
+    "intrigued",
+    "joy",
+    "language barriers",
+    "laughter",
+    "lung capacity",
+    "mechanisms",
+    "mentally",
+    "mirror neurons",
+    "mockery",
+    "mood elevators",
+    "neurotransmitters",
+    "nonverbal cues",
+    "overall well-being",
+    "painkillers",
+    "phenomenon",
+    "physically",
+    "physiological processes",
+    "pleasurable response",
+    "pleasure",
+    "positive atmosphere",
+    "positive social cue",
+    "powerful",
+    "psychological processes",
+    "psychologists",
+    "relationships",
+    "research",
+    "respectful",
+    "reward",
+    "ridicule",
+    "scientists",
+    "shame",
+    "social bonding",
+    "social bonds",
+    "social cognition",
+    "social creatures",
+    "social nature",
+    "social norms",
+    "social relationships",
+    "stress",
+    "survival",
+    "teamwork",
+    "tension",
+    "transcend",
+    "trust",
+    "understanding",
+    "unity",
+    "universal language",
+    "vocalizations",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "brain imaging techniques",
+      "include",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "brains",
+      "interpret as",
+      "positive social cue"
+    ],
+    [
+      "camaraderie",
+      "among",
+      "diverse backgrounds"
+    ],
+    [
+      "communication",
+      "for",
+      "survival"
+    ],
+    [
+      "communication",
+      "for",
+      "well-being"
+    ],
+    [
+      "complex interplay",
+      "of",
+      "cognitive processes"
+    ],
+    [
+      "complex interplay",
+      "of",
+      "physiological processes"
+    ],
+    [
+      "complex interplay",
+      "of",
+      "psychological processes"
+    ],
+    [
+      "contagious",
+      "enhances",
+      "social relationships"
+    ],
+    [
+      "contagious",
+      "intrigued",
+      "psychologists"
+    ],
+    [
+      "contagious",
+      "intrigued",
+      "scientists"
+    ],
+    [
+      "contagious",
+      "is",
+      "complex interplay"
+    ],
+    [
+      "contagious",
+      "promotes",
+      "community"
+    ],
+    [
+      "emotional contagion",
+      "transfers",
+      "emotions"
+    ],
+    [
+      "emotions",
+      "through",
+      "nonverbal cues"
+    ],
+    [
+      "empathize",
+      "on",
+      "emotional level"
+    ],
+    [
+      "endorphins",
+      "act as",
+      "mood elevators"
+    ],
+    [
+      "endorphins",
+      "act as",
+      "painkillers"
+    ],
+    [
+      "endorphins",
+      "are",
+      "neurotransmitters"
+    ],
+    [
+      "endorphins",
+      "boost",
+      "immune function"
+    ],
+    [
+      "endorphins",
+      "improve",
+      "overall well-being"
+    ],
+    [
+      "endorphins",
+      "reduce",
+      "stress"
+    ],
+    [
+      "expression",
+      "of",
+      "connection"
+    ],
+    [
+      "expression",
+      "of",
+      "joy"
+    ],
+    [
+      "fmri",
+      "reveals",
+      "emotion regulation"
+    ],
+    [
+      "fmri",
+      "reveals",
+      "reward"
+    ],
+    [
+      "fmri",
+      "reveals",
+      "social cognition"
+    ],
+    [
+      "functional magnetic resonance imaging",
+      "is",
+      "fmri"
+    ],
+    [
+      "group settings",
+      "create",
+      "positive atmosphere"
+    ],
+    [
+      "health benefits",
+      "are",
+      "mentally"
+    ],
+    [
+      "health benefits",
+      "are",
+      "physically"
+    ],
+    [
+      "human beings",
+      "are",
+      "social creatures"
+    ],
+    [
+      "inclusive laughter",
+      "celebrates",
+      "diversity"
+    ],
+    [
+      "inclusive laughter",
+      "fosters",
+      "genuine connection"
+    ],
+    [
+      "inclusive laughter",
+      "promotes",
+      "empathy"
+    ],
+    [
+      "laughter",
+      "breaks down",
+      "barriers"
+    ],
+    [
+      "laughter",
+      "brings together",
+      "connection"
+    ],
+    [
+      "laughter",
+      "brings together",
+      "joy"
+    ],
+    [
+      "laughter",
+      "can be",
+      "exclusion"
+    ],
+    [
+      "laughter",
+      "can be",
+      "mockery"
+    ],
+    [
+      "laughter",
+      "can be",
+      "ridicule"
+    ],
+    [
+      "laughter",
+      "creates",
+      "compassionate society"
+    ],
+    [
+      "laughter",
+      "creates",
+      "harmonious"
+    ],
+    [
+      "laughter",
+      "defuses",
+      "tension"
+    ],
+    [
+      "laughter",
+      "has",
+      "health benefits"
+    ],
+    [
+      "laughter",
+      "improves",
+      "cardiovascular health"
+    ],
+    [
+      "laughter",
+      "increases",
+      "lung capacity"
+    ],
+    [
+      "laughter",
+      "is",
+      "contagious"
+    ],
+    [
+      "laughter",
+      "is",
+      "expression"
+    ],
+    [
+      "laughter",
+      "is",
+      "instinctual response"
+    ],
+    [
+      "laughter",
+      "is",
+      "powerful"
+    ],
+    [
+      "laughter",
+      "is",
+      "universal language"
+    ],
+    [
+      "laughter",
+      "is form of",
+      "emotional contagion"
+    ],
+    [
+      "laughter",
+      "is response to",
+      "humor"
+    ],
+    [
+      "laughter",
+      "is response to",
+      "pleasure"
+    ],
+    [
+      "laughter",
+      "is rooted in",
+      "social nature"
+    ],
+    [
+      "laughter",
+      "lowers",
+      "blood pressure"
+    ],
+    [
+      "laughter",
+      "promotes",
+      "camaraderie"
+    ],
+    [
+      "laughter",
+      "promotes",
+      "unity"
+    ],
+    [
+      "laughter",
+      "releases",
+      "endorphins"
+    ],
+    [
+      "laughter",
+      "serves as",
+      "social bonding"
+    ],
+    [
+      "laughter",
+      "transcends",
+      "cultural differences"
+    ],
+    [
+      "laughter",
+      "transcends",
+      "language barriers"
+    ],
+    [
+      "laughter",
+      "transcends",
+      "social norms"
+    ],
+    [
+      "laughter",
+      "triggers",
+      "pleasurable response"
+    ],
+    [
+      "lung capacity",
+      "through",
+      "deep breathing exercises"
+    ],
+    [
+      "mirror neurons",
+      "are",
+      "brain cells"
+    ],
+    [
+      "mirror neurons",
+      "cause",
+      "amusement"
+    ],
+    [
+      "mirror neurons",
+      "cause",
+      "joy"
+    ],
+    [
+      "mirror neurons",
+      "mimic",
+      "actions"
+    ],
+    [
+      "mirror neurons",
+      "mimic",
+      "emotions"
+    ],
+    [
+      "nonverbal cues",
+      "include",
+      "body language"
+    ],
+    [
+      "nonverbal cues",
+      "include",
+      "facial expressions"
+    ],
+    [
+      "nonverbal cues",
+      "include",
+      "vocalizations"
+    ],
+    [
+      "pleasurable response",
+      "enhances",
+      "empathize"
+    ],
+    [
+      "positive atmosphere",
+      "fosters",
+      "teamwork"
+    ],
+    [
+      "positive atmosphere",
+      "strengthens",
+      "social bonds"
+    ],
+    [
+      "positive social cue",
+      "signals",
+      "environment"
+    ],
+    [
+      "psychologists",
+      "intrigued for",
+      "centuries"
+    ],
+    [
+      "ridicule",
+      "leads to",
+      "alienation"
+    ],
+    [
+      "ridicule",
+      "leads to",
+      "embarrassment"
+    ],
+    [
+      "ridicule",
+      "leads to",
+      "shame"
+    ],
+    [
+      "scientists",
+      "intrigued for",
+      "centuries"
+    ],
+    [
+      "social bonding",
+      "builds",
+      "trust"
+    ],
+    [
+      "social bonding",
+      "creates",
+      "unity"
+    ],
+    [
+      "social bonding",
+      "strengthens",
+      "relationships"
+    ],
+    [
+      "social creatures",
+      "rely on",
+      "communication"
+    ],
+    [
+      "social creatures",
+      "rely on",
+      "connection"
+    ],
+    [
+      "understanding",
+      "of",
+      "benefits"
+    ],
+    [
+      "understanding",
+      "of",
+      "mechanisms"
+    ],
+    [
+      "universal language",
+      "transcends",
+      "cultural barriers"
+    ]
+  ],
+  "edges": [
+    "act as",
+    "among",
+    "are",
+    "boost",
+    "breaks down",
+    "brings together",
+    "builds",
+    "can be",
+    "cause",
+    "celebrates",
+    "create",
+    "creates",
+    "defuses",
+    "enhances",
+    "for",
+    "fosters",
+    "has",
+    "improve",
+    "improves",
+    "include",
+    "increases",
+    "interpret as",
+    "intrigued",
+    "intrigued for",
+    "is",
+    "is form of",
+    "is response to",
+    "is rooted in",
+    "leads to",
+    "lowers",
+    "mimic",
+    "of",
+    "on",
+    "promotes",
+    "reduce",
+    "releases",
+    "rely on",
+    "reveals",
+    "serves as",
+    "signals",
+    "strengthens",
+    "through",
+    "transcends",
+    "transfers",
+    "triggers"
+  ]
+}

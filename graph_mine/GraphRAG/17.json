@@ -1,0 +1,39 @@
+{
+  "entities": [
+    "LEMON JUICE",
+    "MAILLARD REACTION",
+    "EMULSIFICATION",
+    "PICKLING",
+    "FERMENTATION",
+    "TEMPERATURE CONTROL",
+    "SALT"
+  ],
+  "relations": [
+    [
+      "MAILLARD REACTION",
+      "Both the Maillard reaction and emulsification are chemical processes that influence the flavor and texture of food",
+      "EMULSIFICATION"
+    ],
+    [
+      "LEMON JUICE",
+      "Both lemon juice and salt are used to enhance and balance the flavor of food",
+      "SALT"
+    ],
+    [
+      "TEMPERATURE CONTROL",
+      "Temperature control is crucial in fermentation to ensure the desired chemical reactions occur",
+      "FERMENTATION"
+    ],
+    [
+      "FERMENTATION",
+      "Fermentation and pickling are both traditional methods used for preserving food, with each process also serving to enhance the flavor of the food. These techniques have been utilized for centuries to extend the shelf life of various foods, allowing for a diverse range of tastes and textures. By employing either fermentation or pickling, foods are not only kept from spoiling but are also imbued with unique flavors that are often sought after in culinary practices.",
+      "PICKLING"
+    ]
+  ],
+  "edges": [
+    "Both the Maillard reaction and emulsification are chemical processes that influence the flavor and texture of food",
+    "Both lemon juice and salt are used to enhance and balance the flavor of food",
+    "Temperature control is crucial in fermentation to ensure the desired chemical reactions occur",
+    "Fermentation and pickling are both traditional methods used for preserving food, with each process also serving to enhance the flavor of the food. These techniques have been utilized for centuries to extend the shelf life of various foods, allowing for a diverse range of tastes and textures. By employing either fermentation or pickling, foods are not only kept from spoiling but are also imbued with unique flavors that are often sought after in culinary practices."
+  ]
+}

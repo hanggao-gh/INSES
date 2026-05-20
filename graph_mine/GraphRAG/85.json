@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "PERCEPTION",
+    "CONSUMER BEHAVIOR",
+    "MOTIVATION",
+    "ATTITUDES"
+  ],
+  "relations": [
+    [
+      "CONSUMER BEHAVIOR",
+      "Motivation is a key factor that influences consumer behavior in terms of purchasing decisions",
+      "MOTIVATION"
+    ],
+    [
+      "CONSUMER BEHAVIOR",
+      "Perception shapes consumer behavior by affecting how consumers view and decide on products or brands",
+      "PERCEPTION"
+    ],
+    [
+      "CONSUMER BEHAVIOR",
+      "Attitudes towards products or brands significantly impact consumer behavior and decision-making",
+      "ATTITUDES"
+    ]
+  ],
+  "edges": [
+    "Motivation is a key factor that influences consumer behavior in terms of purchasing decisions",
+    "Perception shapes consumer behavior by affecting how consumers view and decide on products or brands",
+    "Attitudes towards products or brands significantly impact consumer behavior and decision-making"
+  ]
+}

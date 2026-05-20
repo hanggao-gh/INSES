@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Dinosaurs captivate human imagination for centuries.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. creatures display traits. extinction raises questions. extinction contributes to appeal.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dinosaurs roamed the Earth millions of years ago.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. extinction raises questions. extinction contributes to appeal. brachiosaurus evokes awe. creatures display traits.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dinosaurs fascinate us due to their immense size.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. extinction raises questions. extinction contributes to appeal. creatures display traits. paleontologists uncover information. information fascinates generations.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tyrannosaurus rex was a towering dinosaur.",
+    "retrieved_context": "tyrannosaurus rex evokes awe. dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. brachiosaurus evokes awe. paleontologists uncover information. information fascinates generations. creatures display traits.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Brachiosaurus was a colossal dinosaur.",
+    "retrieved_context": "brachiosaurus evokes awe. tyrannosaurus rex evokes awe. dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. extinction raises questions. extinction contributes to appeal. paleontologists uncover information. information fascinates generations. creatures display traits.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dinosaurs challenge our understanding of the natural world.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. creatures display traits. extinction raises questions. extinction contributes to appeal.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs captivate us with their diverse range of adaptations.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. adaptations challenge understanding. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. diversity challenges understanding. diversity provides opportunities. extinction raises questions. extinction contributes to appeal.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carnivorous dinosaurs had razor-sharp teeth.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. teeth are carnivorous. paleontologists uncover information. information fascinates generations. creatures display traits.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ceratopsians had intricate frills.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. frills are ceratopsians. paleontologists uncover information. information fascinates generations. era was evolution. era was change. landscapes were volcanoes. landscapes were oceans. landscapes were forests.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dinosaurs lived in the Mesozoic era.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. paleontologists uncover information. information fascinates generations. era was evolution. era was change. extinction raises questions. extinction contributes to appeal.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Mesozoic era was known as the Age of Dinosaurs.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. era was evolution. era was change. brachiosaurus evokes awe. paleontologists uncover information. information fascinates generations. extinction raises questions. extinction contributes to appeal.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dinosaurs represent a world vastly different from our own.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. diversity challenges understanding. diversity provides opportunities.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The extinction of dinosaurs is surrounded by mystery.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. extinction raises questions. extinction contributes to appeal. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. paleontologists uncover information. information fascinates generations. mystery adds to allure. mystery contributes to appeal.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs have an enduring presence in popular culture.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. popularity transcends boundaries. popularity transcends age. popularity transcends gender. extinction raises questions. extinction contributes to appeal.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dinosaurs inspire creativity and imagination in both children and adults.",
+    "retrieved_context": "dinosaurs captivate features. dinosaurs inspire children. dinosaurs inspire adults. dinosaurs roamed earth. dinosaurs are culture. dinosaurs inspire imagination. dinosaurs represent world. dinosaurs fascinate size. dinosaurs sparked curiosity. dinosaurs captivate presence. dinosaurs fascinate power. dinosaurs fascinate people. dinosaurs remind wonders. dinosaurs captivate adaptations. dinosaurs provide insights. dinosaurs serve as symbols. dinosaurs sparked wonder. dinosaurs inspire creativity. dinosaurs left mark. size challenges understanding. dinosaurs fascinate reasons. dinosaurs remind history. dinosaurs remind evolution. adaptations challenge understanding. tyrannosaurus rex evokes awe. brachiosaurus evokes awe. creatures display traits.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

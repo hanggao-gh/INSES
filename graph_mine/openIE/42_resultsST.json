@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Dreams are interpreted as messages from the divine.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreams are interpreted as windows into the subconscious mind.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreams are interpreted as mere random firings of the brain.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreams have long been a subject of interest and study in psychology.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreams provide a glimpse into the unconscious mind.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Freud argued that dreams are symbolic expressions of repressed desires.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreams reflect the emotional experiences of the dreamer.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "High stress or anxiety may lead to more frequent and intense nightmares.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Happy and content individuals may have more pleasant dreams.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreaming is associated with memory consolidation and processing.",
+    "retrieved_context": "dreaming is associated with enhanced memory performance. dreaming is linked to emotional centers of brain. dreaming is associated with memory performance. dreaming is linked. dreaming is associated. dreaming is linked to centers. dreaming is closely linked. dreaming is closely linked to centers of brain. dreaming is linked to emotional centers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreaming is linked to enhanced memory performance.",
+    "retrieved_context": "dreaming is associated with enhanced memory performance. dreaming is linked to emotional centers of brain. dreaming is associated with memory performance. dreaming is linked. dreaming is associated. dreaming is linked to centers. dreaming is closely linked. dreaming is closely linked to centers of brain. dreaming is linked to emotional centers.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Dreams can lead to insightful or creative ideas.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Lucid dreaming is studied as a potential tool for enhancing creativity.",
+    "retrieved_context": "dreaming is associated with enhanced memory performance. dreaming is linked to emotional centers of brain. dreaming is associated with memory performance. dreaming is linked. dreaming is associated. dreaming is linked to centers. dreaming is closely linked. dreaming is closely linked to centers of brain. dreaming is linked to emotional centers.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreams offer valuable insights into the workings of the human mind.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Dreams are a powerful tool for self-reflection and personal growth.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "6.67%"
+  }
+]

@@ -1,0 +1,616 @@
+{
+  "entities": [
+    "20th century",
+    "activities",
+    "amenities",
+    "american dream",
+    "ancient times",
+    "apartment buildings",
+    "appliances",
+    "architects",
+    "architecture",
+    "aspirations",
+    "authority",
+    "building materials",
+    "buildings",
+    "caves",
+    "centers",
+    "central heating",
+    "centuries",
+    "challenges",
+    "civilizations",
+    "comfort",
+    "community",
+    "concept",
+    "conclusion",
+    "concrete",
+    "construction",
+    "control",
+    "convenience",
+    "cultural influences",
+    "decades",
+    "design",
+    "detect",
+    "devices",
+    "dwellings",
+    "efficiency",
+    "egypt",
+    "electrical appliances",
+    "elements",
+    "energy-efficient materials",
+    "environmental impact",
+    "estate",
+    "evolution",
+    "families",
+    "floor plans",
+    "frank lloyd wright",
+    "functionality",
+    "functions",
+    "generations",
+    "greece",
+    "green building",
+    "green roofs",
+    "hierarchy",
+    "history",
+    "home",
+    "homeowners",
+    "housing",
+    "humans",
+    "identity",
+    "indoor plumbing",
+    "industrial revolution",
+    "innovation",
+    "integration",
+    "interaction",
+    "lands",
+    "layout",
+    "le corbusier",
+    "levittown",
+    "life",
+    "lifestyle",
+    "lighting",
+    "living environments",
+    "ludwig mies van der rohe",
+    "manor house",
+    "mass production",
+    "mass-produced housing",
+    "materials",
+    "mesopotamia",
+    "middle ages",
+    "middle class",
+    "modern",
+    "modernist movement",
+    "monitor",
+    "mud",
+    "natural light",
+    "needs",
+    "occupants",
+    "organization",
+    "passive solar design",
+    "political",
+    "post-world war ii",
+    "power",
+    "practices",
+    "prey",
+    "prices",
+    "protection",
+    "rainwater harvesting",
+    "refuge",
+    "religious",
+    "renewable energy",
+    "resilience",
+    "rest",
+    "revolution",
+    "rooms",
+    "security cameras",
+    "sharks",
+    "shelter",
+    "simplicity",
+    "smart technology",
+    "social",
+    "societal norms",
+    "societies",
+    "sources",
+    "spaces",
+    "status",
+    "steel",
+    "stone",
+    "structures",
+    "suburban communities",
+    "suburban home",
+    "sustainability",
+    "sustainable design",
+    "systems",
+    "technological advancements",
+    "technology",
+    "tents",
+    "thermostats",
+    "transformation",
+    "urbanization",
+    "values",
+    "wealth",
+    "wood"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "witnessed",
+      "revolution"
+    ],
+    [
+      "amenities",
+      "include",
+      "central heating"
+    ],
+    [
+      "amenities",
+      "include",
+      "electrical appliances"
+    ],
+    [
+      "amenities",
+      "include",
+      "indoor plumbing"
+    ],
+    [
+      "ancient times",
+      "centered around",
+      "protection"
+    ],
+    [
+      "ancient times",
+      "centered around",
+      "shelter"
+    ],
+    [
+      "architects",
+      "include",
+      "frank lloyd wright"
+    ],
+    [
+      "architects",
+      "include",
+      "le corbusier"
+    ],
+    [
+      "architects",
+      "include",
+      "ludwig mies van der rohe"
+    ],
+    [
+      "architecture",
+      "reflected",
+      "status"
+    ],
+    [
+      "architecture",
+      "reflected",
+      "wealth"
+    ],
+    [
+      "building materials",
+      "include",
+      "concrete"
+    ],
+    [
+      "building materials",
+      "include",
+      "steel"
+    ],
+    [
+      "buildings",
+      "create",
+      "living environments"
+    ],
+    [
+      "buildings",
+      "create",
+      "occupants"
+    ],
+    [
+      "centers",
+      "include",
+      "political"
+    ],
+    [
+      "centers",
+      "include",
+      "religious"
+    ],
+    [
+      "centers",
+      "include",
+      "social"
+    ],
+    [
+      "civilizations",
+      "include",
+      "egypt"
+    ],
+    [
+      "civilizations",
+      "include",
+      "greece"
+    ],
+    [
+      "civilizations",
+      "include",
+      "mesopotamia"
+    ],
+    [
+      "concept",
+      "has evolved",
+      "centuries"
+    ],
+    [
+      "concept",
+      "promotes",
+      "green roofs"
+    ],
+    [
+      "concept",
+      "promotes",
+      "passive solar design"
+    ],
+    [
+      "concept",
+      "promotes",
+      "rainwater harvesting"
+    ],
+    [
+      "conclusion",
+      "reflects",
+      "aspirations"
+    ],
+    [
+      "conclusion",
+      "reflects",
+      "needs"
+    ],
+    [
+      "conclusion",
+      "reflects",
+      "values"
+    ],
+    [
+      "decades",
+      "saw advent",
+      "smart technology"
+    ],
+    [
+      "decades",
+      "saw advent",
+      "sustainable design"
+    ],
+    [
+      "design",
+      "included",
+      "amenities"
+    ],
+    [
+      "design",
+      "included",
+      "prices"
+    ],
+    [
+      "dwellings",
+      "provided",
+      "refuge"
+    ],
+    [
+      "dwellings",
+      "provided",
+      "rest"
+    ],
+    [
+      "dwellings",
+      "were",
+      "functionality"
+    ],
+    [
+      "energy-efficient materials",
+      "reduce",
+      "environmental impact"
+    ],
+    [
+      "evolution",
+      "traces",
+      "history"
+    ],
+    [
+      "families",
+      "governed",
+      "lands"
+    ],
+    [
+      "floor plans",
+      "include",
+      "integration"
+    ],
+    [
+      "floor plans",
+      "include",
+      "natural light"
+    ],
+    [
+      "floor plans",
+      "include",
+      "spaces"
+    ],
+    [
+      "home",
+      "reflects",
+      "challenges"
+    ],
+    [
+      "home",
+      "reflects",
+      "cultural influences"
+    ],
+    [
+      "home",
+      "reflects",
+      "generations"
+    ],
+    [
+      "home",
+      "reflects",
+      "identity"
+    ],
+    [
+      "home",
+      "reflects",
+      "innovation"
+    ],
+    [
+      "home",
+      "reflects",
+      "societal norms"
+    ],
+    [
+      "home",
+      "reflects",
+      "technological advancements"
+    ],
+    [
+      "homeowners",
+      "can control",
+      "appliances"
+    ],
+    [
+      "homeowners",
+      "can control",
+      "lighting"
+    ],
+    [
+      "homeowners",
+      "can control",
+      "security cameras"
+    ],
+    [
+      "homeowners",
+      "can control",
+      "thermostats"
+    ],
+    [
+      "housing",
+      "became",
+      "middle class"
+    ],
+    [
+      "humans",
+      "lived in",
+      "caves"
+    ],
+    [
+      "humans",
+      "lived in",
+      "structures"
+    ],
+    [
+      "humans",
+      "lived in",
+      "tents"
+    ],
+    [
+      "industrial revolution",
+      "brought about",
+      "mass production"
+    ],
+    [
+      "industrial revolution",
+      "brought about",
+      "urbanization"
+    ],
+    [
+      "interaction",
+      "transformed",
+      "spaces"
+    ],
+    [
+      "layout",
+      "reflected",
+      "hierarchy"
+    ],
+    [
+      "layout",
+      "reflected",
+      "values"
+    ],
+    [
+      "levittown",
+      "set standard",
+      "mass-produced housing"
+    ],
+    [
+      "life",
+      "became",
+      "comfort"
+    ],
+    [
+      "life",
+      "became",
+      "convenience"
+    ],
+    [
+      "manor house",
+      "symbolized",
+      "authority"
+    ],
+    [
+      "manor house",
+      "symbolized",
+      "power"
+    ],
+    [
+      "manor house",
+      "was",
+      "estate"
+    ],
+    [
+      "materials",
+      "include",
+      "mud"
+    ],
+    [
+      "materials",
+      "include",
+      "stone"
+    ],
+    [
+      "materials",
+      "include",
+      "wood"
+    ],
+    [
+      "middle ages",
+      "saw emergence",
+      "manor house"
+    ],
+    [
+      "modern",
+      "has undergone",
+      "transformation"
+    ],
+    [
+      "modernist movement",
+      "emphasized",
+      "efficiency"
+    ],
+    [
+      "modernist movement",
+      "emphasized",
+      "simplicity"
+    ],
+    [
+      "post-world war ii",
+      "saw rise",
+      "suburban home"
+    ],
+    [
+      "practices",
+      "include",
+      "devices"
+    ],
+    [
+      "practices",
+      "include",
+      "systems"
+    ],
+    [
+      "revolution",
+      "driven by",
+      "lifestyle"
+    ],
+    [
+      "revolution",
+      "driven by",
+      "technology"
+    ],
+    [
+      "revolution",
+      "influenced",
+      "architecture"
+    ],
+    [
+      "revolution",
+      "influenced",
+      "design"
+    ],
+    [
+      "rooms",
+      "designated for",
+      "functions"
+    ],
+    [
+      "societies",
+      "became",
+      "organization"
+    ],
+    [
+      "structures",
+      "include",
+      "apartment buildings"
+    ],
+    [
+      "structures",
+      "include",
+      "suburban communities"
+    ],
+    [
+      "structures",
+      "made from",
+      "materials"
+    ],
+    [
+      "suburban home",
+      "epitomized",
+      "american dream"
+    ],
+    [
+      "sustainability",
+      "promotes",
+      "resilience"
+    ],
+    [
+      "sustainable design",
+      "important in",
+      "construction"
+    ]
+  ],
+  "edges": [
+    "became",
+    "brought about",
+    "can control",
+    "centered around",
+    "create",
+    "designated for",
+    "driven by",
+    "emphasized",
+    "epitomized",
+    "governed",
+    "has evolved",
+    "has undergone",
+    "important in",
+    "include",
+    "included",
+    "influenced",
+    "lived in",
+    "made from",
+    "promotes",
+    "provided",
+    "reduce",
+    "reflected",
+    "reflects",
+    "saw advent",
+    "saw emergence",
+    "saw rise",
+    "set standard",
+    "symbolized",
+    "traces",
+    "transformed",
+    "was",
+    "were",
+    "witnessed"
+  ]
+}

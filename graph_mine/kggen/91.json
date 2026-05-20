@@ -1,0 +1,729 @@
+{
+  "entities": [
+    "ability",
+    "access",
+    "activation",
+    "amygdala",
+    "areas",
+    "attention",
+    "brain",
+    "brain activity",
+    "bring to mind",
+    "building blocks",
+    "central hub",
+    "cerebellum",
+    "cognitive performance",
+    "cognitive processes",
+    "combination",
+    "complex",
+    "complex processes",
+    "complexities",
+    "concept",
+    "conclusion",
+    "connections",
+    "consolidation",
+    "continued research",
+    "converting",
+    "critical roles",
+    "crucial",
+    "daily functioning",
+    "decision-making",
+    "detect",
+    "dynamic",
+    "eeg",
+    "electroencephalography",
+    "emotion",
+    "emotionally charged events",
+    "encode",
+    "encoding",
+    "enhance",
+    "enhancing",
+    "episodic memories",
+    "essential",
+    "experience",
+    "experiences",
+    "external stimuli",
+    "facilitate",
+    "factors",
+    "fascinating",
+    "field",
+    "filter",
+    "fmri",
+    "focused attention",
+    "form",
+    "function",
+    "functional magnetic resonance imaging",
+    "habits",
+    "hippocampus",
+    "incoming information",
+    "information",
+    "interference",
+    "intricate",
+    "key components",
+    "learning",
+    "limbic structures",
+    "long-lasting memories",
+    "long-term potentiation",
+    "maintained",
+    "maintaining",
+    "mechanisms",
+    "memories",
+    "memory consolidation",
+    "memory disorders",
+    "memory formation",
+    "memory processing",
+    "memory traces",
+    "modification",
+    "motor cortex",
+    "multifaceted",
+    "navigating",
+    "neocortex",
+    "neural networks",
+    "neural processes",
+    "neuroimaging",
+    "neurons",
+    "neutral events",
+    "observe",
+    "organize",
+    "past events",
+    "perception",
+    "permanent storage",
+    "physical changes",
+    "possibilities",
+    "prefrontal cortex",
+    "prey",
+    "prioritize",
+    "procedural memories",
+    "process",
+    "processed",
+    "processing",
+    "promises",
+    "rapidly evolving",
+    "reactivation",
+    "real time",
+    "reconstruct",
+    "regions",
+    "remember",
+    "represent",
+    "research",
+    "researchers",
+    "resistant",
+    "response",
+    "retaining",
+    "retrieval",
+    "retrieve",
+    "science",
+    "senses",
+    "sensory information",
+    "series",
+    "sharks",
+    "shed light",
+    "sight",
+    "skills",
+    "sleep",
+    "smell",
+    "sound",
+    "specific events",
+    "stable",
+    "stages",
+    "storage",
+    "store",
+    "stored",
+    "strengthened",
+    "strengthening",
+    "study",
+    "suggesting",
+    "synapses",
+    "synaptic plasticity",
+    "tasks",
+    "taste",
+    "techniques",
+    "temporary storage",
+    "touch",
+    "transfer",
+    "understanding",
+    "unlock",
+    "valuable insights",
+    "vital role",
+    "well-being",
+    "world"
+  ],
+  "relations": [
+    [
+      "ability",
+      "is crucial for",
+      "decision-making"
+    ],
+    [
+      "ability",
+      "is crucial for",
+      "learning"
+    ],
+    [
+      "ability",
+      "is crucial for",
+      "navigating"
+    ],
+    [
+      "ability",
+      "to remember",
+      "experiences"
+    ],
+    [
+      "ability",
+      "to remember",
+      "information"
+    ],
+    [
+      "ability",
+      "to remember",
+      "past events"
+    ],
+    [
+      "activation",
+      "of",
+      "neural networks"
+    ],
+    [
+      "amygdala",
+      "activation",
+      "enhance"
+    ],
+    [
+      "areas",
+      "include",
+      "amygdala"
+    ],
+    [
+      "areas",
+      "include",
+      "hippocampus"
+    ],
+    [
+      "areas",
+      "include",
+      "prefrontal cortex"
+    ],
+    [
+      "brain",
+      "undergoes",
+      "series"
+    ],
+    [
+      "brain activity",
+      "during",
+      "tasks"
+    ],
+    [
+      "brain activity",
+      "in",
+      "real time"
+    ],
+    [
+      "brain activity",
+      "providing",
+      "valuable insights"
+    ],
+    [
+      "combination",
+      "of",
+      "intricate"
+    ],
+    [
+      "combination",
+      "of",
+      "neural processes"
+    ],
+    [
+      "complex processes",
+      "facilitate",
+      "reactivation"
+    ],
+    [
+      "connections",
+      "between",
+      "neurons"
+    ],
+    [
+      "continued research",
+      "in",
+      "field"
+    ],
+    [
+      "continued research",
+      "promises",
+      "cognitive performance"
+    ],
+    [
+      "continued research",
+      "promises",
+      "complexities"
+    ],
+    [
+      "continued research",
+      "promises",
+      "enhancing"
+    ],
+    [
+      "continued research",
+      "promises",
+      "function"
+    ],
+    [
+      "continued research",
+      "promises",
+      "possibilities"
+    ],
+    [
+      "continued research",
+      "promises",
+      "shed light"
+    ],
+    [
+      "continued research",
+      "promises",
+      "unlock"
+    ],
+    [
+      "emotionally charged events",
+      "better remembered than",
+      "neutral events"
+    ],
+    [
+      "encoding",
+      "involves",
+      "converting"
+    ],
+    [
+      "episodic memories",
+      "related to",
+      "specific events"
+    ],
+    [
+      "episodic memories",
+      "stored in",
+      "hippocampus"
+    ],
+    [
+      "external stimuli",
+      "through",
+      "senses"
+    ],
+    [
+      "factors",
+      "include",
+      "attention"
+    ],
+    [
+      "factors",
+      "include",
+      "emotion"
+    ],
+    [
+      "factors",
+      "include",
+      "sleep"
+    ],
+    [
+      "focused attention",
+      "helps",
+      "filter"
+    ],
+    [
+      "focused attention",
+      "helps",
+      "prioritize"
+    ],
+    [
+      "form",
+      "stored in",
+      "brain"
+    ],
+    [
+      "hippocampus",
+      "for",
+      "consolidation"
+    ],
+    [
+      "hippocampus",
+      "for",
+      "memory processing"
+    ],
+    [
+      "hippocampus",
+      "forms",
+      "connections"
+    ],
+    [
+      "hippocampus",
+      "helps",
+      "incoming information"
+    ],
+    [
+      "hippocampus",
+      "helps",
+      "organize"
+    ],
+    [
+      "hippocampus",
+      "is",
+      "central hub"
+    ],
+    [
+      "information",
+      "processed by",
+      "areas"
+    ],
+    [
+      "key components",
+      "of",
+      "encoding"
+    ],
+    [
+      "long-term potentiation",
+      "is essential for",
+      "long-lasting memories"
+    ],
+    [
+      "mechanisms",
+      "understanding",
+      "maintained"
+    ],
+    [
+      "memories",
+      "stored in",
+      "regions"
+    ],
+    [
+      "memory consolidation",
+      "involves",
+      "transfer"
+    ],
+    [
+      "memory consolidation",
+      "is",
+      "concept"
+    ],
+    [
+      "memory consolidation",
+      "refers to",
+      "resistant"
+    ],
+    [
+      "memory consolidation",
+      "refers to",
+      "stable"
+    ],
+    [
+      "memory formation",
+      "is",
+      "complex"
+    ],
+    [
+      "memory formation",
+      "is",
+      "fascinating"
+    ],
+    [
+      "memory formation",
+      "is essential for",
+      "daily functioning"
+    ],
+    [
+      "memory formation",
+      "is essential for",
+      "well-being"
+    ],
+    [
+      "memory traces",
+      "are",
+      "physical changes"
+    ],
+    [
+      "memory traces",
+      "represent",
+      "stored"
+    ],
+    [
+      "modification",
+      "of",
+      "synaptic plasticity"
+    ],
+    [
+      "neural networks",
+      "reconstruct",
+      "memories"
+    ],
+    [
+      "neural processes",
+      "encode",
+      "memories"
+    ],
+    [
+      "neural processes",
+      "retrieve",
+      "memories"
+    ],
+    [
+      "neural processes",
+      "store",
+      "memories"
+    ],
+    [
+      "neuroimaging",
+      "observe",
+      "brain activity"
+    ],
+    [
+      "neuroimaging",
+      "techniques",
+      "eeg"
+    ],
+    [
+      "neuroimaging",
+      "techniques",
+      "electroencephalography"
+    ],
+    [
+      "neuroimaging",
+      "techniques",
+      "fmri"
+    ],
+    [
+      "neuroimaging",
+      "techniques",
+      "functional magnetic resonance imaging"
+    ],
+    [
+      "neurons",
+      "are",
+      "building blocks"
+    ],
+    [
+      "perception",
+      "of",
+      "external stimuli"
+    ],
+    [
+      "permanent storage",
+      "in",
+      "neocortex"
+    ],
+    [
+      "procedural memories",
+      "involve",
+      "habits"
+    ],
+    [
+      "procedural memories",
+      "involve",
+      "skills"
+    ],
+    [
+      "procedural memories",
+      "stored in",
+      "cerebellum"
+    ],
+    [
+      "procedural memories",
+      "stored in",
+      "motor cortex"
+    ],
+    [
+      "research",
+      "suggesting",
+      "stages"
+    ],
+    [
+      "researchers",
+      "using",
+      "techniques"
+    ],
+    [
+      "retrieval",
+      "involves",
+      "activation"
+    ],
+    [
+      "retrieval",
+      "is",
+      "access"
+    ],
+    [
+      "retrieval",
+      "is",
+      "bring to mind"
+    ],
+    [
+      "retrieval",
+      "is",
+      "dynamic"
+    ],
+    [
+      "science",
+      "involves",
+      "combination"
+    ],
+    [
+      "science",
+      "is",
+      "intricate"
+    ],
+    [
+      "science",
+      "is",
+      "multifaceted"
+    ],
+    [
+      "science",
+      "is",
+      "rapidly evolving"
+    ],
+    [
+      "senses",
+      "include",
+      "sight"
+    ],
+    [
+      "senses",
+      "include",
+      "smell"
+    ],
+    [
+      "senses",
+      "include",
+      "sound"
+    ],
+    [
+      "senses",
+      "include",
+      "taste"
+    ],
+    [
+      "senses",
+      "include",
+      "touch"
+    ],
+    [
+      "sensory information",
+      "into",
+      "form"
+    ],
+    [
+      "series",
+      "of",
+      "complex processes"
+    ],
+    [
+      "sleep",
+      "plays",
+      "vital role"
+    ],
+    [
+      "stages",
+      "involved in",
+      "processing"
+    ],
+    [
+      "stages",
+      "involved in",
+      "strengthening"
+    ],
+    [
+      "storage",
+      "involves",
+      "maintaining"
+    ],
+    [
+      "storage",
+      "involves",
+      "retaining"
+    ],
+    [
+      "synapses",
+      "are",
+      "connections"
+    ],
+    [
+      "synapses",
+      "strengthened through",
+      "long-term potentiation"
+    ],
+    [
+      "synaptic plasticity",
+      "allows for",
+      "modification"
+    ],
+    [
+      "techniques",
+      "to study",
+      "mechanisms"
+    ],
+    [
+      "transfer",
+      "from",
+      "temporary storage"
+    ],
+    [
+      "transfer",
+      "to",
+      "permanent storage"
+    ],
+    [
+      "understanding",
+      "of",
+      "cognitive processes"
+    ],
+    [
+      "understanding",
+      "of",
+      "memory disorders"
+    ]
+  ],
+  "edges": [
+    "activation",
+    "allows for",
+    "are",
+    "better remembered than",
+    "between",
+    "during",
+    "encode",
+    "facilitate",
+    "for",
+    "forms",
+    "from",
+    "helps",
+    "in",
+    "include",
+    "into",
+    "involve",
+    "involved in",
+    "involves",
+    "is",
+    "is crucial for",
+    "is essential for",
+    "observe",
+    "of",
+    "plays",
+    "processed by",
+    "promises",
+    "providing",
+    "reconstruct",
+    "refers to",
+    "related to",
+    "represent",
+    "retrieve",
+    "store",
+    "stored in",
+    "strengthened through",
+    "suggesting",
+    "techniques",
+    "through",
+    "to",
+    "to remember",
+    "to study",
+    "undergoes",
+    "understanding",
+    "using"
+  ]
+}

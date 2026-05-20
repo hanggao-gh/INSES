@@ -1,0 +1,475 @@
+{
+  "entities": [
+    "19th century",
+    "20th century",
+    "abstract art",
+    "anatomy",
+    "art",
+    "art history",
+    "atmosphere",
+    "audiences",
+    "baroque period",
+    "beauty",
+    "bible",
+    "brushwork",
+    "canvas",
+    "caravaggio",
+    "claude monet",
+    "color",
+    "compositions",
+    "conclusion",
+    "contrast",
+    "course",
+    "creation of adam",
+    "creativity",
+    "cubism",
+    "detail",
+    "detect",
+    "disciples",
+    "drama",
+    "effects",
+    "emotional depth",
+    "emotional level",
+    "experimentation",
+    "expression",
+    "figures",
+    "form",
+    "frescoes",
+    "frida kahlo",
+    "gardens",
+    "generations",
+    "giverny",
+    "history",
+    "impact",
+    "impressionists",
+    "inspire",
+    "intensity",
+    "inventor",
+    "jesus",
+    "landscapes",
+    "last judgment",
+    "leonardo da vinci",
+    "les demoiselles d'avignon",
+    "light",
+    "masterpieces",
+    "matthew",
+    "michelangelo",
+    "modern era",
+    "mona lisa",
+    "movement",
+    "pablo picasso",
+    "paintings",
+    "perception",
+    "perspective",
+    "possibilities",
+    "power",
+    "prey",
+    "provoke",
+    "realism",
+    "renaissance",
+    "renaissance man",
+    "representation",
+    "role",
+    "scenes",
+    "scientist",
+    "self-portraits",
+    "shadow",
+    "sharks",
+    "sistine chapel",
+    "skill",
+    "smile",
+    "subject",
+    "techniques",
+    "testament",
+    "the calling of saint matthew",
+    "traditions",
+    "vatican",
+    "vibrant colors",
+    "viewers",
+    "viewpoints",
+    "vincent van gogh",
+    "vision",
+    "water lilies",
+    "works",
+    "world"
+  ],
+  "relations": [
+    [
+      "art",
+      "has been",
+      "expression"
+    ],
+    [
+      "art",
+      "has been",
+      "masterpieces"
+    ],
+    [
+      "brushwork",
+      "broke away from",
+      "traditions"
+    ],
+    [
+      "brushwork",
+      "created",
+      "atmosphere"
+    ],
+    [
+      "brushwork",
+      "created",
+      "movement"
+    ],
+    [
+      "brushwork",
+      "is",
+      "vibrant colors"
+    ],
+    [
+      "caravaggio",
+      "is known for",
+      "emotional depth"
+    ],
+    [
+      "caravaggio",
+      "is known for",
+      "light"
+    ],
+    [
+      "caravaggio",
+      "is known for",
+      "realism"
+    ],
+    [
+      "caravaggio",
+      "is known for",
+      "shadow"
+    ],
+    [
+      "claude monet",
+      "is known for",
+      "gardens"
+    ],
+    [
+      "claude monet",
+      "is known for",
+      "water lilies"
+    ],
+    [
+      "contrast",
+      "creates",
+      "drama"
+    ],
+    [
+      "contrast",
+      "creates",
+      "intensity"
+    ],
+    [
+      "cubism",
+      "depicted",
+      "viewpoints"
+    ],
+    [
+      "cubism",
+      "is a",
+      "movement"
+    ],
+    [
+      "experimentation",
+      "paved the way for",
+      "abstract art"
+    ],
+    [
+      "figures",
+      "adorn",
+      "vatican"
+    ],
+    [
+      "figures",
+      "are lifelike",
+      "compositions"
+    ],
+    [
+      "frescoes",
+      "are considered",
+      "masterpieces"
+    ],
+    [
+      "frescoes",
+      "are in",
+      "sistine chapel"
+    ],
+    [
+      "frida kahlo",
+      "created",
+      "self-portraits"
+    ],
+    [
+      "gardens",
+      "are at",
+      "giverny"
+    ],
+    [
+      "impressionists",
+      "captured",
+      "color"
+    ],
+    [
+      "impressionists",
+      "captured",
+      "effects"
+    ],
+    [
+      "impressionists",
+      "captured",
+      "light"
+    ],
+    [
+      "impressionists",
+      "revolutionized",
+      "19th century"
+    ],
+    [
+      "leonardo da vinci",
+      "embodies",
+      "renaissance man"
+    ],
+    [
+      "leonardo da vinci",
+      "is known for",
+      "mona lisa"
+    ],
+    [
+      "leonardo da vinci",
+      "was",
+      "inventor"
+    ],
+    [
+      "leonardo da vinci",
+      "was",
+      "scientist"
+    ],
+    [
+      "les demoiselles d'avignon",
+      "shattered",
+      "perspective"
+    ],
+    [
+      "les demoiselles d'avignon",
+      "shattered",
+      "representation"
+    ],
+    [
+      "masterpieces",
+      "are a testament to",
+      "power"
+    ],
+    [
+      "masterpieces",
+      "captivate",
+      "audiences"
+    ],
+    [
+      "masterpieces",
+      "explore",
+      "possibilities"
+    ],
+    [
+      "masterpieces",
+      "have influenced",
+      "beauty"
+    ],
+    [
+      "masterpieces",
+      "have influenced",
+      "perception"
+    ],
+    [
+      "masterpieces",
+      "have influenced",
+      "techniques"
+    ],
+    [
+      "masterpieces",
+      "have played",
+      "role"
+    ],
+    [
+      "masterpieces",
+      "have shaped",
+      "art history"
+    ],
+    [
+      "masterpieces",
+      "have shaped",
+      "course"
+    ],
+    [
+      "masterpieces",
+      "have stood",
+      "history"
+    ],
+    [
+      "masterpieces",
+      "inspire",
+      "audiences"
+    ],
+    [
+      "masterpieces",
+      "inspire",
+      "generations"
+    ],
+    [
+      "masterpieces",
+      "move us on",
+      "emotional level"
+    ],
+    [
+      "masterpieces",
+      "provoke",
+      "audiences"
+    ],
+    [
+      "michelangelo",
+      "created",
+      "frescoes"
+    ],
+    [
+      "michelangelo",
+      "mastered",
+      "anatomy"
+    ],
+    [
+      "michelangelo",
+      "mastered",
+      "perspective"
+    ],
+    [
+      "mona lisa",
+      "is a",
+      "masterpieces"
+    ],
+    [
+      "mona lisa",
+      "showcases",
+      "detail"
+    ],
+    [
+      "mona lisa",
+      "showcases",
+      "skill"
+    ],
+    [
+      "pablo picasso",
+      "is",
+      "modern era"
+    ],
+    [
+      "pablo picasso",
+      "is from",
+      "20th century"
+    ],
+    [
+      "pablo picasso",
+      "was a pioneer of",
+      "cubism"
+    ],
+    [
+      "renaissance",
+      "includes",
+      "paintings"
+    ],
+    [
+      "scenes",
+      "are from",
+      "bible"
+    ],
+    [
+      "smile",
+      "has captivated",
+      "viewers"
+    ],
+    [
+      "the calling of saint matthew",
+      "depicts",
+      "jesus"
+    ],
+    [
+      "the calling of saint matthew",
+      "depicts",
+      "matthew"
+    ],
+    [
+      "vincent van gogh",
+      "created",
+      "landscapes"
+    ],
+    [
+      "vision",
+      "is",
+      "creativity"
+    ],
+    [
+      "works",
+      "have inspired",
+      "generations"
+    ],
+    [
+      "works",
+      "have left",
+      "impact"
+    ],
+    [
+      "works",
+      "have left",
+      "world"
+    ],
+    [
+      "works",
+      "have pushed",
+      "creativity"
+    ]
+  ],
+  "edges": [
+    "adorn",
+    "are a testament to",
+    "are at",
+    "are considered",
+    "are from",
+    "are in",
+    "are lifelike",
+    "broke away from",
+    "captivate",
+    "captured",
+    "created",
+    "creates",
+    "depicted",
+    "depicts",
+    "embodies",
+    "explore",
+    "has been",
+    "has captivated",
+    "have influenced",
+    "have inspired",
+    "have left",
+    "have played",
+    "have pushed",
+    "have shaped",
+    "have stood",
+    "includes",
+    "inspire",
+    "is",
+    "is a",
+    "is from",
+    "is known for",
+    "mastered",
+    "move us on",
+    "paved the way for",
+    "provoke",
+    "revolutionized",
+    "shattered",
+    "showcases",
+    "was",
+    "was a pioneer of"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "entities": [
+    "SPORTS",
+    "GENDER EQUALITY",
+    "SOCIAL JUSTICE",
+    "SPORTS INDUSTRY",
+    "OLYMPICS",
+    "WORLD CUP",
+    "ECONOMIC IMPACT"
+  ],
+  "relations": [
+    [
+      "WORLD CUP",
+      "Both the World Cup and the Olympics are international sporting events that create shared experiences and traditions among people worldwide",
+      "OLYMPICS"
+    ],
+    [
+      "WORLD CUP",
+      "The World Cup is an example of how sports can unite people from different backgrounds and beliefs in a common passion",
+      "SPORTS"
+    ],
+    [
+      "OLYMPICS",
+      "The Olympics exemplify the role of sports in creating shared experiences and traditions, and in promoting a sense of belonging and pride among fans",
+      "SPORTS"
+    ],
+    [
+      "SPORTS",
+      "Sports have been a platform for promoting gender equality by including women in male-dominated areas",
+      "GENDER EQUALITY"
+    ],
+    [
+      "SPORTS",
+      "Sports serve as a platform for athletes to advocate for social justice and inspire change",
+      "SOCIAL JUSTICE"
+    ],
+    [
+      "SPORTS",
+      "Sports events have a significant economic impact through revenue generation and job creation",
+      "ECONOMIC IMPACT"
+    ],
+    [
+      "SPORTS",
+      "Sports activities contribute to the growth and economic significance of the sports industry",
+      "SPORTS INDUSTRY"
+    ]
+  ],
+  "edges": [
+    "Both the World Cup and the Olympics are international sporting events that create shared experiences and traditions among people worldwide",
+    "The World Cup is an example of how sports can unite people from different backgrounds and beliefs in a common passion",
+    "The Olympics exemplify the role of sports in creating shared experiences and traditions, and in promoting a sense of belonging and pride among fans",
+    "Sports have been a platform for promoting gender equality by including women in male-dominated areas",
+    "Sports serve as a platform for athletes to advocate for social justice and inspire change",
+    "Sports events have a significant economic impact through revenue generation and job creation",
+    "Sports activities contribute to the growth and economic significance of the sports industry"
+  ]
+}

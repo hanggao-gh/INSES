@@ -1,0 +1,70 @@
+{
+  "entities": [
+    "COMPUTER SCIENCE",
+    "ORIGAMI",
+    "GEOMETRY",
+    "MATHEMATICS",
+    "SYMMETRY",
+    "ENGINEERING",
+    "ARCHITECTURE",
+    "MATERIAL SCIENCE"
+  ],
+  "relations": [
+    [
+      "ORIGAMI",
+      "Origami uses mathematical principles and theories for paper folding",
+      "MATHEMATICS"
+    ],
+    [
+      "ORIGAMI",
+      "Geometry is applied in origami to calculate exact angles and lengths of folds",
+      "GEOMETRY"
+    ],
+    [
+      "ORIGAMI",
+      "Symmetry is utilized in origami to enhance the beauty and stability of creations",
+      "SYMMETRY"
+    ],
+    [
+      "ORIGAMI",
+      "Origami principles are applied in engineering to create innovative structures",
+      "ENGINEERING"
+    ],
+    [
+      "ORIGAMI",
+      "Origami principles are used in architecture for designing efficient structures",
+      "ARCHITECTURE"
+    ],
+    [
+      "ORIGAMI",
+      "Origami concepts are applied in material science for new materials and designs",
+      "MATERIAL SCIENCE"
+    ],
+    [
+      "ORIGAMI",
+      "Origami mathematics contributes to computational origami in computer science",
+      "COMPUTER SCIENCE"
+    ],
+    [
+      "MATHEMATICS",
+      "Geometry is a branch of mathematics that is fundamental to origami",
+      "GEOMETRY"
+    ],
+    [
+      "MATHEMATICS",
+      "Symmetry, a mathematical concept, is crucial in the design of origami",
+      "SYMMETRY"
+    ]
+  ],
+  "edges": [
+    "Origami uses mathematical principles and theories for paper folding",
+    "Geometry is applied in origami to calculate exact angles and lengths of folds",
+    "Symmetry is utilized in origami to enhance the beauty and stability of creations",
+    "Origami principles are applied in engineering to create innovative structures",
+    "Origami principles are used in architecture for designing efficient structures",
+    "Origami concepts are applied in material science for new materials and designs",
+    "Origami mathematics contributes to computational origami in computer science",
+    "Geometry is a branch of mathematics that is fundamental to origami",
+    "Symmetry, a mathematical concept, is crucial in the design of origami"
+  ]
+}

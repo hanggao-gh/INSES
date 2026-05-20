@@ -1,0 +1,125 @@
+{
+  "entities": [
+    "BERMUDA TRIANGLE",
+    "DEVIL'S TRIANGLE",
+    "COMPASS MALFUNCTIONS",
+    "MAGNETIC ANOMALIES",
+    "UNPREDICTABLE WEATHER PATTERNS",
+    "NORTH ATLANTIC OCEAN",
+    "BERMUDA",
+    "FLIGHT 19 CREW",
+    "PUERTO RICO",
+    "FLIGHT 19",
+    "SUDDEN STORMS",
+    "MIAMI",
+    "METHANE HYDRATE DESTABILIZATION",
+    "ROGUE WAVES",
+    "USS CYCLOPS"
+  ],
+  "relations": [
+    [
+      "BERMUDA TRIANGLE",
+      "Flight 19 disappeared in the Bermuda Triangle, contributing to its mystery",
+      "FLIGHT 19"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "The USS Cyclops went missing in the Bermuda Triangle, adding to the enigma of the area",
+      "USS CYCLOPS"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "Miami is one of the vertices of the Bermuda Triangle",
+      "MIAMI"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "Bermuda is one of the vertices of the Bermuda Triangle",
+      "BERMUDA"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "Puerto Rico is one of the vertices of the Bermuda Triangle",
+      "PUERTO RICO"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "The Bermuda Triangle is also known as the Devil's Triangle, referring to the same mysterious region",
+      "DEVIL'S TRIANGLE"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "The Bermuda Triangle is located in the western part of the North Atlantic Ocean",
+      "NORTH ATLANTIC OCEAN"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "Methane hydrate destabilization is one of the scientific explanations for the mysterious disappearances in the Bermuda Triangle",
+      "METHANE HYDRATE DESTABILIZATION"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "Magnetic anomalies are a scientific explanation for the phenomena in the Bermuda Triangle",
+      "MAGNETIC ANOMALIES"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "Compass malfunctions, resulting from magnetic anomalies, contribute to the mystery of the Bermuda Triangle",
+      "COMPASS MALFUNCTIONS"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "Unpredictable weather patterns, including sudden storms and rogue waves, are characteristic of the Bermuda Triangle",
+      "UNPREDICTABLE WEATHER PATTERNS"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "Sudden storms in the Bermuda Triangle could potentially explain some of the disappearances",
+      "SUDDEN STORMS"
+    ],
+    [
+      "BERMUDA TRIANGLE",
+      "Rogue waves in the Bermuda Triangle could potentially explain some of the disappearances",
+      "ROGUE WAVES"
+    ],
+    [
+      "FLIGHT 19",
+      "The Flight 19 crew consisted of 14 members who disappeared along with the aircraft in the Bermuda Triangle",
+      "FLIGHT 19 CREW"
+    ],
+    [
+      "COMPASS MALFUNCTIONS",
+      "Magnetic anomalies in the Bermuda Triangle can lead to compass malfunctions",
+      "MAGNETIC ANOMALIES"
+    ],
+    [
+      "UNPREDICTABLE WEATHER PATTERNS",
+      "Unpredictable weather patterns in the Bermuda Triangle include sudden storms",
+      "SUDDEN STORMS"
+    ],
+    [
+      "UNPREDICTABLE WEATHER PATTERNS",
+      "Unpredictable weather patterns in the Bermuda Triangle include rogue waves",
+      "ROGUE WAVES"
+    ]
+  ],
+  "edges": [
+    "Flight 19 disappeared in the Bermuda Triangle, contributing to its mystery",
+    "The USS Cyclops went missing in the Bermuda Triangle, adding to the enigma of the area",
+    "Miami is one of the vertices of the Bermuda Triangle",
+    "Bermuda is one of the vertices of the Bermuda Triangle",
+    "Puerto Rico is one of the vertices of the Bermuda Triangle",
+    "The Bermuda Triangle is also known as the Devil's Triangle, referring to the same mysterious region",
+    "The Bermuda Triangle is located in the western part of the North Atlantic Ocean",
+    "Methane hydrate destabilization is one of the scientific explanations for the mysterious disappearances in the Bermuda Triangle",
+    "Magnetic anomalies are a scientific explanation for the phenomena in the Bermuda Triangle",
+    "Compass malfunctions, resulting from magnetic anomalies, contribute to the mystery of the Bermuda Triangle",
+    "Unpredictable weather patterns, including sudden storms and rogue waves, are characteristic of the Bermuda Triangle",
+    "Sudden storms in the Bermuda Triangle could potentially explain some of the disappearances",
+    "Rogue waves in the Bermuda Triangle could potentially explain some of the disappearances",
+    "The Flight 19 crew consisted of 14 members who disappeared along with the aircraft in the Bermuda Triangle",
+    "Magnetic anomalies in the Bermuda Triangle can lead to compass malfunctions",
+    "Unpredictable weather patterns in the Bermuda Triangle include sudden storms",
+    "Unpredictable weather patterns in the Bermuda Triangle include rogue waves"
+  ]
+}

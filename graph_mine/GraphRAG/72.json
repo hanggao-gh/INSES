@@ -1,0 +1,91 @@
+{
+  "entities": [
+    "POLAR BEARS",
+    "ARCTIC",
+    "BATS",
+    "AUSTRALIA",
+    "WHITE-NOSE SYNDROME",
+    "ANIMALS",
+    "SEA ICE",
+    "OCEAN TEMPERATURES",
+    "KOALAS",
+    "CORAL REEFS",
+    "CLIMATE CHANGE"
+  ],
+  "relations": [
+    [
+      "CLIMATE CHANGE",
+      "Climate change is causing habitat loss, changes in food sources, and more frequent extreme weather events, all of which impact animals",
+      "ANIMALS"
+    ],
+    [
+      "CLIMATE CHANGE",
+      "The loss of sea ice in the Arctic due to climate change is directly affecting polar bears by reducing their primary hunting grounds",
+      "POLAR BEARS"
+    ],
+    [
+      "CLIMATE CHANGE",
+      "Warming temperatures due to climate change are melting sea ice in the Arctic",
+      "ARCTIC"
+    ],
+    [
+      "CLIMATE CHANGE",
+      "Warmer ocean temperatures caused by climate change are leading to coral bleaching, affecting coral reefs and the species that rely on them",
+      "CORAL REEFS"
+    ],
+    [
+      "CLIMATE CHANGE",
+      "Climate change has contributed to severe wildfires in Australia, affecting wildlife",
+      "AUSTRALIA"
+    ],
+    [
+      "CLIMATE CHANGE",
+      "Climate change, through events like wildfires, has pushed koala populations closer to the brink of extinction",
+      "KOALAS"
+    ],
+    [
+      "CLIMATE CHANGE",
+      "Climate change has led to warmer winters, allowing the spread of white-nose syndrome among bat populations",
+      "BATS"
+    ],
+    [
+      "POLAR BEARS",
+      "Polar bears are facing habitat loss in the Arctic due to melting sea ice caused by climate change",
+      "ARCTIC"
+    ],
+    [
+      "POLAR BEARS",
+      "The melting of sea ice in the Arctic, due to climate change, is reducing the primary hunting grounds for polar bears",
+      "SEA ICE"
+    ],
+    [
+      "CORAL REEFS",
+      "Warmer ocean temperatures are causing coral bleaching, which affects the health of coral reefs and the marine life that depends on them",
+      "OCEAN TEMPERATURES"
+    ],
+    [
+      "AUSTRALIA",
+      "Wildfires in Australia have decimated koala populations",
+      "KOALAS"
+    ],
+    [
+      "WHITE-NOSE SYNDROME",
+      "White-nose syndrome, exacerbated by climate change, affects bat populations",
+      "BATS"
+    ]
+  ],
+  "edges": [
+    "Climate change is causing habitat loss, changes in food sources, and more frequent extreme weather events, all of which impact animals",
+    "The loss of sea ice in the Arctic due to climate change is directly affecting polar bears by reducing their primary hunting grounds",
+    "Warming temperatures due to climate change are melting sea ice in the Arctic",
+    "Warmer ocean temperatures caused by climate change are leading to coral bleaching, affecting coral reefs and the species that rely on them",
+    "Climate change has contributed to severe wildfires in Australia, affecting wildlife",
+    "Climate change, through events like wildfires, has pushed koala populations closer to the brink of extinction",
+    "Climate change has led to warmer winters, allowing the spread of white-nose syndrome among bat populations",
+    "Polar bears are facing habitat loss in the Arctic due to melting sea ice caused by climate change",
+    "The melting of sea ice in the Arctic, due to climate change, is reducing the primary hunting grounds for polar bears",
+    "Warmer ocean temperatures are causing coral bleaching, which affects the health of coral reefs and the marine life that depends on them",
+    "Wildfires in Australia have decimated koala populations",
+    "White-nose syndrome, exacerbated by climate change, affects bat populations"
+  ]
+}

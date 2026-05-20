@@ -1,0 +1,268 @@
+{
+  "entities": [
+    "RENEWABLE ENERGY SOURCES",
+    "GRID MODERNIZATION",
+    "WIND POWER",
+    "WIND TURBINE TECHNOLOGY",
+    "LARGE-SCALE HYDROPOWER PROJECTS",
+    "BIOENERGY",
+    "BIOMASS POWER PLANTS",
+    "WIND FARMS",
+    "GEOTHERMAL HEAT PUMPS",
+    "SMART GRID TECHNOLOGIES",
+    "FOSSIL FUELS",
+    "DIGITALIZATION",
+    "OFFSHORE WIND FARMS",
+    "SOLAR POWER",
+    "STAKEHOLDER ENGAGEMENT",
+    "CLIMATE CHANGE",
+    "ENHANCED GEOTHERMAL SYSTEMS (EGS)",
+    "SOLAR ENERGY",
+    "SMALL-SCALE HYDROPOWER INSTALLATIONS",
+    "GEOTHERMAL ENERGY",
+    "TECHNOLOGICAL ADVANCEMENTS",
+    "DEMAND-SIDE MANAGEMENT",
+    "GOVERNMENT INCENTIVES",
+    "BIOFUELS",
+    "LEVELIZED COST OF ELECTRICITY (LCOE)",
+    "ENERGY STORAGE TECHNOLOGIES",
+    "GREENHOUSE GAS EMISSIONS",
+    "ENERGY STORAGE",
+    "GEOTHERMAL POWER PLANTS",
+    "GRID INFRASTRUCTURE",
+    "DEVELOPING COUNTRIES",
+    "HYDROPOWER",
+    "GEOTHERMAL",
+    "RESEARCH AND DEVELOPMENT",
+    "SOLAR AND WIND POWER",
+    "ENVIRONMENTAL IMPACT ASSESSMENTS",
+    "ENERGY SECURITY",
+    "RUN-OF-RIVER PROJECTS"
+  ],
+  "relations": [
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Solar energy is a key component of renewable energy sources, contributing to the reduction of greenhouse gas emissions and energy sector decarbonization",
+      "SOLAR ENERGY"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Renewable energy sources, with wind power as a significant component, play a crucial role in contributing to a sustainable energy future. Wind power aids in global efforts to mitigate climate change and enhance energy security, underscoring its importance among renewable energy sources. This form of energy is pivotal in the transition towards more sustainable and secure energy systems worldwide.",
+      "WIND POWER"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "The development of renewable energy sources is driven by the need to combat climate change",
+      "CLIMATE CHANGE"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Renewable energy sources are developed as alternatives to reduce dependence on fossil fuels",
+      "FOSSIL FUELS"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Renewable energy sources aim to reduce greenhouse gas emissions to mitigate climate change",
+      "GREENHOUSE GAS EMISSIONS"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Renewable energy sources contribute to enhancing energy security by providing sustainable energy options",
+      "ENERGY SECURITY"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "The development of renewable energy sources has been supported by government incentives",
+      "GOVERNMENT INCENTIVES"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Research and development efforts aim to improve renewable energy sources",
+      "RESEARCH AND DEVELOPMENT"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "The LCOE for solar and wind power becoming competitive with fossil fuels is a key factor in the growth of renewable energy sources",
+      "LEVELIZED COST OF ELECTRICITY (LCOE)"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Renewable energy sources face adoption challenges in developing countries due to financial barriers and risks",
+      "DEVELOPING COUNTRIES"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Environmental impact assessments are crucial for minimizing the negative effects of renewable energy development",
+      "ENVIRONMENTAL IMPACT ASSESSMENTS"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Stakeholder engagement is essential for the successful and sustainable development of renewable energy projects",
+      "STAKEHOLDER ENGAGEMENT"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Technological advancements contribute to the reduction in costs and improvement in performance of renewable energy sources",
+      "TECHNOLOGICAL ADVANCEMENTS"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "The integration of renewable energy into the energy system requires a robust grid infrastructure",
+      "GRID INFRASTRUCTURE"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Energy storage is critical for managing the intermittency of renewable energy sources",
+      "ENERGY STORAGE"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Demand-side management strategies support the efficient use of renewable energy",
+      "DEMAND-SIDE MANAGEMENT"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Digitalization enhances the management and efficiency of renewable energy sources",
+      "DIGITALIZATION"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Solar power is a form of renewable energy sources contributing to the sustainable energy future",
+      "SOLAR POWER"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Hydropower is a form of renewable energy sources contributing to the sustainable energy future",
+      "HYDROPOWER"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Geothermal energy is a form of renewable energy sources contributing to the sustainable energy future",
+      "GEOTHERMAL"
+    ],
+    [
+      "RENEWABLE ENERGY SOURCES",
+      "Bioenergy is a form of renewable energy sources contributing to the sustainable energy future",
+      "BIOENERGY"
+    ],
+    [
+      "WIND FARMS",
+      "Offshore wind farms are a specific type of wind farms with unique characteristics and benefits",
+      "OFFSHORE WIND FARMS"
+    ],
+    [
+      "WIND FARMS",
+      "Advancements in wind turbine technology have directly contributed to the growth and efficiency of wind farms",
+      "WIND TURBINE TECHNOLOGY"
+    ],
+    [
+      "HYDROPOWER",
+      "Both hydropower and geothermal energy are renewable energy sources utilized for electricity generation",
+      "GEOTHERMAL ENERGY"
+    ],
+    [
+      "HYDROPOWER",
+      "Large-scale hydropower projects are a significant part of hydropower energy generation",
+      "LARGE-SCALE HYDROPOWER PROJECTS"
+    ],
+    [
+      "HYDROPOWER",
+      "Small-scale installations represent a shift in hydropower towards minimizing environmental impacts",
+      "SMALL-SCALE HYDROPOWER INSTALLATIONS"
+    ],
+    [
+      "HYDROPOWER",
+      "Run-of-river projects are a form of hydropower that seeks to reduce environmental disruption",
+      "RUN-OF-RIVER PROJECTS"
+    ],
+    [
+      "GEOTHERMAL ENERGY",
+      "Bioenergy and geothermal energy are both alternative renewable energy sources to traditional fossil fuels",
+      "BIOENERGY"
+    ],
+    [
+      "GEOTHERMAL ENERGY",
+      "Geothermal power plants are the primary method of electricity generation from geothermal energy",
+      "GEOTHERMAL POWER PLANTS"
+    ],
+    [
+      "GEOTHERMAL ENERGY",
+      "EGS technology enhances the capability and efficiency of geothermal energy extraction",
+      "ENHANCED GEOTHERMAL SYSTEMS (EGS)"
+    ],
+    [
+      "GEOTHERMAL ENERGY",
+      "Geothermal heat pumps expand the application of geothermal energy to heating and cooling",
+      "GEOTHERMAL HEAT PUMPS"
+    ],
+    [
+      "BIOENERGY",
+      "Bioenergy is converted into biofuels for use in transportation",
+      "BIOFUELS"
+    ],
+    [
+      "BIOENERGY",
+      "Biomass power plants are a method of converting bioenergy into heat and electricity",
+      "BIOMASS POWER PLANTS"
+    ],
+    [
+      "ENERGY STORAGE TECHNOLOGIES",
+      "Energy storage technologies are part of grid modernization efforts to integrate renewable energy",
+      "GRID MODERNIZATION"
+    ],
+    [
+      "ENERGY STORAGE TECHNOLOGIES",
+      "Energy storage technologies are developed to address the intermittency of solar and wind power",
+      "SOLAR AND WIND POWER"
+    ],
+    [
+      "GRID MODERNIZATION",
+      "The integration of solar and wind power into the electricity grid requires grid modernization and smart grid technologies",
+      "SOLAR AND WIND POWER"
+    ],
+    [
+      "GRID MODERNIZATION",
+      "Smart grid technologies are a crucial part of grid modernization efforts",
+      "SMART GRID TECHNOLOGIES"
+    ]
+  ],
+  "edges": [
+    "Solar energy is a key component of renewable energy sources, contributing to the reduction of greenhouse gas emissions and energy sector decarbonization",
+    "Renewable energy sources, with wind power as a significant component, play a crucial role in contributing to a sustainable energy future. Wind power aids in global efforts to mitigate climate change and enhance energy security, underscoring its importance among renewable energy sources. This form of energy is pivotal in the transition towards more sustainable and secure energy systems worldwide.",
+    "The development of renewable energy sources is driven by the need to combat climate change",
+    "Renewable energy sources are developed as alternatives to reduce dependence on fossil fuels",
+    "Renewable energy sources aim to reduce greenhouse gas emissions to mitigate climate change",
+    "Renewable energy sources contribute to enhancing energy security by providing sustainable energy options",
+    "The development of renewable energy sources has been supported by government incentives",
+    "Research and development efforts aim to improve renewable energy sources",
+    "The LCOE for solar and wind power becoming competitive with fossil fuels is a key factor in the growth of renewable energy sources",
+    "Renewable energy sources face adoption challenges in developing countries due to financial barriers and risks",
+    "Environmental impact assessments are crucial for minimizing the negative effects of renewable energy development",
+    "Stakeholder engagement is essential for the successful and sustainable development of renewable energy projects",
+    "Technological advancements contribute to the reduction in costs and improvement in performance of renewable energy sources",
+    "The integration of renewable energy into the energy system requires a robust grid infrastructure",
+    "Energy storage is critical for managing the intermittency of renewable energy sources",
+    "Demand-side management strategies support the efficient use of renewable energy",
+    "Digitalization enhances the management and efficiency of renewable energy sources",
+    "Solar power is a form of renewable energy sources contributing to the sustainable energy future",
+    "Hydropower is a form of renewable energy sources contributing to the sustainable energy future",
+    "Geothermal energy is a form of renewable energy sources contributing to the sustainable energy future",
+    "Bioenergy is a form of renewable energy sources contributing to the sustainable energy future",
+    "Offshore wind farms are a specific type of wind farms with unique characteristics and benefits",
+    "Advancements in wind turbine technology have directly contributed to the growth and efficiency of wind farms",
+    "Both hydropower and geothermal energy are renewable energy sources utilized for electricity generation",
+    "Large-scale hydropower projects are a significant part of hydropower energy generation",
+    "Small-scale installations represent a shift in hydropower towards minimizing environmental impacts",
+    "Run-of-river projects are a form of hydropower that seeks to reduce environmental disruption",
+    "Bioenergy and geothermal energy are both alternative renewable energy sources to traditional fossil fuels",
+    "Geothermal power plants are the primary method of electricity generation from geothermal energy",
+    "EGS technology enhances the capability and efficiency of geothermal energy extraction",
+    "Geothermal heat pumps expand the application of geothermal energy to heating and cooling",
+    "Bioenergy is converted into biofuels for use in transportation",
+    "Biomass power plants are a method of converting bioenergy into heat and electricity",
+    "Energy storage technologies are part of grid modernization efforts to integrate renewable energy",
+    "Energy storage technologies are developed to address the intermittency of solar and wind power",
+    "The integration of solar and wind power into the electricity grid requires grid modernization and smart grid technologies",
+    "Smart grid technologies are a crucial part of grid modernization efforts"
+  ]
+}

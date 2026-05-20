@@ -1,0 +1,134 @@
+{
+  "entities": [
+    "BARISTAS",
+    "ETHIOPIAN PLATEAU",
+    "ARABIAN PENINSULA",
+    "COFFEE",
+    "COFFEE CULTURE",
+    "QAHVEH KHANEH",
+    "CAFE CULTURE",
+    "EUROPE",
+    "ENLIGHTENMENT PERIOD",
+    "PENNY UNIVERSITIES",
+    "GLOBAL COFFEE TRADE",
+    "KALDI",
+    "CONSUMERS",
+    "FARMERS",
+    "ROUSSEAU",
+    "STARBUCKS",
+    "COFFEE PRODUCTION",
+    "VOLTAIRE"
+  ],
+  "relations": [
+    [
+      "COFFEE",
+      "Coffee's origins can be traced back to the Ethiopian Plateau",
+      "ETHIOPIAN PLATEAU"
+    ],
+    [
+      "COFFEE",
+      "Kaldi discovered the stimulating effects of coffee beans, leading to its widespread popularity",
+      "KALDI"
+    ],
+    [
+      "COFFEE",
+      "After its discovery, coffee was cultivated and traded extensively in the Arabian Peninsula",
+      "ARABIAN PENINSULA"
+    ],
+    [
+      "COFFEE",
+      "Qahveh Khaneh were coffee houses in the Middle East where coffee was consumed socially",
+      "QAHVEH KHANEH"
+    ],
+    [
+      "COFFEE",
+      "Coffee's popularity spread to Europe in the 17th century, becoming a central part of social life",
+      "EUROPE"
+    ],
+    [
+      "COFFEE",
+      "Voltaire was known to frequent coffee houses, indicating his participation in the coffee culture of the Enlightenment period",
+      "VOLTAIRE"
+    ],
+    [
+      "COFFEE",
+      "Rousseau was known to frequent coffee houses, indicating his participation in the coffee culture of the Enlightenment period",
+      "ROUSSEAU"
+    ],
+    [
+      "COFFEE",
+      "Coffee played a pivotal role during the Enlightenment Period, facilitating the exchange of ideas among thinkers and writers",
+      "ENLIGHTENMENT PERIOD"
+    ],
+    [
+      "COFFEE",
+      "Starbucks has played a significant role in transforming coffee into a global phenomenon",
+      "STARBUCKS"
+    ],
+    [
+      "COFFEE",
+      "The global phenomenon of coffee has led to the emergence of a distinct coffee culture",
+      "COFFEE CULTURE"
+    ],
+    [
+      "COFFEE",
+      "Coffee's status as a global phenomenon has significant implications for coffee production industries worldwide",
+      "COFFEE PRODUCTION"
+    ],
+    [
+      "COFFEE",
+      "Coffee's cultivation has environmental implications such as deforestation, water usage, and biodiversity loss, affecting its own industry",
+      "COFFEE"
+    ],
+    [
+      "COFFEE",
+      "Farmers are responsible for the cultivation of coffee beans, directly impacting the coffee trade and industry",
+      "FARMERS"
+    ],
+    [
+      "COFFEE",
+      "Consumers' demand for ethically sourced and sustainably produced coffee influences the coffee industry's practices",
+      "CONSUMERS"
+    ],
+    [
+      "EUROPE",
+      "Penny Universities were coffee houses in London, a part of Europe's coffee house culture",
+      "PENNY UNIVERSITIES"
+    ],
+    [
+      "EUROPE",
+      "Cafe Culture in Paris was a significant event in Europe's social history, influenced by coffee",
+      "CAFE CULTURE"
+    ],
+    [
+      "COFFEE PRODUCTION",
+      "Coffee production is directly linked to the global coffee trade, impacting economies on both local and global levels",
+      "GLOBAL COFFEE TRADE"
+    ],
+    [
+      "BARISTAS",
+      "Baristas serve coffee directly to consumers, facilitating the final step in the coffee supply chain",
+      "CONSUMERS"
+    ]
+  ],
+  "edges": [
+    "Coffee's origins can be traced back to the Ethiopian Plateau",
+    "Kaldi discovered the stimulating effects of coffee beans, leading to its widespread popularity",
+    "After its discovery, coffee was cultivated and traded extensively in the Arabian Peninsula",
+    "Qahveh Khaneh were coffee houses in the Middle East where coffee was consumed socially",
+    "Coffee's popularity spread to Europe in the 17th century, becoming a central part of social life",
+    "Voltaire was known to frequent coffee houses, indicating his participation in the coffee culture of the Enlightenment period",
+    "Rousseau was known to frequent coffee houses, indicating his participation in the coffee culture of the Enlightenment period",
+    "Coffee played a pivotal role during the Enlightenment Period, facilitating the exchange of ideas among thinkers and writers",
+    "Starbucks has played a significant role in transforming coffee into a global phenomenon",
+    "The global phenomenon of coffee has led to the emergence of a distinct coffee culture",
+    "Coffee's status as a global phenomenon has significant implications for coffee production industries worldwide",
+    "Coffee's cultivation has environmental implications such as deforestation, water usage, and biodiversity loss, affecting its own industry",
+    "Farmers are responsible for the cultivation of coffee beans, directly impacting the coffee trade and industry",
+    "Consumers' demand for ethically sourced and sustainably produced coffee influences the coffee industry's practices",
+    "Penny Universities were coffee houses in London, a part of Europe's coffee house culture",
+    "Cafe Culture in Paris was a significant event in Europe's social history, influenced by coffee",
+    "Coffee production is directly linked to the global coffee trade, impacting economies on both local and global levels",
+    "Baristas serve coffee directly to consumers, facilitating the final step in the coffee supply chain"
+  ]
+}

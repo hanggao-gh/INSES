@@ -1,0 +1,488 @@
+{
+  "entities": [
+    "21st century",
+    "access",
+    "accessible",
+    "affordable",
+    "alternative",
+    "approach",
+    "assess",
+    "benefits",
+    "board games",
+    "budgets",
+    "challenges",
+    "collaborations",
+    "concepts",
+    "content",
+    "cost",
+    "creativity",
+    "critical thinking",
+    "democratize",
+    "development",
+    "disabilities",
+    "disorientation",
+    "diverse",
+    "education",
+    "effective",
+    "engagement",
+    "engaging",
+    "environments",
+    "equipment",
+    "experiences",
+    "eye strain",
+    "facilitate",
+    "field",
+    "field trips",
+    "growth",
+    "guidelines",
+    "hands-on",
+    "hardware",
+    "health",
+    "history",
+    "immersive",
+    "inclusive",
+    "infrastructure",
+    "innovative",
+    "instructors",
+    "interactive",
+    "kinesthetic learners",
+    "knowledge",
+    "learning",
+    "learning difficulties",
+    "learning styles",
+    "motion sickness",
+    "motivation",
+    "opportunities",
+    "outcomes",
+    "pace",
+    "practices",
+    "preferences",
+    "programs",
+    "resources",
+    "revolutionize",
+    "risks",
+    "safeguards",
+    "safety",
+    "simulations",
+    "skills",
+    "socio-economic",
+    "software",
+    "students",
+    "subjects",
+    "support",
+    "teachers",
+    "teaching",
+    "technology",
+    "theories",
+    "training",
+    "understanding",
+    "virtual reality",
+    "visual learners",
+    "visualize",
+    "well-being",
+    "widespread"
+  ],
+  "relations": [
+    [
+      "virtual reality",
+      "affects",
+      "outcomes"
+    ],
+    [
+      "virtual reality",
+      "affects",
+      "well-being"
+    ],
+    [
+      "virtual reality",
+      "allows learning at",
+      "pace"
+    ],
+    [
+      "virtual reality",
+      "assesses",
+      "learning"
+    ],
+    [
+      "virtual reality",
+      "benefits",
+      "disabilities"
+    ],
+    [
+      "virtual reality",
+      "benefits",
+      "kinesthetic learners"
+    ],
+    [
+      "virtual reality",
+      "benefits",
+      "learning difficulties"
+    ],
+    [
+      "virtual reality",
+      "benefits",
+      "visual learners"
+    ],
+    [
+      "virtual reality",
+      "caters to",
+      "diverse"
+    ],
+    [
+      "virtual reality",
+      "caters to",
+      "learning styles"
+    ],
+    [
+      "virtual reality",
+      "caters to",
+      "preferences"
+    ],
+    [
+      "virtual reality",
+      "causes",
+      "disorientation"
+    ],
+    [
+      "virtual reality",
+      "causes",
+      "eye strain"
+    ],
+    [
+      "virtual reality",
+      "causes",
+      "motion sickness"
+    ],
+    [
+      "virtual reality",
+      "creates",
+      "engaging"
+    ],
+    [
+      "virtual reality",
+      "creates",
+      "immersive"
+    ],
+    [
+      "virtual reality",
+      "democratizes",
+      "access"
+    ],
+    [
+      "virtual reality",
+      "democratizes",
+      "resources"
+    ],
+    [
+      "virtual reality",
+      "enhances",
+      "development"
+    ],
+    [
+      "virtual reality",
+      "enhances",
+      "environments"
+    ],
+    [
+      "virtual reality",
+      "enhances",
+      "knowledge"
+    ],
+    [
+      "virtual reality",
+      "enhances",
+      "learning"
+    ],
+    [
+      "virtual reality",
+      "enhances",
+      "programs"
+    ],
+    [
+      "virtual reality",
+      "enhances",
+      "skills"
+    ],
+    [
+      "virtual reality",
+      "facilitates",
+      "learning"
+    ],
+    [
+      "virtual reality",
+      "fosters",
+      "concepts"
+    ],
+    [
+      "virtual reality",
+      "fosters",
+      "subjects"
+    ],
+    [
+      "virtual reality",
+      "fosters",
+      "understanding"
+    ],
+    [
+      "virtual reality",
+      "has",
+      "cost"
+    ],
+    [
+      "virtual reality",
+      "has",
+      "health"
+    ],
+    [
+      "virtual reality",
+      "has",
+      "risks"
+    ],
+    [
+      "virtual reality",
+      "has",
+      "safety"
+    ],
+    [
+      "virtual reality",
+      "has benefits for",
+      "education"
+    ],
+    [
+      "virtual reality",
+      "has challenges for",
+      "education"
+    ],
+    [
+      "virtual reality",
+      "has evolved",
+      "technology"
+    ],
+    [
+      "virtual reality",
+      "helps students",
+      "concepts"
+    ],
+    [
+      "virtual reality",
+      "helps students",
+      "theories"
+    ],
+    [
+      "virtual reality",
+      "helps students",
+      "visualize"
+    ],
+    [
+      "virtual reality",
+      "increases",
+      "engagement"
+    ],
+    [
+      "virtual reality",
+      "increases",
+      "motivation"
+    ],
+    [
+      "virtual reality",
+      "is",
+      "21st century"
+    ],
+    [
+      "virtual reality",
+      "is",
+      "accessible"
+    ],
+    [
+      "virtual reality",
+      "is",
+      "approach"
+    ],
+    [
+      "virtual reality",
+      "is",
+      "effective"
+    ],
+    [
+      "virtual reality",
+      "is",
+      "hands-on"
+    ],
+    [
+      "virtual reality",
+      "is",
+      "inclusive"
+    ],
+    [
+      "virtual reality",
+      "is",
+      "innovative"
+    ],
+    [
+      "virtual reality",
+      "is",
+      "interactive"
+    ],
+    [
+      "virtual reality",
+      "is",
+      "teaching"
+    ],
+    [
+      "virtual reality",
+      "is becoming",
+      "affordable"
+    ],
+    [
+      "virtual reality",
+      "is becoming",
+      "widespread"
+    ],
+    [
+      "virtual reality",
+      "offers possibilities for",
+      "education"
+    ],
+    [
+      "virtual reality",
+      "promotes",
+      "creativity"
+    ],
+    [
+      "virtual reality",
+      "promotes",
+      "critical thinking"
+    ],
+    [
+      "virtual reality",
+      "provides",
+      "alternative"
+    ],
+    [
+      "virtual reality",
+      "provides",
+      "collaborations"
+    ],
+    [
+      "virtual reality",
+      "provides",
+      "field trips"
+    ],
+    [
+      "virtual reality",
+      "provides",
+      "growth"
+    ],
+    [
+      "virtual reality",
+      "provides",
+      "opportunities"
+    ],
+    [
+      "virtual reality",
+      "provides",
+      "simulations"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "budgets"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "content"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "equipment"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "guidelines"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "hardware"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "infrastructure"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "instructors"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "practices"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "resources"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "safeguards"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "software"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "support"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "teachers"
+    ],
+    [
+      "virtual reality",
+      "requires",
+      "training"
+    ],
+    [
+      "virtual reality",
+      "revolutionizes",
+      "field"
+    ]
+  ],
+  "edges": [
+    "affects",
+    "allows learning at",
+    "assesses",
+    "benefits",
+    "caters to",
+    "causes",
+    "creates",
+    "democratizes",
+    "enhances",
+    "facilitates",
+    "fosters",
+    "has",
+    "has benefits for",
+    "has challenges for",
+    "has evolved",
+    "helps students",
+    "increases",
+    "is",
+    "is becoming",
+    "offers possibilities for",
+    "promotes",
+    "provides",
+    "requires",
+    "revolutionizes"
+  ]
+}

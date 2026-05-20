@@ -1,0 +1,545 @@
+{
+  "entities": [
+    "agricultural runoff",
+    "algae",
+    "awareness",
+    "beauty",
+    "biodiversity",
+    "breeding grounds",
+    "calcium carbonate",
+    "climate change",
+    "coastal areas",
+    "coastal communities",
+    "coastal protection",
+    "commercially important fish species",
+    "complex structure",
+    "conservation",
+    "conservation efforts",
+    "contagious",
+    "coral bleaching",
+    "coral colonies",
+    "coral polyps",
+    "coral reefs",
+    "death",
+    "decline",
+    "destructive effects",
+    "destructive fishing practices",
+    "divers",
+    "diversity",
+    "ecosystem services",
+    "environmental stressors",
+    "erosion",
+    "fish",
+    "fisheries",
+    "flooding",
+    "food",
+    "food security",
+    "food sources",
+    "fragile habitats",
+    "future generations",
+    "global food security",
+    "greenhouse gas emissions",
+    "habitat",
+    "harmful chemicals",
+    "health",
+    "hiding places",
+    "human well-being",
+    "hurricanes",
+    "income",
+    "international",
+    "invaluable ecosystems",
+    "invertebrates",
+    "land-based sources",
+    "laughter",
+    "livelihood",
+    "local",
+    "local economies",
+    "marine biodiversity",
+    "marine conservation",
+    "marine ecosystems",
+    "marine environment",
+    "marine life",
+    "marine organisms",
+    "marine protected areas",
+    "marine species",
+    "national",
+    "natural barriers",
+    "ocean acidification",
+    "ocean floor",
+    "oceans",
+    "overfishing",
+    "plants",
+    "plastic waste",
+    "pollution",
+    "protein-rich food sources",
+    "rainforests of the sea",
+    "recreation",
+    "resilience",
+    "revenue",
+    "rising sea temperatures",
+    "shelter",
+    "snorkelers",
+    "storms",
+    "structures",
+    "sustainable fisheries",
+    "sustainable fishing practices",
+    "sustainable future",
+    "sustainable management",
+    "sustainable management efforts",
+    "sustenance",
+    "threats",
+    "tourism",
+    "tourism industry",
+    "tourists",
+    "tsunamis",
+    "urgent action",
+    "water quality",
+    "wave energy"
+  ],
+  "relations": [
+    [
+      "awareness",
+      "is about",
+      "marine conservation"
+    ],
+    [
+      "calcium carbonate",
+      "form",
+      "structures"
+    ],
+    [
+      "commercially important fish species",
+      "rely on",
+      "coral reefs"
+    ],
+    [
+      "complex structure",
+      "offers",
+      "breeding grounds"
+    ],
+    [
+      "complex structure",
+      "offers",
+      "food sources"
+    ],
+    [
+      "complex structure",
+      "offers",
+      "hiding places"
+    ],
+    [
+      "conservation efforts",
+      "should focus on",
+      "greenhouse gas emissions"
+    ],
+    [
+      "conservation efforts",
+      "should focus on",
+      "sustainable fishing practices"
+    ],
+    [
+      "conservation efforts",
+      "should focus on",
+      "water quality"
+    ],
+    [
+      "coral bleaching",
+      "affects",
+      "coral colonies"
+    ],
+    [
+      "coral bleaching",
+      "causes expulsion of",
+      "algae"
+    ],
+    [
+      "coral bleaching",
+      "leads to",
+      "death"
+    ],
+    [
+      "coral polyps",
+      "secrete",
+      "calcium carbonate"
+    ],
+    [
+      "coral reefs",
+      "act as",
+      "natural barriers"
+    ],
+    [
+      "coral reefs",
+      "are",
+      "fragile habitats"
+    ],
+    [
+      "coral reefs",
+      "are",
+      "invaluable ecosystems"
+    ],
+    [
+      "coral reefs",
+      "are home to",
+      "marine species"
+    ],
+    [
+      "coral reefs",
+      "are important to",
+      "marine ecosystems"
+    ],
+    [
+      "coral reefs",
+      "are referred to as",
+      "rainforests of the sea"
+    ],
+    [
+      "coral reefs",
+      "are under threat from",
+      "environmental stressors"
+    ],
+    [
+      "coral reefs",
+      "are under threat from",
+      "threats"
+    ],
+    [
+      "coral reefs",
+      "are valuable for",
+      "tourism industry"
+    ],
+    [
+      "coral reefs",
+      "are vital to",
+      "health"
+    ],
+    [
+      "coral reefs",
+      "are vital to",
+      "oceans"
+    ],
+    [
+      "coral reefs",
+      "attract",
+      "divers"
+    ],
+    [
+      "coral reefs",
+      "attract",
+      "snorkelers"
+    ],
+    [
+      "coral reefs",
+      "attract",
+      "tourists"
+    ],
+    [
+      "coral reefs",
+      "contribute to",
+      "global food security"
+    ],
+    [
+      "coral reefs",
+      "contribute to",
+      "resilience"
+    ],
+    [
+      "coral reefs",
+      "cover less than",
+      "ocean floor"
+    ],
+    [
+      "coral reefs",
+      "dissipate",
+      "wave energy"
+    ],
+    [
+      "coral reefs",
+      "ensure",
+      "health"
+    ],
+    [
+      "coral reefs",
+      "ensure",
+      "resilience"
+    ],
+    [
+      "coral reefs",
+      "have",
+      "biodiversity"
+    ],
+    [
+      "coral reefs",
+      "highlight need for",
+      "conservation"
+    ],
+    [
+      "coral reefs",
+      "highlight need for",
+      "sustainable management efforts"
+    ],
+    [
+      "coral reefs",
+      "promote",
+      "recreation"
+    ],
+    [
+      "coral reefs",
+      "promote",
+      "tourism"
+    ],
+    [
+      "coral reefs",
+      "protect",
+      "coastal communities"
+    ],
+    [
+      "coral reefs",
+      "protect from",
+      "erosion"
+    ],
+    [
+      "coral reefs",
+      "protect from",
+      "flooding"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "coastal protection"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "ecosystem services"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "fish"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "food security"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "habitat"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "invertebrates"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "marine organisms"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "plants"
+    ],
+    [
+      "coral reefs",
+      "raise",
+      "awareness"
+    ],
+    [
+      "coral reefs",
+      "reduce impact of",
+      "storms"
+    ],
+    [
+      "coral reefs",
+      "secure",
+      "sustainable future"
+    ],
+    [
+      "coral reefs",
+      "support",
+      "fisheries"
+    ],
+    [
+      "coral reefs",
+      "support",
+      "income"
+    ],
+    [
+      "coral reefs",
+      "support",
+      "livelihood"
+    ],
+    [
+      "coral reefs",
+      "support",
+      "marine biodiversity"
+    ],
+    [
+      "coral reefs",
+      "support",
+      "sustainable fisheries"
+    ],
+    [
+      "coral reefs",
+      "support",
+      "sustenance"
+    ],
+    [
+      "ecosystem services",
+      "are essential for",
+      "human well-being"
+    ],
+    [
+      "land-based sources",
+      "include",
+      "agricultural runoff"
+    ],
+    [
+      "land-based sources",
+      "include",
+      "plastic waste"
+    ],
+    [
+      "marine protected areas",
+      "should be established to",
+      "sustainable management"
+    ],
+    [
+      "natural barriers",
+      "mitigate",
+      "destructive effects"
+    ],
+    [
+      "pollution",
+      "impacts",
+      "marine environment"
+    ],
+    [
+      "pollution",
+      "introduces",
+      "harmful chemicals"
+    ],
+    [
+      "rising sea temperatures",
+      "cause",
+      "coral bleaching"
+    ],
+    [
+      "structures",
+      "provide",
+      "food"
+    ],
+    [
+      "structures",
+      "provide",
+      "shelter"
+    ],
+    [
+      "sustainable fisheries",
+      "provide",
+      "protein-rich food sources"
+    ],
+    [
+      "threats",
+      "cause",
+      "decline"
+    ],
+    [
+      "threats",
+      "include",
+      "climate change"
+    ],
+    [
+      "threats",
+      "include",
+      "destructive fishing practices"
+    ],
+    [
+      "threats",
+      "include",
+      "ocean acidification"
+    ],
+    [
+      "threats",
+      "include",
+      "overfishing"
+    ],
+    [
+      "threats",
+      "include",
+      "pollution"
+    ],
+    [
+      "tourism industry",
+      "generates",
+      "revenue"
+    ],
+    [
+      "tourism industry",
+      "supports",
+      "local economies"
+    ],
+    [
+      "urgent action",
+      "is needed at",
+      "international"
+    ],
+    [
+      "urgent action",
+      "is needed at",
+      "local"
+    ],
+    [
+      "urgent action",
+      "is needed at",
+      "national"
+    ]
+  ],
+  "edges": [
+    "act as",
+    "affects",
+    "are",
+    "are essential for",
+    "are home to",
+    "are important to",
+    "are referred to as",
+    "are under threat from",
+    "are valuable for",
+    "are vital to",
+    "attract",
+    "cause",
+    "causes expulsion of",
+    "contribute to",
+    "cover less than",
+    "dissipate",
+    "ensure",
+    "form",
+    "generates",
+    "have",
+    "highlight need for",
+    "impacts",
+    "include",
+    "introduces",
+    "is about",
+    "is needed at",
+    "leads to",
+    "mitigate",
+    "offers",
+    "promote",
+    "protect",
+    "protect from",
+    "provide",
+    "raise",
+    "reduce impact of",
+    "rely on",
+    "secrete",
+    "secure",
+    "should be established to",
+    "should focus on",
+    "support",
+    "supports"
+  ]
+}

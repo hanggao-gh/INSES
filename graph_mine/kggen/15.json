@@ -1,0 +1,334 @@
+{
+  "entities": [
+    "affair",
+    "afterlife",
+    "amulets",
+    "ancient egypt",
+    "beliefs",
+    "body",
+    "book of the dead",
+    "burial",
+    "burial practices",
+    "butterfly",
+    "care",
+    "clothing",
+    "comfort",
+    "common people",
+    "conclusion",
+    "culture",
+    "dangers",
+    "decay",
+    "deceased",
+    "embalmers",
+    "existence",
+    "expertise",
+    "family",
+    "food",
+    "funeral procession",
+    "gateway",
+    "giza",
+    "gods",
+    "grand pyramids",
+    "honor",
+    "importance",
+    "individuals",
+    "items",
+    "jewelry",
+    "journey",
+    "life cycle",
+    "linen bandages",
+    "mourners",
+    "mummification",
+    "ordinary egyptians",
+    "organs",
+    "papyrus scrolls",
+    "personal belongings",
+    "pharaohs",
+    "possessions",
+    "prayers",
+    "preservation",
+    "priests",
+    "process",
+    "pyramids",
+    "realm",
+    "religious texts",
+    "resources",
+    "respect",
+    "reunion",
+    "reverence",
+    "rituals",
+    "salt",
+    "society",
+    "soul",
+    "spells",
+    "structures",
+    "sustenance",
+    "tombs",
+    "tools"
+  ],
+  "relations": [
+    [
+      "affair",
+      "requires",
+      "expertise"
+    ],
+    [
+      "ancient egypt",
+      "is known for",
+      "burial practices"
+    ],
+    [
+      "book of the dead",
+      "helps navigate",
+      "dangers"
+    ],
+    [
+      "book of the dead",
+      "helps reach",
+      "realm"
+    ],
+    [
+      "book of the dead",
+      "inscribed on",
+      "papyrus scrolls"
+    ],
+    [
+      "book of the dead",
+      "is",
+      "religious texts"
+    ],
+    [
+      "burial",
+      "is",
+      "affair"
+    ],
+    [
+      "burial practices",
+      "ensure",
+      "afterlife"
+    ],
+    [
+      "burial practices",
+      "ensure",
+      "existence"
+    ],
+    [
+      "burial practices",
+      "part of",
+      "culture"
+    ],
+    [
+      "burial practices",
+      "part of",
+      "society"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "beliefs"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "importance"
+    ],
+    [
+      "burial practices",
+      "reflect",
+      "reverence"
+    ],
+    [
+      "common people",
+      "buried with",
+      "care"
+    ],
+    [
+      "common people",
+      "buried with",
+      "respect"
+    ],
+    [
+      "common people",
+      "lack",
+      "resources"
+    ],
+    [
+      "deceased",
+      "buried with",
+      "items"
+    ],
+    [
+      "expertise",
+      "provided by",
+      "embalmers"
+    ],
+    [
+      "expertise",
+      "provided by",
+      "priests"
+    ],
+    [
+      "family",
+      "hires",
+      "mourners"
+    ],
+    [
+      "items",
+      "include",
+      "clothing"
+    ],
+    [
+      "items",
+      "include",
+      "food"
+    ],
+    [
+      "items",
+      "include",
+      "jewelry"
+    ],
+    [
+      "items",
+      "include",
+      "personal belongings"
+    ],
+    [
+      "items",
+      "provide",
+      "comfort"
+    ],
+    [
+      "items",
+      "provide",
+      "sustenance"
+    ],
+    [
+      "mourners",
+      "lead",
+      "funeral procession"
+    ],
+    [
+      "mourners",
+      "perform",
+      "rituals"
+    ],
+    [
+      "mummification",
+      "involves",
+      "process"
+    ],
+    [
+      "ordinary egyptians",
+      "buried with",
+      "tools"
+    ],
+    [
+      "process",
+      "ensures",
+      "preservation"
+    ],
+    [
+      "process",
+      "involves drying with",
+      "salt"
+    ],
+    [
+      "process",
+      "involves removing",
+      "organs"
+    ],
+    [
+      "process",
+      "involves wrapping in",
+      "linen bandages"
+    ],
+    [
+      "process",
+      "prevents",
+      "decay"
+    ],
+    [
+      "pyramids",
+      "built for",
+      "pharaohs"
+    ],
+    [
+      "pyramids",
+      "located at",
+      "giza"
+    ],
+    [
+      "pyramids",
+      "protect",
+      "body"
+    ],
+    [
+      "pyramids",
+      "protect",
+      "possessions"
+    ],
+    [
+      "pyramids",
+      "serve as",
+      "gateway"
+    ],
+    [
+      "realm",
+      "is of",
+      "gods"
+    ],
+    [
+      "religious texts",
+      "guide",
+      "journey"
+    ],
+    [
+      "rituals",
+      "to",
+      "honor"
+    ],
+    [
+      "soul",
+      "needs",
+      "reunion"
+    ],
+    [
+      "tombs",
+      "include",
+      "pyramids"
+    ]
+  ],
+  "edges": [
+    "built for",
+    "buried with",
+    "ensure",
+    "ensures",
+    "guide",
+    "helps navigate",
+    "helps reach",
+    "hires",
+    "include",
+    "inscribed on",
+    "involves",
+    "involves drying with",
+    "involves removing",
+    "involves wrapping in",
+    "is",
+    "is known for",
+    "is of",
+    "lack",
+    "lead",
+    "located at",
+    "needs",
+    "part of",
+    "perform",
+    "prevents",
+    "protect",
+    "provide",
+    "provided by",
+    "reflect",
+    "requires",
+    "serve as",
+    "to"
+  ]
+}

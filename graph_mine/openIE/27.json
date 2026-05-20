@@ -1,0 +1,653 @@
+{
+    "entities": [
+        "aerospace engineer",
+        "body components",
+        "our exploration",
+        "propulsion system",
+        "computers",
+        "endeavor",
+        "other components",
+        "Once confident in rocket 's readiness",
+        "ground tests",
+        "Introduction",
+        "rocket 's stability",
+        "essential",
+        "fruits of your labor",
+        "have instrumental",
+        "purpose of rocket",
+        "potential issues",
+        "fuel engines",
+        "components",
+        "body",
+        "small model rocket",
+        "hand",
+        "aspiring aerospace engineer",
+        "rocket",
+        "rocket 's structure",
+        "model rocket",
+        "can rewarding experience",
+        "Conclusion",
+        "payload",
+        "hobbyist",
+        "structure",
+        "Depending size of rocket",
+        "solid fuel engines",
+        "thrust",
+        "requires",
+        "fascinating endeavor",
+        "Whether student",
+        "Rockets",
+        "systems",
+        "sensors",
+        "purpose",
+        "you",
+        "thorough testing",
+        "guide",
+        "essay",
+        "small model rocket for science project",
+        "orbit",
+        "key components",
+        "propulsion",
+        "model rocket for science project",
+        "constructed",
+        "Depending size",
+        "test flights",
+        "it",
+        "thrust needed",
+        "actuators",
+        "payload capacity",
+        "one",
+        "stability",
+        "we",
+        "onboard computers",
+        "testing",
+        "other key components",
+        "heart",
+        "next step",
+        "typically constructed",
+        "confident",
+        "design",
+        "step",
+        "materials needed",
+        "your design",
+        "your own rocket building journey",
+        "Once confident",
+        "Step Guide Introduction",
+        "fruits",
+        "readiness",
+        "step process",
+        "step by step process",
+        "materials",
+        "weight distribution",
+        "your dream",
+        "can experience",
+        "student",
+        "learning experience",
+        "rocket 's readiness",
+        "your rocket building journey",
+        "valuable learning experience",
+        "plans"
+    ],
+    "relations": [
+        [
+            "Step Guide Introduction",
+            "Building",
+            "rocket"
+        ],
+        [
+            "Step Guide Introduction",
+            "is",
+            "endeavor"
+        ],
+        [
+            "Introduction",
+            "is fascinating",
+            "requires"
+        ],
+        [
+            "Step Guide Introduction",
+            "is",
+            "fascinating endeavor"
+        ],
+        [
+            "Rockets",
+            "have",
+            "have instrumental"
+        ],
+        [
+            "have instrumental",
+            "can",
+            "can experience"
+        ],
+        [
+            "our exploration",
+            "building",
+            "one"
+        ],
+        [
+            "have instrumental",
+            "can",
+            "can rewarding experience"
+        ],
+        [
+            "we",
+            "will outline step process In",
+            "essay"
+        ],
+        [
+            "we",
+            "will outline",
+            "step process"
+        ],
+        [
+            "we",
+            "will outline",
+            "step by step process"
+        ],
+        [
+            "you",
+            "Are building",
+            "model rocket for science project"
+        ],
+        [
+            "you",
+            "Are building",
+            "small model rocket"
+        ],
+        [
+            "you",
+            "launch",
+            "payload"
+        ],
+        [
+            "you",
+            "Are building",
+            "small model rocket for science project"
+        ],
+        [
+            "you",
+            "launch payload into",
+            "orbit"
+        ],
+        [
+            "you",
+            "Are building",
+            "model rocket"
+        ],
+        [
+            "you",
+            "purpose of",
+            "rocket"
+        ],
+        [
+            "it",
+            "design",
+            "it"
+        ],
+        [
+            "you",
+            "have determined",
+            "purpose of rocket"
+        ],
+        [
+            "you",
+            "have determined",
+            "purpose"
+        ],
+        [
+            "rocket 's structure",
+            "plans",
+            "other components"
+        ],
+        [
+            "rocket",
+            "has",
+            "structure"
+        ],
+        [
+            "rocket 's structure",
+            "plans",
+            "payload capacity"
+        ],
+        [
+            "rocket 's structure",
+            "plans",
+            "components"
+        ],
+        [
+            "rocket 's structure",
+            "plans",
+            "propulsion system"
+        ],
+        [
+            "rocket 's structure",
+            "plans",
+            "key components"
+        ],
+        [
+            "plans",
+            "outline",
+            "rocket 's structure"
+        ],
+        [
+            "rocket 's structure",
+            "plans",
+            "other key components"
+        ],
+        [
+            "weight distribution",
+            "is in",
+            "your design"
+        ],
+        [
+            "materials",
+            "step",
+            "components"
+        ],
+        [
+            "next step",
+            "is gather",
+            "materials needed"
+        ],
+        [
+            "next step",
+            "is gather",
+            "materials"
+        ],
+        [
+            "design",
+            "is in",
+            "hand"
+        ],
+        [
+            "materials",
+            "next step",
+            "components"
+        ],
+        [
+            "step",
+            "is gather",
+            "materials"
+        ],
+        [
+            "step",
+            "is gather",
+            "materials needed"
+        ],
+        [
+            "body",
+            "system for",
+            "propulsion"
+        ],
+        [
+            "body",
+            "is",
+            "typically constructed"
+        ],
+        [
+            "body",
+            "is typically constructed from",
+            "materials"
+        ],
+        [
+            "body",
+            "is constructed from",
+            "materials"
+        ],
+        [
+            "body",
+            "is",
+            "constructed"
+        ],
+        [
+            "guide",
+            "cut",
+            "body components"
+        ],
+        [
+            "propulsion system",
+            "providing",
+            "thrust"
+        ],
+        [
+            "propulsion system",
+            "is",
+            "heart"
+        ],
+        [
+            "it",
+            "propel",
+            "it"
+        ],
+        [
+            "propulsion system",
+            "is heart of",
+            "rocket"
+        ],
+        [
+            "propulsion system",
+            "providing",
+            "thrust needed"
+        ],
+        [
+            "heart",
+            "providing",
+            "thrust needed"
+        ],
+        [
+            "heart",
+            "providing",
+            "thrust"
+        ],
+        [
+            "propulsion system",
+            "may consist Depending",
+            "Depending size"
+        ],
+        [
+            "propulsion system",
+            "may consist of",
+            "fuel engines"
+        ],
+        [
+            "propulsion system",
+            "may consist Depending",
+            "Depending size of rocket"
+        ],
+        [
+            "propulsion system",
+            "may consist of",
+            "solid fuel engines"
+        ],
+        [
+            "sensors",
+            "test",
+            "actuators"
+        ],
+        [
+            "sensors",
+            "test",
+            "systems"
+        ],
+        [
+            "sensors",
+            "test",
+            "onboard computers"
+        ],
+        [
+            "sensors",
+            "test",
+            "computers"
+        ],
+        [
+            "it",
+            "is",
+            "essential"
+        ],
+        [
+            "testing",
+            "identify",
+            "potential issues"
+        ],
+        [
+            "it",
+            "conduct",
+            "testing"
+        ],
+        [
+            "thorough testing",
+            "identify",
+            "potential issues"
+        ],
+        [
+            "it",
+            "conduct",
+            "thorough testing"
+        ],
+        [
+            "rocket",
+            "has",
+            "stability"
+        ],
+        [
+            "ground tests",
+            "conduct",
+            "test flights"
+        ],
+        [
+            "test flights",
+            "verify",
+            "rocket 's stability"
+        ],
+        [
+            "you",
+            "are",
+            "confident"
+        ],
+        [
+            "it",
+            "witness",
+            "fruits"
+        ],
+        [
+            "you",
+            "are",
+            "Once confident"
+        ],
+        [
+            "rocket",
+            "in",
+            "readiness"
+        ],
+        [
+            "you",
+            "are",
+            "Once confident in rocket 's readiness"
+        ],
+        [
+            "it",
+            "witness",
+            "fruits of your labor"
+        ],
+        [
+            "you",
+            "are confident in",
+            "rocket 's readiness"
+        ],
+        [
+            "Conclusion",
+            "is challenging",
+            "requires"
+        ],
+        [
+            "Conclusion",
+            "is",
+            "endeavor"
+        ],
+        [
+            "you",
+            "can embark on",
+            "your own rocket building journey"
+        ],
+        [
+            "you",
+            "can embark on",
+            "your rocket building journey"
+        ],
+        [
+            "Whether student",
+            "is",
+            "valuable learning experience"
+        ],
+        [
+            "student",
+            "is",
+            "learning experience"
+        ],
+        [
+            "student",
+            "building",
+            "rocket"
+        ],
+        [
+            "aerospace engineer",
+            "is",
+            "learning experience"
+        ],
+        [
+            "student",
+            "is",
+            "valuable learning experience"
+        ],
+        [
+            "Whether student",
+            "building",
+            "rocket"
+        ],
+        [
+            "you",
+            "are",
+            "Whether student"
+        ],
+        [
+            "aspiring aerospace engineer",
+            "is",
+            "learning experience"
+        ],
+        [
+            "aerospace engineer",
+            "is",
+            "valuable learning experience"
+        ],
+        [
+            "you",
+            "building",
+            "rocket"
+        ],
+        [
+            "Whether student",
+            "is",
+            "learning experience"
+        ],
+        [
+            "hobbyist",
+            "is",
+            "valuable learning experience"
+        ],
+        [
+            "you",
+            "are",
+            "student"
+        ],
+        [
+            "hobbyist",
+            "is",
+            "learning experience"
+        ],
+        [
+            "aspiring aerospace engineer",
+            "is",
+            "valuable learning experience"
+        ],
+        [
+            "you",
+            "can turn",
+            "your dream"
+        ]
+    ],
+    "edges": [
+        "Building",
+        "is",
+        "is fascinating",
+        "is",
+        "have",
+        "can",
+        "building",
+        "can",
+        "will outline step process In",
+        "will outline",
+        "will outline",
+        "Are building",
+        "Are building",
+        "launch",
+        "Are building",
+        "launch payload into",
+        "Are building",
+        "purpose of",
+        "design",
+        "have determined",
+        "have determined",
+        "plans",
+        "has",
+        "plans",
+        "plans",
+        "plans",
+        "plans",
+        "outline",
+        "plans",
+        "is in",
+        "step",
+        "is gather",
+        "is gather",
+        "is in",
+        "next step",
+        "is gather",
+        "is gather",
+        "system for",
+        "is",
+        "is typically constructed from",
+        "is constructed from",
+        "is",
+        "cut",
+        "providing",
+        "is",
+        "propel",
+        "is heart of",
+        "providing",
+        "providing",
+        "providing",
+        "may consist Depending",
+        "may consist of",
+        "may consist Depending",
+        "may consist of",
+        "test",
+        "test",
+        "test",
+        "test",
+        "is",
+        "identify",
+        "conduct",
+        "identify",
+        "conduct",
+        "has",
+        "conduct",
+        "verify",
+        "are",
+        "witness",
+        "are",
+        "in",
+        "are",
+        "witness",
+        "are confident in",
+        "is challenging",
+        "is",
+        "can embark on",
+        "can embark on",
+        "is",
+        "is",
+        "building",
+        "is",
+        "is",
+        "building",
+        "are",
+        "is",
+        "is",
+        "building",
+        "is",
+        "is",
+        "are",
+        "is",
+        "is",
+        "can turn"
+    ]
+}

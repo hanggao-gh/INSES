@@ -1,0 +1,342 @@
+{
+  "entities": [
+    "acceptance",
+    "adopt",
+    "adoption",
+    "altcoins",
+    "appreciation",
+    "asset class",
+    "bank account",
+    "banking services",
+    "bitcoin",
+    "blockchain",
+    "board games",
+    "central banks",
+    "challenges",
+    "code",
+    "communities",
+    "conditions",
+    "confidence",
+    "consumer protection",
+    "contentious",
+    "control",
+    "cryptocurrencies",
+    "decentralized",
+    "digital assets",
+    "digital currencies",
+    "distributed ledger",
+    "economic growth",
+    "empower",
+    "enforce",
+    "execute",
+    "fiat currencies",
+    "finance",
+    "financial inclusion",
+    "financial world",
+    "fringes",
+    "funds",
+    "global economy",
+    "governments",
+    "history",
+    "immutability",
+    "impact",
+    "innovation",
+    "institutional investors",
+    "intermediaries",
+    "investments",
+    "investors",
+    "mainstream",
+    "money",
+    "money laundering",
+    "payments",
+    "peer-to-peer network",
+    "population",
+    "price fluctuations",
+    "prices",
+    "privacy",
+    "profit",
+    "regulation",
+    "regulatory bodies",
+    "retail investors",
+    "returns",
+    "revolutionizing",
+    "risks",
+    "satoshi nakamoto",
+    "security",
+    "self-executing",
+    "smart contracts",
+    "speculators",
+    "storm",
+    "tax evasion",
+    "technology",
+    "transactions",
+    "transferring money",
+    "transparency",
+    "trust",
+    "uncertainties",
+    "volatile"
+  ],
+  "relations": [
+    [
+      "bitcoin",
+      "created by",
+      "satoshi nakamoto"
+    ],
+    [
+      "blockchain",
+      "builds",
+      "confidence"
+    ],
+    [
+      "blockchain",
+      "builds",
+      "trust"
+    ],
+    [
+      "blockchain",
+      "ensures",
+      "immutability"
+    ],
+    [
+      "blockchain",
+      "ensures",
+      "transparency"
+    ],
+    [
+      "blockchain",
+      "is",
+      "distributed ledger"
+    ],
+    [
+      "blockchain",
+      "underpins",
+      "cryptocurrencies"
+    ],
+    [
+      "cryptocurrencies",
+      "adopt",
+      "digital currencies"
+    ],
+    [
+      "cryptocurrencies",
+      "adopt",
+      "investments"
+    ],
+    [
+      "cryptocurrencies",
+      "are",
+      "asset class"
+    ],
+    [
+      "cryptocurrencies",
+      "are",
+      "decentralized"
+    ],
+    [
+      "cryptocurrencies",
+      "are",
+      "digital assets"
+    ],
+    [
+      "cryptocurrencies",
+      "are",
+      "volatile"
+    ],
+    [
+      "cryptocurrencies",
+      "attract",
+      "investors"
+    ],
+    [
+      "cryptocurrencies",
+      "attract",
+      "speculators"
+    ],
+    [
+      "cryptocurrencies",
+      "become a player in",
+      "global economy"
+    ],
+    [
+      "cryptocurrencies",
+      "concern",
+      "consumer protection"
+    ],
+    [
+      "cryptocurrencies",
+      "concern",
+      "money laundering"
+    ],
+    [
+      "cryptocurrencies",
+      "concern",
+      "tax evasion"
+    ],
+    [
+      "cryptocurrencies",
+      "drive",
+      "economic growth"
+    ],
+    [
+      "cryptocurrencies",
+      "empower",
+      "communities"
+    ],
+    [
+      "cryptocurrencies",
+      "enhance",
+      "privacy"
+    ],
+    [
+      "cryptocurrencies",
+      "enhance",
+      "security"
+    ],
+    [
+      "cryptocurrencies",
+      "face",
+      "challenges"
+    ],
+    [
+      "cryptocurrencies",
+      "face",
+      "uncertainties"
+    ],
+    [
+      "cryptocurrencies",
+      "gain",
+      "acceptance"
+    ],
+    [
+      "cryptocurrencies",
+      "gain",
+      "adoption"
+    ],
+    [
+      "cryptocurrencies",
+      "impact",
+      "finance"
+    ],
+    [
+      "cryptocurrencies",
+      "offer",
+      "banking services"
+    ],
+    [
+      "cryptocurrencies",
+      "offer potential for",
+      "financial inclusion"
+    ],
+    [
+      "cryptocurrencies",
+      "offer potential for",
+      "innovation"
+    ],
+    [
+      "cryptocurrencies",
+      "operate on",
+      "peer-to-peer network"
+    ],
+    [
+      "cryptocurrencies",
+      "pose",
+      "risks"
+    ],
+    [
+      "cryptocurrencies",
+      "present opportunities for",
+      "profit"
+    ],
+    [
+      "cryptocurrencies",
+      "provide control over",
+      "funds"
+    ],
+    [
+      "cryptocurrencies",
+      "revolutionizing",
+      "money"
+    ],
+    [
+      "cryptocurrencies",
+      "revolutionizing",
+      "transactions"
+    ],
+    [
+      "cryptocurrencies",
+      "taken by storm",
+      "financial world"
+    ],
+    [
+      "fiat currencies",
+      "controlled by",
+      "central banks"
+    ],
+    [
+      "fiat currencies",
+      "controlled by",
+      "governments"
+    ],
+    [
+      "governments",
+      "grappling with",
+      "regulation"
+    ],
+    [
+      "regulation",
+      "is",
+      "contentious"
+    ],
+    [
+      "smart contracts",
+      "are",
+      "self-executing"
+    ],
+    [
+      "smart contracts",
+      "enforce",
+      "conditions"
+    ],
+    [
+      "smart contracts",
+      "execute",
+      "conditions"
+    ],
+    [
+      "smart contracts",
+      "written into",
+      "code"
+    ]
+  ],
+  "edges": [
+    "adopt",
+    "are",
+    "attract",
+    "become a player in",
+    "builds",
+    "concern",
+    "controlled by",
+    "created by",
+    "drive",
+    "empower",
+    "enforce",
+    "enhance",
+    "ensures",
+    "execute",
+    "face",
+    "gain",
+    "grappling with",
+    "impact",
+    "is",
+    "offer",
+    "offer potential for",
+    "operate on",
+    "pose",
+    "present opportunities for",
+    "provide control over",
+    "revolutionizing",
+    "taken by storm",
+    "underpins",
+    "written into"
+  ]
+}

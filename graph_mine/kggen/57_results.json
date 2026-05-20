@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The bicycle is a two-wheeled vehicle propelled by human power.",
+    "retrieved_context": "bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. penny-farthing was dangerous. penny-farthing featured large. penny-farthing popular among wealthy. high-wheel bicycle also known as penny-farthing. bicycle has a history. bicycle propelled by human power. chain drive system and pneumatic tires. safety bicycle featured chain drive system. safety bicycle revolutionizing bicycle. bicycle is a two-wheeled. bicycle has undergone transformations. motorized assistance for distances. electric bikes motorized motorized assistance. ground with feet. rider pushing off ground.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The earliest known prototype of the bicycle was called the 'draisine'.",
+    "retrieved_context": "bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. practicality and efficiency. draisine like a scooter. draisine had no pedals. draisine limited in practicality. bicycle has a history. bicycle propelled by human power. chain drive system and pneumatic tires. safety bicycle featured chain drive system. safety bicycle revolutionizing bicycle. bicycle is a two-wheeled. bicycle has undergone transformations. draisine limited in practicality. draisine like a scooter. draisine had no pedals. baron karl von drais created draisine. penny-farthing was dangerous. penny-farthing featured large. penny-farthing popular among wealthy. high-wheel bicycle also known as penny-farthing. motorized assistance for distances. electric bikes motorized motorized assistance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The draisine had no pedals and was propelled by the rider pushing off the ground with their feet.",
+    "retrieved_context": "practicality and efficiency. draisine like a scooter. draisine had no pedals. draisine limited in practicality. bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. ground with feet. rider pushing off ground. riders styles racing bikes. racing bikes faster agile. racing bikes dropped dropped handlebars.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The velocipede, also known as the 'boneshaker', featured pedals attached directly to the front wheel.",
+    "retrieved_context": "front wheel circular circular motion. boneshaker offering smoother. boneshaker was heavy. velocipede also known as boneshaker. boneshaker featured front wheel. heavy and cumbersome. boneshaker featured front wheel. smoother ride and speed. boneshaker was heavy. boneshaker offering smoother. front wheel circular circular motion. bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. penny-farthing was dangerous. penny-farthing featured large. penny-farthing popular among wealthy. high-wheel bicycle also known as penny-farthing.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The boneshaker offered a smoother ride and greater speed compared to the draisine.",
+    "retrieved_context": "heavy and cumbersome. boneshaker featured front wheel. smoother ride and speed. boneshaker was heavy. boneshaker offering smoother. front wheel circular circular motion. practicality and efficiency. draisine like a scooter. draisine had no pedals. draisine limited in practicality. speed skill endurance. smoother ride and speed. stiffness for performance. draisine limited in practicality. draisine like a scooter. draisine had no pedals. baron karl von drais created draisine.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The high-wheel bicycle, or penny-farthing, had a large front wheel and a smaller rear wheel.",
+    "retrieved_context": "penny-farthing was dangerous. penny-farthing featured large. penny-farthing popular among wealthy. high-wheel bicycle also known as penny-farthing. front wheel circular circular motion. bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. penny-farthing popular among wealthy. large and small. penny-farthing was dangerous. dangerous and prone to accidents. penny-farthing featured large. wealthy gentlemen for elegance. bicycle has a history. bicycle propelled by human power. chain drive system and pneumatic tires. safety bicycle featured chain drive system. safety bicycle revolutionizing bicycle. bicycle is a two-wheeled. bicycle has undergone transformations. stable and comfortable. pneumatic tires making it stable. motorized assistance for distances. electric bikes motorized motorized assistance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The safety bicycle featured two wheels of equal size, a chain drive system, and pneumatic tires.",
+    "retrieved_context": "bicycle has a history. bicycle propelled by human power. chain drive system and pneumatic tires. safety bicycle featured chain drive system. safety bicycle revolutionizing bicycle. bicycle is a two-wheeled. bicycle has undergone transformations. stable and comfortable. pneumatic tires making it stable. penny-farthing was dangerous. penny-farthing featured large. penny-farthing popular among wealthy. high-wheel bicycle also known as penny-farthing. bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. front wheel circular circular motion. racing bikes faster agile. racing bikes dropped dropped handlebars. dropped handlebars to cruisers. agile and responsive.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The safety bicycle was more stable, comfortable, and efficient than its predecessors.",
+    "retrieved_context": "bicycle has a history. bicycle propelled by human power. chain drive system and pneumatic tires. safety bicycle featured chain drive system. safety bicycle revolutionizing bicycle. bicycle is a two-wheeled. bicycle has undergone transformations. bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. penny-farthing was dangerous. penny-farthing featured large. penny-farthing popular among wealthy. high-wheel bicycle also known as penny-farthing. racing bikes faster agile. racing bikes dropped dropped handlebars. dropped handlebars to cruisers. agile and responsive. motorized assistance for distances. electric bikes motorized motorized assistance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Steel became the primary material used in bicycle frames in the early 1900s.",
+    "retrieved_context": "bicycle has a history. bicycle propelled by human power. chain drive system and pneumatic tires. safety bicycle featured chain drive system. safety bicycle revolutionizing bicycle. bicycle is a two-wheeled. bicycle has undergone transformations. bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. racing bikes faster agile. racing bikes dropped dropped handlebars. dropped handlebars to cruisers. agile and responsive. titanium alternatives to steel. aluminum and titanium. penny-farthing was dangerous. penny-farthing featured large. penny-farthing popular among wealthy. high-wheel bicycle also known as penny-farthing. motorized assistance for distances. electric bikes motorized motorized assistance. frames offering strength. materials steel frames.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Aluminum and titanium emerged as popular alternatives to steel in the mid-20th century.",
+    "retrieved_context": "titanium alternatives to steel. titanium alternatives to steel. aluminum and titanium. advancements in materials. advancements and developments. 20th century continued advancements. velocipede also known as boneshaker. mid-19th century invention of velocipede. frames offering strength. materials steel frames. manufacturing industry development. development of racing bikes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Carbon fiber frames are lightweight, strong, and aerodynamic.",
+    "retrieved_context": "carbon fiber revolutionary construction. strong and aerodynamic. carbon fiber lightweight strong. manufacturing industry development. carbon fiber transformed manufacturing. aerodynamic for competitive racing. competitive racing and high-performance cycling. frames offering strength. strength and durability. frames offering strength. materials steel frames. wooden in the 19th century. stiffness for performance.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon fiber frames are ideal for competitive racing and high-performance cycling.",
+    "retrieved_context": "racing bikes faster agile. racing bikes dropped dropped handlebars. dropped handlebars to cruisers. agile and responsive. carbon fiber revolutionary construction. strong and aerodynamic. carbon fiber lightweight strong. manufacturing industry development. carbon fiber transformed manufacturing. competitive racing and high-performance cycling. frames offering strength. strength and durability. motorized assistance for distances. electric bikes motorized motorized assistance. competitive sport enjoyed by millions. millions professional professional races.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Electric bikes offer motorized assistance for easier riding and longer distances.",
+    "retrieved_context": "motorized assistance for distances. electric bikes motorized motorized assistance. motorized assistance for distances. distances impact transportation. bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. racing bikes faster agile. racing bikes dropped dropped handlebars. dropped handlebars to cruisers. agile and responsive. penny-farthing was dangerous. penny-farthing featured large. penny-farthing popular among wealthy. high-wheel bicycle also known as penny-farthing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bicycles have become a popular mode of transportation for commuting, exercise, and leisure.",
+    "retrieved_context": "bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. commuting exercise leisure. leisure sustainable eco-friendly. motorized assistance for distances. electric bikes motorized motorized assistance. transportation recreation culture. culture mode commuting. public transportation competitive competitive sport. competitive sport enjoyed by millions. penny-farthing was dangerous. penny-farthing featured large. penny-farthing popular among wealthy. high-wheel bicycle also known as penny-farthing. racing bikes faster agile. racing bikes dropped dropped handlebars. dropped handlebars to cruisers. agile and responsive.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cycling has become a competitive sport enjoyed by millions of people around the world.",
+    "retrieved_context": "competitive sport enjoyed by millions. millions professional professional races. competitive racing and high-performance cycling. bicycle has a history. bicycle propelled by human power. bicycle is a two-wheeled. bicycle has undergone transformations. history of evolution. transformations shaped design. racing bikes faster agile. racing bikes dropped dropped handlebars. dropped handlebars to cruisers. agile and responsive. riders styles racing bikes. racing bikes faster agile. racing bikes dropped dropped handlebars. professional races like tour de france. tour de france showcasing speed.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

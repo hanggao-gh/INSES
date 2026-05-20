@@ -1,0 +1,67 @@
+{
+  "entities": [
+    "AINU PEOPLE",
+    "MAORI CULTURE",
+    "ANCIENT EGYPT",
+    "POLYNESIAN CULTURES",
+    "JAPANESE MAFIA",
+    "YAKUZA",
+    "TATTOOS",
+    "JAPANESE CULTURE",
+    "SAMOAN CULTURE",
+    "PE'A",
+    "WESTERN SOCIETIES"
+  ],
+  "relations": [
+    [
+      "TATTOOS",
+      "Tattoos in Polynesian cultures signify social status and achievements, showing the cultural significance of tattoos in these societies",
+      "POLYNESIAN CULTURES"
+    ],
+    [
+      "TATTOOS",
+      "Tattoos, or \"moko\", in Maori culture are used to express individual and group identities, highlighting the cultural depth of tattoos",
+      "MAORI CULTURE"
+    ],
+    [
+      "TATTOOS",
+      "Tattoos in Western societies are used for personal expression, showing the global and timeless appeal of tattoos",
+      "WESTERN SOCIETIES"
+    ],
+    [
+      "TATTOOS",
+      "Tattoos have historically been associated with the Yakuza as symbols of loyalty and commitment within the organization",
+      "YAKUZA"
+    ],
+    [
+      "TATTOOS",
+      "Tattoos are deeply embedded in Japanese culture, evolving from their association with the Yakuza to a broader form of personal and cultural expression",
+      "JAPANESE CULTURE"
+    ],
+    [
+      "AINU PEOPLE",
+      "Both cultures use tattoos as a means of connecting individuals to their cultural heritage and community",
+      "SAMOAN CULTURE"
+    ],
+    [
+      "SAMOAN CULTURE",
+      "The 'pe'a' is a significant event in Samoan culture, marking a young man's rite of passage into adulthood",
+      "PE'A"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Both cultures have historical significance of tattoos in ritual, ceremony, and symbolism",
+      "JAPANESE MAFIA"
+    ]
+  ],
+  "edges": [
+    "Tattoos in Polynesian cultures signify social status and achievements, showing the cultural significance of tattoos in these societies",
+    "Tattoos, or \"moko\", in Maori culture are used to express individual and group identities, highlighting the cultural depth of tattoos",
+    "Tattoos in Western societies are used for personal expression, showing the global and timeless appeal of tattoos",
+    "Tattoos have historically been associated with the Yakuza as symbols of loyalty and commitment within the organization",
+    "Tattoos are deeply embedded in Japanese culture, evolving from their association with the Yakuza to a broader form of personal and cultural expression",
+    "Both cultures use tattoos as a means of connecting individuals to their cultural heritage and community",
+    "The 'pe'a' is a significant event in Samoan culture, marking a young man's rite of passage into adulthood",
+    "Both cultures have historical significance of tattoos in ritual, ceremony, and symbolism"
+  ]
+}

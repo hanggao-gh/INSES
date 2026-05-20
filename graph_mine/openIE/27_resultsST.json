@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Rocket requires careful planning",
+    "retrieved_context": "rocket has structure. rocket has stability. rocket in readiness. propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rocket requires precise engineering",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. rocket has structure. rocket has stability. rocket in readiness.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rocket requires understanding of physics",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. rocket has structure. rocket has stability. rocket in readiness.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rocket requires understanding of materials science",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. rocket has structure. rocket has stability. rocket in readiness.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rockets have been instrumental in space exploration",
+    "retrieved_context": "rocket has structure. rocket has stability. rocket in readiness. propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. Rockets have have instrumental. have instrumental can can experience. have instrumental can can rewarding experience.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Building a rocket can be rewarding",
+    "retrieved_context": "rocket has structure. rocket has stability. rocket in readiness. propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Building a rocket can be educational",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. rocket has structure. rocket has stability. rocket in readiness.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rocket building involves defining purpose and requirements",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. rocket has structure. rocket has stability. rocket in readiness.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rocket building involves designing the rocket",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rocket building involves gathering materials and components",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. rocket has structure. rocket has stability. rocket in readiness.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Rocket body is typically constructed from lightweight materials",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Propulsion system provides thrust to the rocket",
+    "retrieved_context": "heart providing thrust. propulsion system is heart. rocket has structure. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket in readiness. propulsion system is heart of rocket. heart providing thrust needed. rocket has stability. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. propulsion system providing thrust needed. propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. rocket has structure. rocket has stability. rocket in readiness.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern rockets use sophisticated electronics and guidance systems",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. rocket has structure. rocket has stability. rocket in readiness. Rockets have have instrumental. have instrumental can can experience. have instrumental can can rewarding experience.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Testing is essential before launching the rocket",
+    "retrieved_context": "test flights verify rocket 's stability. testing identify potential issues. thorough testing identify potential issues.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Building a rocket requires a deep understanding of science and engineering principles",
+    "retrieved_context": "propulsion system is heart. rocket 's structure plans other components. propulsion system may consist Depending Depending size of rocket. propulsion system providing thrust. propulsion system may consist of solid fuel engines. rocket 's structure plans payload capacity. propulsion system is heart of rocket. rocket 's structure plans key components. propulsion system providing thrust needed. propulsion system may consist of fuel engines. propulsion system may consist Depending Depending size. rocket 's structure plans components. rocket 's structure plans propulsion system. rocket 's structure plans other key components. rocket has structure. rocket has stability. rocket in readiness.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

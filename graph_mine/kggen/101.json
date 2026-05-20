@@ -1,0 +1,540 @@
+{
+  "entities": [
+    "21st century",
+    "adaptation",
+    "adoption",
+    "advancements",
+    "advantage",
+    "adversaries",
+    "aircraft",
+    "annihilate",
+    "archery",
+    "armies",
+    "artificial intelligence",
+    "autonomous robots",
+    "battlefield",
+    "battles",
+    "beginnings",
+    "bow and arrow",
+    "breech-loading mechanisms",
+    "cannons",
+    "castles",
+    "catapults",
+    "challenges",
+    "change",
+    "china",
+    "cities",
+    "civilization",
+    "civilizations",
+    "cold war",
+    "combat",
+    "conflicts",
+    "cutting-edge technologies",
+    "cyber warfare",
+    "deadly",
+    "decades",
+    "decline",
+    "defenses",
+    "detect",
+    "development",
+    "directed energy weapons",
+    "drones",
+    "dynamic",
+    "edge",
+    "effectiveness",
+    "efficiency",
+    "enemy",
+    "engineering",
+    "entry",
+    "equipment",
+    "era",
+    "europe",
+    "evolution",
+    "field",
+    "firearms",
+    "fortified cities",
+    "future",
+    "geopolitical landscape",
+    "gunpowder",
+    "history",
+    "hypersonic missiles",
+    "impact",
+    "industrial revolution",
+    "innovation",
+    "innovations",
+    "integration",
+    "intelligence",
+    "invention",
+    "manhattan project",
+    "mass production",
+    "means",
+    "medieval warfare",
+    "metallurgy",
+    "military technology",
+    "missiles",
+    "mobile",
+    "nations",
+    "nature",
+    "nuclear weapons",
+    "operations",
+    "opportunities",
+    "possibilities",
+    "potential",
+    "precision strikes",
+    "prey",
+    "race",
+    "renaissance era",
+    "repeating firearms",
+    "research",
+    "rifled barrels",
+    "sharks",
+    "siege",
+    "siege weapons",
+    "sophisticated",
+    "speed",
+    "strategies",
+    "strategists",
+    "submarines",
+    "superiority",
+    "tactics",
+    "tanks",
+    "techniques",
+    "transformation",
+    "trebuchets",
+    "turning point",
+    "uavs",
+    "unmanned aerial vehicles",
+    "walls",
+    "warfare",
+    "weapons",
+    "world wars"
+  ],
+  "relations": [
+    [
+      "adoption",
+      "during",
+      "renaissance era"
+    ],
+    [
+      "adoption",
+      "in",
+      "europe"
+    ],
+    [
+      "adoption",
+      "led to",
+      "decline"
+    ],
+    [
+      "advancements",
+      "in",
+      "engineering"
+    ],
+    [
+      "advancements",
+      "in",
+      "metallurgy"
+    ],
+    [
+      "advancements",
+      "include",
+      "aircraft"
+    ],
+    [
+      "advancements",
+      "include",
+      "missiles"
+    ],
+    [
+      "advancements",
+      "include",
+      "submarines"
+    ],
+    [
+      "advancements",
+      "include",
+      "tanks"
+    ],
+    [
+      "advancements",
+      "led to",
+      "breech-loading mechanisms"
+    ],
+    [
+      "advancements",
+      "led to",
+      "deadly"
+    ],
+    [
+      "advancements",
+      "led to",
+      "dynamic"
+    ],
+    [
+      "advancements",
+      "led to",
+      "mobile"
+    ],
+    [
+      "advancements",
+      "led to",
+      "repeating firearms"
+    ],
+    [
+      "advancements",
+      "led to",
+      "rifled barrels"
+    ],
+    [
+      "advancements",
+      "led to",
+      "sophisticated"
+    ],
+    [
+      "armies",
+      "used",
+      "siege weapons"
+    ],
+    [
+      "artificial intelligence",
+      "transformed",
+      "battlefield"
+    ],
+    [
+      "autonomous robots",
+      "poised to",
+      "battlefield"
+    ],
+    [
+      "beginnings",
+      "of",
+      "bow and arrow"
+    ],
+    [
+      "bow and arrow",
+      "allowed",
+      "combat"
+    ],
+    [
+      "bow and arrow",
+      "impact on",
+      "archery"
+    ],
+    [
+      "bow and arrow",
+      "increased",
+      "effectiveness"
+    ],
+    [
+      "cold war",
+      "saw",
+      "advancements"
+    ],
+    [
+      "cutting-edge technologies",
+      "of",
+      "21st century"
+    ],
+    [
+      "cyber warfare",
+      "transformed",
+      "battlefield"
+    ],
+    [
+      "decline",
+      "of",
+      "strategies"
+    ],
+    [
+      "decline",
+      "of",
+      "tactics"
+    ],
+    [
+      "development",
+      "of",
+      "siege weapons"
+    ],
+    [
+      "development",
+      "of",
+      "weapons"
+    ],
+    [
+      "directed energy weapons",
+      "poised to",
+      "battlefield"
+    ],
+    [
+      "firearms",
+      "engaged",
+      "enemy"
+    ],
+    [
+      "firearms",
+      "provided",
+      "means"
+    ],
+    [
+      "future",
+      "holds",
+      "challenges"
+    ],
+    [
+      "future",
+      "holds",
+      "possibilities"
+    ],
+    [
+      "gunpowder",
+      "invented in",
+      "china"
+    ],
+    [
+      "gunpowder",
+      "led to",
+      "cannons"
+    ],
+    [
+      "gunpowder",
+      "led to",
+      "firearms"
+    ],
+    [
+      "gunpowder",
+      "marked",
+      "turning point"
+    ],
+    [
+      "history",
+      "is",
+      "adaptation"
+    ],
+    [
+      "history",
+      "is",
+      "transformation"
+    ],
+    [
+      "hypersonic missiles",
+      "poised to",
+      "battlefield"
+    ],
+    [
+      "industrial revolution",
+      "brought",
+      "innovation"
+    ],
+    [
+      "integration",
+      "enabled",
+      "efficiency"
+    ],
+    [
+      "integration",
+      "enabled",
+      "intelligence"
+    ],
+    [
+      "integration",
+      "enabled",
+      "precision strikes"
+    ],
+    [
+      "integration",
+      "enabled",
+      "speed"
+    ],
+    [
+      "integration",
+      "into",
+      "operations"
+    ],
+    [
+      "invention",
+      "of",
+      "bow and arrow"
+    ],
+    [
+      "mass production",
+      "of",
+      "weapons"
+    ],
+    [
+      "military technology",
+      "has played",
+      "history"
+    ],
+    [
+      "military technology",
+      "has shaped",
+      "warfare"
+    ],
+    [
+      "military technology",
+      "shaped",
+      "geopolitical landscape"
+    ],
+    [
+      "military technology",
+      "transformed",
+      "warfare"
+    ],
+    [
+      "nations",
+      "invest in",
+      "development"
+    ],
+    [
+      "nations",
+      "invest in",
+      "research"
+    ],
+    [
+      "nations",
+      "over",
+      "adversaries"
+    ],
+    [
+      "nations",
+      "to gain",
+      "edge"
+    ],
+    [
+      "nuclear weapons",
+      "developed during",
+      "manhattan project"
+    ],
+    [
+      "nuclear weapons",
+      "marked",
+      "era"
+    ],
+    [
+      "nuclear weapons",
+      "potential to",
+      "annihilate"
+    ],
+    [
+      "nuclear weapons",
+      "potential to",
+      "cities"
+    ],
+    [
+      "nuclear weapons",
+      "potential to",
+      "civilizations"
+    ],
+    [
+      "race",
+      "drives",
+      "change"
+    ],
+    [
+      "race",
+      "drives",
+      "innovation"
+    ],
+    [
+      "race",
+      "for",
+      "superiority"
+    ],
+    [
+      "siege weapons",
+      "broke down",
+      "defenses"
+    ],
+    [
+      "siege weapons",
+      "broke down",
+      "walls"
+    ],
+    [
+      "siege weapons",
+      "include",
+      "catapults"
+    ],
+    [
+      "siege weapons",
+      "include",
+      "trebuchets"
+    ],
+    [
+      "siege weapons",
+      "used against",
+      "castles"
+    ],
+    [
+      "siege weapons",
+      "used against",
+      "fortified cities"
+    ],
+    [
+      "siege weapons",
+      "used in",
+      "siege"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "include",
+      "drones"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "include",
+      "uavs"
+    ],
+    [
+      "unmanned aerial vehicles",
+      "transformed",
+      "battlefield"
+    ],
+    [
+      "weapons",
+      "to gain",
+      "advantage"
+    ],
+    [
+      "world wars",
+      "saw",
+      "advancements"
+    ]
+  ],
+  "edges": [
+    "allowed",
+    "broke down",
+    "brought",
+    "developed during",
+    "drives",
+    "during",
+    "enabled",
+    "engaged",
+    "for",
+    "has played",
+    "has shaped",
+    "holds",
+    "impact on",
+    "in",
+    "include",
+    "increased",
+    "into",
+    "invented in",
+    "invest in",
+    "is",
+    "led to",
+    "marked",
+    "of",
+    "over",
+    "poised to",
+    "potential to",
+    "provided",
+    "saw",
+    "shaped",
+    "to gain",
+    "transformed",
+    "used",
+    "used against",
+    "used in"
+  ]
+}

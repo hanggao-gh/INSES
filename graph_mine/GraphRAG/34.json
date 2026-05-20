@@ -1,0 +1,58 @@
+{
+  "entities": [
+    "ATLANTIS",
+    "CRITIAS",
+    "ATLANTIC OCEAN",
+    "PILLARS OF HERCULES",
+    "ANTARCTICA",
+    "MEDITERRANEAN SEA",
+    "PLATO",
+    "TIMAEUS"
+  ],
+  "relations": [
+    [
+      "ATLANTIS",
+      "Plato introduced the story of Atlantis in his dialogues, making him the primary source of the legend",
+      "PLATO"
+    ],
+    [
+      "ATLANTIS",
+      "The dialogue where Atlantis is first mentioned by Plato",
+      "TIMAEUS"
+    ],
+    [
+      "ATLANTIS",
+      "The dialogue where the story of Atlantis is further elaborated by Plato",
+      "CRITIAS"
+    ],
+    [
+      "ATLANTIS",
+      "Atlantis was described by Plato as being located beyond the Pillars of Hercules, indicating its supposed position relative to the known world",
+      "PILLARS OF HERCULES"
+    ],
+    [
+      "ATLANTIS",
+      "Some theories suggest Atlantis was located in the Atlantic Ocean",
+      "ATLANTIC OCEAN"
+    ],
+    [
+      "ATLANTIS",
+      "Some theories suggest Atlantis was located in the Mediterranean Sea",
+      "MEDITERRANEAN SEA"
+    ],
+    [
+      "ATLANTIS",
+      "Some theories suggest Atlantis was located in Antarctica",
+      "ANTARCTICA"
+    ]
+  ],
+  "edges": [
+    "Plato introduced the story of Atlantis in his dialogues, making him the primary source of the legend",
+    "The dialogue where Atlantis is first mentioned by Plato",
+    "The dialogue where the story of Atlantis is further elaborated by Plato",
+    "Atlantis was described by Plato as being located beyond the Pillars of Hercules, indicating its supposed position relative to the known world",
+    "Some theories suggest Atlantis was located in the Atlantic Ocean",
+    "Some theories suggest Atlantis was located in the Mediterranean Sea",
+    "Some theories suggest Atlantis was located in Antarctica"
+  ]
+}

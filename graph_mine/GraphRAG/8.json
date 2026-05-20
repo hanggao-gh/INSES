@@ -1,0 +1,156 @@
+{
+  "entities": [
+    "YURI GAGARIN",
+    "SPACE TOURISM",
+    "SPUTNIK 1",
+    "APOLLO 11",
+    "NASA",
+    "ORIGIN",
+    "MARS",
+    "BLUE ORIGIN",
+    "MARS ROVERS",
+    "INTERNATIONAL SPACE STATION (ISS)",
+    "SOVIET UNION",
+    "NEIL ARMSTRONG",
+    "SATURN",
+    "JUPITER",
+    "SPACE EXPLORATION",
+    "VOYAGER MISSIONS",
+    "VIRGIN GALACTIC",
+    "UNITED STATES",
+    "BUZZ ALDRIN",
+    "INTERNATIONAL COOPERATION IN SPACE EXPLORATION",
+    "SPACEX",
+    "PERSEVERANCE ROVER"
+  ],
+  "relations": [
+    [
+      "SPUTNIK 1",
+      "The Soviet Union launched Sputnik 1, initiating the space race",
+      "SOVIET UNION"
+    ],
+    [
+      "SOVIET UNION",
+      "Yuri Gagarin, a Soviet astronaut, was the first human to orbit the Earth",
+      "YURI GAGARIN"
+    ],
+    [
+      "SOVIET UNION",
+      "The Soviet Union's successor, Russia, is one of the countries involved in the operation of the ISS",
+      "INTERNATIONAL SPACE STATION (ISS)"
+    ],
+    [
+      "UNITED STATES",
+      "Neil Armstrong, an American astronaut, was one of the first humans to walk on the moon",
+      "NEIL ARMSTRONG"
+    ],
+    [
+      "UNITED STATES",
+      "Buzz Aldrin, an American astronaut, was one of the first humans to walk on the moon",
+      "BUZZ ALDRIN"
+    ],
+    [
+      "UNITED STATES",
+      "The United States is one of the countries involved in the operation of the ISS",
+      "INTERNATIONAL SPACE STATION (ISS)"
+    ],
+    [
+      "NEIL ARMSTRONG",
+      "Neil Armstrong was a key member of the Apollo 11 mission",
+      "APOLLO 11"
+    ],
+    [
+      "BUZZ ALDRIN",
+      "Buzz Aldrin was a key member of the Apollo 11 mission",
+      "APOLLO 11"
+    ],
+    [
+      "VOYAGER MISSIONS",
+      "The Voyager missions are part of the advancements in space exploration that involve international collaboration",
+      "INTERNATIONAL COOPERATION IN SPACE EXPLORATION"
+    ],
+    [
+      "MARS ROVERS",
+      "The Mars rovers are a result of advancements in space technology and international cooperation in space exploration",
+      "INTERNATIONAL COOPERATION IN SPACE EXPLORATION"
+    ],
+    [
+      "INTERNATIONAL SPACE STATION (ISS)",
+      "The ISS is a significant milestone in international cooperation in space exploration, with astronauts from different countries living and working together in space",
+      "INTERNATIONAL COOPERATION IN SPACE EXPLORATION"
+    ],
+    [
+      "SPACEX",
+      "SpaceX has plans to send humans to Mars, highlighting its significant role in Mars exploration",
+      "MARS"
+    ],
+    [
+      "NASA",
+      "NASA's Perseverance rover, part of its Mars exploration efforts, is conducting experiments on the red planet",
+      "MARS"
+    ],
+    [
+      "NASA",
+      "NASA is planning missions to explore Jupiter and its moons, aiming to study the planet's composition and environment",
+      "JUPITER"
+    ],
+    [
+      "NASA",
+      "NASA's future missions may include exploring Saturn and its moons to gain insights into the planet's characteristics and potential for life",
+      "SATURN"
+    ],
+    [
+      "MARS",
+      "The Perseverance rover, a NASA mission, is actively exploring Mars and searching for signs of past life",
+      "PERSEVERANCE ROVER"
+    ],
+    [
+      "BLUE ORIGIN",
+      "Blue Origin is actively participating in the space tourism industry by offering suborbital flights",
+      "SPACE TOURISM"
+    ],
+    [
+      "VIRGIN GALACTIC",
+      "Virgin Galactic is contributing to the development of space tourism through its suborbital spaceflights",
+      "SPACE TOURISM"
+    ],
+    [
+      "VIRGIN GALACTIC",
+      "Both Origin and Virgin Galactic are involved in the commercial venture of offering suborbital spaceflights",
+      "ORIGIN"
+    ],
+    [
+      "VIRGIN GALACTIC",
+      "Virgin Galactic contributes to the current state of space exploration through its commercial ventures offering suborbital spaceflights",
+      "SPACE EXPLORATION"
+    ],
+    [
+      "ORIGIN",
+      "Origin contributes to the current state of space exploration through its commercial ventures offering suborbital spaceflights",
+      "SPACE EXPLORATION"
+    ]
+  ],
+  "edges": [
+    "The Soviet Union launched Sputnik 1, initiating the space race",
+    "Yuri Gagarin, a Soviet astronaut, was the first human to orbit the Earth",
+    "The Soviet Union's successor, Russia, is one of the countries involved in the operation of the ISS",
+    "Neil Armstrong, an American astronaut, was one of the first humans to walk on the moon",
+    "Buzz Aldrin, an American astronaut, was one of the first humans to walk on the moon",
+    "The United States is one of the countries involved in the operation of the ISS",
+    "Neil Armstrong was a key member of the Apollo 11 mission",
+    "Buzz Aldrin was a key member of the Apollo 11 mission",
+    "The Voyager missions are part of the advancements in space exploration that involve international collaboration",
+    "The Mars rovers are a result of advancements in space technology and international cooperation in space exploration",
+    "The ISS is a significant milestone in international cooperation in space exploration, with astronauts from different countries living and working together in space",
+    "SpaceX has plans to send humans to Mars, highlighting its significant role in Mars exploration",
+    "NASA's Perseverance rover, part of its Mars exploration efforts, is conducting experiments on the red planet",
+    "NASA is planning missions to explore Jupiter and its moons, aiming to study the planet's composition and environment",
+    "NASA's future missions may include exploring Saturn and its moons to gain insights into the planet's characteristics and potential for life",
+    "The Perseverance rover, a NASA mission, is actively exploring Mars and searching for signs of past life",
+    "Blue Origin is actively participating in the space tourism industry by offering suborbital flights",
+    "Virgin Galactic is contributing to the development of space tourism through its suborbital spaceflights",
+    "Both Origin and Virgin Galactic are involved in the commercial venture of offering suborbital spaceflights",
+    "Virgin Galactic contributes to the current state of space exploration through its commercial ventures offering suborbital spaceflights",
+    "Origin contributes to the current state of space exploration through its commercial ventures offering suborbital spaceflights"
+  ]
+}

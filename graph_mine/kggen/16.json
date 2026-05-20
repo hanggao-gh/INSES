@@ -1,0 +1,511 @@
+{
+  "entities": [
+    "acids",
+    "affect",
+    "alcohol",
+    "amplify",
+    "aromas",
+    "baked goods",
+    "balance",
+    "break down",
+    "brine solution",
+    "browning",
+    "browning process",
+    "butterfly",
+    "carbon dioxide",
+    "chefs",
+    "chemical changes",
+    "chemical reaction",
+    "chemistry",
+    "coagulate",
+    "color",
+    "conclusion",
+    "consumption",
+    "cooking",
+    "cooks",
+    "creamy sauces",
+    "critical role",
+    "crucial aspect",
+    "culinary arts",
+    "delight",
+    "denature",
+    "dishes",
+    "dressings",
+    "eggs",
+    "elevate",
+    "emulsification",
+    "enhances",
+    "enhancing",
+    "enzymatic reactions",
+    "essential",
+    "essential aspect",
+    "explore",
+    "fascinating",
+    "fermentation",
+    "flavor compounds",
+    "flavor profile",
+    "flavorful dishes",
+    "flavors",
+    "food",
+    "food preservation techniques",
+    "fruit salad",
+    "governed",
+    "grilled vegetables",
+    "growth",
+    "heat",
+    "heights",
+    "immiscible liquids",
+    "influencing",
+    "inhibit",
+    "interactions",
+    "lemon juice",
+    "life cycle",
+    "maillard reaction",
+    "mayonnaise",
+    "meat",
+    "microorganisms",
+    "mixing",
+    "mouthfeel",
+    "natural flavors",
+    "new flavors",
+    "nutritional value",
+    "oil",
+    "pickling",
+    "preparing",
+    "preserves",
+    "process",
+    "proteins",
+    "refreshing acidity",
+    "regulating",
+    "relationship",
+    "results",
+    "roasted meats",
+    "safely preserve",
+    "salts",
+    "season",
+    "senses",
+    "smooth",
+    "spoilage microorganisms",
+    "stable emulsion",
+    "stable emulsions",
+    "structure",
+    "sugars",
+    "sweetness",
+    "taste",
+    "techniques",
+    "temperature control",
+    "temperature ranges",
+    "tenderize",
+    "tenderize proteins",
+    "texture",
+    "unique flavor profiles",
+    "unlock",
+    "water",
+    "well-balanced"
+  ],
+  "relations": [
+    [
+      "acids",
+      "balance",
+      "sweetness"
+    ],
+    [
+      "acids",
+      "enhance",
+      "taste"
+    ],
+    [
+      "acids",
+      "play",
+      "critical role"
+    ],
+    [
+      "acids",
+      "tenderize",
+      "meat"
+    ],
+    [
+      "brine solution",
+      "inhibit",
+      "growth"
+    ],
+    [
+      "brine solution",
+      "inhibit",
+      "spoilage microorganisms"
+    ],
+    [
+      "browning process",
+      "achieve",
+      "flavor profile"
+    ],
+    [
+      "chefs",
+      "create",
+      "flavorful dishes"
+    ],
+    [
+      "chefs",
+      "create",
+      "well-balanced"
+    ],
+    [
+      "chemical reaction",
+      "involves",
+      "chemical changes"
+    ],
+    [
+      "chemical reaction",
+      "involves",
+      "interactions"
+    ],
+    [
+      "chemistry",
+      "elevate",
+      "heights"
+    ],
+    [
+      "chemistry",
+      "explore",
+      "new flavors"
+    ],
+    [
+      "chemistry",
+      "is",
+      "essential aspect"
+    ],
+    [
+      "chemistry",
+      "is",
+      "fascinating"
+    ],
+    [
+      "chemistry",
+      "plays",
+      "crucial aspect"
+    ],
+    [
+      "chemistry",
+      "unlock",
+      "new flavors"
+    ],
+    [
+      "cooking",
+      "involves",
+      "chemical reaction"
+    ],
+    [
+      "cooking",
+      "is",
+      "process"
+    ],
+    [
+      "cooks",
+      "control",
+      "browning process"
+    ],
+    [
+      "cooks",
+      "create",
+      "unique flavor profiles"
+    ],
+    [
+      "cooks",
+      "safely preserve",
+      "food"
+    ],
+    [
+      "critical role",
+      "in",
+      "influencing"
+    ],
+    [
+      "crucial aspect",
+      "governed by",
+      "temperature ranges"
+    ],
+    [
+      "crucial aspect",
+      "in",
+      "nutritional value"
+    ],
+    [
+      "crucial aspect",
+      "in",
+      "taste"
+    ],
+    [
+      "crucial aspect",
+      "in",
+      "texture"
+    ],
+    [
+      "culinary arts",
+      "delight",
+      "senses"
+    ],
+    [
+      "emulsification",
+      "forms",
+      "stable emulsion"
+    ],
+    [
+      "emulsification",
+      "involves",
+      "mixing"
+    ],
+    [
+      "emulsification",
+      "is",
+      "chemical reaction"
+    ],
+    [
+      "essential aspect",
+      "of",
+      "culinary arts"
+    ],
+    [
+      "fermentation",
+      "enhances",
+      "flavorful dishes"
+    ],
+    [
+      "fermentation",
+      "preserves",
+      "food"
+    ],
+    [
+      "flavor compounds",
+      "responsible for",
+      "aromas"
+    ],
+    [
+      "flavor compounds",
+      "responsible for",
+      "flavors"
+    ],
+    [
+      "flavors",
+      "in",
+      "baked goods"
+    ],
+    [
+      "flavors",
+      "in",
+      "grilled vegetables"
+    ],
+    [
+      "flavors",
+      "in",
+      "roasted meats"
+    ],
+    [
+      "food preservation techniques",
+      "include",
+      "fermentation"
+    ],
+    [
+      "food preservation techniques",
+      "include",
+      "pickling"
+    ],
+    [
+      "immiscible liquids",
+      "are",
+      "oil"
+    ],
+    [
+      "immiscible liquids",
+      "are",
+      "water"
+    ],
+    [
+      "influencing",
+      "in",
+      "structure"
+    ],
+    [
+      "lemon juice",
+      "adds",
+      "refreshing acidity"
+    ],
+    [
+      "maillard reaction",
+      "involves",
+      "proteins"
+    ],
+    [
+      "maillard reaction",
+      "involves",
+      "sugars"
+    ],
+    [
+      "maillard reaction",
+      "is",
+      "chemical reaction"
+    ],
+    [
+      "maillard reaction",
+      "results in",
+      "browning"
+    ],
+    [
+      "maillard reaction",
+      "results in",
+      "flavor compounds"
+    ],
+    [
+      "microorganisms",
+      "break down",
+      "sugars"
+    ],
+    [
+      "microorganisms",
+      "produce",
+      "acids"
+    ],
+    [
+      "microorganisms",
+      "produce",
+      "alcohol"
+    ],
+    [
+      "microorganisms",
+      "produce",
+      "carbon dioxide"
+    ],
+    [
+      "mixing",
+      "involves",
+      "immiscible liquids"
+    ],
+    [
+      "pickling",
+      "involves",
+      "brine solution"
+    ],
+    [
+      "proteins",
+      "coagulate",
+      "eggs"
+    ],
+    [
+      "proteins",
+      "denature",
+      "meat"
+    ],
+    [
+      "proteins",
+      "exposed to",
+      "heat"
+    ],
+    [
+      "salts",
+      "amplify",
+      "natural flavors"
+    ],
+    [
+      "salts",
+      "are",
+      "essential"
+    ],
+    [
+      "salts",
+      "enhance",
+      "flavorful dishes"
+    ],
+    [
+      "salts",
+      "regulate",
+      "enzymatic reactions"
+    ],
+    [
+      "salts",
+      "tenderize",
+      "proteins"
+    ],
+    [
+      "stable emulsion",
+      "creates",
+      "creamy sauces"
+    ],
+    [
+      "stable emulsion",
+      "creates",
+      "dressings"
+    ],
+    [
+      "stable emulsion",
+      "creates",
+      "mayonnaise"
+    ],
+    [
+      "stable emulsions",
+      "enhance",
+      "mouthfeel"
+    ],
+    [
+      "stable emulsions",
+      "enhance",
+      "texture"
+    ],
+    [
+      "sugars",
+      "exposed to",
+      "heat"
+    ],
+    [
+      "temperature control",
+      "is",
+      "crucial aspect"
+    ],
+    [
+      "temperature ranges",
+      "affect",
+      "color"
+    ],
+    [
+      "temperature ranges",
+      "affect",
+      "texture"
+    ]
+  ],
+  "edges": [
+    "achieve",
+    "adds",
+    "affect",
+    "amplify",
+    "are",
+    "balance",
+    "break down",
+    "coagulate",
+    "control",
+    "create",
+    "creates",
+    "delight",
+    "denature",
+    "elevate",
+    "enhance",
+    "enhances",
+    "explore",
+    "exposed to",
+    "forms",
+    "governed by",
+    "in",
+    "include",
+    "inhibit",
+    "involves",
+    "is",
+    "of",
+    "play",
+    "plays",
+    "preserves",
+    "produce",
+    "regulate",
+    "responsible for",
+    "results in",
+    "safely preserve",
+    "tenderize",
+    "unlock"
+  ]
+}

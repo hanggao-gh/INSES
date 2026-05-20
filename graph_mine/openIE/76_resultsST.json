@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The concept of home has evolved significantly over the centuries.",
+    "retrieved_context": "homes were fortified. homes featured elaborate architecture. homes are equipped with interconnected devices. homes featured amenities. homes were often fortified for protection. homes are equipped. homes are equipped with devices. homes featured architecture. homes featured modern amenities. homes were often fortified.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modern home has undergone a remarkable transformation.",
+    "retrieved_context": "modern home will undoubtedly continue we continue. modern home has undergone transformation From humble caves to smart homes. modern home has undergone transformation From caves to homes of today. modern home has undergone transformation. modern home has undergone transformation From caves to smart homes of today. modern home has undergone transformation From caves. modern home has undergone transformation From humble caves to homes. modern home has undergone transformation From caves to smart homes. modern home has undergone transformation From humble caves. modern home will continue As we continue. modern home has undergone remarkable transformation. modern home evolve way. modern home has undergone transformation From humble caves to smart homes of today. modern home has undergone transformation From humble caves to homes of today. modern home has undergone transformation From caves to homes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early humans lived in caves, tents, and rudimentary structures.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Homes in ancient civilizations served as centers of social, political, and religious life.",
+    "retrieved_context": "homes were fortified. homes featured elaborate architecture. homes are equipped with interconnected devices. homes featured amenities. homes were often fortified for protection. homes are equipped. homes are equipped with devices. homes featured architecture. homes featured modern amenities. homes were often fortified. dwellings were simple.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The manor house in the Middle Ages was a symbol of power and authority.",
+    "retrieved_context": "manor house served with different areas reserved for various activities. manor house served with different areas. manor house served as symbol of power. manor house served with areas reserved for various activities. manor house served with areas reserved. manor house served with different areas reserved for activities. manor house served with different areas of home reserved for activities. manor house served with different areas reserved. manor house of emergence is large estate. manor house served with areas of home reserved. manor house served with different areas of home. manor house served with different areas of home reserved. manor house served with different areas of home reserved for various activities. manor house served with areas of home reserved for various activities. manor house served with areas of home. manor house served with areas of home reserved for activities. manor house served as symbol. manor house served with areas. manor house served with areas reserved for activities. Middle Ages saw emergence of manor house. Middle Ages saw large estate. Middle Ages saw emergence. Middle Ages saw estate. dwellings were simple. noble families governed their lands.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution led to standardized and affordable housing for the middle class.",
+    "retrieved_context": "Industrial Revolution brought changes. Industrial Revolution brought about significant changes. Industrial Revolution brought significant changes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "New building materials like steel and concrete allowed for larger structures.",
+    "retrieved_context": "impact create healthier living environments. building techniques reduce impact. environmental impact create environments. environmental impact create healthier living environments. impact create environments for occupants. building techniques reduce environmental impact. environmental impact create living environments. environmental impact create environments for occupants. building techniques reduce environmental impact of buildings. building techniques reduce impact of buildings. impact create environments. impact create living environments. impact create healthier environments. environmental impact create healthier environments. materials are are used. structures be for to constructed. structures be for constructed. structures leading to development of apartment buildings. structures leading to development. structures be to constructed. structures be constructed.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The modernist movement influenced home design with simplicity and functionality.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The post-World War II period saw the rise of suburban homes.",
+    "retrieved_context": "Suburban homes featured modern amenities. Suburban homes featured amenities. post-World War II period saw rise as epitome. post-World War II period saw rise. post-World War II period saw rise of suburban home. post-World War II period saw rise as epitome of American Dream. post-World War II period saw rise of home. homes were fortified. homes featured elaborate architecture. homes are equipped with interconnected devices. homes featured amenities. homes were often fortified for protection. homes are equipped. homes are equipped with devices. homes featured architecture. homes featured modern amenities. homes were often fortified. dwellings were simple. post-World War period saw rise of home. post-World War period saw rise of suburban home. post-World War period saw rise as epitome of American Dream. post-World War period saw rise. post-World War period saw rise as epitome.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Suburban homes featured modern amenities like central heating and indoor plumbing.",
+    "retrieved_context": "Suburban homes featured modern amenities. Suburban homes featured amenities. homes were fortified. homes featured elaborate architecture. homes are equipped with interconnected devices. homes featured amenities. homes were often fortified for protection. homes are equipped. homes are equipped with devices. homes featured architecture. homes featured modern amenities. homes were often fortified. modern home will undoubtedly continue we continue. modern home has undergone transformation From humble caves to smart homes. modern home has undergone transformation From caves to homes of today. modern home has undergone transformation. modern home has undergone transformation From caves to smart homes of today. modern home has undergone transformation From caves. modern home has undergone transformation From humble caves to homes. modern home has undergone transformation From caves to smart homes. modern home has undergone transformation From humble caves. modern home will continue As we continue. modern home has undergone remarkable transformation. modern home evolve way. modern home has undergone transformation From humble caves to smart homes of today. modern home has undergone transformation From humble caves to homes of today. modern home has undergone transformation From caves to homes. housing became With rise of urbanization. housing became standardized. housing became for middle class. housing became for class. housing became for growing class. housing became more standardized. housing became for growing middle class. housing became With rise.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Smart homes have interconnected devices for remote control and monitoring.",
+    "retrieved_context": "Smart homes are equipped with devices. Smart homes are equipped. Smart homes are equipped with interconnected devices.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sustainable design practices aim to reduce the environmental impact of modern homes.",
+    "retrieved_context": "design reflected social hierarchy of time with rooms designated. design reflected social hierarchy with different rooms. design reflected social hierarchy with rooms designated for functions. Sustainable design practices have become in design. design reflected social hierarchy. design reflected social hierarchy of time with different rooms designated. design reflected social hierarchy with different rooms designated. Sustainable design practices have become increasingly important. design reflected hierarchy with rooms designated. design reflected hierarchy with rooms designated for functions. design reflected social hierarchy of time with rooms. design reflected hierarchy of time with different rooms. design reflected social hierarchy with rooms designated. design reflected social hierarchy with rooms. design reflected hierarchy of time with rooms designated for functions. design reflected hierarchy of time with rooms designated. design reflected social hierarchy of time with rooms designated for functions. design reflected social hierarchy of time. design reflected social hierarchy of time with different rooms. design reflected hierarchy with different rooms designated. Sustainable design practices have become in design of homes. design reflected hierarchy of time. Sustainable design practices have also become in design of modern homes. design reflected hierarchy with rooms. design reflected hierarchy with different rooms. design reflected hierarchy with different rooms designated for functions. design reflected social hierarchy with different rooms designated for functions. design reflected hierarchy of time with rooms. Sustainable design practices have become important. design reflected hierarchy. design reflected hierarchy of time with different rooms designated.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Energy-efficient materials are being used in modern home construction.",
+    "retrieved_context": "impact create healthier living environments. building techniques reduce impact. environmental impact create environments. environmental impact create healthier living environments. impact create environments for occupants. building techniques reduce environmental impact. environmental impact create living environments. environmental impact create environments for occupants. building techniques reduce environmental impact of buildings. building techniques reduce impact of buildings. impact create environments. impact create living environments. impact create healthier environments. environmental impact create healthier environments. impact create healthier living environments. green building techniques reduce environmental impact of buildings. environmental impact create environments. environmental impact create healthier living environments. green building techniques reduce impact. impact create environments for occupants. green building techniques reduce environmental impact. environmental impact create living environments. environmental impact create environments for occupants. impact create environments. green building techniques reduce impact of buildings. impact create living environments. impact create healthier environments. environmental impact create healthier environments. produced housing is with its cookie cutter design.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Modern homes incorporate concepts like passive solar design and green roofs.",
+    "retrieved_context": "impact create healthier living environments. green building techniques reduce environmental impact of buildings. environmental impact create environments. environmental impact create healthier living environments. green building techniques reduce impact. impact create environments for occupants. green building techniques reduce environmental impact. environmental impact create living environments. environmental impact create environments for occupants. impact create environments. green building techniques reduce impact of buildings. impact create living environments. impact create healthier environments. environmental impact create healthier environments.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The evolution of the modern home reflects changing societal norms and cultural influences.",
+    "retrieved_context": "modern home will undoubtedly continue we continue. modern home has undergone transformation From humble caves to smart homes. modern home has undergone transformation From caves to homes of today. modern home has undergone transformation. modern home has undergone transformation From caves to smart homes of today. modern home has undergone transformation From caves. modern home has undergone transformation From humble caves to homes. modern home has undergone transformation From caves to smart homes. modern home has undergone transformation From humble caves. modern home will continue As we continue. modern home has undergone remarkable transformation. modern home evolve way. modern home has undergone transformation From humble caves to smart homes of today. modern home has undergone transformation From humble caves to homes of today. modern home has undergone transformation From caves to homes.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

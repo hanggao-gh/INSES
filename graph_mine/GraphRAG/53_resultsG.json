@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Body language is a form of communication.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals use body language daily.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Facial expressions convey emotions.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smiling is associated with happiness.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Furrowed brow may indicate confusion.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Gestures convey messages without words.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Crossing arms may signal defensiveness.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Nodding can indicate agreement.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Posture reveals thoughts and feelings.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Standing up straight signals confidence.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Slouching may suggest insecurity.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Maintaining eye contact signals attentiveness.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Avoiding eye contact may suggest discomfort.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Proxemics conveys cultural and personal cues.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Body language can help navigate social situations.",
+    "retrieved_context": "BODY LANGUAGE Gestures like waving or giving a thumbs up are part of body language for conveying messages without words GESTURES. BODY LANGUAGE Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions FACIAL EXPRESSIONS. BODY LANGUAGE Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort POSTURE.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

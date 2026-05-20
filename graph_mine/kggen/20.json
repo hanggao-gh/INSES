@@ -1,0 +1,438 @@
+{
+  "entities": [
+    "19th century",
+    "20th century",
+    "afterlife",
+    "ancient",
+    "backgammon",
+    "beloved pastime",
+    "board game conventions",
+    "board games",
+    "calculation",
+    "chance",
+    "chaturanga",
+    "checkers",
+    "chess",
+    "china",
+    "chinese chess",
+    "clue",
+    "commoners",
+    "community",
+    "designers",
+    "digital age",
+    "education",
+    "egyptian",
+    "elite",
+    "entertainment",
+    "enthusiasts",
+    "europe",
+    "evolve",
+    "future",
+    "gameplay mechanics",
+    "go",
+    "history",
+    "household names",
+    "importance",
+    "india",
+    "industrial revolution",
+    "innovate",
+    "journey",
+    "leisure",
+    "luck",
+    "mass production",
+    "medieval",
+    "mesopotamia",
+    "monopoly",
+    "nobility",
+    "online platforms",
+    "opposing forces",
+    "persia",
+    "players",
+    "popularity",
+    "printing technology",
+    "religious significance",
+    "renaissance",
+    "resurgence",
+    "royal game of ur",
+    "scrabble",
+    "senet",
+    "skill",
+    "social dynamics",
+    "social interaction",
+    "soul",
+    "status",
+    "strategic depth",
+    "strategic thinking",
+    "strategy",
+    "struggle",
+    "sumerians",
+    "tabletop gaming cafes",
+    "territory",
+    "themes",
+    "tric-trac",
+    "values",
+    "xiangqi"
+  ],
+  "relations": [
+    [
+      "19th century",
+      "saw",
+      "industrial revolution"
+    ],
+    [
+      "backgammon",
+      "is a game of",
+      "luck"
+    ],
+    [
+      "backgammon",
+      "is a game of",
+      "skill"
+    ],
+    [
+      "backgammon",
+      "is from",
+      "medieval"
+    ],
+    [
+      "board games",
+      "have",
+      "history"
+    ],
+    [
+      "board games",
+      "have been",
+      "entertainment"
+    ],
+    [
+      "board games",
+      "have been",
+      "social interaction"
+    ],
+    [
+      "board games",
+      "origins traced to",
+      "ancient"
+    ],
+    [
+      "board games",
+      "remain",
+      "beloved pastime"
+    ],
+    [
+      "board games",
+      "served as",
+      "education"
+    ],
+    [
+      "board games",
+      "served as",
+      "leisure"
+    ],
+    [
+      "board games",
+      "served as",
+      "strategic thinking"
+    ],
+    [
+      "board games",
+      "thrive in",
+      "digital age"
+    ],
+    [
+      "board games",
+      "will continue to",
+      "evolve"
+    ],
+    [
+      "board games",
+      "will continue to",
+      "innovate"
+    ],
+    [
+      "chaturanga",
+      "is from",
+      "india"
+    ],
+    [
+      "chaturanga",
+      "is precursor to",
+      "chess"
+    ],
+    [
+      "checkers",
+      "emerged in",
+      "renaissance"
+    ],
+    [
+      "checkers",
+      "symbolized",
+      "opposing forces"
+    ],
+    [
+      "checkers",
+      "symbolized",
+      "struggle"
+    ],
+    [
+      "checkers",
+      "was played by",
+      "commoners"
+    ],
+    [
+      "checkers",
+      "was played by",
+      "nobility"
+    ],
+    [
+      "chess",
+      "spread to",
+      "europe"
+    ],
+    [
+      "chess",
+      "spread to",
+      "persia"
+    ],
+    [
+      "clue",
+      "became",
+      "household names"
+    ],
+    [
+      "clue",
+      "captivated with",
+      "gameplay mechanics"
+    ],
+    [
+      "clue",
+      "captivated with",
+      "themes"
+    ],
+    [
+      "community",
+      "appreciates",
+      "social interaction"
+    ],
+    [
+      "community",
+      "appreciates",
+      "strategic depth"
+    ],
+    [
+      "community",
+      "of",
+      "players"
+    ],
+    [
+      "digital age",
+      "driven by",
+      "resurgence"
+    ],
+    [
+      "go",
+      "involves controlling",
+      "territory"
+    ],
+    [
+      "go",
+      "is a game of",
+      "skill"
+    ],
+    [
+      "go",
+      "is a game of",
+      "strategy"
+    ],
+    [
+      "go",
+      "is from",
+      "china"
+    ],
+    [
+      "industrial revolution",
+      "led to",
+      "mass production"
+    ],
+    [
+      "journey",
+      "of the",
+      "soul"
+    ],
+    [
+      "journey",
+      "through the",
+      "afterlife"
+    ],
+    [
+      "mass production",
+      "made possible by",
+      "printing technology"
+    ],
+    [
+      "monopoly",
+      "became",
+      "household names"
+    ],
+    [
+      "monopoly",
+      "captivated with",
+      "gameplay mechanics"
+    ],
+    [
+      "monopoly",
+      "captivated with",
+      "themes"
+    ],
+    [
+      "resurgence",
+      "created",
+      "community"
+    ],
+    [
+      "resurgence",
+      "driven by",
+      "board game conventions"
+    ],
+    [
+      "resurgence",
+      "driven by",
+      "designers"
+    ],
+    [
+      "resurgence",
+      "driven by",
+      "enthusiasts"
+    ],
+    [
+      "resurgence",
+      "driven by",
+      "online platforms"
+    ],
+    [
+      "resurgence",
+      "driven by",
+      "popularity"
+    ],
+    [
+      "resurgence",
+      "driven by",
+      "tabletop gaming cafes"
+    ],
+    [
+      "royal game of ur",
+      "indicated",
+      "importance"
+    ],
+    [
+      "royal game of ur",
+      "indicated",
+      "status"
+    ],
+    [
+      "royal game of ur",
+      "was a game of",
+      "elite"
+    ],
+    [
+      "royal game of ur",
+      "was played by",
+      "sumerians"
+    ],
+    [
+      "royal game of ur",
+      "was played in",
+      "mesopotamia"
+    ],
+    [
+      "scrabble",
+      "became",
+      "household names"
+    ],
+    [
+      "scrabble",
+      "captivated with",
+      "gameplay mechanics"
+    ],
+    [
+      "scrabble",
+      "captivated with",
+      "themes"
+    ],
+    [
+      "senet",
+      "had",
+      "religious significance"
+    ],
+    [
+      "senet",
+      "is",
+      "egyptian"
+    ],
+    [
+      "senet",
+      "is a game of",
+      "chance"
+    ],
+    [
+      "senet",
+      "is a game of",
+      "strategy"
+    ],
+    [
+      "senet",
+      "represented",
+      "journey"
+    ],
+    [
+      "tric-trac",
+      "emerged in",
+      "renaissance"
+    ],
+    [
+      "tric-trac",
+      "emphasized",
+      "calculation"
+    ],
+    [
+      "xiangqi",
+      "is from",
+      "china"
+    ]
+  ],
+  "edges": [
+    "appreciates",
+    "became",
+    "captivated with",
+    "created",
+    "driven by",
+    "emerged in",
+    "emphasized",
+    "had",
+    "have",
+    "have been",
+    "indicated",
+    "involves controlling",
+    "is",
+    "is a game of",
+    "is from",
+    "is precursor to",
+    "led to",
+    "made possible by",
+    "of",
+    "of the",
+    "origins traced to",
+    "remain",
+    "represented",
+    "saw",
+    "served as",
+    "spread to",
+    "symbolized",
+    "thrive in",
+    "through the",
+    "was a game of",
+    "was played by",
+    "was played in",
+    "will continue to"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "entities": [
+    "TELEGRAPH",
+    "ELECTRICAL ENGINEERING",
+    "TELEPHONE",
+    "ELECTRICITY",
+    "PUBLIC HEALTH AND SAFETY",
+    "SOCIETY",
+    "COMPUTERS",
+    "ELECTRIC CARS",
+    "ELECTRIC TRAINS",
+    "INTERNET",
+    "ECONOMY"
+  ],
+  "relations": [
+    [
+      "ELECTRICITY",
+      "Electricity's advent modernized society by making daily tasks easier and improving the standard of living",
+      "SOCIETY"
+    ],
+    [
+      "ELECTRICITY",
+      "Electricity improved public health and safety through electric lighting, heating, and cooling systems, and advancements in medical technology",
+      "PUBLIC HEALTH AND SAFETY"
+    ],
+    [
+      "ELECTRICITY",
+      "Electricity drove industrialization and economic growth by powering factories and manufacturing plants",
+      "ECONOMY"
+    ],
+    [
+      "ELECTRICITY",
+      "Electricity's availability and use have driven advancements in electrical engineering, leading to significant technological innovations",
+      "ELECTRICAL ENGINEERING"
+    ],
+    [
+      "ELECTRICAL ENGINEERING",
+      "Electrical engineering paved the way for the invention of the telegraph, a major advancement in telecommunications",
+      "TELEGRAPH"
+    ],
+    [
+      "ELECTRICAL ENGINEERING",
+      "Electrical engineering contributed to the development of the telephone, enhancing global communication",
+      "TELEPHONE"
+    ],
+    [
+      "ELECTRICAL ENGINEERING",
+      "Electrical engineering advancements facilitated the creation of the internet, revolutionizing global connectivity",
+      "INTERNET"
+    ],
+    [
+      "ELECTRICAL ENGINEERING",
+      "Advancements in electrical engineering have enabled the development of electric cars, promoting sustainable transportation",
+      "ELECTRIC CARS"
+    ],
+    [
+      "ELECTRICAL ENGINEERING",
+      "Electrical engineering has contributed to the electrification of trains, aiding in the reduction of greenhouse gas emissions",
+      "ELECTRIC TRAINS"
+    ],
+    [
+      "ELECTRICAL ENGINEERING",
+      "The field of electrical engineering has been crucial in the invention and development of computers",
+      "COMPUTERS"
+    ]
+  ],
+  "edges": [
+    "Electricity's advent modernized society by making daily tasks easier and improving the standard of living",
+    "Electricity improved public health and safety through electric lighting, heating, and cooling systems, and advancements in medical technology",
+    "Electricity drove industrialization and economic growth by powering factories and manufacturing plants",
+    "Electricity's availability and use have driven advancements in electrical engineering, leading to significant technological innovations",
+    "Electrical engineering paved the way for the invention of the telegraph, a major advancement in telecommunications",
+    "Electrical engineering contributed to the development of the telephone, enhancing global communication",
+    "Electrical engineering advancements facilitated the creation of the internet, revolutionizing global connectivity",
+    "Advancements in electrical engineering have enabled the development of electric cars, promoting sustainable transportation",
+    "Electrical engineering has contributed to the electrification of trains, aiding in the reduction of greenhouse gas emissions",
+    "The field of electrical engineering has been crucial in the invention and development of computers"
+  ]
+}

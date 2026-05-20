@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Surveillance cameras are used in crime prevention strategies.",
+    "retrieved_context": "surveillance cameras monitor transportation hubs. surveillance cameras act as deterrent. surveillance cameras raise concerns about privacy rights. surveillance cameras monitor buildings. surveillance cameras raise concerns about abuses of power. surveillance cameras provide evidence. surveillance cameras monitor streets. surveillance cameras monitor public areas. law enforcement agencies target high-risk areas. law enforcement agencies use predictive analytics. law enforcement agencies deploy preventive measures. law enforcement agencies analyze data. law enforcement agencies analyze criminal records. law enforcement agencies use surveillance cameras. surveillance cameras raise concerns about privacy rights. surveillance cameras raise concerns about abuses of power. surveillance cameras monitor streets. law enforcement agencies analyze social media activity. law enforcement agencies identify trends. law enforcement agencies allocate resources. surveillance cameras act as deterrent. law enforcement agencies use data mining. surveillance cameras monitor public areas. law enforcement agencies identify patterns. surveillance cameras monitor transportation hubs. law enforcement agencies analyze incident reports. surveillance cameras monitor buildings. surveillance cameras provide evidence.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Surveillance cameras monitor public areas, streets, buildings, and transportation hubs.",
+    "retrieved_context": "surveillance cameras monitor transportation hubs. surveillance cameras act as deterrent. surveillance cameras raise concerns about privacy rights. surveillance cameras monitor buildings. surveillance cameras raise concerns about abuses of power. surveillance cameras provide evidence. surveillance cameras monitor streets. surveillance cameras monitor public areas. law enforcement agencies target high-risk areas. law enforcement agencies use predictive analytics. law enforcement agencies deploy preventive measures. law enforcement agencies analyze data. law enforcement agencies analyze criminal records. law enforcement agencies use surveillance cameras. surveillance cameras raise concerns about privacy rights. surveillance cameras raise concerns about abuses of power. surveillance cameras monitor streets. law enforcement agencies analyze social media activity. law enforcement agencies identify trends. law enforcement agencies allocate resources. surveillance cameras act as deterrent. law enforcement agencies use data mining. surveillance cameras monitor public areas. law enforcement agencies identify patterns. surveillance cameras monitor transportation hubs. law enforcement agencies analyze incident reports. surveillance cameras monitor buildings. surveillance cameras provide evidence.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Surveillance cameras act as a deterrent to criminals.",
+    "retrieved_context": "surveillance cameras monitor transportation hubs. surveillance cameras act as deterrent. surveillance cameras raise concerns about privacy rights. surveillance cameras monitor buildings. surveillance cameras raise concerns about abuses of power. surveillance cameras provide evidence. surveillance cameras monitor streets. surveillance cameras monitor public areas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Surveillance cameras provide valuable evidence in criminal investigations.",
+    "retrieved_context": "surveillance cameras monitor transportation hubs. surveillance cameras act as deterrent. surveillance cameras raise concerns about privacy rights. surveillance cameras monitor buildings. surveillance cameras raise concerns about abuses of power. surveillance cameras provide evidence. surveillance cameras monitor streets. surveillance cameras monitor public areas. law enforcement agencies target high-risk areas. law enforcement agencies use predictive analytics. law enforcement agencies deploy preventive measures. law enforcement agencies analyze data. law enforcement agencies analyze criminal records. law enforcement agencies use surveillance cameras. surveillance cameras raise concerns about privacy rights. surveillance cameras raise concerns about abuses of power. surveillance cameras monitor streets. law enforcement agencies analyze social media activity. law enforcement agencies identify trends. law enforcement agencies allocate resources. surveillance cameras act as deterrent. law enforcement agencies use data mining. surveillance cameras monitor public areas. law enforcement agencies identify patterns. surveillance cameras monitor transportation hubs. law enforcement agencies analyze incident reports. surveillance cameras monitor buildings. surveillance cameras provide evidence.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Video analytics technology can detect suspicious behaviors in real-time.",
+    "retrieved_context": "video analytics detect suspicious behaviors. video analytics detect trespassing. video analytics alert personnel. video analytics detect sudden movements. video analytics enhance capabilities. video analytics detect loitering. surveillance cameras monitor transportation hubs. surveillance cameras act as deterrent. surveillance cameras raise concerns about privacy rights. surveillance cameras monitor buildings. surveillance cameras raise concerns about abuses of power. surveillance cameras provide evidence. surveillance cameras monitor streets. surveillance cameras monitor public areas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Video analytics technology alerts law enforcement personnel to potential threats.",
+    "retrieved_context": "video analytics detect suspicious behaviors. video analytics detect trespassing. video analytics alert personnel. video analytics detect sudden movements. video analytics enhance capabilities. video analytics detect loitering. law enforcement agencies target high-risk areas. law enforcement agencies use predictive analytics. law enforcement agencies deploy preventive measures. law enforcement agencies analyze data. law enforcement agencies analyze criminal records. law enforcement agencies use surveillance cameras. surveillance cameras raise concerns about privacy rights. surveillance cameras raise concerns about abuses of power. surveillance cameras monitor streets. law enforcement agencies analyze social media activity. law enforcement agencies identify trends. law enforcement agencies allocate resources. surveillance cameras act as deterrent. law enforcement agencies use data mining. surveillance cameras monitor public areas. law enforcement agencies identify patterns. surveillance cameras monitor transportation hubs. law enforcement agencies analyze incident reports. surveillance cameras monitor buildings. surveillance cameras provide evidence. surveillance cameras monitor transportation hubs. surveillance cameras act as deterrent. surveillance cameras raise concerns about privacy rights. surveillance cameras monitor buildings. surveillance cameras raise concerns about abuses of power. surveillance cameras provide evidence. surveillance cameras monitor streets. surveillance cameras monitor public areas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Predictive analytics and data mining are used in crime prevention.",
+    "retrieved_context": "law enforcement agencies target high-risk areas. law enforcement agencies use predictive analytics. law enforcement agencies deploy preventive measures. law enforcement agencies analyze data. law enforcement agencies analyze criminal records. law enforcement agencies use surveillance cameras. surveillance cameras raise concerns about privacy rights. surveillance cameras raise concerns about abuses of power. surveillance cameras monitor streets. law enforcement agencies analyze social media activity. law enforcement agencies identify trends. law enforcement agencies allocate resources. surveillance cameras act as deterrent. law enforcement agencies use data mining. surveillance cameras monitor public areas. law enforcement agencies identify patterns. surveillance cameras monitor transportation hubs. law enforcement agencies analyze incident reports. surveillance cameras monitor buildings. surveillance cameras provide evidence.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Law enforcement agencies analyze vast amounts of data for potential criminal activities.",
+    "retrieved_context": "law enforcement agencies target high-risk areas. law enforcement agencies use predictive analytics. law enforcement agencies deploy preventive measures. law enforcement agencies analyze data. law enforcement agencies analyze criminal records. law enforcement agencies use surveillance cameras. surveillance cameras raise concerns about privacy rights. surveillance cameras raise concerns about abuses of power. surveillance cameras monitor streets. law enforcement agencies analyze social media activity. law enforcement agencies identify trends. law enforcement agencies allocate resources. surveillance cameras act as deterrent. law enforcement agencies use data mining. surveillance cameras monitor public areas. law enforcement agencies identify patterns. surveillance cameras monitor transportation hubs. law enforcement agencies analyze incident reports. surveillance cameras monitor buildings. surveillance cameras provide evidence.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Predictive analytics help allocate resources efficiently and target high-risk areas.",
+    "retrieved_context": "video analytics detect suspicious behaviors. video analytics detect trespassing. video analytics alert personnel. video analytics detect sudden movements. video analytics enhance capabilities. video analytics detect loitering.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Technology enables real-time information sharing among law enforcement personnel.",
+    "retrieved_context": "law enforcement agencies target high-risk areas. law enforcement agencies use predictive analytics. law enforcement agencies deploy preventive measures. law enforcement agencies analyze data. law enforcement agencies analyze criminal records. law enforcement agencies use surveillance cameras. surveillance cameras raise concerns about privacy rights. surveillance cameras raise concerns about abuses of power. surveillance cameras monitor streets. law enforcement agencies analyze social media activity. law enforcement agencies identify trends. law enforcement agencies allocate resources. surveillance cameras act as deterrent. law enforcement agencies use data mining. surveillance cameras monitor public areas. law enforcement agencies identify patterns. surveillance cameras monitor transportation hubs. law enforcement agencies analyze incident reports. surveillance cameras monitor buildings. surveillance cameras provide evidence. citizens communicate law enforcement agencies. citizens report criminal activities. online reporting systems allow citizens. citizens share information sharing. technology offers solutions. technology improves public safety. technology has become indispensable tool. technology improves security. technology presents challenges. technology presents ethical considerations. technology enhances collaboration. technology enhances community engagement. technology enhances communication. technology enhances effectiveness. technology creates safer communities. technology enhances public participation. technology enhances crime prevention.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Mobile devices and digital platforms facilitate communication and collaboration among law enforcement agencies.",
+    "retrieved_context": "law enforcement agencies target high-risk areas. law enforcement agencies use predictive analytics. law enforcement agencies deploy preventive measures. law enforcement agencies analyze data. law enforcement agencies analyze criminal records. law enforcement agencies use surveillance cameras. surveillance cameras raise concerns about privacy rights. surveillance cameras raise concerns about abuses of power. surveillance cameras monitor streets. law enforcement agencies analyze social media activity. law enforcement agencies identify trends. law enforcement agencies allocate resources. surveillance cameras act as deterrent. law enforcement agencies use data mining. surveillance cameras monitor public areas. law enforcement agencies identify patterns. surveillance cameras monitor transportation hubs. law enforcement agencies analyze incident reports. surveillance cameras monitor buildings. surveillance cameras provide evidence. mobile devices enable information sharing. digital platforms enable information sharing. citizens communicate law enforcement agencies. citizens share information sharing. citizens report criminal activities. mobile applications allow citizens. social media platforms allow citizens. citizens communicate law enforcement agencies. citizens report criminal activities. citizens share information sharing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Social media platforms and mobile applications enhance community engagement in crime prevention.",
+    "retrieved_context": "social media platforms allow citizens. citizens communicate law enforcement agencies. citizens report criminal activities. citizens share information sharing. citizens communicate law enforcement agencies. citizens share information sharing. citizens report criminal activities. mobile applications allow citizens. mobile devices enable information sharing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Citizens can report crimes and share information easily through online reporting systems.",
+    "retrieved_context": "citizens communicate law enforcement agencies. citizens report criminal activities. online reporting systems allow citizens. citizens share information sharing. law enforcement agencies target high-risk areas. law enforcement agencies allocate resources. law enforcement agencies deploy preventive measures. law enforcement agencies analyze social media activity. law enforcement agencies identify patterns. law enforcement agencies identify trends. law enforcement agencies use predictive analytics. law enforcement agencies analyze data. law enforcement agencies analyze incident reports. citizens share information sharing. law enforcement agencies analyze criminal records. law enforcement agencies use surveillance cameras. law enforcement agencies use data mining. citizens report criminal activities. citizens communicate law enforcement agencies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Technology raises concerns about privacy rights and potential abuses of power.",
+    "retrieved_context": "technology offers solutions. technology improves public safety. technology has become indispensable tool. technology improves security. technology presents challenges. technology presents ethical considerations. technology enhances collaboration. technology enhances community engagement. technology enhances communication. technology enhances effectiveness. technology creates safer communities. technology enhances public participation. technology enhances crime prevention. mobile devices enable information sharing.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Establishing clear guidelines and regulations is essential to ensure responsible and ethical use of technology in crime prevention.",
+    "retrieved_context": "guidelines ensure responsibly. guidelines ensure ethically.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

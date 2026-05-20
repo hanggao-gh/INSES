@@ -1,0 +1,240 @@
+{
+  "entities": [
+    "agricultural produce",
+    "agriculture",
+    "almonds",
+    "anatomy",
+    "apples",
+    "bee habitats",
+    "bee-friendly flowers",
+    "bees",
+    "biodiversity",
+    "blueberries",
+    "butterfly",
+    "cherries",
+    "climate change",
+    "conservation",
+    "conservation efforts",
+    "crop production",
+    "crops",
+    "cross-pollination",
+    "decline",
+    "diseases",
+    "economic value",
+    "ecosystem stability",
+    "ecosystems",
+    "environment",
+    "fertilization",
+    "food security",
+    "foraging behavior",
+    "fruits",
+    "genetic diversity",
+    "governments",
+    "habitat",
+    "habitat loss",
+    "hand pollination",
+    "harmful pesticides",
+    "incentives",
+    "legislation",
+    "life cycle",
+    "native species",
+    "natural ecosystems",
+    "nesting sites",
+    "pesticide use",
+    "plant populations",
+    "policymakers",
+    "pollen",
+    "pollination",
+    "pollinators",
+    "production costs",
+    "quality",
+    "seeds",
+    "sustainable agriculture practices",
+    "sustainable farming practices",
+    "sustainable food production",
+    "wild plants",
+    "wildlife species",
+    "yield"
+  ],
+  "relations": [
+    [
+      "bee habitats",
+      "are affected by",
+      "climate change"
+    ],
+    [
+      "bee habitats",
+      "are affected by",
+      "diseases"
+    ],
+    [
+      "bee habitats",
+      "are affected by",
+      "habitat loss"
+    ],
+    [
+      "bee habitats",
+      "are affected by",
+      "pesticide use"
+    ],
+    [
+      "bee-friendly flowers",
+      "support",
+      "bees"
+    ],
+    [
+      "bees",
+      "affect",
+      "quality"
+    ],
+    [
+      "bees",
+      "affect",
+      "yield"
+    ],
+    [
+      "bees",
+      "are",
+      "pollinators"
+    ],
+    [
+      "bees",
+      "are responsible for",
+      "pollination"
+    ],
+    [
+      "bees",
+      "are vital for",
+      "biodiversity"
+    ],
+    [
+      "bees",
+      "are vital for",
+      "sustainable food production"
+    ],
+    [
+      "bees",
+      "facilitate",
+      "cross-pollination"
+    ],
+    [
+      "bees",
+      "play a role in",
+      "agriculture"
+    ],
+    [
+      "conservation efforts",
+      "promote",
+      "sustainable farming practices"
+    ],
+    [
+      "conservation efforts",
+      "protect",
+      "bee habitats"
+    ],
+    [
+      "crops",
+      "depend on",
+      "bees"
+    ],
+    [
+      "cross-pollination",
+      "increases",
+      "genetic diversity"
+    ],
+    [
+      "decline",
+      "poses a threat to",
+      "food security"
+    ],
+    [
+      "decline",
+      "poses a threat to",
+      "natural ecosystems"
+    ],
+    [
+      "fertilization",
+      "leads to",
+      "fruits"
+    ],
+    [
+      "fertilization",
+      "leads to",
+      "seeds"
+    ],
+    [
+      "genetic diversity",
+      "is within",
+      "plant populations"
+    ],
+    [
+      "governments",
+      "promote",
+      "conservation"
+    ],
+    [
+      "hand pollination",
+      "leads to",
+      "production costs"
+    ],
+    [
+      "harmful pesticides",
+      "affect",
+      "bees"
+    ],
+    [
+      "incentives",
+      "promote",
+      "sustainable agriculture practices"
+    ],
+    [
+      "legislation",
+      "promotes",
+      "sustainable agriculture practices"
+    ],
+    [
+      "nesting sites",
+      "support",
+      "bees"
+    ],
+    [
+      "policymakers",
+      "promote",
+      "conservation"
+    ],
+    [
+      "pollination",
+      "leads to",
+      "fertilization"
+    ],
+    [
+      "pollinators",
+      "contribute to",
+      "crop production"
+    ],
+    [
+      "pollinators",
+      "contribute to",
+      "ecosystems"
+    ]
+  ],
+  "edges": [
+    "affect",
+    "are",
+    "are affected by",
+    "are responsible for",
+    "are vital for",
+    "contribute to",
+    "depend on",
+    "facilitate",
+    "increases",
+    "is within",
+    "leads to",
+    "play a role in",
+    "poses a threat to",
+    "promote",
+    "promotes",
+    "protect",
+    "support"
+  ]
+}

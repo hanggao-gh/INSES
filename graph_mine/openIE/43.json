@@ -1,0 +1,1008 @@
+{
+    "entities": [
+        "proper nutrition",
+        "solid plan when outbreak occurs",
+        "careful planning",
+        "your chances of survival",
+        "yourself",
+        "survival",
+        "physical",
+        "undead",
+        "may your favor in face",
+        "plan when outbreak occurs",
+        "time of crisis",
+        "teamwork",
+        "people around world",
+        "Next important",
+        "terrifying",
+        "essential",
+        "case",
+        "may your favor in face of zombie apocalypse",
+        "location",
+        "apocalypse",
+        "your location",
+        "dealing with zombies",
+        "necessary",
+        "cooperation",
+        "Communication",
+        "surviving zombie apocalypse",
+        "your chances of making",
+        "important",
+        "conclusion",
+        "new skills",
+        "plan for when outbreak occurs",
+        "resilience",
+        "unfamiliar tasks",
+        "tasks",
+        "plan in place for when outbreak occurs",
+        "key",
+        "solid plan outbreak occurs",
+        "plan in place for outbreak occurs",
+        "quick decisions",
+        "unnecessary confrontations",
+        "solid plan",
+        "fiction",
+        "First key",
+        "may ever your favor in face",
+        "can lifesaver",
+        "solid plan in place when outbreak occurs",
+        "ease",
+        "knowledge",
+        "keeping",
+        "plan for outbreak occurs",
+        "adaptability",
+        "essential for keeping",
+        "idea",
+        "you",
+        "alive",
+        "TV shows",
+        "Regular exercise",
+        "coping mechanisms",
+        "your group",
+        "decisions",
+        "obstacles",
+        "zombies",
+        "mental resilience",
+        "stress",
+        "it",
+        "zombie apocalypse",
+        "dealing",
+        "may ever your favor in face of zombie apocalypse",
+        "solid plan for when outbreak occurs",
+        "rest",
+        "shelter",
+        "mental health",
+        "movements",
+        "place",
+        "power",
+        "your safe location",
+        "plan in place outbreak occurs",
+        "planning",
+        "may your favor",
+        "pure fiction",
+        "preparation",
+        "also important",
+        "course",
+        "physical health",
+        "communication system",
+        "people",
+        "nutrition",
+        "may ever your favor",
+        "adequate rest",
+        "In zombie apocalypse essential for survival",
+        "solid plan for outbreak occurs",
+        "them",
+        "skills",
+        "odds",
+        "plan outbreak occurs",
+        "calm",
+        "solid plan in place for outbreak occurs",
+        "plan in place when outbreak occurs",
+        "your chances",
+        "mechanisms",
+        "exercise",
+        "health",
+        "if necessary",
+        "solid plan in place for when outbreak occurs",
+        "solid plan in place outbreak occurs",
+        "face of zombie apocalypse"
+    ],
+    "relations": [
+        [
+            "apocalypse",
+            "is",
+            "terrifying"
+        ],
+        [
+            "TV shows",
+            "imagination of",
+            "people"
+        ],
+        [
+            "TV shows",
+            "imagination of",
+            "people around world"
+        ],
+        [
+            "idea",
+            "may seem like",
+            "fiction"
+        ],
+        [
+            "idea",
+            "may seem like",
+            "pure fiction"
+        ],
+        [
+            "preparation",
+            "is",
+            "key"
+        ],
+        [
+            "it",
+            "comes to",
+            "surviving zombie apocalypse"
+        ],
+        [
+            "preparation",
+            "is",
+            "First key"
+        ],
+        [
+            "it",
+            "comes to",
+            "zombie apocalypse"
+        ],
+        [
+            "can lifesaver",
+            "is in",
+            "time of crisis"
+        ],
+        [
+            "it",
+            "have",
+            "solid plan for outbreak occurs"
+        ],
+        [
+            "solid plan",
+            "is in",
+            "place"
+        ],
+        [
+            "it",
+            "have",
+            "plan for when outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "plan outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "solid plan when outbreak occurs"
+        ],
+        [
+            "it",
+            "has",
+            "Next important"
+        ],
+        [
+            "it",
+            "has",
+            "important"
+        ],
+        [
+            "it",
+            "have",
+            "plan when outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "solid plan outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "solid plan for when outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "plan in place for outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "plan in place outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "solid plan in place for outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "plan for outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "plan in place when outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "solid plan in place when outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "plan in place for when outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "solid plan in place outbreak occurs"
+        ],
+        [
+            "it",
+            "have",
+            "solid plan in place for when outbreak occurs"
+        ],
+        [
+            "you",
+            "can seek",
+            "shelter"
+        ],
+        [
+            "you",
+            "fortify",
+            "it"
+        ],
+        [
+            "it",
+            "keep out",
+            "zombies"
+        ],
+        [
+            "ease",
+            "choosing",
+            "location"
+        ],
+        [
+            "ease",
+            "when choosing",
+            "location"
+        ],
+        [
+            "your safe location",
+            "is compromised",
+            "communication system"
+        ],
+        [
+            "your location",
+            "is compromised communication system in",
+            "case"
+        ],
+        [
+            "your safe location",
+            "is compromised communication system in",
+            "case"
+        ],
+        [
+            "your location",
+            "is compromised",
+            "communication system"
+        ],
+        [
+            "your group",
+            "coordinate",
+            "movements"
+        ],
+        [
+            "teamwork",
+            "is",
+            "essential"
+        ],
+        [
+            "teamwork",
+            "is",
+            "In zombie apocalypse essential for survival"
+        ],
+        [
+            "teamwork",
+            "is essential for",
+            "survival"
+        ],
+        [
+            "teamwork",
+            "is essential In",
+            "zombie apocalypse"
+        ],
+        [
+            "cooperation",
+            "are",
+            "key"
+        ],
+        [
+            "Communication",
+            "are",
+            "key"
+        ],
+        [
+            "it",
+            "comes to",
+            "dealing with zombies"
+        ],
+        [
+            "knowledge",
+            "is",
+            "power"
+        ],
+        [
+            "it",
+            "comes to",
+            "dealing"
+        ],
+        [
+            "them",
+            "defend",
+            "yourself"
+        ],
+        [
+            "unnecessary confrontations",
+            "is with",
+            "zombies"
+        ],
+        [
+            "proper nutrition",
+            "are essential for",
+            "keeping"
+        ],
+        [
+            "proper nutrition",
+            "are",
+            "essential"
+        ],
+        [
+            "nutrition",
+            "are essential for",
+            "keeping"
+        ],
+        [
+            "proper nutrition",
+            "are",
+            "essential for keeping"
+        ],
+        [
+            "rest",
+            "are essential for",
+            "keeping"
+        ],
+        [
+            "nutrition",
+            "are",
+            "essential for keeping"
+        ],
+        [
+            "adequate rest",
+            "are essential for",
+            "keeping"
+        ],
+        [
+            "rest",
+            "are",
+            "essential"
+        ],
+        [
+            "Regular exercise",
+            "are",
+            "essential for keeping"
+        ],
+        [
+            "nutrition",
+            "are",
+            "essential"
+        ],
+        [
+            "adequate rest",
+            "are",
+            "essential"
+        ],
+        [
+            "Regular exercise",
+            "are",
+            "essential"
+        ],
+        [
+            "Regular exercise",
+            "are essential for",
+            "keeping"
+        ],
+        [
+            "exercise",
+            "are",
+            "essential"
+        ],
+        [
+            "exercise",
+            "are",
+            "essential for keeping"
+        ],
+        [
+            "exercise",
+            "are essential for",
+            "keeping"
+        ],
+        [
+            "mental resilience",
+            "is also important for",
+            "surviving zombie apocalypse"
+        ],
+        [
+            "resilience",
+            "is also important In",
+            "health"
+        ],
+        [
+            "mental resilience",
+            "is important for",
+            "surviving zombie apocalypse"
+        ],
+        [
+            "mental resilience",
+            "is important for",
+            "zombie apocalypse"
+        ],
+        [
+            "mental resilience",
+            "is important In",
+            "physical health"
+        ],
+        [
+            "resilience",
+            "is also important for",
+            "surviving zombie apocalypse"
+        ],
+        [
+            "mental resilience",
+            "is also important In",
+            "health"
+        ],
+        [
+            "mental resilience",
+            "is also important for",
+            "zombie apocalypse"
+        ],
+        [
+            "mental resilience",
+            "is important In",
+            "health"
+        ],
+        [
+            "resilience",
+            "is also important for",
+            "zombie apocalypse"
+        ],
+        [
+            "mental resilience",
+            "is also important In",
+            "physical health"
+        ],
+        [
+            "resilience",
+            "is important for",
+            "surviving zombie apocalypse"
+        ],
+        [
+            "mental resilience",
+            "is",
+            "also important"
+        ],
+        [
+            "resilience",
+            "is important In",
+            "health"
+        ],
+        [
+            "resilience",
+            "is important for",
+            "zombie apocalypse"
+        ],
+        [
+            "resilience",
+            "is important In",
+            "physical health"
+        ],
+        [
+            "resilience",
+            "is also important In",
+            "physical health"
+        ],
+        [
+            "resilience",
+            "is",
+            "important"
+        ],
+        [
+            "resilience",
+            "is",
+            "also important"
+        ],
+        [
+            "mental resilience",
+            "is",
+            "important"
+        ],
+        [
+            "coping mechanisms",
+            "deal with",
+            "stress"
+        ],
+        [
+            "mechanisms",
+            "deal with",
+            "stress"
+        ],
+        [
+            "you",
+            "stay",
+            "calm"
+        ],
+        [
+            "adaptability",
+            "increase",
+            "your chances of survival"
+        ],
+        [
+            "adaptability",
+            "is",
+            "key"
+        ],
+        [
+            "adaptability",
+            "increase",
+            "your chances"
+        ],
+        [
+            "quick decisions",
+            "change course",
+            "if necessary"
+        ],
+        [
+            "quick decisions",
+            "change course",
+            "necessary"
+        ],
+        [
+            "decisions",
+            "change course",
+            "if necessary"
+        ],
+        [
+            "quick decisions",
+            "change",
+            "course"
+        ],
+        [
+            "decisions",
+            "change course",
+            "necessary"
+        ],
+        [
+            "decisions",
+            "change",
+            "course"
+        ],
+        [
+            "skills",
+            "take on",
+            "unfamiliar tasks"
+        ],
+        [
+            "obstacles",
+            "stay",
+            "alive"
+        ],
+        [
+            "new skills",
+            "take on",
+            "unfamiliar tasks"
+        ],
+        [
+            "skills",
+            "take on",
+            "tasks"
+        ],
+        [
+            "new skills",
+            "take on",
+            "tasks"
+        ],
+        [
+            "planning",
+            "surviving apocalypse",
+            "physical"
+        ],
+        [
+            "planning",
+            "apocalypse",
+            "mental health"
+        ],
+        [
+            "surviving zombie apocalypse",
+            "requires",
+            "careful planning"
+        ],
+        [
+            "planning",
+            "surviving apocalypse",
+            "mental health"
+        ],
+        [
+            "planning",
+            "apocalypse",
+            "physical"
+        ],
+        [
+            "careful planning",
+            "surviving apocalypse",
+            "teamwork"
+        ],
+        [
+            "zombie apocalypse",
+            "requires planning In",
+            "conclusion"
+        ],
+        [
+            "planning",
+            "surviving apocalypse",
+            "preparation"
+        ],
+        [
+            "careful planning",
+            "apocalypse",
+            "knowledge"
+        ],
+        [
+            "planning",
+            "surviving apocalypse",
+            "knowledge"
+        ],
+        [
+            "careful planning",
+            "surviving apocalypse",
+            "mental health"
+        ],
+        [
+            "planning",
+            "surviving apocalypse",
+            "health"
+        ],
+        [
+            "careful planning",
+            "surviving apocalypse",
+            "health"
+        ],
+        [
+            "zombie apocalypse",
+            "requires",
+            "careful planning"
+        ],
+        [
+            "planning",
+            "surviving apocalypse",
+            "adaptability"
+        ],
+        [
+            "careful planning",
+            "apocalypse",
+            "teamwork"
+        ],
+        [
+            "careful planning",
+            "apocalypse",
+            "health"
+        ],
+        [
+            "careful planning",
+            "surviving apocalypse",
+            "preparation"
+        ],
+        [
+            "careful planning",
+            "apocalypse",
+            "adaptability"
+        ],
+        [
+            "careful planning",
+            "surviving apocalypse",
+            "physical"
+        ],
+        [
+            "careful planning",
+            "apocalypse",
+            "mental health"
+        ],
+        [
+            "planning",
+            "surviving apocalypse",
+            "teamwork"
+        ],
+        [
+            "planning",
+            "apocalypse",
+            "health"
+        ],
+        [
+            "surviving zombie apocalypse",
+            "requires planning In",
+            "conclusion"
+        ],
+        [
+            "careful planning",
+            "surviving apocalypse",
+            "adaptability"
+        ],
+        [
+            "careful planning",
+            "apocalypse",
+            "preparation"
+        ],
+        [
+            "planning",
+            "apocalypse",
+            "teamwork"
+        ],
+        [
+            "zombie apocalypse",
+            "requires",
+            "planning"
+        ],
+        [
+            "planning",
+            "apocalypse",
+            "adaptability"
+        ],
+        [
+            "surviving zombie apocalypse",
+            "requires",
+            "planning"
+        ],
+        [
+            "planning",
+            "apocalypse",
+            "preparation"
+        ],
+        [
+            "planning",
+            "apocalypse",
+            "knowledge"
+        ],
+        [
+            "careful planning",
+            "surviving apocalypse",
+            "knowledge"
+        ],
+        [
+            "careful planning",
+            "apocalypse",
+            "physical"
+        ],
+        [
+            "you",
+            "can increase",
+            "your chances of making"
+        ],
+        [
+            "you",
+            "can increase",
+            "your chances"
+        ],
+        [
+            "your group",
+            "maximize",
+            "your chances"
+        ],
+        [
+            "your group",
+            "overrun by",
+            "undead"
+        ],
+        [
+            "your group",
+            "maximize",
+            "your chances of survival"
+        ],
+        [
+            "may your favor",
+            "is in",
+            "face of zombie apocalypse"
+        ],
+        [
+            "odds",
+            "may in",
+            "may ever your favor in face of zombie apocalypse"
+        ],
+        [
+            "odds",
+            "may in",
+            "may your favor"
+        ],
+        [
+            "odds",
+            "may in",
+            "may your favor in face"
+        ],
+        [
+            "odds",
+            "may in",
+            "may ever your favor"
+        ],
+        [
+            "odds",
+            "may in",
+            "may ever your favor in face"
+        ],
+        [
+            "odds",
+            "may in",
+            "may your favor in face of zombie apocalypse"
+        ]
+    ],
+    "edges": [
+        "is",
+        "imagination of",
+        "imagination of",
+        "may seem like",
+        "may seem like",
+        "is",
+        "comes to",
+        "is",
+        "comes to",
+        "is in",
+        "have",
+        "is in",
+        "have",
+        "have",
+        "have",
+        "has",
+        "has",
+        "have",
+        "have",
+        "have",
+        "have",
+        "have",
+        "have",
+        "have",
+        "have",
+        "have",
+        "have",
+        "have",
+        "have",
+        "can seek",
+        "fortify",
+        "keep out",
+        "choosing",
+        "when choosing",
+        "is compromised",
+        "is compromised communication system in",
+        "is compromised communication system in",
+        "is compromised",
+        "coordinate",
+        "is",
+        "is",
+        "is essential for",
+        "is essential In",
+        "are",
+        "are",
+        "comes to",
+        "is",
+        "comes to",
+        "defend",
+        "is with",
+        "are essential for",
+        "are",
+        "are essential for",
+        "are",
+        "are essential for",
+        "are",
+        "are essential for",
+        "are",
+        "are",
+        "are",
+        "are",
+        "are",
+        "are essential for",
+        "are",
+        "are",
+        "are essential for",
+        "is also important for",
+        "is also important In",
+        "is important for",
+        "is important for",
+        "is important In",
+        "is also important for",
+        "is also important In",
+        "is also important for",
+        "is important In",
+        "is also important for",
+        "is also important In",
+        "is important for",
+        "is",
+        "is important In",
+        "is important for",
+        "is important In",
+        "is also important In",
+        "is",
+        "is",
+        "is",
+        "deal with",
+        "deal with",
+        "stay",
+        "increase",
+        "is",
+        "increase",
+        "change course",
+        "change course",
+        "change course",
+        "change",
+        "change course",
+        "change",
+        "take on",
+        "stay",
+        "take on",
+        "take on",
+        "take on",
+        "surviving apocalypse",
+        "apocalypse",
+        "requires",
+        "surviving apocalypse",
+        "apocalypse",
+        "surviving apocalypse",
+        "requires planning In",
+        "surviving apocalypse",
+        "apocalypse",
+        "surviving apocalypse",
+        "surviving apocalypse",
+        "surviving apocalypse",
+        "surviving apocalypse",
+        "requires",
+        "surviving apocalypse",
+        "apocalypse",
+        "apocalypse",
+        "surviving apocalypse",
+        "apocalypse",
+        "surviving apocalypse",
+        "apocalypse",
+        "surviving apocalypse",
+        "apocalypse",
+        "requires planning In",
+        "surviving apocalypse",
+        "apocalypse",
+        "apocalypse",
+        "requires",
+        "apocalypse",
+        "requires",
+        "apocalypse",
+        "apocalypse",
+        "surviving apocalypse",
+        "apocalypse",
+        "can increase",
+        "can increase",
+        "maximize",
+        "overrun by",
+        "maximize",
+        "is in",
+        "may in",
+        "may in",
+        "may in",
+        "may in",
+        "may in",
+        "may in"
+    ]
+}

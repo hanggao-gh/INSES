@@ -1,0 +1,310 @@
+{
+  "entities": [
+    "acceptance",
+    "audience",
+    "authentic representations",
+    "behaviors",
+    "celebrity endorsements",
+    "celebrity worship",
+    "consumerism",
+    "creativity",
+    "cultural appropriation",
+    "cultural practices",
+    "daily lives",
+    "dance",
+    "detect",
+    "diverse representations",
+    "entertainment",
+    "fans",
+    "fashion",
+    "fast fashion",
+    "followers",
+    "gender",
+    "global trends",
+    "globalized fashion",
+    "hit",
+    "inclusivity",
+    "influence",
+    "interests",
+    "k-pop",
+    "korean culture",
+    "language",
+    "lgbtq+ characters",
+    "magazine covers",
+    "mainstream lifestyle",
+    "mass media",
+    "material possessions",
+    "misrepresentation",
+    "movies",
+    "music",
+    "music artists",
+    "music videos",
+    "online shopping",
+    "pop culture",
+    "prey",
+    "products",
+    "public attitudes",
+    "public personas",
+    "race",
+    "services",
+    "sexuality",
+    "shared experiences",
+    "sharks",
+    "social change",
+    "social media",
+    "social media influencers",
+    "social norms",
+    "societal norms",
+    "songs",
+    "superficiality",
+    "tech companies",
+    "technological advancements",
+    "technology",
+    "trending hashtags",
+    "tv shows",
+    "values",
+    "viral challenges"
+  ],
+  "relations": [
+    [
+      "fans",
+      "seek to emulate",
+      "followers"
+    ],
+    [
+      "fashion",
+      "dictated by",
+      "celebrity endorsements"
+    ],
+    [
+      "fashion",
+      "dictated by",
+      "magazine covers"
+    ],
+    [
+      "fashion",
+      "dictated by",
+      "social media influencers"
+    ],
+    [
+      "fast fashion",
+      "facilitates",
+      "globalized fashion"
+    ],
+    [
+      "gender",
+      "influences",
+      "public attitudes"
+    ],
+    [
+      "hit",
+      "influences",
+      "dance"
+    ],
+    [
+      "hit",
+      "influences",
+      "language"
+    ],
+    [
+      "k-pop",
+      "increases interest in",
+      "fashion"
+    ],
+    [
+      "k-pop",
+      "increases interest in",
+      "korean culture"
+    ],
+    [
+      "lgbtq+ characters",
+      "promote",
+      "acceptance"
+    ],
+    [
+      "lgbtq+ characters",
+      "promote",
+      "inclusivity"
+    ],
+    [
+      "music artists",
+      "reach",
+      "audience"
+    ],
+    [
+      "pop culture",
+      "brings together",
+      "interests"
+    ],
+    [
+      "pop culture",
+      "brings together",
+      "shared experiences"
+    ],
+    [
+      "pop culture",
+      "criticized for",
+      "celebrity worship"
+    ],
+    [
+      "pop culture",
+      "criticized for",
+      "consumerism"
+    ],
+    [
+      "pop culture",
+      "criticized for",
+      "cultural appropriation"
+    ],
+    [
+      "pop culture",
+      "criticized for",
+      "misrepresentation"
+    ],
+    [
+      "pop culture",
+      "criticized for",
+      "superficiality"
+    ],
+    [
+      "pop culture",
+      "driven by",
+      "entertainment"
+    ],
+    [
+      "pop culture",
+      "driven by",
+      "mass media"
+    ],
+    [
+      "pop culture",
+      "drives",
+      "social change"
+    ],
+    [
+      "pop culture",
+      "influences",
+      "daily lives"
+    ],
+    [
+      "pop culture",
+      "influences",
+      "fashion"
+    ],
+    [
+      "pop culture",
+      "influences",
+      "global trends"
+    ],
+    [
+      "pop culture",
+      "influences",
+      "music"
+    ],
+    [
+      "pop culture",
+      "influences",
+      "social media"
+    ],
+    [
+      "pop culture",
+      "influences",
+      "societal norms"
+    ],
+    [
+      "pop culture",
+      "influences",
+      "technology"
+    ],
+    [
+      "pop culture",
+      "influences",
+      "values"
+    ],
+    [
+      "pop culture",
+      "promotes",
+      "authentic representations"
+    ],
+    [
+      "pop culture",
+      "promotes",
+      "diverse representations"
+    ],
+    [
+      "pop culture",
+      "refers to",
+      "mainstream lifestyle"
+    ],
+    [
+      "pop culture",
+      "sparks",
+      "creativity"
+    ],
+    [
+      "race",
+      "influences",
+      "public attitudes"
+    ],
+    [
+      "sexuality",
+      "influences",
+      "public attitudes"
+    ],
+    [
+      "songs",
+      "influence",
+      "music videos"
+    ],
+    [
+      "songs",
+      "influence",
+      "public personas"
+    ],
+    [
+      "tech companies",
+      "leverage",
+      "pop culture"
+    ],
+    [
+      "tech companies",
+      "market",
+      "products"
+    ],
+    [
+      "tech companies",
+      "market",
+      "services"
+    ],
+    [
+      "technological advancements",
+      "facilitate",
+      "trending hashtags"
+    ],
+    [
+      "technological advancements",
+      "facilitate",
+      "viral challenges"
+    ]
+  ],
+  "edges": [
+    "brings together",
+    "criticized for",
+    "dictated by",
+    "driven by",
+    "drives",
+    "facilitate",
+    "facilitates",
+    "increases interest in",
+    "influence",
+    "influences",
+    "leverage",
+    "market",
+    "promote",
+    "promotes",
+    "reach",
+    "refers to",
+    "seek to emulate",
+    "sparks"
+  ]
+}

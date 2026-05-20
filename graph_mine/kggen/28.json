@@ -1,0 +1,381 @@
+{
+  "entities": [
+    "academic research",
+    "alan sokal",
+    "apes",
+    "archaeology",
+    "art",
+    "art experts",
+    "art hoaxes",
+    "authenticity",
+    "board games",
+    "boundaries",
+    "cardiff giant",
+    "cautionary tales",
+    "collectors",
+    "confusion",
+    "cranium",
+    "credibility",
+    "critical thinking",
+    "crowds",
+    "debate",
+    "deception",
+    "deceptions",
+    "england",
+    "entertaining",
+    "established beliefs",
+    "evolutionary theory",
+    "fake news",
+    "fake paper",
+    "fake vermeer paintings",
+    "fake works",
+    "fascination",
+    "fear",
+    "fiction",
+    "forger",
+    "forgery",
+    "fossilized",
+    "genuine",
+    "george hull",
+    "han van meegeren",
+    "historical narratives",
+    "history",
+    "hoaxes",
+    "hominid skull",
+    "human evolution",
+    "humans",
+    "imagination",
+    "impact",
+    "information",
+    "intellectual rigor",
+    "journal",
+    "manipulation",
+    "martian invasion",
+    "mass hysteria",
+    "mass media",
+    "media hoaxes",
+    "misinformation",
+    "missing link",
+    "modern technology",
+    "motives",
+    "mythologies",
+    "news bulletins",
+    "orangutan jawbone",
+    "orson welles",
+    "panic",
+    "petrified man",
+    "physicist",
+    "piltdown man",
+    "postmodernist academic discourse",
+    "postmodernist scholarship",
+    "public perception",
+    "radio broadcast",
+    "reliability",
+    "revenue",
+    "scientific community",
+    "scientific rigor",
+    "sculpture",
+    "skeptical",
+    "skepticism",
+    "social text",
+    "society",
+    "sokal affair",
+    "theories",
+    "thought-provoking",
+    "truth",
+    "veracity",
+    "vigilant",
+    "war of the worlds"
+  ],
+  "relations": [
+    [
+      "alan sokal",
+      "submitted",
+      "fake paper"
+    ],
+    [
+      "cardiff giant",
+      "attracted",
+      "crowds"
+    ],
+    [
+      "cardiff giant",
+      "created by",
+      "george hull"
+    ],
+    [
+      "cardiff giant",
+      "generated",
+      "revenue"
+    ],
+    [
+      "cardiff giant",
+      "is",
+      "petrified man"
+    ],
+    [
+      "debate",
+      "about",
+      "deception"
+    ],
+    [
+      "debate",
+      "about",
+      "truth"
+    ],
+    [
+      "fake news",
+      "requires",
+      "skeptical"
+    ],
+    [
+      "fake news",
+      "requires",
+      "veracity"
+    ],
+    [
+      "fake news",
+      "requires",
+      "vigilant"
+    ],
+    [
+      "fake paper",
+      "to",
+      "journal"
+    ],
+    [
+      "fake vermeer paintings",
+      "fooled",
+      "art experts"
+    ],
+    [
+      "fake vermeer paintings",
+      "fooled",
+      "collectors"
+    ],
+    [
+      "fake vermeer paintings",
+      "raised questions about",
+      "authenticity"
+    ],
+    [
+      "forgery",
+      "combination of",
+      "cranium"
+    ],
+    [
+      "forgery",
+      "combination of",
+      "orangutan jawbone"
+    ],
+    [
+      "han van meegeren",
+      "created",
+      "fake vermeer paintings"
+    ],
+    [
+      "han van meegeren",
+      "is",
+      "forger"
+    ],
+    [
+      "hoaxes",
+      "about",
+      "critical thinking"
+    ],
+    [
+      "hoaxes",
+      "about",
+      "manipulation"
+    ],
+    [
+      "hoaxes",
+      "about",
+      "misinformation"
+    ],
+    [
+      "hoaxes",
+      "are",
+      "cautionary tales"
+    ],
+    [
+      "hoaxes",
+      "are",
+      "entertaining"
+    ],
+    [
+      "hoaxes",
+      "are",
+      "thought-provoking"
+    ],
+    [
+      "hoaxes",
+      "capture",
+      "imagination"
+    ],
+    [
+      "hoaxes",
+      "challenging",
+      "established beliefs"
+    ],
+    [
+      "hoaxes",
+      "part of",
+      "history"
+    ],
+    [
+      "hoaxes",
+      "question",
+      "motives"
+    ],
+    [
+      "hoaxes",
+      "question",
+      "reliability"
+    ],
+    [
+      "hoaxes",
+      "shaping",
+      "historical narratives"
+    ],
+    [
+      "hoaxes",
+      "spark",
+      "debate"
+    ],
+    [
+      "hoaxes",
+      "tested",
+      "boundaries"
+    ],
+    [
+      "journal",
+      "is",
+      "social text"
+    ],
+    [
+      "mass hysteria",
+      "fueled by",
+      "deception"
+    ],
+    [
+      "mass media",
+      "incite",
+      "fear"
+    ],
+    [
+      "mass media",
+      "manipulate",
+      "public perception"
+    ],
+    [
+      "piltdown man",
+      "discovered in",
+      "england"
+    ],
+    [
+      "piltdown man",
+      "fueled",
+      "skepticism"
+    ],
+    [
+      "piltdown man",
+      "is",
+      "forgery"
+    ],
+    [
+      "piltdown man",
+      "is",
+      "missing link"
+    ],
+    [
+      "piltdown man",
+      "misled",
+      "scientific community"
+    ],
+    [
+      "skepticism",
+      "about",
+      "evolutionary theory"
+    ],
+    [
+      "sokal affair",
+      "exposed",
+      "postmodernist academic discourse"
+    ],
+    [
+      "sokal affair",
+      "sparked debate about",
+      "credibility"
+    ],
+    [
+      "sokal affair",
+      "sparked debate about",
+      "intellectual rigor"
+    ],
+    [
+      "war of the worlds",
+      "by",
+      "orson welles"
+    ],
+    [
+      "war of the worlds",
+      "caused",
+      "mass hysteria"
+    ],
+    [
+      "war of the worlds",
+      "is",
+      "radio broadcast"
+    ],
+    [
+      "war of the worlds",
+      "led to",
+      "confusion"
+    ],
+    [
+      "war of the worlds",
+      "led to",
+      "panic"
+    ],
+    [
+      "war of the worlds",
+      "presented as",
+      "news bulletins"
+    ]
+  ],
+  "edges": [
+    "about",
+    "are",
+    "attracted",
+    "by",
+    "capture",
+    "caused",
+    "challenging",
+    "combination of",
+    "created",
+    "created by",
+    "discovered in",
+    "exposed",
+    "fooled",
+    "fueled",
+    "fueled by",
+    "generated",
+    "incite",
+    "is",
+    "led to",
+    "manipulate",
+    "misled",
+    "part of",
+    "presented as",
+    "question",
+    "raised questions about",
+    "requires",
+    "shaping",
+    "spark",
+    "sparked debate about",
+    "submitted",
+    "tested",
+    "to"
+  ]
+}

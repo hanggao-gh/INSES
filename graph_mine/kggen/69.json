@@ -1,0 +1,511 @@
+{
+  "entities": [
+    "actions",
+    "alternate timelines",
+    "approach",
+    "artifacts",
+    "audiences",
+    "back to the future",
+    "butterfly effect",
+    "catastrophe",
+    "causality",
+    "character",
+    "characters",
+    "complexities",
+    "concept",
+    "consequences",
+    "contraption",
+    "day",
+    "delorean",
+    "depth",
+    "detect",
+    "determinism",
+    "device",
+    "discussions",
+    "doctor who",
+    "ethical implications",
+    "events",
+    "example",
+    "fiction",
+    "film",
+    "fringe",
+    "future",
+    "groundhog day",
+    "h.g. wells",
+    "harry potter",
+    "history",
+    "idea",
+    "ideas",
+    "implications",
+    "j.k. rowling",
+    "journey",
+    "lesson",
+    "limitations",
+    "literature",
+    "looper",
+    "magical",
+    "means",
+    "method",
+    "mystical forces",
+    "nature",
+    "parallel universes",
+    "past",
+    "period",
+    "philosophical questions",
+    "portrayal",
+    "possibilities",
+    "power source",
+    "prey",
+    "protagonist",
+    "questions",
+    "reality",
+    "rules",
+    "sharks",
+    "shows",
+    "spells",
+    "storytellers",
+    "storytelling",
+    "supernatural",
+    "supernatural powers",
+    "tardis",
+    "technology",
+    "television",
+    "the flash",
+    "themes",
+    "time loop",
+    "time machine",
+    "time travel",
+    "time-turner",
+    "timeline",
+    "timelines",
+    "understanding",
+    "unintended consequences",
+    "universe",
+    "user",
+    "works",
+    "world",
+    "younger self"
+  ],
+  "relations": [
+    [
+      "approach",
+      "is",
+      "magical"
+    ],
+    [
+      "approach",
+      "is",
+      "supernatural"
+    ],
+    [
+      "butterfly effect",
+      "has",
+      "character"
+    ],
+    [
+      "character",
+      "struggles with",
+      "unintended consequences"
+    ],
+    [
+      "characters",
+      "alter",
+      "events"
+    ],
+    [
+      "characters",
+      "alter",
+      "history"
+    ],
+    [
+      "characters",
+      "are in",
+      "reality"
+    ],
+    [
+      "characters",
+      "face",
+      "consequences"
+    ],
+    [
+      "characters",
+      "face",
+      "ethical implications"
+    ],
+    [
+      "characters",
+      "navigate",
+      "timelines"
+    ],
+    [
+      "characters",
+      "prevent",
+      "events"
+    ],
+    [
+      "characters",
+      "travel through",
+      "timeline"
+    ],
+    [
+      "characters",
+      "use",
+      "artifacts"
+    ],
+    [
+      "characters",
+      "use",
+      "mystical forces"
+    ],
+    [
+      "characters",
+      "use",
+      "spells"
+    ],
+    [
+      "contraption",
+      "allows",
+      "journey"
+    ],
+    [
+      "delorean",
+      "is in",
+      "back to the future"
+    ],
+    [
+      "depth",
+      "is to",
+      "storytelling"
+    ],
+    [
+      "discussions",
+      "are about",
+      "nature"
+    ],
+    [
+      "film",
+      "is",
+      "groundhog day"
+    ],
+    [
+      "h.g. wells",
+      "wrote",
+      "the flash"
+    ],
+    [
+      "history",
+      "is due to",
+      "actions"
+    ],
+    [
+      "idea",
+      "is",
+      "future"
+    ],
+    [
+      "j.k. rowling",
+      "wrote",
+      "harry potter"
+    ],
+    [
+      "journey",
+      "is to",
+      "future"
+    ],
+    [
+      "looper",
+      "has",
+      "protagonist"
+    ],
+    [
+      "method",
+      "is",
+      "time machine"
+    ],
+    [
+      "nature",
+      "is of",
+      "reality"
+    ],
+    [
+      "parallel universes",
+      "are",
+      "alternate timelines"
+    ],
+    [
+      "portrayal",
+      "sparks",
+      "discussions"
+    ],
+    [
+      "protagonist",
+      "confronts",
+      "younger self"
+    ],
+    [
+      "protagonist",
+      "is in",
+      "time loop"
+    ],
+    [
+      "protagonist",
+      "learns",
+      "lesson"
+    ],
+    [
+      "protagonist",
+      "prevents",
+      "catastrophe"
+    ],
+    [
+      "protagonist",
+      "uses",
+      "contraption"
+    ],
+    [
+      "questions",
+      "add",
+      "depth"
+    ],
+    [
+      "questions",
+      "are about",
+      "causality"
+    ],
+    [
+      "questions",
+      "are about",
+      "determinism"
+    ],
+    [
+      "questions",
+      "are about",
+      "nature"
+    ],
+    [
+      "questions",
+      "challenge",
+      "audiences"
+    ],
+    [
+      "reality",
+      "has",
+      "history"
+    ],
+    [
+      "shows",
+      "include",
+      "fringe"
+    ],
+    [
+      "shows",
+      "include",
+      "the flash"
+    ],
+    [
+      "storytellers",
+      "explore",
+      "ideas"
+    ],
+    [
+      "storytellers",
+      "explore",
+      "themes"
+    ],
+    [
+      "tardis",
+      "is in",
+      "doctor who"
+    ],
+    [
+      "technology",
+      "advances",
+      "understanding"
+    ],
+    [
+      "themes",
+      "include",
+      "idea"
+    ],
+    [
+      "time loop",
+      "repeats",
+      "day"
+    ],
+    [
+      "time machine",
+      "allows",
+      "characters"
+    ],
+    [
+      "time machine",
+      "cannot change",
+      "events"
+    ],
+    [
+      "time machine",
+      "has",
+      "limitations"
+    ],
+    [
+      "time machine",
+      "is a",
+      "device"
+    ],
+    [
+      "time machine",
+      "needs",
+      "power source"
+    ],
+    [
+      "time travel",
+      "allows",
+      "storytellers"
+    ],
+    [
+      "time travel",
+      "captivates",
+      "audiences"
+    ],
+    [
+      "time travel",
+      "engages",
+      "audiences"
+    ],
+    [
+      "time travel",
+      "has",
+      "complexities"
+    ],
+    [
+      "time travel",
+      "has",
+      "implications"
+    ],
+    [
+      "time travel",
+      "has",
+      "possibilities"
+    ],
+    [
+      "time travel",
+      "has",
+      "rules"
+    ],
+    [
+      "time travel",
+      "is",
+      "concept"
+    ],
+    [
+      "time travel",
+      "is a",
+      "concept"
+    ],
+    [
+      "time travel",
+      "is portrayed in",
+      "works"
+    ],
+    [
+      "time travel",
+      "opens",
+      "world"
+    ],
+    [
+      "time travel",
+      "raises",
+      "questions"
+    ],
+    [
+      "time travel",
+      "raises",
+      "themes"
+    ],
+    [
+      "time travel",
+      "uses",
+      "alternate timelines"
+    ],
+    [
+      "time travel",
+      "uses",
+      "supernatural powers"
+    ],
+    [
+      "time-turner",
+      "allows",
+      "user"
+    ],
+    [
+      "time-turner",
+      "is in",
+      "harry potter"
+    ],
+    [
+      "understanding",
+      "is of",
+      "universe"
+    ],
+    [
+      "user",
+      "travels back",
+      "period"
+    ],
+    [
+      "works",
+      "include",
+      "film"
+    ],
+    [
+      "works",
+      "include",
+      "literature"
+    ],
+    [
+      "works",
+      "include",
+      "television"
+    ]
+  ],
+  "edges": [
+    "add",
+    "advances",
+    "allows",
+    "alter",
+    "are",
+    "are about",
+    "are in",
+    "cannot change",
+    "captivates",
+    "challenge",
+    "confronts",
+    "engages",
+    "explore",
+    "face",
+    "has",
+    "include",
+    "is",
+    "is a",
+    "is due to",
+    "is in",
+    "is of",
+    "is portrayed in",
+    "is to",
+    "learns",
+    "navigate",
+    "needs",
+    "opens",
+    "prevent",
+    "prevents",
+    "raises",
+    "repeats",
+    "sparks",
+    "struggles with",
+    "travel through",
+    "travels back",
+    "use",
+    "uses",
+    "wrote"
+  ]
+}

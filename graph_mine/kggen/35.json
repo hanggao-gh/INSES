@@ -1,0 +1,756 @@
+{
+  "entities": [
+    "abstract",
+    "access",
+    "accounting",
+    "age",
+    "alphabet",
+    "alphabets",
+    "amounts",
+    "augmented reality",
+    "barriers",
+    "bce",
+    "board games",
+    "characters",
+    "china",
+    "chinese",
+    "civilization",
+    "civilizations",
+    "clay",
+    "communicate",
+    "communication",
+    "complexity",
+    "computers",
+    "concepts",
+    "conclusion",
+    "connect",
+    "consonants",
+    "creativity",
+    "cross-cultural",
+    "cultural",
+    "culture",
+    "cuneiform",
+    "decipherment",
+    "development",
+    "digital",
+    "diverse",
+    "diversity",
+    "egypt",
+    "elements",
+    "emerged",
+    "emojis",
+    "emoticons",
+    "english",
+    "european",
+    "evolution",
+    "exchange",
+    "experiences",
+    "explore",
+    "express",
+    "factors",
+    "forms",
+    "foundation",
+    "future",
+    "generations",
+    "global",
+    "greeks",
+    "hieroglyphics",
+    "historical",
+    "history",
+    "human",
+    "ideas",
+    "ideographic",
+    "inform",
+    "information",
+    "ingenuity",
+    "innovation",
+    "insights",
+    "inspire",
+    "instant",
+    "interact",
+    "interfaces",
+    "internet",
+    "intricate",
+    "invention",
+    "inventions",
+    "jean-fran\u00e7ois champollion",
+    "journey",
+    "language",
+    "languages",
+    "latin",
+    "legacy",
+    "logographic",
+    "meanings",
+    "mediterranean",
+    "mesopotamia",
+    "milestone",
+    "mind",
+    "modern",
+    "morphemes",
+    "near east",
+    "objects",
+    "origins",
+    "perceive",
+    "phonetic",
+    "pictographic",
+    "pictographs",
+    "possibilities",
+    "power",
+    "purposes",
+    "range",
+    "record",
+    "record-keeping",
+    "religious",
+    "revolutionized",
+    "rich",
+    "role",
+    "scholars",
+    "scribes",
+    "scripts",
+    "smartphones",
+    "social",
+    "society",
+    "sophisticated",
+    "sounds",
+    "space",
+    "speech",
+    "spread",
+    "strokes",
+    "sumer",
+    "sumerians",
+    "syllabic",
+    "symbols",
+    "systems",
+    "tablets",
+    "technological",
+    "technology",
+    "texts",
+    "thoughts",
+    "time",
+    "understanding",
+    "unicode",
+    "variety",
+    "versatile",
+    "virtual reality",
+    "vowels",
+    "wedge-shaped",
+    "word",
+    "words",
+    "world",
+    "writing",
+    "written"
+  ],
+  "relations": [
+    [
+      "alphabet",
+      "originated in",
+      "near east"
+    ],
+    [
+      "alphabet",
+      "representing",
+      "speech"
+    ],
+    [
+      "barriers",
+      "to",
+      "cross-cultural"
+    ],
+    [
+      "characters",
+      "are",
+      "morphemes"
+    ],
+    [
+      "characters",
+      "are",
+      "words"
+    ],
+    [
+      "characters",
+      "comprising",
+      "strokes"
+    ],
+    [
+      "chinese",
+      "development of",
+      "characters"
+    ],
+    [
+      "civilizations",
+      "such as",
+      "china"
+    ],
+    [
+      "civilizations",
+      "such as",
+      "egypt"
+    ],
+    [
+      "civilizations",
+      "such as",
+      "sumer"
+    ],
+    [
+      "complexity",
+      "of",
+      "communication"
+    ],
+    [
+      "conclusion",
+      "enabling us to",
+      "record"
+    ],
+    [
+      "conclusion",
+      "enabling us to",
+      "thoughts"
+    ],
+    [
+      "conclusion",
+      "role in",
+      "civilization"
+    ],
+    [
+      "conclusion",
+      "role in",
+      "culture"
+    ],
+    [
+      "connect",
+      "across",
+      "space"
+    ],
+    [
+      "connect",
+      "across",
+      "time"
+    ],
+    [
+      "connect",
+      "with",
+      "digital"
+    ],
+    [
+      "creativity",
+      "express",
+      "connect"
+    ],
+    [
+      "cross-cultural",
+      "promoting",
+      "understanding"
+    ],
+    [
+      "cuneiform",
+      "consisted of",
+      "wedge-shaped"
+    ],
+    [
+      "cuneiform",
+      "evolved to represent",
+      "concepts"
+    ],
+    [
+      "cuneiform",
+      "evolved to represent",
+      "sounds"
+    ],
+    [
+      "cuneiform",
+      "making it",
+      "versatile"
+    ],
+    [
+      "cuneiform",
+      "used by",
+      "sumerians"
+    ],
+    [
+      "cuneiform",
+      "used for",
+      "accounting"
+    ],
+    [
+      "cuneiform",
+      "used for",
+      "record-keeping"
+    ],
+    [
+      "cuneiform",
+      "used in",
+      "mesopotamia"
+    ],
+    [
+      "decipherment",
+      "by",
+      "scholars"
+    ],
+    [
+      "decipherment",
+      "opened up",
+      "insights"
+    ],
+    [
+      "development",
+      "influenced by",
+      "cultural"
+    ],
+    [
+      "development",
+      "influenced by",
+      "social"
+    ],
+    [
+      "development",
+      "influenced by",
+      "technological"
+    ],
+    [
+      "development",
+      "marks a",
+      "evolution"
+    ],
+    [
+      "development",
+      "marks a",
+      "milestone"
+    ],
+    [
+      "digital",
+      "transformed",
+      "technology"
+    ],
+    [
+      "evolution",
+      "continues to",
+      "understanding"
+    ],
+    [
+      "evolution",
+      "of",
+      "characters"
+    ],
+    [
+      "evolution",
+      "of",
+      "culture"
+    ],
+    [
+      "evolution",
+      "of",
+      "society"
+    ],
+    [
+      "evolution",
+      "resulted in",
+      "diverse"
+    ],
+    [
+      "evolution",
+      "resulted in",
+      "rich"
+    ],
+    [
+      "exchange",
+      "breaking down",
+      "barriers"
+    ],
+    [
+      "factors",
+      "leading to",
+      "variety"
+    ],
+    [
+      "forms",
+      "emerged around",
+      "bce"
+    ],
+    [
+      "forms",
+      "emerging in",
+      "augmented reality"
+    ],
+    [
+      "forms",
+      "emerging in",
+      "emojis"
+    ],
+    [
+      "forms",
+      "emerging in",
+      "emoticons"
+    ],
+    [
+      "forms",
+      "emerging in",
+      "virtual reality"
+    ],
+    [
+      "forms",
+      "were primarily",
+      "pictographic"
+    ],
+    [
+      "foundation",
+      "for",
+      "english"
+    ],
+    [
+      "foundation",
+      "for",
+      "european"
+    ],
+    [
+      "foundation",
+      "for",
+      "latin"
+    ],
+    [
+      "future",
+      "shaped by",
+      "creativity"
+    ],
+    [
+      "future",
+      "shaped by",
+      "innovation"
+    ],
+    [
+      "global",
+      "exchange of",
+      "languages"
+    ],
+    [
+      "global",
+      "exchange of",
+      "texts"
+    ],
+    [
+      "greeks",
+      "developed",
+      "symbols"
+    ],
+    [
+      "hieroglyphics",
+      "consisted of",
+      "intricate"
+    ],
+    [
+      "hieroglyphics",
+      "used in",
+      "historical"
+    ],
+    [
+      "hieroglyphics",
+      "used in",
+      "religious"
+    ],
+    [
+      "history",
+      "is a",
+      "journey"
+    ],
+    [
+      "instant",
+      "access to",
+      "amounts"
+    ],
+    [
+      "interact",
+      "with",
+      "written"
+    ],
+    [
+      "internet",
+      "enabling",
+      "instant"
+    ],
+    [
+      "intricate",
+      "represented",
+      "ideas"
+    ],
+    [
+      "intricate",
+      "represented",
+      "sounds"
+    ],
+    [
+      "invention",
+      "revolutionized",
+      "alphabet"
+    ],
+    [
+      "journey",
+      "reflects",
+      "complexity"
+    ],
+    [
+      "journey",
+      "reflects",
+      "diversity"
+    ],
+    [
+      "language",
+      "in the",
+      "age"
+    ],
+    [
+      "language",
+      "perceive and",
+      "interact"
+    ],
+    [
+      "legacy",
+      "reminds us of",
+      "power"
+    ],
+    [
+      "meanings",
+      "through",
+      "ideographic"
+    ],
+    [
+      "meanings",
+      "through",
+      "phonetic"
+    ],
+    [
+      "mind",
+      "explore",
+      "possibilities"
+    ],
+    [
+      "origins",
+      "can be traced to",
+      "civilizations"
+    ],
+    [
+      "pictographs",
+      "evolved into",
+      "abstract"
+    ],
+    [
+      "pictographs",
+      "evolved into",
+      "logographic"
+    ],
+    [
+      "pictographs",
+      "evolved into",
+      "syllabic"
+    ],
+    [
+      "power",
+      "of",
+      "words"
+    ],
+    [
+      "scholars",
+      "such as",
+      "jean-fran\u00e7ois champollion"
+    ],
+    [
+      "scribes",
+      "convey",
+      "meanings"
+    ],
+    [
+      "scripts",
+      "reflects",
+      "culture"
+    ],
+    [
+      "scripts",
+      "reflects",
+      "language"
+    ],
+    [
+      "sophisticated",
+      "evolved to",
+      "creativity"
+    ],
+    [
+      "sophisticated",
+      "evolved to",
+      "ingenuity"
+    ],
+    [
+      "spread",
+      "laid the",
+      "foundation"
+    ],
+    [
+      "spread",
+      "throughout",
+      "mediterranean"
+    ],
+    [
+      "strokes",
+      "convey",
+      "meanings"
+    ],
+    [
+      "symbols",
+      "for",
+      "consonants"
+    ],
+    [
+      "symbols",
+      "for",
+      "vowels"
+    ],
+    [
+      "symbols",
+      "representing",
+      "ideas"
+    ],
+    [
+      "symbols",
+      "representing",
+      "objects"
+    ],
+    [
+      "symbols",
+      "representing",
+      "sounds"
+    ],
+    [
+      "technology",
+      "with the rise of",
+      "computers"
+    ],
+    [
+      "technology",
+      "with the rise of",
+      "internet"
+    ],
+    [
+      "technology",
+      "with the rise of",
+      "smartphones"
+    ],
+    [
+      "thoughts",
+      "for",
+      "generations"
+    ],
+    [
+      "unicode",
+      "facilitated",
+      "global"
+    ],
+    [
+      "variety",
+      "of",
+      "scripts"
+    ],
+    [
+      "versatile",
+      "convey a",
+      "range"
+    ],
+    [
+      "wedge-shaped",
+      "impressed on",
+      "clay"
+    ],
+    [
+      "wedge-shaped",
+      "impressed on",
+      "tablets"
+    ],
+    [
+      "words",
+      "to",
+      "connect"
+    ],
+    [
+      "words",
+      "to",
+      "inform"
+    ],
+    [
+      "words",
+      "to",
+      "inspire"
+    ],
+    [
+      "writing",
+      "allowing us to",
+      "communicate"
+    ],
+    [
+      "writing",
+      "allowing us to",
+      "record"
+    ],
+    [
+      "writing",
+      "is one of",
+      "inventions"
+    ]
+  ],
+  "edges": [
+    "access to",
+    "across",
+    "allowing us to",
+    "are",
+    "breaking down",
+    "by",
+    "can be traced to",
+    "comprising",
+    "consisted of",
+    "continues to",
+    "convey",
+    "convey a",
+    "developed",
+    "development of",
+    "emerged around",
+    "emerging in",
+    "enabling",
+    "enabling us to",
+    "evolved into",
+    "evolved to",
+    "evolved to represent",
+    "exchange of",
+    "explore",
+    "express",
+    "facilitated",
+    "for",
+    "impressed on",
+    "in the",
+    "influenced by",
+    "is a",
+    "is one of",
+    "laid the",
+    "leading to",
+    "making it",
+    "marks a",
+    "of",
+    "opened up",
+    "originated in",
+    "perceive and",
+    "promoting",
+    "reflects",
+    "reminds us of",
+    "represented",
+    "representing",
+    "resulted in",
+    "revolutionized",
+    "role in",
+    "shaped by",
+    "such as",
+    "through",
+    "throughout",
+    "to",
+    "transformed",
+    "used by",
+    "used for",
+    "used in",
+    "were primarily",
+    "with",
+    "with the rise of"
+  ]
+}

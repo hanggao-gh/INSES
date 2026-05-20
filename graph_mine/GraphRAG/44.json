@@ -1,0 +1,143 @@
+{
+  "entities": [
+    "SEPTEMBER 11, 2001 TERRORIST ATTACKS",
+    "MOON LANDING",
+    "ILLUMINATI",
+    "OSWALD",
+    "TEXAS SCHOOL BOOK DEPOSITORY",
+    "U.S. GOVERNMENT",
+    "UNITED STATES GOVERNMENT",
+    "SOCIAL MEDIA",
+    "WORLD EVENTS",
+    "JOHN F. KENNEDY",
+    "MAFIA",
+    "INTERNET",
+    "SOVIET UNION",
+    "NEIL ARMSTRONG",
+    "CIA",
+    "WORLD TRADE CENTER",
+    "PENTAGON",
+    "KENNEDY'S ASSASSINATION",
+    "LEE HARVEY OSWALD",
+    "BUZZ ALDRIN",
+    "APOLLO 11 MISSION"
+  ],
+  "relations": [
+    [
+      "MOON LANDING",
+      "Neil Armstrong is central to the moon landing conspiracy theory as the first man to walk on the moon",
+      "NEIL ARMSTRONG"
+    ],
+    [
+      "MOON LANDING",
+      "Buzz Aldrin is central to the moon landing conspiracy theory as one of the astronauts who walked on the moon",
+      "BUZZ ALDRIN"
+    ],
+    [
+      "MOON LANDING",
+      "The United States Government is alleged to have staged the moon landing",
+      "UNITED STATES GOVERNMENT"
+    ],
+    [
+      "MOON LANDING",
+      "The moon landing was allegedly staged by the United States to outdo the Soviet Union in the space race",
+      "SOVIET UNION"
+    ],
+    [
+      "NEIL ARMSTRONG",
+      "Neil Armstrong was an astronaut on the Apollo 11 mission, which is at the heart of the moon landing conspiracy theory",
+      "APOLLO 11 MISSION"
+    ],
+    [
+      "BUZZ ALDRIN",
+      "Buzz Aldrin was an astronaut on the Apollo 11 mission, which is at the heart of the moon landing conspiracy theory",
+      "APOLLO 11 MISSION"
+    ],
+    [
+      "UNITED STATES GOVERNMENT",
+      "The Apollo 11 mission is alleged to have been staged by the United States Government as part of the moon landing conspiracy theory",
+      "APOLLO 11 MISSION"
+    ],
+    [
+      "JOHN F. KENNEDY",
+      "Lee Harvey Oswald is officially recognized as the assassin of John F. Kennedy, though conspiracy theories suggest otherwise",
+      "LEE HARVEY OSWALD"
+    ],
+    [
+      "LEE HARVEY OSWALD",
+      "Lee Harvey Oswald allegedly shot John F. Kennedy from the Texas School Book Depository",
+      "TEXAS SCHOOL BOOK DEPOSITORY"
+    ],
+    [
+      "OSWALD",
+      "Oswald is implicated in conspiracy theories as a patsy for Kennedy's assassination",
+      "KENNEDY'S ASSASSINATION"
+    ],
+    [
+      "CIA",
+      "The CIA is implicated in conspiracy theories as part of a larger plot for Kennedy's assassination",
+      "KENNEDY'S ASSASSINATION"
+    ],
+    [
+      "MAFIA",
+      "The Mafia is implicated in conspiracy theories as part of a larger plot for Kennedy's assassination",
+      "KENNEDY'S ASSASSINATION"
+    ],
+    [
+      "ILLUMINATI",
+      "The Illuminati are alleged to manipulate global phenomena and exert control over world events according to conspiracy theories",
+      "WORLD EVENTS"
+    ],
+    [
+      "WORLD TRADE CENTER",
+      "The World Trade Center was a primary target in the September 11, 2001 terrorist attacks",
+      "SEPTEMBER 11, 2001 TERRORIST ATTACKS"
+    ],
+    [
+      "WORLD TRADE CENTER",
+      "Conspiracy theories about the World Trade Center circulate online",
+      "INTERNET"
+    ],
+    [
+      "WORLD TRADE CENTER",
+      "Conspiracy theories about the World Trade Center are spread through social media",
+      "SOCIAL MEDIA"
+    ],
+    [
+      "PENTAGON",
+      "The Pentagon was a target in the September 11, 2001 terrorist attacks",
+      "SEPTEMBER 11, 2001 TERRORIST ATTACKS"
+    ],
+    [
+      "SEPTEMBER 11, 2001 TERRORIST ATTACKS",
+      "Conspiracy theories suggest the U.S. government had a role in allowing or orchestrating the attacks as a pretext for war",
+      "U.S. GOVERNMENT"
+    ],
+    [
+      "INTERNET",
+      "Social media platforms are part of the internet ecosystem, facilitating the spread of conspiracy theories",
+      "SOCIAL MEDIA"
+    ]
+  ],
+  "edges": [
+    "Neil Armstrong is central to the moon landing conspiracy theory as the first man to walk on the moon",
+    "Buzz Aldrin is central to the moon landing conspiracy theory as one of the astronauts who walked on the moon",
+    "The United States Government is alleged to have staged the moon landing",
+    "The moon landing was allegedly staged by the United States to outdo the Soviet Union in the space race",
+    "Neil Armstrong was an astronaut on the Apollo 11 mission, which is at the heart of the moon landing conspiracy theory",
+    "Buzz Aldrin was an astronaut on the Apollo 11 mission, which is at the heart of the moon landing conspiracy theory",
+    "The Apollo 11 mission is alleged to have been staged by the United States Government as part of the moon landing conspiracy theory",
+    "Lee Harvey Oswald is officially recognized as the assassin of John F. Kennedy, though conspiracy theories suggest otherwise",
+    "Lee Harvey Oswald allegedly shot John F. Kennedy from the Texas School Book Depository",
+    "Oswald is implicated in conspiracy theories as a patsy for Kennedy's assassination",
+    "The CIA is implicated in conspiracy theories as part of a larger plot for Kennedy's assassination",
+    "The Mafia is implicated in conspiracy theories as part of a larger plot for Kennedy's assassination",
+    "The Illuminati are alleged to manipulate global phenomena and exert control over world events according to conspiracy theories",
+    "The World Trade Center was a primary target in the September 11, 2001 terrorist attacks",
+    "Conspiracy theories about the World Trade Center circulate online",
+    "Conspiracy theories about the World Trade Center are spread through social media",
+    "The Pentagon was a target in the September 11, 2001 terrorist attacks",
+    "Conspiracy theories suggest the U.S. government had a role in allowing or orchestrating the attacks as a pretext for war",
+    "Social media platforms are part of the internet ecosystem, facilitating the spread of conspiracy theories"
+  ]
+}

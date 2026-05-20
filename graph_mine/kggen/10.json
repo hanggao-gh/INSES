@@ -1,0 +1,437 @@
+{
+  "entities": [
+    "advancements",
+    "aspects",
+    "astronomers",
+    "beauty",
+    "black holes",
+    "boundaries",
+    "break down",
+    "butterfly",
+    "center",
+    "classical",
+    "complexity",
+    "concepts",
+    "conclusion",
+    "contents",
+    "cosmic entities",
+    "cosmos",
+    "curvature",
+    "decades",
+    "density",
+    "description",
+    "development",
+    "discovery",
+    "effects",
+    "enigmatic",
+    "escape",
+    "essay",
+    "evaporate",
+    "event horizon",
+    "evidence",
+    "existence",
+    "fate",
+    "features",
+    "formation",
+    "fundamental laws",
+    "general relativity",
+    "glow",
+    "gravitational pull",
+    "gravitational time dilation",
+    "gravitational waves",
+    "gravity",
+    "hawking radiation",
+    "holographic principle",
+    "ideas",
+    "imagination",
+    "information",
+    "information paradox",
+    "intriguing",
+    "knowledge",
+    "laws",
+    "life",
+    "life cycle",
+    "light",
+    "ligo observatory",
+    "lost",
+    "mass",
+    "massive stars",
+    "merger",
+    "mysteries",
+    "mystery",
+    "nature",
+    "nuclear fuel",
+    "observers",
+    "phenomena",
+    "phenomenon",
+    "physicist",
+    "physicists",
+    "point of no return",
+    "possibilities",
+    "progress",
+    "properties",
+    "public",
+    "puzzles",
+    "quantum gravity",
+    "quantum mechanics",
+    "quest",
+    "questions",
+    "radius",
+    "realm",
+    "remnants",
+    "schwarzschild radius",
+    "scientists",
+    "singularity",
+    "size",
+    "spacetime",
+    "speculate",
+    "speed",
+    "star",
+    "stephen hawking",
+    "string theory",
+    "study",
+    "supernova explosion",
+    "term",
+    "testing ground",
+    "theoretical physics",
+    "theories",
+    "theorized",
+    "theory",
+    "time",
+    "understanding",
+    "universe",
+    "velocity",
+    "volume",
+    "warps",
+    "wonders",
+    "world",
+    "years"
+  ],
+  "relations": [
+    [
+      "black holes",
+      "are born from",
+      "remnants"
+    ],
+    [
+      "black holes",
+      "captivated",
+      "imagination"
+    ],
+    [
+      "black holes",
+      "challenge",
+      "understanding"
+    ],
+    [
+      "black holes",
+      "provide",
+      "testing ground"
+    ],
+    [
+      "black holes",
+      "push",
+      "boundaries"
+    ],
+    [
+      "black holes",
+      "puzzled",
+      "astronomers"
+    ],
+    [
+      "black holes",
+      "puzzled",
+      "physicists"
+    ],
+    [
+      "black holes",
+      "represent",
+      "phenomena"
+    ],
+    [
+      "boundaries",
+      "of",
+      "knowledge"
+    ],
+    [
+      "complexity",
+      "and",
+      "beauty"
+    ],
+    [
+      "complexity",
+      "of",
+      "wonders"
+    ],
+    [
+      "concepts",
+      "in",
+      "theoretical physics"
+    ],
+    [
+      "development",
+      "of",
+      "concepts"
+    ],
+    [
+      "discovery",
+      "of",
+      "gravitational waves"
+    ],
+    [
+      "escape",
+      "equals",
+      "speed"
+    ],
+    [
+      "event horizon",
+      "is",
+      "point of no return"
+    ],
+    [
+      "evidence",
+      "of",
+      "existence"
+    ],
+    [
+      "existence",
+      "of",
+      "realm"
+    ],
+    [
+      "existence",
+      "was theorized",
+      "black holes"
+    ],
+    [
+      "gravitational pull",
+      "warps",
+      "spacetime"
+    ],
+    [
+      "gravitational time dilation",
+      "causes",
+      "time"
+    ],
+    [
+      "gravitational waves",
+      "by",
+      "ligo observatory"
+    ],
+    [
+      "gravitational waves",
+      "resulting from",
+      "merger"
+    ],
+    [
+      "hawking radiation",
+      "causes",
+      "mass"
+    ],
+    [
+      "hawking radiation",
+      "leads to",
+      "information paradox"
+    ],
+    [
+      "hawking radiation",
+      "predicted by",
+      "physicist"
+    ],
+    [
+      "holographic principle",
+      "suggests",
+      "contents"
+    ],
+    [
+      "ideas",
+      "in",
+      "quantum mechanics"
+    ],
+    [
+      "ideas",
+      "in",
+      "string theory"
+    ],
+    [
+      "information paradox",
+      "raises",
+      "questions"
+    ],
+    [
+      "laws",
+      "break down",
+      "singularity"
+    ],
+    [
+      "mass",
+      "to",
+      "evaporate"
+    ],
+    [
+      "massive stars",
+      "have exhausted",
+      "nuclear fuel"
+    ],
+    [
+      "massive stars",
+      "undergone",
+      "supernova explosion"
+    ],
+    [
+      "merger",
+      "of",
+      "black holes"
+    ],
+    [
+      "phenomena",
+      "in",
+      "cosmos"
+    ],
+    [
+      "phenomenon",
+      "is known as",
+      "gravitational time dilation"
+    ],
+    [
+      "physicist",
+      "is",
+      "stephen hawking"
+    ],
+    [
+      "puzzles",
+      "is",
+      "nature"
+    ],
+    [
+      "realm",
+      "of",
+      "quantum gravity"
+    ],
+    [
+      "remnants",
+      "are of",
+      "massive stars"
+    ],
+    [
+      "scientists",
+      "made",
+      "progress"
+    ],
+    [
+      "scientists",
+      "speculate about",
+      "existence"
+    ],
+    [
+      "scientists",
+      "study",
+      "black holes"
+    ],
+    [
+      "singularity",
+      "is a point of",
+      "curvature"
+    ],
+    [
+      "singularity",
+      "is a point of",
+      "density"
+    ],
+    [
+      "singularity",
+      "is a point of",
+      "volume"
+    ],
+    [
+      "singularity",
+      "is at",
+      "center"
+    ],
+    [
+      "singularity",
+      "is surrounded by",
+      "event horizon"
+    ],
+    [
+      "size",
+      "measured in terms of",
+      "schwarzschild radius"
+    ],
+    [
+      "star",
+      "collapses under",
+      "gravity"
+    ],
+    [
+      "star",
+      "reaches",
+      "life"
+    ],
+    [
+      "study",
+      "led to",
+      "development"
+    ],
+    [
+      "testing ground",
+      "for",
+      "theories"
+    ],
+    [
+      "theories",
+      "of",
+      "general relativity"
+    ],
+    [
+      "understanding",
+      "of",
+      "cosmos"
+    ],
+    [
+      "understanding",
+      "of",
+      "fundamental laws"
+    ]
+  ],
+  "edges": [
+    "and",
+    "are born from",
+    "are of",
+    "break down",
+    "by",
+    "captivated",
+    "causes",
+    "challenge",
+    "collapses under",
+    "equals",
+    "for",
+    "have exhausted",
+    "in",
+    "is",
+    "is a point of",
+    "is at",
+    "is known as",
+    "is surrounded by",
+    "leads to",
+    "led to",
+    "made",
+    "measured in terms of",
+    "of",
+    "predicted by",
+    "provide",
+    "push",
+    "puzzled",
+    "raises",
+    "reaches",
+    "represent",
+    "resulting from",
+    "speculate about",
+    "study",
+    "suggests",
+    "to",
+    "undergone",
+    "warps",
+    "was theorized"
+  ]
+}

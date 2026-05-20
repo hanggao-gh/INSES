@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "FACIAL EXPRESSIONS",
+    "BODY LANGUAGE",
+    "POSTURE",
+    "GESTURES"
+  ],
+  "relations": [
+    [
+      "BODY LANGUAGE",
+      "Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions",
+      "FACIAL EXPRESSIONS"
+    ],
+    [
+      "BODY LANGUAGE",
+      "Gestures like waving or giving a thumbs up are part of body language for conveying messages without words",
+      "GESTURES"
+    ],
+    [
+      "BODY LANGUAGE",
+      "Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort",
+      "POSTURE"
+    ]
+  ],
+  "edges": [
+    "Facial expressions such as smiles, frowns, and raised eyebrows are components of body language used to express emotions",
+    "Gestures like waving or giving a thumbs up are part of body language for conveying messages without words",
+    "Posture, including how one stands or sits, is a crucial aspect of body language that can indicate confidence or discomfort"
+  ]
+}

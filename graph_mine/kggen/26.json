@@ -1,0 +1,586 @@
+{
+  "entities": [
+    "accessible",
+    "addressed",
+    "advanced",
+    "advancing",
+    "advantages",
+    "afford",
+    "agriculture",
+    "altering",
+    "autonomy",
+    "benefits",
+    "board games",
+    "boundaries",
+    "building blocks",
+    "characteristics",
+    "commodification",
+    "complexities",
+    "conclusion",
+    "consent",
+    "considered",
+    "create",
+    "critics",
+    "debates",
+    "decision-making",
+    "decisions",
+    "deliberate changes",
+    "designer babies",
+    "dilemmas",
+    "discrimination",
+    "discussions",
+    "disparities",
+    "disrupting",
+    "ecosystems",
+    "education",
+    "enhancements",
+    "environment",
+    "equity",
+    "ethical concerns",
+    "ethically",
+    "food production",
+    "gap",
+    "generations",
+    "genes",
+    "genetic code",
+    "genetic disorders",
+    "genetic engineering",
+    "genetic information",
+    "genetic makeup",
+    "genetic testing",
+    "genetically engineered animals",
+    "genetically modified crops",
+    "genetically modified organisms",
+    "genome",
+    "harm",
+    "harness",
+    "health",
+    "history",
+    "human consumption",
+    "human intervention",
+    "human life",
+    "impact",
+    "implications",
+    "improving",
+    "individual rights",
+    "individuals",
+    "industries",
+    "infringing",
+    "innovation",
+    "interventions",
+    "learn",
+    "life",
+    "living organisms",
+    "long-term implications",
+    "manipulate",
+    "manipulating",
+    "manipulation",
+    "medicine",
+    "natural world",
+    "opportunities",
+    "organisms",
+    "playing god",
+    "policymakers",
+    "potential",
+    "power",
+    "predictive purposes",
+    "prioritize",
+    "privacy",
+    "progress",
+    "promise",
+    "promises",
+    "questions",
+    "reflection",
+    "research",
+    "responsibly",
+    "revolutionize",
+    "rights",
+    "risk",
+    "safeguarding",
+    "safety",
+    "science",
+    "scientists",
+    "social inequalities",
+    "social justice",
+    "sustainability",
+    "technologies",
+    "technology",
+    "traits",
+    "treating",
+    "unforeseen consequences",
+    "unintended consequences",
+    "vast",
+    "wealthy",
+    "welfare",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "addressed",
+      "environmental",
+      "sustainability"
+    ],
+    [
+      "addressed",
+      "individual",
+      "rights"
+    ],
+    [
+      "addressed",
+      "social",
+      "sustainability"
+    ],
+    [
+      "advancing",
+      "science",
+      "improving"
+    ],
+    [
+      "afford",
+      "genetic",
+      "enhancements"
+    ],
+    [
+      "altering",
+      "of",
+      "building blocks"
+    ],
+    [
+      "altering",
+      "of",
+      "genetic code"
+    ],
+    [
+      "benefits",
+      "of",
+      "vast"
+    ],
+    [
+      "boundaries",
+      "of",
+      "human intervention"
+    ],
+    [
+      "building blocks",
+      "of",
+      "life"
+    ],
+    [
+      "commodification",
+      "for",
+      "social inequalities"
+    ],
+    [
+      "commodification",
+      "of",
+      "human life"
+    ],
+    [
+      "complexities",
+      "of",
+      "genome"
+    ],
+    [
+      "conclusion",
+      "genetic engineering",
+      "advancing"
+    ],
+    [
+      "consent",
+      "related to",
+      "autonomy"
+    ],
+    [
+      "create",
+      "of",
+      "organisms"
+    ],
+    [
+      "critics",
+      "argue",
+      "interventions"
+    ],
+    [
+      "debates",
+      "about",
+      "safety"
+    ],
+    [
+      "decisions",
+      "about",
+      "genetic information"
+    ],
+    [
+      "deliberate changes",
+      "to",
+      "genetic makeup"
+    ],
+    [
+      "designer babies",
+      "raises",
+      "commodification"
+    ],
+    [
+      "discussions",
+      "about",
+      "genetic engineering"
+    ],
+    [
+      "disparities",
+      "in",
+      "education"
+    ],
+    [
+      "disparities",
+      "in",
+      "health"
+    ],
+    [
+      "disparities",
+      "in",
+      "opportunities"
+    ],
+    [
+      "enhancements",
+      "perpetuating",
+      "disparities"
+    ],
+    [
+      "enhancements",
+      "reserved for",
+      "wealthy"
+    ],
+    [
+      "ethical concerns",
+      "must be",
+      "addressed"
+    ],
+    [
+      "ethical concerns",
+      "must be",
+      "considered"
+    ],
+    [
+      "gap",
+      "between",
+      "afford"
+    ],
+    [
+      "genetic engineering",
+      "has implications",
+      "altering"
+    ],
+    [
+      "genetic engineering",
+      "is advancing",
+      "potential"
+    ],
+    [
+      "genetic engineering",
+      "raises",
+      "equity"
+    ],
+    [
+      "genetic engineering",
+      "raises",
+      "ethical concerns"
+    ],
+    [
+      "genetic engineering",
+      "raises",
+      "social justice"
+    ],
+    [
+      "genetic engineering",
+      "to revolutionize",
+      "agriculture"
+    ],
+    [
+      "genetic engineering",
+      "to revolutionize",
+      "industries"
+    ],
+    [
+      "genetic engineering",
+      "to revolutionize",
+      "medicine"
+    ],
+    [
+      "genetic makeup",
+      "of",
+      "living organisms"
+    ],
+    [
+      "genetic testing",
+      "for",
+      "predictive purposes"
+    ],
+    [
+      "genetically modified organisms",
+      "have sparked",
+      "debates"
+    ],
+    [
+      "harness",
+      "potential",
+      "safeguarding"
+    ],
+    [
+      "human intervention",
+      "in",
+      "natural world"
+    ],
+    [
+      "impact",
+      "on",
+      "environment"
+    ],
+    [
+      "improving",
+      "health",
+      "well-being"
+    ],
+    [
+      "improving",
+      "of",
+      "food production"
+    ],
+    [
+      "infringing",
+      "on",
+      "rights"
+    ],
+    [
+      "interventions",
+      "could have",
+      "unforeseen consequences"
+    ],
+    [
+      "learn",
+      "about",
+      "complexities"
+    ],
+    [
+      "long-term implications",
+      "of",
+      "altering"
+    ],
+    [
+      "manipulate",
+      "of",
+      "genes"
+    ],
+    [
+      "manipulating",
+      "of",
+      "genes"
+    ],
+    [
+      "organisms",
+      "leading to",
+      "designer babies"
+    ],
+    [
+      "organisms",
+      "leading to",
+      "genetically engineered animals"
+    ],
+    [
+      "organisms",
+      "leading to",
+      "genetically modified crops"
+    ],
+    [
+      "organisms",
+      "with",
+      "characteristics"
+    ],
+    [
+      "organisms",
+      "with",
+      "traits"
+    ],
+    [
+      "playing god",
+      "cited in",
+      "discussions"
+    ],
+    [
+      "policymakers",
+      "must",
+      "research"
+    ],
+    [
+      "predictive purposes",
+      "raises",
+      "discrimination"
+    ],
+    [
+      "predictive purposes",
+      "raises",
+      "privacy"
+    ],
+    [
+      "questions",
+      "about",
+      "boundaries"
+    ],
+    [
+      "reflection",
+      "and",
+      "decision-making"
+    ],
+    [
+      "research",
+      "prioritize",
+      "safety"
+    ],
+    [
+      "rights",
+      "to make",
+      "decisions"
+    ],
+    [
+      "risk",
+      "of",
+      "infringing"
+    ],
+    [
+      "safeguarding",
+      "welfare",
+      "generations"
+    ],
+    [
+      "safety",
+      "and",
+      "well-being"
+    ],
+    [
+      "safety",
+      "for",
+      "human consumption"
+    ],
+    [
+      "safety",
+      "for",
+      "impact"
+    ],
+    [
+      "scientists",
+      "and",
+      "policymakers"
+    ],
+    [
+      "scientists",
+      "have power",
+      "create"
+    ],
+    [
+      "technologies",
+      "become",
+      "accessible"
+    ],
+    [
+      "technologies",
+      "become",
+      "advanced"
+    ],
+    [
+      "technology",
+      "holds promise",
+      "improving"
+    ],
+    [
+      "technology",
+      "holds promise",
+      "treating"
+    ],
+    [
+      "technology",
+      "used",
+      "ethically"
+    ],
+    [
+      "technology",
+      "used",
+      "responsibly"
+    ],
+    [
+      "treating",
+      "of",
+      "genetic disorders"
+    ],
+    [
+      "unforeseen consequences",
+      "creating",
+      "dilemmas"
+    ],
+    [
+      "unforeseen consequences",
+      "disrupting",
+      "ecosystems"
+    ],
+    [
+      "unforeseen consequences",
+      "leading to",
+      "harm"
+    ],
+    [
+      "unintended consequences",
+      "of",
+      "manipulation"
+    ],
+    [
+      "well-being",
+      "of",
+      "environment"
+    ],
+    [
+      "well-being",
+      "of",
+      "individuals"
+    ]
+  ],
+  "edges": [
+    "about",
+    "and",
+    "argue",
+    "become",
+    "between",
+    "cited in",
+    "could have",
+    "creating",
+    "disrupting",
+    "environmental",
+    "for",
+    "genetic",
+    "genetic engineering",
+    "has implications",
+    "have power",
+    "have sparked",
+    "health",
+    "holds promise",
+    "in",
+    "individual",
+    "is advancing",
+    "leading to",
+    "must",
+    "must be",
+    "of",
+    "on",
+    "perpetuating",
+    "potential",
+    "prioritize",
+    "raises",
+    "related to",
+    "reserved for",
+    "science",
+    "social",
+    "to",
+    "to make",
+    "to revolutionize",
+    "used",
+    "welfare",
+    "with"
+  ]
+}

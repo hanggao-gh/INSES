@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Human cloning is a controversial topic.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. genetic diseases and treatments.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Human cloning raises complex ethical questions.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Human cloning manipulates genetic material.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. genetic diseases and treatments.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cloning creates genetically identical copies of individuals.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. identical twins lead lives. identical twins share genetic makeup. genetic diseases and treatments.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning sparks fascination among scientists.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. fascination among policymakers. fascination among scientists. fascination among public. researchers could revolutionize healthcare. researchers could improve quality of life.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning raises concerns about individuality.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. individuality and personal identity. individuals suffering from conditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning raises concerns about personal identity.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. identity must be dignity. identity must be well-being. individuality and personal identity. identical twins lead lives. identical twins share genetic makeup.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning undermines the uniqueness of individuals.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. identical twins lead lives. identical twins share genetic makeup. individuality and personal identity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cloning could be misused for creating designer babies.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. genetic diseases and treatments. identical twins lead lives. identical twins share genetic makeup.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cloning could be misused for unethical experiments.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. purposes such as organ harvesting. purposes such as designer babies. purposes such as experiments. misused for purposes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning raises moral and religious questions.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning challenges the boundaries between humans and the divine.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cloning could have positive implications for medicine.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. patient-specific stem cells for regenerative therapies. genetic diseases and treatments.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning could revolutionize healthcare.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor. patient-specific stem cells for regenerative therapies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloning raises complex ethical considerations.",
+    "retrieved_context": "human cloning raises religious questions. human cloning raises exploitation. human cloning is controversial. human cloning raises moral. human cloning raises questions. questions about identity. questions about sanctity. questions about consequences. human cloning could have healthcare. human cloning could have medicine. questions about nature. human cloning raises abuse. hubristic endeavor challenges consequences. clone is replica. clone is affront. hubristic endeavor challenges boundaries. clone is violation. clone is copy. clone is person. clone is hubristic endeavor.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

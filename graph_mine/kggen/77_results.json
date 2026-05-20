@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Clouds are a natural phenomenon.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. condense of water vapor.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clouds can be observed in the sky.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clouds are formed through a complex process.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. air is dry. air encounter layers. air becomes saturated with water vapor. mechanism transforms water vapor. process is mechanism. air is cold. air rises and cools dew point. air near surface. air rises and cools condense. interaction of factors. process occurs when air. process involving interaction. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. condense of water vapor. differences in humidity. differences in temperature. differences lead to formation. layers with differences.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloud formation begins with the warming of the Earth's surface.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. warming of earth's surface. clouds are phenomenon. cirrus seen in clear. cirrus form at altitudes. cirrus composed of ice crystals. cumulus form when rapidly. cirrus are high. stratus leading to gradual. formation influencing clouds. stratus form in uniform. cumulus seen on sunny. cumulus develop into vertically. formation of cirrus. cumulus are white. formation of stratus. stratus are often gray. cumulus associated with fair. stratus are low-lying. stratus bring light rain. cirrus are delicate. cumulus form when quickly. cirrus are wispy. cumulus are fluffy. cirrus referred to as mare's tails. stratus cools slowly. clouds form through process. formation of cumulus. stratus lifted gently. stratus bring overcast. clouds observed in sky. cirrus are thin. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Warm air rises and cools as it moves higher into the atmosphere.",
+    "retrieved_context": "formation influencing clouds. formation of cumulus. air currents play a role in formation. air currents play significant. formation of cirrus. formation of stratus. warming of earth's surface. layers with differences. condense of water vapor. air is dry. water vapor into droplets. water vapor condense into ice crystals. air encounter layers. air becomes saturated with water vapor. air rises and cools dew point. air is cold. dew point is temperature. air near surface. air rises and cools condense. water vapor transforms into visible. formation influencing clouds. formation of cumulus. temperature play a role in formation. formation of cirrus. formation of stratus. clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Air reaches its dew point during cloud formation.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. dew point is temperature. temperature play a role in formation. layers with differences. condense of water vapor. air is dry. water vapor into droplets. water vapor condense into ice crystals. air encounter layers. air becomes saturated with water vapor. air rises and cools dew point. air is cold. dew point is temperature. air near surface. air rises and cools condense. water vapor transforms into visible. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. formation influencing clouds. formation of cumulus. air currents play a role in formation. air currents play significant. formation of cirrus. formation of stratus. formation influencing clouds. humidity play a role in formation. formation of cumulus. formation of cirrus. formation of stratus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water vapor in the air condenses into tiny droplets or ice crystals.",
+    "retrieved_context": "water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. condense of water vapor. formation influencing clouds. humidity play a role in formation. formation of cumulus. formation of cirrus. formation of stratus. clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. layers with differences. condense of water vapor. air is dry. water vapor into droplets. water vapor condense into ice crystals. air encounter layers. air becomes saturated with water vapor. air rises and cools dew point. air is cold. dew point is temperature. air near surface. air rises and cools condense. water vapor transforms into visible.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tiny droplets or crystals come together to form clouds.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. condense of water vapor.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Condensation is crucial to cloud formation.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. condense of water vapor. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. formation influencing clouds. humidity play a role in formation. formation of cumulus. formation of cirrus. formation of stratus. clouds are phenomenon. cirrus seen in clear. cirrus form at altitudes. cirrus composed of ice crystals. cumulus form when rapidly. cirrus are high. stratus leading to gradual. formation influencing clouds. stratus form in uniform. cumulus seen on sunny. cumulus develop into vertically. formation of cirrus. cumulus are white. formation of stratus. stratus are often gray. cumulus associated with fair. stratus are low-lying. stratus bring light rain. cirrus are delicate. cumulus form when quickly. cirrus are wispy. cumulus are fluffy. cirrus referred to as mare's tails. stratus cools slowly. clouds form through process. formation of cumulus. stratus lifted gently. stratus bring overcast. clouds observed in sky. cirrus are thin.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Temperature and humidity influence cloud formation.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. formation influencing clouds. humidity play a role in formation. formation of cumulus. formation of cirrus. formation of stratus. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. condense of water vapor.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Air currents play a significant role in cloud formation.",
+    "retrieved_context": "formation influencing clouds. formation of cumulus. air currents play a role in formation. air currents play significant. formation of cirrus. formation of stratus. clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. layers with differences. condense of water vapor. air is dry. water vapor into droplets. water vapor condense into ice crystals. air encounter layers. air becomes saturated with water vapor. air rises and cools dew point. air is cold. dew point is temperature. air near surface. air rises and cools condense. water vapor transforms into visible. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. clouds are phenomenon. cirrus seen in clear. cirrus form at altitudes. cirrus composed of ice crystals. cumulus form when rapidly. cirrus are high. stratus leading to gradual. formation influencing clouds. stratus form in uniform. cumulus seen on sunny. cumulus develop into vertically. formation of cirrus. cumulus are white. formation of stratus. stratus are often gray. cumulus associated with fair. stratus are low-lying. stratus bring light rain. cirrus are delicate. cumulus form when quickly. cirrus are wispy. cumulus are fluffy. cirrus referred to as mare's tails. stratus cools slowly. clouds form through process. formation of cumulus. stratus lifted gently. stratus bring overcast. clouds observed in sky. cirrus are thin. formation influencing clouds. humidity play a role in formation. formation of cumulus. formation of cirrus. formation of stratus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different types of clouds can be observed in the sky.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cumulus clouds form when warm air rises rapidly.",
+    "retrieved_context": "cumulus associated with fair. cumulus seen on sunny. cumulus develop into vertically. cumulus form when quickly. cumulus form when rapidly. cumulus are fluffy. cumulus are white. clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. cumulonimbus bring thunderstorms. cumulonimbus bring heavy rain. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible. condense of water vapor.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Stratus clouds are low-lying clouds.",
+    "retrieved_context": "stratus are low-lying. stratus bring light rain. stratus form in uniform. stratus leading to gradual. stratus lifted gently. stratus bring overcast. stratus cools slowly. stratus are often gray. clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cirrus clouds are high, wispy clouds.",
+    "retrieved_context": "clouds are phenomenon. clouds form through process. process is mechanism. clouds observed in sky. process occurs when air. process involving interaction. cirrus seen in clear. cirrus form at altitudes. cirrus composed of ice crystals. cirrus are delicate. cirrus are wispy. cirrus are high. cirrus referred to as mare's tails. cirrus are thin. mare's tails due to appearance. cumulonimbus bring thunderstorms. cumulonimbus bring heavy rain. water vapor into droplets. water vapor condense into ice crystals. water vapor transforms into visible.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

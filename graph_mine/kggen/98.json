@@ -1,0 +1,561 @@
+{
+  "entities": [
+    "accessibility",
+    "advance",
+    "advanced gaming technology",
+    "arenas",
+    "audience",
+    "audiences",
+    "augmented reality",
+    "availability",
+    "broadcasting",
+    "career option",
+    "cheer",
+    "community",
+    "companies",
+    "compete",
+    "competitions",
+    "competitive gaming",
+    "competitive gaming leagues",
+    "competitive modes",
+    "conclusion",
+    "connect",
+    "connectivity",
+    "crowds",
+    "decade",
+    "detect",
+    "developers",
+    "dota 2",
+    "electronic sports",
+    "engage",
+    "engagement",
+    "entertainment",
+    "entertainment landscape",
+    "enthusiastic fans",
+    "espn",
+    "esports",
+    "essay",
+    "events",
+    "exposure",
+    "factors",
+    "fans",
+    "features",
+    "flagship titles",
+    "form of entertainment",
+    "fortnite",
+    "future",
+    "future prospects",
+    "game companies",
+    "game developers",
+    "gameplay",
+    "gamers",
+    "games",
+    "gaming enthusiasts",
+    "gaming industry",
+    "global phenomenon",
+    "global scale",
+    "growth",
+    "high-speed internet",
+    "hobby",
+    "immersive",
+    "impact",
+    "industry",
+    "interactive gaming experiences",
+    "investment",
+    "league of legends",
+    "legitimizing",
+    "mainstream acceptance",
+    "monetize",
+    "online gaming platforms",
+    "opportunities",
+    "organization",
+    "overwatch",
+    "participating",
+    "personal brands",
+    "personalities",
+    "play",
+    "players",
+    "popularity",
+    "potential",
+    "prey",
+    "prize pools",
+    "professional players",
+    "professionalism",
+    "proliferation",
+    "public",
+    "publishers",
+    "real-time",
+    "recognition",
+    "revenue",
+    "revolutionize",
+    "rise",
+    "sector",
+    "sharks",
+    "shift",
+    "skills",
+    "social media",
+    "space",
+    "sponsorships",
+    "sports networks",
+    "stadiums",
+    "streaming platforms",
+    "streaming services",
+    "success",
+    "supporting",
+    "talented individuals",
+    "tbs",
+    "teams",
+    "technologies",
+    "technology",
+    "top players",
+    "tournaments",
+    "twitch",
+    "viewers",
+    "virtual reality",
+    "watch",
+    "world",
+    "years",
+    "youtube gaming"
+  ],
+  "relations": [
+    [
+      "availability",
+      "of",
+      "advanced gaming technology"
+    ],
+    [
+      "availability",
+      "of",
+      "high-speed internet"
+    ],
+    [
+      "career option",
+      "for",
+      "talented individuals"
+    ],
+    [
+      "community",
+      "of",
+      "fans"
+    ],
+    [
+      "community",
+      "of",
+      "players"
+    ],
+    [
+      "competitions",
+      "offer",
+      "exposure"
+    ],
+    [
+      "competitions",
+      "offer",
+      "prize pools"
+    ],
+    [
+      "competitions",
+      "offer",
+      "sponsorships"
+    ],
+    [
+      "conclusion",
+      "rise of",
+      "essay"
+    ],
+    [
+      "connectivity",
+      "created",
+      "community"
+    ],
+    [
+      "developers",
+      "prioritizing",
+      "features"
+    ],
+    [
+      "enthusiastic fans",
+      "cheer",
+      "players"
+    ],
+    [
+      "enthusiastic fans",
+      "cheer",
+      "teams"
+    ],
+    [
+      "esports",
+      "also known as",
+      "electronic sports"
+    ],
+    [
+      "esports",
+      "experienced",
+      "rise"
+    ],
+    [
+      "essay",
+      "explore",
+      "factors"
+    ],
+    [
+      "essay",
+      "explore",
+      "impact"
+    ],
+    [
+      "events",
+      "sell out",
+      "arenas"
+    ],
+    [
+      "events",
+      "sell out",
+      "stadiums"
+    ],
+    [
+      "exposure",
+      "for",
+      "teams"
+    ],
+    [
+      "exposure",
+      "for",
+      "top players"
+    ],
+    [
+      "factors",
+      "contributing to",
+      "rise"
+    ],
+    [
+      "fans",
+      "engage with",
+      "games"
+    ],
+    [
+      "fans",
+      "engage with",
+      "professional players"
+    ],
+    [
+      "fans",
+      "supporting",
+      "essay"
+    ],
+    [
+      "flagship titles",
+      "such as",
+      "dota 2"
+    ],
+    [
+      "flagship titles",
+      "such as",
+      "league of legends"
+    ],
+    [
+      "flagship titles",
+      "such as",
+      "overwatch"
+    ],
+    [
+      "form of entertainment",
+      "recognized as",
+      "essay"
+    ],
+    [
+      "fortnite",
+      "integrated",
+      "competitive modes"
+    ],
+    [
+      "fortnite",
+      "integrated",
+      "events"
+    ],
+    [
+      "future",
+      "of",
+      "competitive gaming"
+    ],
+    [
+      "future",
+      "of",
+      "essay"
+    ],
+    [
+      "future prospects",
+      "for",
+      "sector"
+    ],
+    [
+      "game companies",
+      "drive",
+      "engagement"
+    ],
+    [
+      "game companies",
+      "drive",
+      "revenue"
+    ],
+    [
+      "game developers",
+      "invest",
+      "competitive gaming leagues"
+    ],
+    [
+      "game developers",
+      "invest",
+      "tournaments"
+    ],
+    [
+      "gamers",
+      "connect",
+      "real-time"
+    ],
+    [
+      "global phenomenon",
+      "attracting",
+      "viewers"
+    ],
+    [
+      "global phenomenon",
+      "generating",
+      "revenue"
+    ],
+    [
+      "growth",
+      "driving",
+      "accessibility"
+    ],
+    [
+      "growth",
+      "driving",
+      "availability"
+    ],
+    [
+      "hobby",
+      "for",
+      "gaming enthusiasts"
+    ],
+    [
+      "hobby",
+      "transformed into",
+      "global phenomenon"
+    ],
+    [
+      "immersive",
+      "and",
+      "interactive gaming experiences"
+    ],
+    [
+      "impact",
+      "on",
+      "developers"
+    ],
+    [
+      "impact",
+      "on",
+      "gaming industry"
+    ],
+    [
+      "impact",
+      "on",
+      "publishers"
+    ],
+    [
+      "mainstream acceptance",
+      "of",
+      "essay"
+    ],
+    [
+      "opportunities",
+      "for",
+      "companies"
+    ],
+    [
+      "opportunities",
+      "for",
+      "players"
+    ],
+    [
+      "opportunities",
+      "for",
+      "teams"
+    ],
+    [
+      "opportunities",
+      "in",
+      "space"
+    ],
+    [
+      "organization",
+      "within",
+      "industry"
+    ],
+    [
+      "players",
+      "participating in",
+      "essay"
+    ],
+    [
+      "popularity",
+      "over the past",
+      "decade"
+    ],
+    [
+      "potential",
+      "of",
+      "engagement"
+    ],
+    [
+      "potential",
+      "of",
+      "revenue"
+    ],
+    [
+      "professional players",
+      "monetize",
+      "personalities"
+    ],
+    [
+      "professional players",
+      "monetize",
+      "skills"
+    ],
+    [
+      "professionalism",
+      "within",
+      "industry"
+    ],
+    [
+      "proliferation",
+      "of",
+      "online gaming platforms"
+    ],
+    [
+      "proliferation",
+      "of",
+      "streaming services"
+    ],
+    [
+      "recognition",
+      "of",
+      "essay"
+    ],
+    [
+      "rise",
+      "of",
+      "competitive gaming"
+    ],
+    [
+      "shift",
+      "in",
+      "entertainment landscape"
+    ],
+    [
+      "social media",
+      "enabled",
+      "personal brands"
+    ],
+    [
+      "sports networks",
+      "broadcasting",
+      "events"
+    ],
+    [
+      "sports networks",
+      "like",
+      "espn"
+    ],
+    [
+      "sports networks",
+      "like",
+      "tbs"
+    ],
+    [
+      "streaming platforms",
+      "enabled",
+      "personal brands"
+    ],
+    [
+      "streaming services",
+      "like",
+      "twitch"
+    ],
+    [
+      "streaming services",
+      "like",
+      "youtube gaming"
+    ],
+    [
+      "success",
+      "of",
+      "fortnite"
+    ],
+    [
+      "technologies",
+      "revolutionize",
+      "play"
+    ],
+    [
+      "technologies",
+      "revolutionize",
+      "watch"
+    ],
+    [
+      "technology",
+      "continues to",
+      "advance"
+    ],
+    [
+      "virtual reality",
+      "and",
+      "augmented reality"
+    ],
+    [
+      "years",
+      "to come",
+      "essay"
+    ]
+  ],
+  "edges": [
+    "also known as",
+    "and",
+    "attracting",
+    "broadcasting",
+    "cheer",
+    "connect",
+    "continues to",
+    "contributing to",
+    "created",
+    "drive",
+    "driving",
+    "enabled",
+    "engage with",
+    "experienced",
+    "explore",
+    "for",
+    "generating",
+    "in",
+    "integrated",
+    "invest",
+    "like",
+    "monetize",
+    "of",
+    "offer",
+    "on",
+    "over the past",
+    "participating in",
+    "prioritizing",
+    "recognized as",
+    "revolutionize",
+    "rise of",
+    "sell out",
+    "such as",
+    "supporting",
+    "to come",
+    "transformed into",
+    "within"
+  ]
+}

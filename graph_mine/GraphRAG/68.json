@@ -1,0 +1,120 @@
+{
+  "entities": [
+    "WILHELM GRIMM",
+    "OVID",
+    "GRIMM'S FAIRY TALES",
+    "EVIL QUEEN",
+    "BROTHERS GRIMM",
+    "CANNIBALISTIC WITCH",
+    "SNOW WHITE",
+    "SEVEN DWARFS",
+    "CHARLES PERRAULT",
+    "JACOB GRIMM",
+    "BEAUTY AND THE BEAST",
+    "RHODOPIS",
+    "HANSEL AND GRETEL",
+    "HANDSOME PRINCE",
+    "PYGMALION AND GALATEA",
+    "CINDERELLA"
+  ],
+  "relations": [
+    [
+      "BROTHERS GRIMM",
+      "The Brothers Grimm collected and published the tales included in Grimm's Fairy Tales",
+      "GRIMM'S FAIRY TALES"
+    ],
+    [
+      "BROTHERS GRIMM",
+      "The Brothers Grimm are renowned for collecting and publishing the most well-known version of the fairytale \"Snow White.\" This story, among others, has been attributed to their efforts in preserving folklore and bringing it to a wider audience. Their collection has played a pivotal role in the enduring popularity of \"Snow White\" and its place in cultural history.",
+      "SNOW WHITE"
+    ],
+    [
+      "BROTHERS GRIMM",
+      "The fairytale of \"Hansel and Gretel\" was collected and published by the Brothers Grimm. This story, which is among the numerous folktales that the Brothers Grimm brought together from various sources, has become one of their most famous and enduring tales.",
+      "HANSEL AND GRETEL"
+    ],
+    [
+      "BROTHERS GRIMM",
+      "The Brothers Grimm collected the fairytale of \"Cinderella\"",
+      "CINDERELLA"
+    ],
+    [
+      "GRIMM'S FAIRY TALES",
+      "Jacob Grimm, as one of the Brothers Grimm, played a crucial role in the collection and publication of Grimm's Fairy Tales",
+      "JACOB GRIMM"
+    ],
+    [
+      "GRIMM'S FAIRY TALES",
+      "Wilhelm Grimm, as one of the Brothers Grimm, played a crucial role in the collection and publication of Grimm's Fairy Tales",
+      "WILHELM GRIMM"
+    ],
+    [
+      "CINDERELLA",
+      "The story of Cinderella, including its ancient Greek version involving Rhodopis, has been told across different cultures",
+      "RHODOPIS"
+    ],
+    [
+      "CINDERELLA",
+      "Charles Perrault is credited with popularizing the version of Cinderella that includes iconic elements such as the fairy godmother, glass slipper, and the pivotal stroke of midnight. He published this widely known version of Cinderella in 1697, thereby cementing its place in the annals of classic fairy tales. Through his work, Perrault has ensured that his rendition of Cinderella's story, with its magical transformations and themes of virtue rewarded, has become a beloved tale across generations.",
+      "CHARLES PERRAULT"
+    ],
+    [
+      "SNOW WHITE",
+      "Though Charles Perrault and the Snow White tale are part of fairy tale history, Perrault is not directly linked to Snow White but to other fairy tales like Cinderella",
+      "CHARLES PERRAULT"
+    ],
+    [
+      "SNOW WHITE",
+      "The Evil Queen is the stepmother of Snow White and the antagonist of the story",
+      "EVIL QUEEN"
+    ],
+    [
+      "SNOW WHITE",
+      "The Seven Dwarfs help Snow White escape her wicked stepmother",
+      "SEVEN DWARFS"
+    ],
+    [
+      "SNOW WHITE",
+      "The Handsome Prince helps Snow White find her happily ever after",
+      "HANDSOME PRINCE"
+    ],
+    [
+      "HANSEL AND GRETEL",
+      "Hansel and Gretel outsmart the Cannibalistic Witch to escape",
+      "CANNIBALISTIC WITCH"
+    ],
+    [
+      "WILHELM GRIMM",
+      "Jacob and Wilhelm Grimm were brothers who worked together to collect and publish fairytales",
+      "JACOB GRIMM"
+    ],
+    [
+      "BEAUTY AND THE BEAST",
+      "The tale of \"Beauty and the Beast\" has origins that can be traced back to Ovid's myth of Pygmalion and Galatea",
+      "OVID"
+    ],
+    [
+      "BEAUTY AND THE BEAST",
+      "The myth of Pygmalion and Galatea influenced the theme of love and transformation in \"Beauty and the Beast\"",
+      "PYGMALION AND GALATEA"
+    ]
+  ],
+  "edges": [
+    "The Brothers Grimm collected and published the tales included in Grimm's Fairy Tales",
+    "The Brothers Grimm are renowned for collecting and publishing the most well-known version of the fairytale \"Snow White.\" This story, among others, has been attributed to their efforts in preserving folklore and bringing it to a wider audience. Their collection has played a pivotal role in the enduring popularity of \"Snow White\" and its place in cultural history.",
+    "The fairytale of \"Hansel and Gretel\" was collected and published by the Brothers Grimm. This story, which is among the numerous folktales that the Brothers Grimm brought together from various sources, has become one of their most famous and enduring tales.",
+    "The Brothers Grimm collected the fairytale of \"Cinderella\"",
+    "Jacob Grimm, as one of the Brothers Grimm, played a crucial role in the collection and publication of Grimm's Fairy Tales",
+    "Wilhelm Grimm, as one of the Brothers Grimm, played a crucial role in the collection and publication of Grimm's Fairy Tales",
+    "The story of Cinderella, including its ancient Greek version involving Rhodopis, has been told across different cultures",
+    "Charles Perrault is credited with popularizing the version of Cinderella that includes iconic elements such as the fairy godmother, glass slipper, and the pivotal stroke of midnight. He published this widely known version of Cinderella in 1697, thereby cementing its place in the annals of classic fairy tales. Through his work, Perrault has ensured that his rendition of Cinderella's story, with its magical transformations and themes of virtue rewarded, has become a beloved tale across generations.",
+    "Though Charles Perrault and the Snow White tale are part of fairy tale history, Perrault is not directly linked to Snow White but to other fairy tales like Cinderella",
+    "The Evil Queen is the stepmother of Snow White and the antagonist of the story",
+    "The Seven Dwarfs help Snow White escape her wicked stepmother",
+    "The Handsome Prince helps Snow White find her happily ever after",
+    "Hansel and Gretel outsmart the Cannibalistic Witch to escape",
+    "Jacob and Wilhelm Grimm were brothers who worked together to collect and publish fairytales",
+    "The tale of \"Beauty and the Beast\" has origins that can be traced back to Ovid's myth of Pygmalion and Galatea",
+    "The myth of Pygmalion and Galatea influenced the theme of love and transformation in \"Beauty and the Beast\""
+  ]
+}

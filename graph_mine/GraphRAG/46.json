@@ -1,0 +1,194 @@
+{
+  "entities": [
+    "AUDREY HEPBURN",
+    "MARILYN MONROE",
+    "CINDY CRAWFORD",
+    "INDUSTRIAL REVOLUTION",
+    "TIKTOK",
+    "BELL-BOTTOMS",
+    "FASHION MAGAZINES",
+    "CULTURAL MOVEMENTS",
+    "SUSTAINABLE FASHION",
+    "MASS PRODUCTION TECHNIQUES",
+    "CATHOLIC CHURCH",
+    "MODERN ERA",
+    "WORLD WAR II",
+    "MIDDLE AGES",
+    "GREAT DEPRESSION",
+    "POLITICAL MOVEMENTS",
+    "ROARING TWENTIES",
+    "MINI SKIRTS",
+    "YOUTH CULTURE",
+    "DEPARTMENT STORES",
+    "NOBLES AND ROYALTY",
+    "EGYPT",
+    "RENAISSANCE",
+    "ROME",
+    "PSYCHEDELIC PRINTS",
+    "GREECE",
+    "SOCIAL MOVEMENTS",
+    "INSTAGRAM",
+    "PEASANTS",
+    "NAOMI CAMPBELL"
+  ],
+  "relations": [
+    [
+      "EGYPT",
+      "Fashion trends from Egypt influenced the resurgence of interest in art and culture during the Renaissance",
+      "RENAISSANCE"
+    ],
+    [
+      "GREECE",
+      "Fashion trends from Greece influenced the resurgence of interest in art and culture during the Renaissance",
+      "RENAISSANCE"
+    ],
+    [
+      "ROME",
+      "Fashion trends from Rome influenced the resurgence of interest in art and culture during the Renaissance",
+      "RENAISSANCE"
+    ],
+    [
+      "CATHOLIC CHURCH",
+      "The Catholic Church influenced fashion trends during the Middle Ages through sumptuary laws",
+      "MIDDLE AGES"
+    ],
+    [
+      "CATHOLIC CHURCH",
+      "The Catholic Church's sumptuary laws regulated the luxurious attire of nobles and royalty during the Middle Ages",
+      "NOBLES AND ROYALTY"
+    ],
+    [
+      "CATHOLIC CHURCH",
+      "The Catholic Church's sumptuary laws affected the simpler attire of peasants during the Middle Ages",
+      "PEASANTS"
+    ],
+    [
+      "INDUSTRIAL REVOLUTION",
+      "The Industrial Revolution led to significant changes in fashion trends leading into the modern era",
+      "MODERN ERA"
+    ],
+    [
+      "INDUSTRIAL REVOLUTION",
+      "Department stores emerged as a result of the mass production techniques introduced during the Industrial Revolution",
+      "DEPARTMENT STORES"
+    ],
+    [
+      "INDUSTRIAL REVOLUTION",
+      "Fashion magazines spread due to the democratization of fashion that occurred during the Industrial Revolution",
+      "FASHION MAGAZINES"
+    ],
+    [
+      "INDUSTRIAL REVOLUTION",
+      "Mass production techniques were a direct outcome of the technological advancements of the Industrial Revolution",
+      "MASS PRODUCTION TECHNIQUES"
+    ],
+    [
+      "MIDDLE AGES",
+      "Nobles and royalty wore garments made from expensive fabrics during the Middle Ages, reflecting their high social status",
+      "NOBLES AND ROYALTY"
+    ],
+    [
+      "MIDDLE AGES",
+      "Peasants wore humble clothing made from rougher materials during the Middle Ages, reflecting their lower social status",
+      "PEASANTS"
+    ],
+    [
+      "FASHION MAGAZINES",
+      "Audrey Hepburn's styles were popularized through fashion magazines, influencing the general population",
+      "AUDREY HEPBURN"
+    ],
+    [
+      "FASHION MAGAZINES",
+      "Marilyn Monroe's glamorous styles were disseminated through fashion magazines, impacting public fashion trends",
+      "MARILYN MONROE"
+    ],
+    [
+      "ROARING TWENTIES",
+      "The Roaring Twenties reflected a shift in social and cultural norms that was later echoed by the youth culture of the 1960s and 1970s",
+      "YOUTH CULTURE"
+    ],
+    [
+      "ROARING TWENTIES",
+      "Social movements were integral to the cultural shifts that defined the Roaring Twenties and its fashion trends",
+      "SOCIAL MOVEMENTS"
+    ],
+    [
+      "GREAT DEPRESSION",
+      "The conservative fashion of the Great Depression era was followed by a resurgence of luxury after World War II",
+      "WORLD WAR II"
+    ],
+    [
+      "GREAT DEPRESSION",
+      "Political movements during the Great Depression influenced the conservative fashion trends of the 1930s",
+      "POLITICAL MOVEMENTS"
+    ],
+    [
+      "YOUTH CULTURE",
+      "Cultural movements heavily influenced the youth culture of the 1960s and 1970s, driving fashion trends like mini skirts and psychedelic prints",
+      "CULTURAL MOVEMENTS"
+    ],
+    [
+      "YOUTH CULTURE",
+      "Mini skirts were emblematic of the youth culture's influence on fashion during the 1960s and 1970s",
+      "MINI SKIRTS"
+    ],
+    [
+      "YOUTH CULTURE",
+      "Bell-bottoms were popularized by the youth culture, reflecting the era's spirit of rebellion",
+      "BELL-BOTTOMS"
+    ],
+    [
+      "YOUTH CULTURE",
+      "Psychedelic prints were a hallmark of the youth culture's experimental approach to fashion in the 1960s and 1970s",
+      "PSYCHEDELIC PRINTS"
+    ],
+    [
+      "CINDY CRAWFORD",
+      "Both Cindy Crawford and Naomi Campbell were influential supermodels in the 1990s, helping to popularize high-end fashion",
+      "NAOMI CAMPBELL"
+    ],
+    [
+      "INSTAGRAM",
+      "Both Instagram and TikTok have revolutionized the way people discover and engage with fashion, influencing trends and consumer behavior",
+      "TIKTOK"
+    ],
+    [
+      "INSTAGRAM",
+      "Sustainable fashion practices have been promoted and gained traction through platforms like Instagram, highlighting a shift towards environmental consciousness in fashion",
+      "SUSTAINABLE FASHION"
+    ],
+    [
+      "TIKTOK",
+      "Sustainable fashion practices have been promoted and gained traction through platforms like TikTok, indicating a significant shift in how fashion is consumed and perceived",
+      "SUSTAINABLE FASHION"
+    ]
+  ],
+  "edges": [
+    "Fashion trends from Egypt influenced the resurgence of interest in art and culture during the Renaissance",
+    "Fashion trends from Greece influenced the resurgence of interest in art and culture during the Renaissance",
+    "Fashion trends from Rome influenced the resurgence of interest in art and culture during the Renaissance",
+    "The Catholic Church influenced fashion trends during the Middle Ages through sumptuary laws",
+    "The Catholic Church's sumptuary laws regulated the luxurious attire of nobles and royalty during the Middle Ages",
+    "The Catholic Church's sumptuary laws affected the simpler attire of peasants during the Middle Ages",
+    "The Industrial Revolution led to significant changes in fashion trends leading into the modern era",
+    "Department stores emerged as a result of the mass production techniques introduced during the Industrial Revolution",
+    "Fashion magazines spread due to the democratization of fashion that occurred during the Industrial Revolution",
+    "Mass production techniques were a direct outcome of the technological advancements of the Industrial Revolution",
+    "Nobles and royalty wore garments made from expensive fabrics during the Middle Ages, reflecting their high social status",
+    "Peasants wore humble clothing made from rougher materials during the Middle Ages, reflecting their lower social status",
+    "Audrey Hepburn's styles were popularized through fashion magazines, influencing the general population",
+    "Marilyn Monroe's glamorous styles were disseminated through fashion magazines, impacting public fashion trends",
+    "The Roaring Twenties reflected a shift in social and cultural norms that was later echoed by the youth culture of the 1960s and 1970s",
+    "Social movements were integral to the cultural shifts that defined the Roaring Twenties and its fashion trends",
+    "The conservative fashion of the Great Depression era was followed by a resurgence of luxury after World War II",
+    "Political movements during the Great Depression influenced the conservative fashion trends of the 1930s",
+    "Cultural movements heavily influenced the youth culture of the 1960s and 1970s, driving fashion trends like mini skirts and psychedelic prints",
+    "Mini skirts were emblematic of the youth culture's influence on fashion during the 1960s and 1970s",
+    "Bell-bottoms were popularized by the youth culture, reflecting the era's spirit of rebellion",
+    "Psychedelic prints were a hallmark of the youth culture's experimental approach to fashion in the 1960s and 1970s",
+    "Both Cindy Crawford and Naomi Campbell were influential supermodels in the 1990s, helping to popularize high-end fashion",
+    "Both Instagram and TikTok have revolutionized the way people discover and engage with fashion, influencing trends and consumer behavior",
+    "Sustainable fashion practices have been promoted and gained traction through platforms like Instagram, highlighting a shift towards environmental consciousness in fashion",
+    "Sustainable fashion practices have been promoted and gained traction through platforms like TikTok, indicating a significant shift in how fashion is consumed and perceived"
+  ]
+}

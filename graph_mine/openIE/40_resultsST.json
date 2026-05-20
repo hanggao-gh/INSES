@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Pirates captured the imagination of people for centuries.",
+    "retrieved_context": "known pirates were Sea Peoples. Sea Peoples group of seafaring raiders. earliest pirates were Sea Peoples. Sea Peoples group of seafaring raiders. earliest known pirates were Sea Peoples. Sea Peoples group of seafaring raiders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pirate activity dates back to the 14th century BC.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Sea Peoples were among the earliest known pirates.",
+    "retrieved_context": "earliest known pirates were Sea Peoples. Sea Peoples group of seafaring raiders. earliest pirates were Sea Peoples. Sea Peoples group of seafaring raiders. known pirates were Sea Peoples. Sea Peoples group of seafaring raiders. early pirates were known for their attacks on merchant ships. early pirates were known for their swift attacks. early pirates were known for their attacks. early pirates were known for their swift attacks on merchant ships. early pirates were known.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Barbary pirates operated out of North Africa.",
+    "retrieved_context": "Barbary pirates operating out North Africa. Barbary pirates became notorious. Barbary pirates became notorious for their raids on ships. Barbary pirates became notorious for their raids. Barbary pirates became notorious for their raids on European ships. known pirates were Sea Peoples. Sea Peoples group of seafaring raiders. earliest known pirates were Sea Peoples. Sea Peoples group of seafaring raiders. earliest pirates were Sea Peoples. Sea Peoples group of seafaring raiders.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Golden Age of Piracy spanned the late 17th to early 18th centuries.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blackbeard, Captain Kidd, and Calico Jack were legendary pirates.",
+    "retrieved_context": "known pirates were Sea Peoples. Sea Peoples group of seafaring raiders. early pirates were known for their attacks on merchant ships. early pirates were known for their swift attacks. early pirates were known for their attacks. early pirates were known for their swift attacks on merchant ships. early pirates were known.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pirates preyed on Spanish treasure ships during the decline of the Spanish Empire.",
+    "retrieved_context": "earliest pirates were Sea Peoples. Sea Peoples group of seafaring raiders. earliest known pirates were Sea Peoples. Sea Peoples group of seafaring raiders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The lure of gold and silver attracted men to the pirate life.",
+    "retrieved_context": "known pirates were Sea Peoples. Sea Peoples group of seafaring raiders. earliest pirates were Sea Peoples. Sea Peoples group of seafaring raiders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pirate crews operated under a strict code of conduct known as the Pirate Code.",
+    "retrieved_context": "Pirate crews operated under code. Pirate crews operated under strict code of conduct known. Pirate crews operated under code known. Pirate crews operated under strict code known as Pirate Code. Pirate crews operated under strict code of conduct known as Pirate Code. Pirate crews operated under strict code of conduct. Pirate crews operated under strict code known. Pirate crews operated under strict code. Pirate crews operated under code of conduct known. Pirate crews operated under code known as Pirate Code. Pirate crews operated under code of conduct. Pirate crews operated under code of conduct known as Pirate Code. Pirate Code maintain order. Pirate Code maintain order aboard pirate ships. Pirate Code maintain order aboard pirate ships ensuring. Pirate Code maintain order ensuring. pirate activity is in Caribbean.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pirates were often viewed as heroes by common people.",
+    "retrieved_context": "known pirates were Sea Peoples. Sea Peoples group of seafaring raiders. earliest known pirates were Sea Peoples. Sea Peoples group of seafaring raiders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "European powers cracked down on pirate activity in the early 18th century.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Naval patrols and anti-piracy laws helped curb piracy.",
+    "retrieved_context": "pirate activity is in Caribbean. Pirate crews operated under code. Pirate crews operated under strict code of conduct known. Pirate crews operated under code known. Pirate crews operated under strict code known as Pirate Code. Pirate crews operated under strict code of conduct known as Pirate Code. Pirate crews operated under strict code of conduct. Pirate crews operated under strict code known. Pirate crews operated under strict code. Pirate crews operated under code of conduct known. Pirate crews operated under code known as Pirate Code. Pirate crews operated under code of conduct. Pirate crews operated under code of conduct known as Pirate Code. known pirates were Sea Peoples. Sea Peoples group of seafaring raiders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The legacy of pirates endures in popular culture and folklore.",
+    "retrieved_context": "known pirates were Sea Peoples. Sea Peoples group of seafaring raiders. early pirates were known for their attacks on merchant ships. early pirates were known for their swift attacks. early pirates were known for their attacks. early pirates were known for their swift attacks on merchant ships. early pirates were known.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pirates have been immortalized in books, movies, and television shows.",
+    "retrieved_context": "known pirates were Sea Peoples. Sea Peoples group of seafaring raiders.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The history of pirates spans centuries and continents.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

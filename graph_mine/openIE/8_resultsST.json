@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Space exploration is a fascinating and groundbreaking endeavor.",
+    "retrieved_context": "future holds promise of exploration. space exploration has come with significant achievements in humans. space exploration has come way with achievements in sending humans. space exploration holds endless possibilities. space exploration has come way with achievements in humans. future holds promise of further exploration. space exploration has come long way. future holds promise. space exploration has come with achievements in humans to moon. significant achievements is in sending humans to moon. possibilities are truly endless. space exploration holds possibilities for discovery. space exploration continued progress with launch. future holds promise of further exploration of our solar system. space exploration holds possibilities for further discovery. space exploration continued to progress with launch. space exploration has come way since days. space exploration has come since early days. space exploration holds possibilities. space exploration continued to progress with launch of space probes. space exploration has come since days of space race. space exploration continued progress. space exploration has come In conclusion. future holds promise of exploration of our solar system. space exploration continued Throughout decades. space exploration has come way with achievements. space exploration has come since early days of space race. space exploration has come way with significant achievements in sending humans. space exploration progress with launch of space probes. space exploration holds endless possibilities for further discovery. space exploration has become effort. space exploration continued to progress. space exploration has become collaborative effort. space exploration holds endless possibilities for discovery. space exploration has come way. space exploration has come way with significant achievements in humans to moon. future holds promise of exploration of our system. space exploration has come with significant achievements in sending humans to moon. space exploration progress with launch. space exploration has become In present day. space exploration Looking to future. possibilities are endless. space exploration continued progress with launch of space probes. space exploration continued Throughout following decades. space exploration has come way with achievements in sending humans to moon. space exploration has come way with significant achievements. space exploration has become In day. future holds promise of further exploration of our system. space exploration effort involving multiple countries. space exploration effort involving countries.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Humans have constantly pushed the boundaries of what is possible in space.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Soviet Union launched the first artificial satellite, Sputnik 1, in 1957.",
+    "retrieved_context": "Soviet Union launched Sputnik 1. Soviet Union launched first artificial satellite. Soviet Union launched artificial satellite.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space race began between the United States and the Soviet Union.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Yuri Gagarin became the first human to orbit the Earth in 1961.",
+    "retrieved_context": "Yuri Gagarin became human to orbit. Yuri Gagarin became In 1961. Yuri Gagarin became first human to orbit. Yuri Gagarin became first human. Yuri Gagarin became human. Yuri Gagarin became Earth.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to walk on the moon in 1969.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space probes were launched to study other planets in our solar system.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed in the late 1990s.",
+    "retrieved_context": "ISS continues to serve for conducting experiments in microgravity technologies. experiments search for signs of past life on red planet. ISS serve for experiments. ISS continues to serve. experiments search for signs. experiments search for signs on red planet. ISS continues serve as platform for experiments. ISS continues serve as platform for conducting experiments in microgravity technologies for future space missions. ISS continues serve for experiments in microgravity technologies. ISS continues to serve as platform for experiments in microgravity technologies. ISS continues to serve as platform for experiments in microgravity technologies for future space missions. ISS continues serve for experiments. ISS continues serve as platform for experiments in microgravity technologies for future space missions. ISS continues serve for experiments in microgravity technologies for future space missions. ISS serve for experiments in microgravity technologies. ISS continues to serve for experiments in microgravity technologies. ISS continues serve for conducting experiments in microgravity technologies. ISS continues serve as platform for conducting experiments. ISS continues to serve for experiments in microgravity technologies for future space missions. ISS continues serve as platform. ISS continues to serve as platform for experiments. ISS continues serve. experiments search for signs on planet. ISS serve for conducting experiments in microgravity technologies. ISS continues to serve for experiments. ISS continues to serve as platform. ISS serve as platform. experiments search for signs of past life. ISS serve for conducting experiments in microgravity technologies for future space missions. ISS continues to serve as platform for conducting experiments in microgravity technologies. ISS continues to serve for conducting experiments in microgravity technologies for future space missions. ISS continues serve as platform for experiments in microgravity technologies. experiments search for signs of past life on planet. ISS continues to serve as platform for conducting experiments in microgravity technologies for future space missions. ISS continues serve for conducting experiments. ISS continues serve as platform for conducting experiments in microgravity technologies. ISS serve for experiments in microgravity technologies for future space missions. conducting experiments is in microgravity technologies for future space missions. ISS serve for conducting experiments. ISS continues to serve as platform for conducting experiments. ISS continues to serve for conducting experiments. ISS continues serve for conducting experiments in microgravity technologies for future space missions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX developed reusable rockets, reducing the cost of launching payloads into space.",
+    "retrieved_context": "SpaceX 's plans send humans in years. SpaceX 's plans send humans in coming years. SpaceX 's plans send humans to Mars. SpaceX 's plans send humans. SpaceX has plans. spacecraft Advancements such development. development has significantly reduced cost of payloads. development has significantly reduced cost of launching payloads. spacecraft Advancements such development of ion propulsion systems. spacecraft Advancements in space technology. development has significantly reduced cost into space. development has reduced cost.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "NASA's Perseverance rover landed on Mars in February 2021.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX plans to send humans to Mars in the coming years.",
+    "retrieved_context": "SpaceX 's plans send humans in years. SpaceX 's plans send humans in coming years. SpaceX 's plans send humans to Mars. SpaceX 's plans send humans. SpaceX has plans.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Missions to explore the outer planets of our solar system are being planned.",
+    "retrieved_context": "Missions explore outer planets of our solar system. Missions explore planets of our solar system. Missions explore planets of our system. Missions explore outer planets. Missions explore outer planets of our system. Missions explore planets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in space technology include the development of ion propulsion systems.",
+    "retrieved_context": "spacecraft Advancements such development. development has significantly reduced cost of payloads. development has significantly reduced cost of launching payloads. spacecraft Advancements such development of ion propulsion systems. spacecraft Advancements in space technology. development has significantly reduced cost into space. development has reduced cost.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space tourism is gaining traction with companies offering suborbital spaceflights.",
+    "retrieved_context": "space exploration effort involving multiple countries. space exploration effort involving countries. future holds promise of exploration. space exploration has come with significant achievements in humans. space exploration has come way with achievements in sending humans. space exploration holds endless possibilities. space exploration has come way with achievements in humans. future holds promise of further exploration. space exploration has come long way. future holds promise. space exploration has come with achievements in humans to moon. significant achievements is in sending humans to moon. possibilities are truly endless. space exploration holds possibilities for discovery. space exploration continued progress with launch. future holds promise of further exploration of our solar system. space exploration holds possibilities for further discovery. space exploration continued to progress with launch. space exploration has come way since days. space exploration has come since early days. space exploration holds possibilities. space exploration continued to progress with launch of space probes. space exploration has come since days of space race. space exploration continued progress. space exploration has come In conclusion. future holds promise of exploration of our solar system. space exploration continued Throughout decades. space exploration has come way with achievements. space exploration has come since early days of space race. space exploration has come way with significant achievements in sending humans. space exploration progress with launch of space probes. space exploration holds endless possibilities for further discovery. space exploration has become effort. space exploration continued to progress. space exploration has become collaborative effort. space exploration holds endless possibilities for discovery. space exploration has come way. space exploration has come way with significant achievements in humans to moon. future holds promise of exploration of our system. space exploration has come with significant achievements in sending humans to moon. space exploration progress with launch. space exploration has become In present day. space exploration Looking to future. possibilities are endless. space exploration continued progress with launch of space probes. space exploration continued Throughout following decades. space exploration has come way with achievements in sending humans to moon. space exploration has come way with significant achievements. space exploration has become In day. future holds promise of further exploration of our system.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The future of space exploration holds the promise of further discovery and innovation.",
+    "retrieved_context": "future holds promise of exploration. space exploration has come with significant achievements in humans. space exploration has come way with achievements in sending humans. space exploration holds endless possibilities. space exploration has come way with achievements in humans. future holds promise of further exploration. space exploration has come long way. future holds promise. space exploration has come with achievements in humans to moon. significant achievements is in sending humans to moon. possibilities are truly endless. space exploration holds possibilities for discovery. space exploration continued progress with launch. future holds promise of further exploration of our solar system. space exploration holds possibilities for further discovery. space exploration continued to progress with launch. space exploration has come way since days. space exploration has come since early days. space exploration holds possibilities. space exploration continued to progress with launch of space probes. space exploration has come since days of space race. space exploration continued progress. space exploration has come In conclusion. future holds promise of exploration of our solar system. space exploration continued Throughout decades. space exploration has come way with achievements. space exploration has come since early days of space race. space exploration has come way with significant achievements in sending humans. space exploration progress with launch of space probes. space exploration holds endless possibilities for further discovery. space exploration has become effort. space exploration continued to progress. space exploration has become collaborative effort. space exploration holds endless possibilities for discovery. space exploration has come way. space exploration has come way with significant achievements in humans to moon. future holds promise of exploration of our system. space exploration has come with significant achievements in sending humans to moon. space exploration progress with launch. space exploration has become In present day. space exploration Looking to future. possibilities are endless. space exploration continued progress with launch of space probes. space exploration continued Throughout following decades. space exploration has come way with achievements in sending humans to moon. space exploration has come way with significant achievements. space exploration has become In day. future holds promise of further exploration of our system.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

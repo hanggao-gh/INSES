@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Autonomous vehicles are also known as self-driving cars.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. automakers and technology companies. shared autonomous fleets replace car ownership. road infrastructure needed for support.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles have the potential to revolutionize transportation.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. revolutionize in convenience. revolutionize object transportation. revolutionize in efficiency. convenience drives interest. safety and reliability. revolutionize in safety. road infrastructure needed for support.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles promise increased safety, efficiency, and convenience.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. convenience drives interest. safety and reliability. shared autonomous fleets replace car ownership. automakers and technology companies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Significant progress has been made in the development of autonomous vehicles.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. development drives interest. development potential to revolutionize. progress has been made in development. shared autonomous fleets replace car ownership. road infrastructure needed for support. automakers and technology companies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Experts believe autonomous vehicles will play a significant role in the future of transportation.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. road infrastructure needed for support. automakers and technology companies. shared autonomous fleets replace car ownership.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Autonomous vehicles can greatly reduce the number of accidents on the road.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. accidents on road. road infrastructure needed for support.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles eliminate human error from the driving equation.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. human error is a factor. automakers and technology companies.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles use sensors, cameras, and AI algorithms to monitor surroundings.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. autonomous vehicles also known as self-driving cars. sensors used by autonomous vehicles. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. autonomous vehicles react to hazards. autonomous vehicles faster than driver. autonomous vehicles also known as self-driving cars. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. cameras used by autonomous vehicles. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. autonomous vehicles react to hazards. autonomous vehicles faster than driver. automakers and technology companies. autonomous vehicles also known as self-driving cars. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles react to hazards. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. artificial intelligence algorithms used by autonomous vehicles. autonomous vehicles faster than driver. shared autonomous fleets replace car ownership.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles can react to potential hazards faster than human drivers.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. safety and reliability. accidents on road.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles can optimize traffic flow in real-time.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. road infrastructure needed for support.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Autonomous vehicles can reduce congestion and travel times.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. shared autonomous fleets replace car ownership. commute during traffic.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Autonomous vehicles could lead to a decrease in the number of vehicles on the road.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. road infrastructure needed for support. automakers and technology companies.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Autonomous vehicles offer convenience by allowing passengers to relax or work during commutes.",
+    "retrieved_context": "commute during traffic. autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. convenience drives interest. mobility options for age. mobility options for disability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Autonomous vehicles provide mobility options for those unable to drive.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. mobility options for age. mobility options for disability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Challenges for autonomous vehicles include safety, regulations, and infrastructure.",
+    "retrieved_context": "autonomous vehicles also known as self-driving cars. human error is a factor. accidents on road. autonomous vehicles give back time. autonomous vehicles eliminate human error. autonomous vehicles promise efficiency. convenience drives interest. autonomous vehicles topic of interest. autonomous vehicles monitor surroundings. autonomous vehicles promise safety. autonomous vehicles topic of debate. autonomous vehicles promise convenience. autonomous vehicles reduce accidents. safety and reliability. autonomous vehicles react to hazards. autonomous vehicles faster than driver. challenges and progress. challenges need to be overcome for reality. progress has been made in development. road infrastructure needed for support. shared autonomous fleets replace car ownership.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

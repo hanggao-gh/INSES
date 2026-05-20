@@ -1,0 +1,563 @@
+{
+  "entities": [
+    "15th century",
+    "20th century",
+    "accessibility",
+    "advancements",
+    "advertisements",
+    "aesthetics",
+    "appealing",
+    "applications",
+    "arranging",
+    "art",
+    "art form",
+    "audience",
+    "beginnings",
+    "books",
+    "boundaries",
+    "branding",
+    "centuries",
+    "characteristics",
+    "civilizations",
+    "claude garamond",
+    "communication",
+    "conclusion",
+    "consume",
+    "creation",
+    "creativity",
+    "design discipline",
+    "designers",
+    "detect",
+    "development",
+    "digital age",
+    "digital devices",
+    "digital technology",
+    "egyptians",
+    "emotions",
+    "engaging",
+    "evolution",
+    "experiences",
+    "experimentation",
+    "exploration",
+    "field",
+    "fonts",
+    "functionality",
+    "future",
+    "generations",
+    "giambattista bodoni",
+    "graphic design",
+    "hieroglyphics",
+    "history",
+    "iconic",
+    "identities",
+    "importance",
+    "industrial revolution",
+    "information",
+    "innovation",
+    "interaction",
+    "invention",
+    "jan tschichold",
+    "johannes gutenberg",
+    "language",
+    "layouts",
+    "magazines",
+    "manipulation",
+    "marketing",
+    "mass production",
+    "materials",
+    "mediums",
+    "messages",
+    "modern concept",
+    "neville brody",
+    "newspapers",
+    "origins",
+    "paul rand",
+    "platforms",
+    "possibilities",
+    "power",
+    "prey",
+    "printing press",
+    "printing techniques",
+    "proliferation",
+    "readability",
+    "readable",
+    "renaissance",
+    "renaissance period",
+    "revolutionary",
+    "role",
+    "scripts",
+    "shaping",
+    "sharks",
+    "sizes",
+    "sophisticated",
+    "standardized",
+    "style",
+    "technique",
+    "technologies",
+    "technology",
+    "testament",
+    "traditional",
+    "type",
+    "typefaces",
+    "typography",
+    "user-friendly",
+    "visual communication",
+    "visually compelling",
+    "world",
+    "writing systems"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "underwent",
+      "experimentation"
+    ],
+    [
+      "20th century",
+      "underwent",
+      "innovation"
+    ],
+    [
+      "accessibility",
+      "to",
+      "audience"
+    ],
+    [
+      "advancements",
+      "in",
+      "advertisements"
+    ],
+    [
+      "advancements",
+      "in",
+      "magazines"
+    ],
+    [
+      "advancements",
+      "in",
+      "newspapers"
+    ],
+    [
+      "advancements",
+      "in",
+      "technologies"
+    ],
+    [
+      "applications",
+      "in",
+      "digital age"
+    ],
+    [
+      "beginnings",
+      "in",
+      "civilizations"
+    ],
+    [
+      "civilizations",
+      "such as",
+      "egyptians"
+    ],
+    [
+      "claude garamond",
+      "created",
+      "iconic"
+    ],
+    [
+      "consume",
+      "of",
+      "information"
+    ],
+    [
+      "creation",
+      "of",
+      "scripts"
+    ],
+    [
+      "creation",
+      "of",
+      "typefaces"
+    ],
+    [
+      "creativity",
+      "for",
+      "generations"
+    ],
+    [
+      "design discipline",
+      "emphasis on",
+      "aesthetics"
+    ],
+    [
+      "design discipline",
+      "emphasis on",
+      "functionality"
+    ],
+    [
+      "design discipline",
+      "emphasis on",
+      "readability"
+    ],
+    [
+      "designers",
+      "began",
+      "exploration"
+    ],
+    [
+      "designers",
+      "create",
+      "engaging"
+    ],
+    [
+      "designers",
+      "create",
+      "identities"
+    ],
+    [
+      "designers",
+      "create",
+      "manipulation"
+    ],
+    [
+      "designers",
+      "create",
+      "user-friendly"
+    ],
+    [
+      "designers",
+      "experimented with",
+      "fonts"
+    ],
+    [
+      "designers",
+      "experimented with",
+      "layouts"
+    ],
+    [
+      "designers",
+      "experimented with",
+      "sizes"
+    ],
+    [
+      "development",
+      "led to",
+      "creation"
+    ],
+    [
+      "development",
+      "of",
+      "writing systems"
+    ],
+    [
+      "digital technology",
+      "revolutionized",
+      "field"
+    ],
+    [
+      "egyptians",
+      "used",
+      "hieroglyphics"
+    ],
+    [
+      "experiences",
+      "across",
+      "mediums"
+    ],
+    [
+      "exploration",
+      "led to",
+      "graphic design"
+    ],
+    [
+      "exploration",
+      "of",
+      "emotions"
+    ],
+    [
+      "exploration",
+      "of",
+      "messages"
+    ],
+    [
+      "future",
+      "holds",
+      "possibilities"
+    ],
+    [
+      "giambattista bodoni",
+      "created",
+      "iconic"
+    ],
+    [
+      "history",
+      "dates back",
+      "centuries"
+    ],
+    [
+      "history",
+      "is",
+      "conclusion"
+    ],
+    [
+      "history",
+      "is",
+      "testament"
+    ],
+    [
+      "identities",
+      "in",
+      "visually compelling"
+    ],
+    [
+      "industrial revolution",
+      "brought",
+      "advancements"
+    ],
+    [
+      "interaction",
+      "with",
+      "world"
+    ],
+    [
+      "invention",
+      "of",
+      "printing press"
+    ],
+    [
+      "jan tschichold",
+      "pushing",
+      "boundaries"
+    ],
+    [
+      "mass production",
+      "making",
+      "accessibility"
+    ],
+    [
+      "mass production",
+      "of",
+      "books"
+    ],
+    [
+      "mass production",
+      "of",
+      "materials"
+    ],
+    [
+      "modern concept",
+      "of",
+      "design discipline"
+    ],
+    [
+      "neville brody",
+      "pushing",
+      "boundaries"
+    ],
+    [
+      "origins",
+      "can be traced",
+      "civilizations"
+    ],
+    [
+      "paul rand",
+      "pushing",
+      "boundaries"
+    ],
+    [
+      "possibilities",
+      "for",
+      "creativity"
+    ],
+    [
+      "power",
+      "of",
+      "visual communication"
+    ],
+    [
+      "printing press",
+      "allowed for",
+      "mass production"
+    ],
+    [
+      "printing press",
+      "by",
+      "johannes gutenberg"
+    ],
+    [
+      "printing press",
+      "in",
+      "15th century"
+    ],
+    [
+      "printing press",
+      "led to",
+      "standardized"
+    ],
+    [
+      "printing press",
+      "was",
+      "revolutionary"
+    ],
+    [
+      "proliferation",
+      "of",
+      "digital devices"
+    ],
+    [
+      "proliferation",
+      "of",
+      "platforms"
+    ],
+    [
+      "renaissance period",
+      "experienced",
+      "renaissance"
+    ],
+    [
+      "role",
+      "in",
+      "branding"
+    ],
+    [
+      "role",
+      "in",
+      "communication"
+    ],
+    [
+      "role",
+      "in",
+      "marketing"
+    ],
+    [
+      "role",
+      "in shaping",
+      "communication"
+    ],
+    [
+      "role",
+      "in shaping",
+      "consume"
+    ],
+    [
+      "standardized",
+      "of",
+      "printing techniques"
+    ],
+    [
+      "standardized",
+      "of",
+      "typefaces"
+    ],
+    [
+      "technology",
+      "continues to",
+      "future"
+    ],
+    [
+      "testament",
+      "to",
+      "power"
+    ],
+    [
+      "typefaces",
+      "with",
+      "characteristics"
+    ],
+    [
+      "typefaces",
+      "with",
+      "style"
+    ],
+    [
+      "typography",
+      "began to",
+      "evolution"
+    ],
+    [
+      "typography",
+      "continues to",
+      "interaction"
+    ],
+    [
+      "typography",
+      "evolved into",
+      "sophisticated"
+    ],
+    [
+      "typography",
+      "has",
+      "history"
+    ],
+    [
+      "typography",
+      "has played",
+      "role"
+    ],
+    [
+      "typography",
+      "is",
+      "art"
+    ],
+    [
+      "typography",
+      "is",
+      "art form"
+    ],
+    [
+      "typography",
+      "is",
+      "technique"
+    ],
+    [
+      "typography",
+      "more",
+      "importance"
+    ],
+    [
+      "typography",
+      "plays",
+      "role"
+    ],
+    [
+      "user-friendly",
+      "across",
+      "experiences"
+    ]
+  ],
+  "edges": [
+    "across",
+    "allowed for",
+    "began",
+    "began to",
+    "brought",
+    "by",
+    "can be traced",
+    "continues to",
+    "create",
+    "created",
+    "dates back",
+    "emphasis on",
+    "evolved into",
+    "experienced",
+    "experimented with",
+    "for",
+    "has",
+    "has played",
+    "holds",
+    "in",
+    "in shaping",
+    "is",
+    "led to",
+    "making",
+    "more",
+    "of",
+    "plays",
+    "pushing",
+    "revolutionized",
+    "such as",
+    "to",
+    "underwent",
+    "used",
+    "was",
+    "with"
+  ]
+}

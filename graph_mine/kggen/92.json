@@ -1,0 +1,394 @@
+{
+  "entities": [
+    "arches",
+    "aspects",
+    "associations",
+    "behaviors",
+    "blue",
+    "brand identity",
+    "brand positioning",
+    "branding",
+    "businesses",
+    "calmness",
+    "cleanliness",
+    "coca-cola",
+    "colors",
+    "competitors",
+    "conclusion",
+    "consumer behavior",
+    "context",
+    "contextual",
+    "cool colors",
+    "cultural",
+    "death",
+    "detect",
+    "differentiation",
+    "eastern cultures",
+    "emotions",
+    "energy",
+    "excitement",
+    "factors",
+    "green",
+    "impactful",
+    "impulse purchases",
+    "industry",
+    "logo",
+    "luxury",
+    "marketing",
+    "markets",
+    "mcdonald's",
+    "meanings",
+    "memorable",
+    "messages",
+    "minds",
+    "mourning",
+    "muted",
+    "orange",
+    "palette",
+    "passion",
+    "perceptions",
+    "personality",
+    "power",
+    "presence",
+    "prey",
+    "psychology",
+    "purity",
+    "qualities",
+    "quality",
+    "red",
+    "reliability",
+    "research",
+    "sharks",
+    "sophisticated",
+    "strategies",
+    "success",
+    "target audience",
+    "trust",
+    "unique",
+    "urgency",
+    "value",
+    "visual identity",
+    "warm colors",
+    "western cultures",
+    "white",
+    "yellow",
+    "youth-oriented"
+  ],
+  "relations": [
+    [
+      "arches",
+      "associated with",
+      "mcdonald's"
+    ],
+    [
+      "blue",
+      "associated with",
+      "calmness"
+    ],
+    [
+      "blue",
+      "associated with",
+      "reliability"
+    ],
+    [
+      "blue",
+      "associated with",
+      "trust"
+    ],
+    [
+      "colors",
+      "affect",
+      "personality"
+    ],
+    [
+      "colors",
+      "affect",
+      "quality"
+    ],
+    [
+      "colors",
+      "affect",
+      "value"
+    ],
+    [
+      "colors",
+      "consider",
+      "contextual"
+    ],
+    [
+      "colors",
+      "consider",
+      "cultural"
+    ],
+    [
+      "colors",
+      "convey",
+      "messages"
+    ],
+    [
+      "colors",
+      "create",
+      "differentiation"
+    ],
+    [
+      "colors",
+      "create",
+      "memorable"
+    ],
+    [
+      "colors",
+      "create",
+      "presence"
+    ],
+    [
+      "colors",
+      "create",
+      "success"
+    ],
+    [
+      "colors",
+      "create",
+      "unique"
+    ],
+    [
+      "colors",
+      "create",
+      "visual identity"
+    ],
+    [
+      "colors",
+      "evoke",
+      "associations"
+    ],
+    [
+      "colors",
+      "evoke",
+      "emotions"
+    ],
+    [
+      "colors",
+      "have",
+      "associations"
+    ],
+    [
+      "colors",
+      "have",
+      "brand positioning"
+    ],
+    [
+      "colors",
+      "have",
+      "context"
+    ],
+    [
+      "colors",
+      "have",
+      "contextual"
+    ],
+    [
+      "colors",
+      "have",
+      "cultural"
+    ],
+    [
+      "colors",
+      "have",
+      "industry"
+    ],
+    [
+      "colors",
+      "have",
+      "meanings"
+    ],
+    [
+      "colors",
+      "help",
+      "differentiation"
+    ],
+    [
+      "colors",
+      "influence",
+      "behaviors"
+    ],
+    [
+      "colors",
+      "influence",
+      "consumer behavior"
+    ],
+    [
+      "colors",
+      "influence",
+      "perceptions"
+    ],
+    [
+      "colors",
+      "leverage",
+      "power"
+    ],
+    [
+      "colors",
+      "play role in",
+      "branding"
+    ],
+    [
+      "colors",
+      "play role in",
+      "marketing"
+    ],
+    [
+      "cool colors",
+      "create",
+      "reliability"
+    ],
+    [
+      "cool colors",
+      "create",
+      "trust"
+    ],
+    [
+      "logo",
+      "associated with",
+      "coca-cola"
+    ],
+    [
+      "palette",
+      "appropriate for",
+      "luxury"
+    ],
+    [
+      "palette",
+      "appropriate for",
+      "muted"
+    ],
+    [
+      "palette",
+      "appropriate for",
+      "sophisticated"
+    ],
+    [
+      "palette",
+      "appropriate for",
+      "youth-oriented"
+    ],
+    [
+      "psychology",
+      "helps businesses connect with",
+      "target audience"
+    ],
+    [
+      "psychology",
+      "helps businesses create",
+      "brand identity"
+    ],
+    [
+      "psychology",
+      "helps create",
+      "brand identity"
+    ],
+    [
+      "psychology",
+      "helps create",
+      "impactful"
+    ],
+    [
+      "psychology",
+      "plays role in",
+      "branding"
+    ],
+    [
+      "psychology",
+      "plays role in",
+      "marketing"
+    ],
+    [
+      "psychology",
+      "resonates with",
+      "target audience"
+    ],
+    [
+      "red",
+      "associated with",
+      "coca-cola"
+    ],
+    [
+      "red",
+      "associated with",
+      "energy"
+    ],
+    [
+      "red",
+      "associated with",
+      "excitement"
+    ],
+    [
+      "red",
+      "associated with",
+      "passion"
+    ],
+    [
+      "warm colors",
+      "create",
+      "urgency"
+    ],
+    [
+      "warm colors",
+      "encourage",
+      "impulse purchases"
+    ],
+    [
+      "white",
+      "associated with",
+      "cleanliness"
+    ],
+    [
+      "white",
+      "associated with",
+      "death"
+    ],
+    [
+      "white",
+      "associated with",
+      "eastern cultures"
+    ],
+    [
+      "white",
+      "associated with",
+      "mourning"
+    ],
+    [
+      "white",
+      "associated with",
+      "purity"
+    ],
+    [
+      "white",
+      "associated with",
+      "western cultures"
+    ],
+    [
+      "yellow",
+      "associated with",
+      "mcdonald's"
+    ]
+  ],
+  "edges": [
+    "affect",
+    "appropriate for",
+    "associated with",
+    "consider",
+    "convey",
+    "create",
+    "encourage",
+    "evoke",
+    "have",
+    "help",
+    "helps businesses connect with",
+    "helps businesses create",
+    "helps create",
+    "influence",
+    "leverage",
+    "play role in",
+    "plays role in",
+    "resonates with"
+  ]
+}

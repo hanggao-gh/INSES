@@ -1,0 +1,502 @@
+{
+  "entities": [
+    "20th century",
+    "aerial surveys",
+    "affordable",
+    "airplanes",
+    "animal-drawn carts",
+    "animals",
+    "automobiles",
+    "autonomous vehicles",
+    "blue origin",
+    "boundaries",
+    "camels",
+    "canals",
+    "carbon footprint",
+    "carry",
+    "changes",
+    "chariots",
+    "cities",
+    "civilizations",
+    "colonization",
+    "commercial aviation",
+    "commercial spaceflight",
+    "communities",
+    "commuted",
+    "companies",
+    "conclusion",
+    "connect",
+    "connected",
+    "construction",
+    "countries",
+    "culture",
+    "cultures",
+    "delivery services",
+    "detect",
+    "development",
+    "developments",
+    "digital infrastructure",
+    "distances",
+    "drones",
+    "earth",
+    "economies",
+    "efficiency",
+    "efficient",
+    "electric vehicles",
+    "elon musk",
+    "emerging technologies",
+    "environmentally friendly",
+    "evolution",
+    "exchange",
+    "exploration",
+    "explore",
+    "food",
+    "foot",
+    "ford",
+    "forms",
+    "future",
+    "general motors",
+    "generations",
+    "globalized world",
+    "goods",
+    "greeks",
+    "high-speed trains",
+    "horses",
+    "human civilization",
+    "hunt",
+    "hyperloop technology",
+    "hyperloop trains",
+    "ideas",
+    "industries",
+    "industry",
+    "infrastructure",
+    "innovation",
+    "innovations",
+    "internet",
+    "interplanetary travel",
+    "invention",
+    "land",
+    "lands",
+    "leisure",
+    "loads",
+    "maritime trade",
+    "mass production",
+    "mobile technology",
+    "modes",
+    "monitoring",
+    "move",
+    "navigation",
+    "navigation apps",
+    "oceans",
+    "oxen",
+    "passengers",
+    "people",
+    "personal transportation",
+    "phoenicians",
+    "place",
+    "plan",
+    "pods",
+    "population",
+    "practices",
+    "prey",
+    "progress",
+    "promise",
+    "railway networks",
+    "reality",
+    "regions",
+    "reliable",
+    "revolutionized",
+    "ride-sharing services",
+    "romans",
+    "safer",
+    "sailing ships",
+    "science fiction",
+    "sea",
+    "sharks",
+    "shelter",
+    "smart cities",
+    "societies",
+    "space tourism",
+    "space travel",
+    "spacex",
+    "speed",
+    "steam engine",
+    "steam-powered locomotives",
+    "steamships",
+    "sustainability",
+    "system",
+    "systems",
+    "technologies",
+    "technology",
+    "time",
+    "trade routes",
+    "transport",
+    "transportation",
+    "travel",
+    "travel times",
+    "trips",
+    "turning point",
+    "urban centers",
+    "vacuum tubes",
+    "walking",
+    "wheel",
+    "wheeled carts",
+    "widespread"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "saw",
+      "airplanes"
+    ],
+    [
+      "20th century",
+      "saw",
+      "automobiles"
+    ],
+    [
+      "animals",
+      "carry",
+      "goods"
+    ],
+    [
+      "animals",
+      "carry",
+      "passengers"
+    ],
+    [
+      "autonomous vehicles",
+      "holds",
+      "promise"
+    ],
+    [
+      "civilizations",
+      "establish",
+      "trade routes"
+    ],
+    [
+      "commercial aviation",
+      "made",
+      "cities"
+    ],
+    [
+      "commercial spaceflight",
+      "pioneering",
+      "space tourism"
+    ],
+    [
+      "companies",
+      "like",
+      "blue origin"
+    ],
+    [
+      "companies",
+      "like",
+      "ford"
+    ],
+    [
+      "companies",
+      "like",
+      "general motors"
+    ],
+    [
+      "companies",
+      "like",
+      "spacex"
+    ],
+    [
+      "development",
+      "of",
+      "human civilization"
+    ],
+    [
+      "developments",
+      "highlight",
+      "evolution"
+    ],
+    [
+      "distances",
+      "across",
+      "modes"
+    ],
+    [
+      "distances",
+      "over",
+      "invention"
+    ],
+    [
+      "drones",
+      "shaped by",
+      "emerging technologies"
+    ],
+    [
+      "drones",
+      "used for",
+      "aerial surveys"
+    ],
+    [
+      "drones",
+      "used for",
+      "delivery services"
+    ],
+    [
+      "evolution",
+      "of",
+      "transportation"
+    ],
+    [
+      "exchange",
+      "of",
+      "culture"
+    ],
+    [
+      "future",
+      "continue to",
+      "evolution"
+    ],
+    [
+      "future",
+      "shaped by",
+      "emerging technologies"
+    ],
+    [
+      "globalized world",
+      "meet",
+      "practices"
+    ],
+    [
+      "greeks",
+      "excelled in",
+      "maritime trade"
+    ],
+    [
+      "human civilization",
+      "establish",
+      "communities"
+    ],
+    [
+      "hyperloop technology",
+      "proposed by",
+      "elon musk"
+    ],
+    [
+      "hyperloop trains",
+      "shaped by",
+      "emerging technologies"
+    ],
+    [
+      "internet",
+      "led to",
+      "electric vehicles"
+    ],
+    [
+      "internet",
+      "led to",
+      "navigation apps"
+    ],
+    [
+      "internet",
+      "led to",
+      "ride-sharing services"
+    ],
+    [
+      "interplanetary travel",
+      "raises",
+      "colonization"
+    ],
+    [
+      "interplanetary travel",
+      "raises",
+      "exploration"
+    ],
+    [
+      "mass production",
+      "by",
+      "companies"
+    ],
+    [
+      "passengers",
+      "in",
+      "pods"
+    ],
+    [
+      "personal transportation",
+      "more",
+      "affordable"
+    ],
+    [
+      "phoenicians",
+      "excelled in",
+      "maritime trade"
+    ],
+    [
+      "progress",
+      "behind",
+      "innovation"
+    ],
+    [
+      "railway networks",
+      "enabled",
+      "goods"
+    ],
+    [
+      "romans",
+      "excelled in",
+      "maritime trade"
+    ],
+    [
+      "sailing ships",
+      "explore",
+      "lands"
+    ],
+    [
+      "smart cities",
+      "holds",
+      "promise"
+    ],
+    [
+      "societies",
+      "use",
+      "animals"
+    ],
+    [
+      "space travel",
+      "becoming",
+      "reality"
+    ],
+    [
+      "space travel",
+      "shaped by",
+      "emerging technologies"
+    ],
+    [
+      "speed",
+      "of",
+      "efficiency"
+    ],
+    [
+      "speed",
+      "of",
+      "sustainability"
+    ],
+    [
+      "steam engine",
+      "marked",
+      "turning point"
+    ],
+    [
+      "steam-powered locomotives",
+      "revolutionized",
+      "land"
+    ],
+    [
+      "steamships",
+      "revolutionized",
+      "sea"
+    ],
+    [
+      "system",
+      "for",
+      "generations"
+    ],
+    [
+      "systems",
+      "connect",
+      "goods"
+    ],
+    [
+      "systems",
+      "connect",
+      "ideas"
+    ],
+    [
+      "systems",
+      "connect",
+      "people"
+    ],
+    [
+      "technologies",
+      "transform",
+      "cultures"
+    ],
+    [
+      "technologies",
+      "transform",
+      "economies"
+    ],
+    [
+      "technologies",
+      "transform",
+      "societies"
+    ],
+    [
+      "technology",
+      "shape",
+      "industry"
+    ],
+    [
+      "trade routes",
+      "connected",
+      "regions"
+    ],
+    [
+      "transportation",
+      "played a role in",
+      "development"
+    ],
+    [
+      "walking",
+      "was",
+      "forms"
+    ],
+    [
+      "wheel",
+      "revolutionized",
+      "transportation"
+    ],
+    [
+      "wheeled carts",
+      "transport",
+      "loads"
+    ]
+  ],
+  "edges": [
+    "across",
+    "becoming",
+    "behind",
+    "by",
+    "carry",
+    "connect",
+    "connected",
+    "continue to",
+    "enabled",
+    "establish",
+    "excelled in",
+    "explore",
+    "for",
+    "highlight",
+    "holds",
+    "in",
+    "led to",
+    "like",
+    "made",
+    "marked",
+    "meet",
+    "more",
+    "of",
+    "over",
+    "pioneering",
+    "played a role in",
+    "proposed by",
+    "raises",
+    "revolutionized",
+    "saw",
+    "shape",
+    "shaped by",
+    "transform",
+    "transport",
+    "use",
+    "used for",
+    "was"
+  ]
+}

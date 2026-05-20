@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Colors impact psychological well-being",
+    "retrieved_context": "color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. psychological impact on well-being. psychological evoke emotions. psychological evoke feelings. blue effect on concentration. blue effect on focus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors evoke emotions and feelings",
+    "retrieved_context": "color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. blue effect on concentration. blue effect on focus. perception influence arousal. perception influence heart rate. perception influence blood pressure.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Study of colors and human behavior is color psychology",
+    "retrieved_context": "color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. psychological impact on well-being. psychological evoke emotions. psychological evoke feelings. blue effect on concentration. blue effect on focus. perception influence arousal. perception influence heart rate. perception influence blood pressure. red used in workout space.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different colors affect mood, behavior, and physical reactions",
+    "retrieved_context": "color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. blue effect on concentration. blue effect on focus. red used in workout space.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm colors like red evoke energy and passion",
+    "retrieved_context": "color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. red used in workout space. warm associated with passion. warm stimulating appetite. warm create urgency. yellow used in kitchen. warm associated with warmth. yellow associated with happiness. warm associated with orange. yellow lead to optimism. warm associated with red. warm associated with yellow. warm associated with energy. yellow associated with positivity. yellow lead to cheerfulness. yellow lead to joy. red used in workout space. warm evoke excitement. yellow increase serotonin. blue effect on concentration. blue effect on focus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cool colors like blue evoke calmness and tranquility",
+    "retrieved_context": "blue effect on concentration. blue effect on focus. color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. calming associated with blues.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red can increase heart rate and blood pressure",
+    "retrieved_context": "red used in workout space. color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. blue effect on concentration. blue effect on focus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Blue has a calming effect on the mind and body",
+    "retrieved_context": "blue effect on concentration. blue effect on focus. calming associated with blues. color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yellow is associated with happiness and positivity",
+    "retrieved_context": "yellow used in kitchen. yellow associated with happiness. yellow lead to optimism. yellow lead to cheerfulness. yellow lead to joy. yellow associated with positivity. yellow increase serotonin. color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yellow increases serotonin levels in the brain",
+    "retrieved_context": "yellow used in kitchen. yellow associated with happiness. yellow lead to optimism. yellow lead to cheerfulness. yellow lead to joy. yellow associated with positivity. yellow increase serotonin. color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. calming associated with blues. blue effect on concentration. blue effect on focus.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black is associated with power and sophistication",
+    "retrieved_context": "black evoke mystery. black associated with sophistication. black described as duality. black associated with power. black associated with authority. black described as versatile. black evoke sadness. color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. perception influence arousal. perception influence heart rate. perception influence blood pressure.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Black can evoke feelings of sadness or mystery",
+    "retrieved_context": "color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. black evoke mystery. black associated with sophistication. black described as duality. black associated with power. black associated with authority. black described as versatile. black evoke sadness.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individual experiences and cultural backgrounds influence color perception",
+    "retrieved_context": "color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. perception influence arousal. perception influence heart rate. perception influence blood pressure. blue effect on concentration. blue effect on focus. black evoke mystery. black associated with sophistication. black described as duality. black associated with power. black associated with authority. black described as versatile. black evoke sadness.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Colors have universal associations but meanings can vary culturally",
+    "retrieved_context": "color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. red used in workout space. blue effect on concentration. blue effect on focus. universal associated with nature. universal associated with danger.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Colors can be used to create environments that promote well-being and productivity",
+    "retrieved_context": "color psychology affect physical reactions. color psychology affect mood. color psychology influence behavior. blue effect on concentration. blue effect on focus.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

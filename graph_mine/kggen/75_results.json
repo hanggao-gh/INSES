@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "People collect items like stamps, coins, or vintage memorabilia.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. stamps such as vintage memorabilia. stamps such as coins. items hold value. value endeavor assets.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can be a reflection of human nature.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. tangible reminders of places. tangible reminders of emotions. tangible reminders of memories. tangible reminders of people. tangible reminders of lives. tangible reminders of moments.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can trigger fond memories and emotions.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. connection to past. nostalgia self-expression investment. investment for rare books. investment for artwork. investment for vintage cars. nostalgia and connection. tangible reminders of places. tangible reminders of emotions. tangible reminders of memories. tangible reminders of people. tangible reminders of lives. tangible reminders of moments. experiences adventure exploration.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "A person who collects antique furniture may appreciate craftsmanship and history.",
+    "retrieved_context": "antique furniture appreciation for craftsmanship. antique furniture appreciation for history. collectors amassing variety. collectors have been centuries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting allows individuals to express their identity and interests.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. identity and interests. individuals finding satisfaction. individuals finding joy. individuals finding purpose.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music enthusiasts may collect vinyl records or concert memorabilia.",
+    "retrieved_context": "music enthusiast collect vinyl records. music enthusiast collect concert memorabilia. collectors amassing variety. collectors have been centuries. antique furniture appreciation for craftsmanship. antique furniture appreciation for history.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of accomplishment and fulfillment.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. accomplishment and fulfillment. tangible reminders of places. tangible reminders of emotions. tangible reminders of memories. tangible reminders of people. tangible reminders of lives. tangible reminders of moments.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collectors derive pride and fulfillment from completing sets or finding unique pieces.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. unique piece add to pride. pride and self-esteem. accomplishment and fulfillment. pride and self-esteem.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can serve as a form of investment.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. investment for artwork. investment for vintage cars. investment for rare books. financial security in future. assets worth financial security. financial security in future.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Artwork, rare books, or vintage cars can appreciate in value over time.",
+    "retrieved_context": "antique furniture appreciation for craftsmanship. antique furniture appreciation for history. collectors amassing variety. collectors have been centuries.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can be linked to psychological motivations and behaviors.",
+    "retrieved_context": "motivation and inspiration. collectors amassing variety. collectors have been centuries. psychological perspective motivations behaviors. pursuit in organizing. pursuit in gathering. psychological fulfillment pursuit pursuit. tangible reminders of places. tangible reminders of emotions. tangible reminders of memories. tangible reminders of people. tangible reminders of lives. tangible reminders of moments. hobbies or values. hobbies or passions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Collecting can satisfy the human need for completion and closure.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. completion and novelty. tangible reminders of places. tangible reminders of emotions. tangible reminders of memories. tangible reminders of people. tangible reminders of lives. tangible reminders of moments. accomplishment and fulfillment.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can offer individuals a source of novelty and excitement.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. motivation and inspiration. hobbies or values. hobbies or passions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting can provide a sense of adventure and exploration.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Collecting serves as a meaningful and rewarding pursuit for many individuals.",
+    "retrieved_context": "collectors amassing variety. collectors have been centuries. accomplishment and fulfillment. motivation and inspiration. tangible reminders of places. tangible reminders of emotions. tangible reminders of memories. tangible reminders of people. tangible reminders of lives. tangible reminders of moments.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

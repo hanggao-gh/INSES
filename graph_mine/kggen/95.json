@@ -1,0 +1,387 @@
+{
+  "entities": [
+    "acceptance",
+    "acknowledging",
+    "activities",
+    "adversity",
+    "appreciating",
+    "aspects",
+    "avenues",
+    "beings",
+    "belonging",
+    "boundaries",
+    "connections",
+    "contentment",
+    "cultural",
+    "detect",
+    "economic",
+    "effects",
+    "emotion",
+    "emotional",
+    "emotions",
+    "existence",
+    "experience",
+    "factors",
+    "flow",
+    "focus",
+    "formula",
+    "fulfillment",
+    "goal",
+    "gratitude",
+    "happiness",
+    "health",
+    "humans",
+    "immersion",
+    "impact",
+    "inquiry",
+    "insights",
+    "joy",
+    "levels",
+    "life satisfaction",
+    "lives",
+    "love",
+    "meaning",
+    "mechanisms",
+    "networks",
+    "passion",
+    "path",
+    "person",
+    "perspective",
+    "positive psychology",
+    "practice",
+    "prey",
+    "project",
+    "pursuit",
+    "relationships",
+    "research",
+    "researchers",
+    "resilience",
+    "satisfaction",
+    "science",
+    "sense",
+    "sharks",
+    "skill",
+    "social",
+    "state",
+    "stress",
+    "study",
+    "support",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "activities",
+      "promote",
+      "flow"
+    ],
+    [
+      "activities",
+      "promote",
+      "meaning"
+    ],
+    [
+      "aspects",
+      "of",
+      "lives"
+    ],
+    [
+      "avenues",
+      "of",
+      "inquiry"
+    ],
+    [
+      "connections",
+      "contribute to",
+      "happiness"
+    ],
+    [
+      "effects",
+      "on",
+      "health"
+    ],
+    [
+      "emotions",
+      "play a role in",
+      "happiness"
+    ],
+    [
+      "emotions",
+      "such as",
+      "contentment"
+    ],
+    [
+      "emotions",
+      "such as",
+      "joy"
+    ],
+    [
+      "emotions",
+      "such as",
+      "love"
+    ],
+    [
+      "experience",
+      "of",
+      "happiness"
+    ],
+    [
+      "experience",
+      "varies from",
+      "person"
+    ],
+    [
+      "factors",
+      "contribute to",
+      "life satisfaction"
+    ],
+    [
+      "factors",
+      "contribute to",
+      "well-being"
+    ],
+    [
+      "factors",
+      "shape",
+      "life satisfaction"
+    ],
+    [
+      "factors",
+      "shape",
+      "well-being"
+    ],
+    [
+      "flow",
+      "is a",
+      "state"
+    ],
+    [
+      "goal",
+      "transcends",
+      "boundaries"
+    ],
+    [
+      "gratitude",
+      "is the",
+      "practice"
+    ],
+    [
+      "happiness",
+      "brings",
+      "fulfillment"
+    ],
+    [
+      "happiness",
+      "brings",
+      "joy"
+    ],
+    [
+      "happiness",
+      "enhance",
+      "lives"
+    ],
+    [
+      "happiness",
+      "is",
+      "mechanisms"
+    ],
+    [
+      "happiness",
+      "is a",
+      "experience"
+    ],
+    [
+      "happiness",
+      "is a",
+      "formula"
+    ],
+    [
+      "happiness",
+      "is a",
+      "goal"
+    ],
+    [
+      "happiness",
+      "is the",
+      "pursuit"
+    ],
+    [
+      "humans",
+      "are",
+      "beings"
+    ],
+    [
+      "insights",
+      "into",
+      "factors"
+    ],
+    [
+      "mechanisms",
+      "for",
+      "stress"
+    ],
+    [
+      "passion",
+      "engaging in",
+      "project"
+    ],
+    [
+      "path",
+      "to",
+      "happiness"
+    ],
+    [
+      "perspective",
+      "shift from",
+      "contentment"
+    ],
+    [
+      "positive psychology",
+      "aims to understand",
+      "factors"
+    ],
+    [
+      "practice",
+      "of",
+      "acknowledging"
+    ],
+    [
+      "practice",
+      "of",
+      "appreciating"
+    ],
+    [
+      "project",
+      "or",
+      "skill"
+    ],
+    [
+      "pursuit",
+      "of",
+      "existence"
+    ],
+    [
+      "relationships",
+      "impact on",
+      "emotional"
+    ],
+    [
+      "relationships",
+      "provide",
+      "acceptance"
+    ],
+    [
+      "relationships",
+      "provide",
+      "belonging"
+    ],
+    [
+      "relationships",
+      "provide",
+      "support"
+    ],
+    [
+      "research",
+      "shown that",
+      "sense"
+    ],
+    [
+      "researchers",
+      "fascinated by",
+      "science"
+    ],
+    [
+      "resilience",
+      "in the face of",
+      "adversity"
+    ],
+    [
+      "science",
+      "behind",
+      "emotion"
+    ],
+    [
+      "science",
+      "of",
+      "happiness"
+    ],
+    [
+      "sense",
+      "lead to",
+      "levels"
+    ],
+    [
+      "state",
+      "of",
+      "focus"
+    ],
+    [
+      "state",
+      "of",
+      "fulfillment"
+    ],
+    [
+      "state",
+      "of",
+      "immersion"
+    ],
+    [
+      "state",
+      "of",
+      "satisfaction"
+    ],
+    [
+      "study",
+      "known as",
+      "positive psychology"
+    ],
+    [
+      "study",
+      "of",
+      "happiness"
+    ],
+    [
+      "support",
+      "essential for",
+      "health"
+    ],
+    [
+      "support",
+      "networks are",
+      "levels"
+    ]
+  ],
+  "edges": [
+    "aims to understand",
+    "are",
+    "behind",
+    "brings",
+    "contribute to",
+    "engaging in",
+    "enhance",
+    "essential for",
+    "fascinated by",
+    "for",
+    "impact on",
+    "in the face of",
+    "into",
+    "is",
+    "is a",
+    "is the",
+    "known as",
+    "lead to",
+    "networks are",
+    "of",
+    "on",
+    "or",
+    "play a role in",
+    "promote",
+    "provide",
+    "shape",
+    "shift from",
+    "shown that",
+    "such as",
+    "to",
+    "transcends",
+    "varies from"
+  ]
+}

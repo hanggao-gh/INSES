@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "SCIENTISTS",
+    "DEJA VU",
+    "PSYCHOLOGISTS",
+    "GENERAL PUBLIC"
+  ],
+  "relations": [
+    [
+      "DEJA VU",
+      "Deja vu has intrigued scientists who study and attempt to understand the phenomenon",
+      "SCIENTISTS"
+    ],
+    [
+      "DEJA VU",
+      "Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective",
+      "PSYCHOLOGISTS"
+    ],
+    [
+      "DEJA VU",
+      "Deja vu is a phenomenon that has captured the interest of the general public",
+      "GENERAL PUBLIC"
+    ]
+  ],
+  "edges": [
+    "Deja vu has intrigued scientists who study and attempt to understand the phenomenon",
+    "Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective",
+    "Deja vu is a phenomenon that has captured the interest of the general public"
+  ]
+}

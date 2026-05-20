@@ -1,0 +1,63 @@
+{
+  "entities": [
+    "MESOZOIC ERA",
+    "DINOSAURS",
+    "BRACHIOSAURUS",
+    "TYRANNOSAURUS REX",
+    "AGE OF DINOSAURS",
+    "JURASSIC PARK",
+    "EARTH"
+  ],
+  "relations": [
+    [
+      "TYRANNOSAURUS REX",
+      "Tyrannosaurus Rex lived during the Mesozoic Era, contributing to the period's reputation as the Age of Dinosaurs",
+      "MESOZOIC ERA"
+    ],
+    [
+      "BRACHIOSAURUS",
+      "Brachiosaurus existed during the Mesozoic Era, symbolizing the era's dramatic environmental changes and evolutionary milestones",
+      "MESOZOIC ERA"
+    ],
+    [
+      "MESOZOIC ERA",
+      "Dinosaurs lived during the Mesozoic Era, marking a period of their dominance on Earth",
+      "DINOSAURS"
+    ],
+    [
+      "DINOSAURS",
+      "Dinosaurs were the dominant life forms during the Age of Dinosaurs, shaping the ecosystem and biodiversity of that era",
+      "AGE OF DINOSAURS"
+    ],
+    [
+      "DINOSAURS",
+      "Dinosaurs lived on Earth, contributing to its ancient ecosystems and undergoing evolution over millions of years",
+      "EARTH"
+    ],
+    [
+      "DINOSAURS",
+      "The popularity of dinosaurs in modern culture, including movies like Jurassic Park, is partly due to the fascination with these ancient creatures",
+      "JURASSIC PARK"
+    ],
+    [
+      "AGE OF DINOSAURS",
+      "The Age of Dinosaurs was a significant period in Earth's history characterized by dramatic environmental changes and the evolution of dinosaurs",
+      "EARTH"
+    ],
+    [
+      "EARTH",
+      "Jurassic Park, while fictional, sparked increased interest and curiosity in the history of dinosaurs and their environment on Earth",
+      "JURASSIC PARK"
+    ]
+  ],
+  "edges": [
+    "Tyrannosaurus Rex lived during the Mesozoic Era, contributing to the period's reputation as the Age of Dinosaurs",
+    "Brachiosaurus existed during the Mesozoic Era, symbolizing the era's dramatic environmental changes and evolutionary milestones",
+    "Dinosaurs lived during the Mesozoic Era, marking a period of their dominance on Earth",
+    "Dinosaurs were the dominant life forms during the Age of Dinosaurs, shaping the ecosystem and biodiversity of that era",
+    "Dinosaurs lived on Earth, contributing to its ancient ecosystems and undergoing evolution over millions of years",
+    "The popularity of dinosaurs in modern culture, including movies like Jurassic Park, is partly due to the fascination with these ancient creatures",
+    "The Age of Dinosaurs was a significant period in Earth's history characterized by dramatic environmental changes and the evolution of dinosaurs",
+    "Jurassic Park, while fictional, sparked increased interest and curiosity in the history of dinosaurs and their environment on Earth"
+  ]
+}

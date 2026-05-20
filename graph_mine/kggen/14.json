@@ -1,0 +1,490 @@
+{
+  "entities": [
+    "acceptance",
+    "ancestors",
+    "appeal",
+    "art",
+    "artist",
+    "artistry",
+    "artists",
+    "asia",
+    "attitude",
+    "attitudes",
+    "beliefs",
+    "bodies",
+    "butterfly",
+    "celebrities",
+    "client",
+    "commitment",
+    "communication",
+    "conclusion",
+    "courage",
+    "creativity",
+    "criminal",
+    "cultures",
+    "decorations",
+    "designs",
+    "egypt",
+    "emotions",
+    "europe",
+    "event",
+    "evidence",
+    "experience",
+    "expertise",
+    "expression",
+    "form",
+    "history",
+    "ideas",
+    "images",
+    "indigenous",
+    "influencers",
+    "ink",
+    "japan",
+    "life",
+    "life cycle",
+    "loved one",
+    "mainstream",
+    "meanings",
+    "media",
+    "memorial",
+    "mummies",
+    "passage",
+    "people",
+    "person",
+    "polynesian",
+    "process",
+    "professionals",
+    "protection",
+    "relationship",
+    "reminder",
+    "resilience",
+    "rite",
+    "rituals",
+    "role",
+    "self-empowerment",
+    "self-expression",
+    "significance",
+    "skill",
+    "skin",
+    "society",
+    "spirituality",
+    "status",
+    "story",
+    "strength",
+    "styles",
+    "symbol",
+    "symbols",
+    "tattooing",
+    "techniques",
+    "tradition",
+    "trust",
+    "underworld",
+    "values",
+    "vision",
+    "workplaces",
+    "works",
+    "world",
+    "years"
+  ],
+  "relations": [
+    [
+      "acceptance",
+      "in",
+      "society"
+    ],
+    [
+      "art",
+      "combines",
+      "creativity"
+    ],
+    [
+      "art",
+      "combines",
+      "expression"
+    ],
+    [
+      "art",
+      "combines",
+      "skill"
+    ],
+    [
+      "artist",
+      "understand",
+      "vision"
+    ],
+    [
+      "artist",
+      "work collaboratively",
+      "client"
+    ],
+    [
+      "artists",
+      "are skilled",
+      "professionals"
+    ],
+    [
+      "attitude",
+      "shift in",
+      "appeal"
+    ],
+    [
+      "attitudes",
+      "towards",
+      "tattooing"
+    ],
+    [
+      "celebrities",
+      "display",
+      "ink"
+    ],
+    [
+      "communication",
+      "key in",
+      "process"
+    ],
+    [
+      "cultures",
+      "around the",
+      "world"
+    ],
+    [
+      "designs",
+      "are",
+      "person"
+    ],
+    [
+      "designs",
+      "or",
+      "images"
+    ],
+    [
+      "designs",
+      "symbolized",
+      "courage"
+    ],
+    [
+      "designs",
+      "symbolized",
+      "strength"
+    ],
+    [
+      "designs",
+      "symbolized",
+      "tradition"
+    ],
+    [
+      "evidence",
+      "of tattooed",
+      "mummies"
+    ],
+    [
+      "experience",
+      "requires",
+      "commitment"
+    ],
+    [
+      "experience",
+      "requires",
+      "trust"
+    ],
+    [
+      "experience",
+      "transformative",
+      "people"
+    ],
+    [
+      "history",
+      "dates back",
+      "years"
+    ],
+    [
+      "indigenous",
+      "used as",
+      "symbols"
+    ],
+    [
+      "influencers",
+      "display",
+      "ink"
+    ],
+    [
+      "ink",
+      "into the",
+      "skin"
+    ],
+    [
+      "japan",
+      "associated with",
+      "criminal"
+    ],
+    [
+      "japan",
+      "associated with",
+      "underworld"
+    ],
+    [
+      "memorial",
+      "honoring",
+      "loved one"
+    ],
+    [
+      "mummies",
+      "found in",
+      "asia"
+    ],
+    [
+      "mummies",
+      "found in",
+      "egypt"
+    ],
+    [
+      "mummies",
+      "found in",
+      "europe"
+    ],
+    [
+      "polynesian",
+      "connect with",
+      "ancestors"
+    ],
+    [
+      "polynesian",
+      "seen as",
+      "rite"
+    ],
+    [
+      "process",
+      "ensures",
+      "artist"
+    ],
+    [
+      "process",
+      "ensures",
+      "client"
+    ],
+    [
+      "process",
+      "inserting",
+      "ink"
+    ],
+    [
+      "professionals",
+      "use",
+      "expertise"
+    ],
+    [
+      "professionals",
+      "use",
+      "vision"
+    ],
+    [
+      "relationship",
+      "between",
+      "artist"
+    ],
+    [
+      "relationship",
+      "between",
+      "client"
+    ],
+    [
+      "reminder",
+      "of",
+      "beliefs"
+    ],
+    [
+      "reminder",
+      "of",
+      "values"
+    ],
+    [
+      "styles",
+      "range of",
+      "techniques"
+    ],
+    [
+      "symbol",
+      "of",
+      "resilience"
+    ],
+    [
+      "symbol",
+      "of",
+      "strength"
+    ],
+    [
+      "symbols",
+      "of",
+      "protection"
+    ],
+    [
+      "symbols",
+      "of",
+      "spirituality"
+    ],
+    [
+      "symbols",
+      "of",
+      "status"
+    ],
+    [
+      "tattooing",
+      "appreciated for",
+      "appeal"
+    ],
+    [
+      "tattooing",
+      "become",
+      "mainstream"
+    ],
+    [
+      "tattooing",
+      "evoke",
+      "emotions"
+    ],
+    [
+      "tattooing",
+      "form of",
+      "artistry"
+    ],
+    [
+      "tattooing",
+      "form of",
+      "self-expression"
+    ],
+    [
+      "tattooing",
+      "growing",
+      "acceptance"
+    ],
+    [
+      "tattooing",
+      "has",
+      "history"
+    ],
+    [
+      "tattooing",
+      "highlight",
+      "artistry"
+    ],
+    [
+      "tattooing",
+      "highlight",
+      "significance"
+    ],
+    [
+      "tattooing",
+      "hold",
+      "meanings"
+    ],
+    [
+      "tattooing",
+      "in",
+      "cultures"
+    ],
+    [
+      "tattooing",
+      "involves the",
+      "process"
+    ],
+    [
+      "tattooing",
+      "is a form of",
+      "art"
+    ],
+    [
+      "tattooing",
+      "played",
+      "role"
+    ],
+    [
+      "tattooing",
+      "practiced in",
+      "cultures"
+    ],
+    [
+      "tattooing",
+      "recognize",
+      "artistry"
+    ],
+    [
+      "tattooing",
+      "recognize",
+      "meanings"
+    ],
+    [
+      "tattooing",
+      "tell",
+      "story"
+    ],
+    [
+      "vision",
+      "bring",
+      "ideas"
+    ],
+    [
+      "workplaces",
+      "allow",
+      "tattooing"
+    ],
+    [
+      "works",
+      "adorn",
+      "bodies"
+    ],
+    [
+      "works",
+      "of",
+      "people"
+    ]
+  ],
+  "edges": [
+    "adorn",
+    "allow",
+    "appreciated for",
+    "are",
+    "are skilled",
+    "around the",
+    "associated with",
+    "become",
+    "between",
+    "bring",
+    "combines",
+    "connect with",
+    "dates back",
+    "display",
+    "ensures",
+    "evoke",
+    "form of",
+    "found in",
+    "growing",
+    "has",
+    "highlight",
+    "hold",
+    "honoring",
+    "in",
+    "inserting",
+    "into the",
+    "involves the",
+    "is a form of",
+    "key in",
+    "of",
+    "of tattooed",
+    "or",
+    "played",
+    "practiced in",
+    "range of",
+    "recognize",
+    "requires",
+    "seen as",
+    "shift in",
+    "symbolized",
+    "tell",
+    "towards",
+    "transformative",
+    "understand",
+    "use",
+    "used as",
+    "work collaboratively"
+  ]
+}

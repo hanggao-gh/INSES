@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sleep is a fundamental biological process.",
+    "retrieved_context": "interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. clock determines timing. circadian rhythm is clock.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep is essential for human health and well-being.",
+    "retrieved_context": "interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. clock determines timing. circadian rhythm is clock.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep involves various physiological and neurological mechanisms.",
+    "retrieved_context": "interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. clock determines timing. circadian rhythm is clock.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sleep is divided into rapid eye movement (REM) sleep and non-REM sleep.",
+    "retrieved_context": "rapid eye movement involves dreaming. rapid eye movement characterized by paralysis. rapid eye movement characterized by activity. rapid eye movement characterized by movements. rapid eye movement plays a role in emotional. rapid eye movement plays a role in memory. interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. stages are part of sleep. stages include n2. non-rem is divided into stages. stages include n1. stages include n3. clock determines timing. circadian rhythm is clock.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Non-REM sleep consists of three stages: N1, N2, and N3.",
+    "retrieved_context": "stages are part of sleep. stages include n2. non-rem is divided into stages. stages include n1. stages include n3. interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. stages are part of sleep. sleep is a process. n2 characterized by heart rate. stages include n3. n3 involves processes. sleep is essential for health. n3 is slow-wave. n2 involves spindles. n1 involves consciousness. n2 involves k-complexes. n2 characterized by temperature. sleep is essential for well-being. stages include n2. sleep involves mechanisms. sleep is divided into categories. stages include n1. sleep regulated by interplay. clock determines timing. circadian rhythm is clock. n3 is slow-wave. processes involve neurotransmitters. n3 involves processes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "N1 stage is the lightest stage of sleep.",
+    "retrieved_context": "stages are part of sleep. sleep is a process. n2 characterized by heart rate. stages include n3. n3 involves processes. sleep is essential for health. n3 is slow-wave. n2 involves spindles. n1 involves consciousness. n2 involves k-complexes. n2 characterized by temperature. sleep is essential for well-being. stages include n2. sleep involves mechanisms. sleep is divided into categories. stages include n1. sleep regulated by interplay. n1 involves consciousness. interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. n2 involves spindles. n2 characterized by temperature. n2 characterized by heart rate. n2 involves k-complexes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "N2 stage is characterized by a decrease in body temperature and heart rate.",
+    "retrieved_context": "n2 involves spindles. n2 characterized by temperature. n2 characterized by heart rate. n2 involves k-complexes. stages are part of sleep. sleep is a process. n2 characterized by heart rate. stages include n3. n3 involves processes. sleep is essential for health. n3 is slow-wave. n2 involves spindles. n1 involves consciousness. n2 involves k-complexes. n2 characterized by temperature. sleep is essential for well-being. stages include n2. sleep involves mechanisms. sleep is divided into categories. stages include n1. sleep regulated by interplay. n1 involves consciousness. n3 is slow-wave. processes involve neurotransmitters. n3 involves processes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "N3 stage is the deepest stage of sleep.",
+    "retrieved_context": "n3 is slow-wave. processes involve neurotransmitters. n3 involves processes. stages are part of sleep. sleep is a process. n2 characterized by heart rate. stages include n3. n3 involves processes. sleep is essential for health. n3 is slow-wave. n2 involves spindles. n1 involves consciousness. n2 involves k-complexes. n2 characterized by temperature. sleep is essential for well-being. stages include n2. sleep involves mechanisms. sleep is divided into categories. stages include n1. sleep regulated by interplay. n2 involves spindles. n2 characterized by temperature. n2 characterized by heart rate. n2 involves k-complexes. interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. n1 involves consciousness.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "REM sleep is the stage where most dreaming occurs.",
+    "retrieved_context": "interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. stages are part of sleep. stages include n2. non-rem is divided into stages. stages include n1. stages include n3. clock determines timing. circadian rhythm is clock.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "REM sleep is characterized by rapid eye movements and muscle paralysis.",
+    "retrieved_context": "rapid eye movement involves dreaming. rapid eye movement characterized by paralysis. rapid eye movement characterized by activity. rapid eye movement characterized by movements. rapid eye movement plays a role in emotional. rapid eye movement plays a role in memory. stages are part of sleep. stages include n2. non-rem is divided into stages. stages include n1. stages include n3. interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Circadian rhythm plays a significant role in determining sleep timing.",
+    "retrieved_context": "clock determines timing. circadian rhythm is clock. interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. clock determines timing. timing involves wakefulness. timing involves wakefulness.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The suprachiasmatic nucleus in the brain regulates the release of melatonin.",
+    "retrieved_context": "suprachiasmatic nucleus is in brain. suprachiasmatic nucleus regulates melatonin. clock determines timing. circadian rhythm is clock. interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Adenosine is a neurotransmitter that promotes sleep.",
+    "retrieved_context": "sleep is a process. sleep is essential for health. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. adenosine promotes sleep. interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. clock determines timing. circadian rhythm is clock.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Serotonin and dopamine also play a role in sleep regulation.",
+    "retrieved_context": "interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. clock determines timing. circadian rhythm is clock.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "External factors like light exposure, noise, and temperature can impact sleep quality.",
+    "retrieved_context": "interplay involves processes. sleep is a process. sleep is essential for health. categories include rapid eye movement. categories include non-rem. sleep is essential for well-being. sleep involves mechanisms. sleep is divided into categories. sleep regulated by interplay. clock determines timing. circadian rhythm is clock.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

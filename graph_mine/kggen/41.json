@@ -1,0 +1,365 @@
+{
+  "entities": [
+    "airy texture",
+    "alcohol",
+    "art",
+    "artisanal breads",
+    "baking",
+    "blend",
+    "bread",
+    "browning",
+    "burst",
+    "byproduct",
+    "carbon dioxide gas",
+    "centuries",
+    "chemical process",
+    "chewy texture",
+    "conclusion",
+    "contagious",
+    "crisp crust",
+    "crumb structure",
+    "cultures",
+    "development",
+    "dough",
+    "elasticity",
+    "essay",
+    "factors",
+    "fermentation",
+    "firm crust",
+    "flavor",
+    "flavor compounds",
+    "flour",
+    "food",
+    "forms",
+    "fungus",
+    "gelatinize",
+    "generations",
+    "gluten",
+    "heart",
+    "heat",
+    "humidity",
+    "ingredients",
+    "interaction",
+    "kneading",
+    "knowledge",
+    "laughter",
+    "loaves",
+    "maillard reaction",
+    "moist interior",
+    "network",
+    "oven",
+    "potential",
+    "principles",
+    "process",
+    "product",
+    "proteins",
+    "rise",
+    "role",
+    "salt",
+    "science",
+    "skill",
+    "staple food",
+    "starches",
+    "strands",
+    "structure",
+    "sugars",
+    "taste",
+    "temperature",
+    "temperatures",
+    "texture",
+    "time",
+    "water",
+    "yeast"
+  ],
+  "relations": [
+    [
+      "alcohol",
+      "contributes to",
+      "flavor"
+    ],
+    [
+      "artisanal breads",
+      "require",
+      "time"
+    ],
+    [
+      "baking",
+      "is",
+      "blend"
+    ],
+    [
+      "baking",
+      "is",
+      "chemical process"
+    ],
+    [
+      "baking",
+      "is both",
+      "art"
+    ],
+    [
+      "baking",
+      "is both",
+      "science"
+    ],
+    [
+      "blend",
+      "of",
+      "knowledge"
+    ],
+    [
+      "blend",
+      "of",
+      "principles"
+    ],
+    [
+      "blend",
+      "of",
+      "skill"
+    ],
+    [
+      "bread",
+      "enjoyed by",
+      "generations"
+    ],
+    [
+      "bread",
+      "is",
+      "food"
+    ],
+    [
+      "bread",
+      "is",
+      "staple food"
+    ],
+    [
+      "bread",
+      "is enjoyed for",
+      "centuries"
+    ],
+    [
+      "burst",
+      "creates",
+      "crisp crust"
+    ],
+    [
+      "burst",
+      "creates",
+      "moist interior"
+    ],
+    [
+      "carbon dioxide gas",
+      "causes",
+      "rise"
+    ],
+    [
+      "carbon dioxide gas",
+      "is",
+      "byproduct"
+    ],
+    [
+      "chemical process",
+      "involves",
+      "interaction"
+    ],
+    [
+      "development",
+      "creates",
+      "flavor compounds"
+    ],
+    [
+      "fermentation",
+      "is crucial for",
+      "flavor"
+    ],
+    [
+      "fermentation",
+      "is crucial for",
+      "texture"
+    ],
+    [
+      "fermentation",
+      "produces",
+      "alcohol"
+    ],
+    [
+      "flavor",
+      "has",
+      "potential"
+    ],
+    [
+      "flavor compounds",
+      "give",
+      "taste"
+    ],
+    [
+      "flour",
+      "is made up of",
+      "proteins"
+    ],
+    [
+      "gelatinize",
+      "gives",
+      "firm crust"
+    ],
+    [
+      "gluten",
+      "forms",
+      "network"
+    ],
+    [
+      "gluten",
+      "gives",
+      "elasticity"
+    ],
+    [
+      "gluten",
+      "gives",
+      "structure"
+    ],
+    [
+      "heat",
+      "causes",
+      "starches"
+    ],
+    [
+      "heat",
+      "causes",
+      "yeast"
+    ],
+    [
+      "humidity",
+      "is",
+      "factors"
+    ],
+    [
+      "ingredients",
+      "are",
+      "flour"
+    ],
+    [
+      "ingredients",
+      "are",
+      "salt"
+    ],
+    [
+      "ingredients",
+      "are",
+      "water"
+    ],
+    [
+      "ingredients",
+      "are",
+      "yeast"
+    ],
+    [
+      "kneading",
+      "develops",
+      "gluten"
+    ],
+    [
+      "kneading",
+      "ensures",
+      "crumb structure"
+    ],
+    [
+      "kneading",
+      "gives",
+      "chewy texture"
+    ],
+    [
+      "kneading",
+      "stretches",
+      "strands"
+    ],
+    [
+      "loaves",
+      "are",
+      "forms"
+    ],
+    [
+      "maillard reaction",
+      "is responsible for",
+      "browning"
+    ],
+    [
+      "maillard reaction",
+      "is responsible for",
+      "development"
+    ],
+    [
+      "oven",
+      "provides",
+      "heat"
+    ],
+    [
+      "product",
+      "is",
+      "bread"
+    ],
+    [
+      "proteins",
+      "are called",
+      "gluten"
+    ],
+    [
+      "rise",
+      "creates",
+      "airy texture"
+    ],
+    [
+      "starches",
+      "to",
+      "gelatinize"
+    ],
+    [
+      "temperatures",
+      "are",
+      "factors"
+    ],
+    [
+      "yeast",
+      "feeds on",
+      "sugars"
+    ],
+    [
+      "yeast",
+      "is a type of",
+      "fungus"
+    ],
+    [
+      "yeast",
+      "produces",
+      "carbon dioxide gas"
+    ]
+  ],
+  "edges": [
+    "are",
+    "are called",
+    "causes",
+    "contributes to",
+    "creates",
+    "develops",
+    "enjoyed by",
+    "ensures",
+    "feeds on",
+    "forms",
+    "give",
+    "gives",
+    "has",
+    "involves",
+    "is",
+    "is a type of",
+    "is both",
+    "is crucial for",
+    "is enjoyed for",
+    "is made up of",
+    "is responsible for",
+    "of",
+    "produces",
+    "provides",
+    "require",
+    "stretches",
+    "to"
+  ]
+}

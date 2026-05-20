@@ -1,0 +1,91 @@
+{
+  "entities": [
+    "VIRTUAL REALITY IN EDUCATION",
+    "EDUCATION",
+    "SCHOOLS AND EDUCATIONAL INSTITUTIONS",
+    "HEALTH AND SAFETY RISKS",
+    "VIRTUAL REALITY",
+    "HISTORY STUDENTS",
+    "EDUCATORS",
+    "VIRTUAL REALITY TECHNOLOGY",
+    "STUDENTS",
+    "MEDICAL STUDENTS",
+    "VR EQUIPMENT AND SOFTWARE"
+  ],
+  "relations": [
+    [
+      "VIRTUAL REALITY",
+      "Virtual reality is used in education to create immersive and engaging learning experiences",
+      "EDUCATION"
+    ],
+    [
+      "VIRTUAL REALITY",
+      "Medical students use virtual reality to practice surgical procedures in a simulated environment",
+      "MEDICAL STUDENTS"
+    ],
+    [
+      "VIRTUAL REALITY",
+      "History students use virtual reality to explore historical landmarks and events in an immersive manner",
+      "HISTORY STUDENTS"
+    ],
+    [
+      "VIRTUAL REALITY IN EDUCATION",
+      "Virtual reality in education aims to provide equal learning opportunities to students from different backgrounds",
+      "STUDENTS"
+    ],
+    [
+      "VIRTUAL REALITY IN EDUCATION",
+      "Schools and educational institutions need to invest in VR technology to implement virtual reality in education",
+      "SCHOOLS AND EDUCATIONAL INSTITUTIONS"
+    ],
+    [
+      "VIRTUAL REALITY IN EDUCATION",
+      "Educators need training to effectively use virtual reality in their teaching practices",
+      "EDUCATORS"
+    ],
+    [
+      "STUDENTS",
+      "Students may experience health and safety risks such as motion sickness and eye strain from using VR headsets",
+      "HEALTH AND SAFETY RISKS"
+    ],
+    [
+      "STUDENTS",
+      "Students benefit from the immersive and engaging learning experiences provided by virtual reality technology",
+      "VIRTUAL REALITY TECHNOLOGY"
+    ],
+    [
+      "STUDENTS",
+      "Educators enhance the learning experiences of students through the use of virtual reality technology",
+      "EDUCATORS"
+    ],
+    [
+      "SCHOOLS AND EDUCATIONAL INSTITUTIONS",
+      "Schools and educational institutions may face financial barriers when investing in VR equipment and software",
+      "VR EQUIPMENT AND SOFTWARE"
+    ],
+    [
+      "EDUCATORS",
+      "Educators need to be familiar with VR equipment and software to effectively integrate it into their teaching",
+      "VR EQUIPMENT AND SOFTWARE"
+    ],
+    [
+      "EDUCATORS",
+      "Educators use virtual reality technology to enhance learning outcomes and foster deeper understanding",
+      "VIRTUAL REALITY TECHNOLOGY"
+    ]
+  ],
+  "edges": [
+    "Virtual reality is used in education to create immersive and engaging learning experiences",
+    "Medical students use virtual reality to practice surgical procedures in a simulated environment",
+    "History students use virtual reality to explore historical landmarks and events in an immersive manner",
+    "Virtual reality in education aims to provide equal learning opportunities to students from different backgrounds",
+    "Schools and educational institutions need to invest in VR technology to implement virtual reality in education",
+    "Educators need training to effectively use virtual reality in their teaching practices",
+    "Students may experience health and safety risks such as motion sickness and eye strain from using VR headsets",
+    "Students benefit from the immersive and engaging learning experiences provided by virtual reality technology",
+    "Educators enhance the learning experiences of students through the use of virtual reality technology",
+    "Schools and educational institutions may face financial barriers when investing in VR equipment and software",
+    "Educators need to be familiar with VR equipment and software to effectively integrate it into their teaching",
+    "Educators use virtual reality technology to enhance learning outcomes and foster deeper understanding"
+  ]
+}

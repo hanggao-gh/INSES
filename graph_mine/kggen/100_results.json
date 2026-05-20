@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Climate change impacts global agriculture.",
+    "retrieved_context": "global agriculture dependent on conditions. climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. sustainable farming help improve. sustainable farming help build. organic farming help protect. organic farming help reduce. organic farming help promoting. organic farming contribute mitigating.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Agriculture is highly dependent on climate conditions.",
+    "retrieved_context": "global agriculture dependent on conditions. sustainable farming help improve. sustainable farming help build. climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. organic farming help protect. organic farming help reduce. organic farming help promoting. organic farming contribute mitigating.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Changes in climate affect crop production.",
+    "retrieved_context": "climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. global agriculture dependent on conditions. sustainable farming help improve. sustainable farming help build.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change leads to more severe weather events.",
+    "retrieved_context": "climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. weather events lead to shortages. weather events devastate yields. weather events disrupt supply chains. weather events destroy crop production. weather events lead to price spikes. scarcity make difficult. precipitation patterns lead to scarcity. scarcity result in competition. scarcity result in lower.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Extreme weather events can devastate crops.",
+    "retrieved_context": "weather events lead to shortages. weather events devastate yields. weather events disrupt supply chains. weather events destroy crop production. weather events lead to price spikes. global agriculture dependent on conditions. sustainable farming help improve. sustainable farming help build.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rising temperatures affect planting and harvesting seasons.",
+    "retrieved_context": "climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. rainwater harvesting are crucial. scarcity make difficult. precipitation patterns lead to scarcity. scarcity result in competition. scarcity result in lower.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Warmer temperatures lead to the spread of pests and diseases.",
+    "retrieved_context": "climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. weather events lead to shortages. weather events devastate yields. weather events disrupt supply chains. weather events destroy crop production. weather events lead to price spikes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change challenges water availability for agriculture.",
+    "retrieved_context": "climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. global agriculture dependent on conditions. rainwater harvesting are crucial. sustainable farming help improve. sustainable farming help build.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Water scarcity affects farmers' ability to irrigate crops.",
+    "retrieved_context": "sustainable farming help improve. sustainable farming help build. global agriculture dependent on conditions. rainwater harvesting are crucial. organic farming help protect. organic farming help reduce. organic farming help promoting. organic farming contribute mitigating.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sustainable water management practices are crucial for adaptation.",
+    "retrieved_context": "sustainable for management. sustainable for practices. rainwater harvesting are crucial. sustainable farming help improve. sustainable farming help build.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change presents opportunities for innovation in agriculture.",
+    "retrieved_context": "climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. global agriculture dependent on conditions. sustainable farming help improve. sustainable farming help build. organic farming help protect. organic farming help reduce. organic farming help promoting. organic farming contribute mitigating.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Drought-resistant crop varieties can mitigate climate change impacts.",
+    "retrieved_context": "climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. global agriculture dependent on conditions. sustainable farming help improve. sustainable farming help build. rainwater harvesting are crucial.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sustainable farming practices can improve soil health.",
+    "retrieved_context": "sustainable farming help improve. sustainable farming help build. organic farming help protect. organic farming help reduce. organic farming help promoting. organic farming contribute mitigating. global agriculture dependent on conditions. sustainable for management. sustainable for practices.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Promoting sustainable agriculture can reduce greenhouse gas emissions.",
+    "retrieved_context": "sustainable farming help improve. sustainable farming help build. global agriculture dependent on conditions. organic farming help protect. organic farming help reduce. organic farming help promoting. organic farming contribute mitigating. sustainable for management. sustainable for practices. climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Investing in research and technology can address climate change challenges in agriculture.",
+    "retrieved_context": "climate change poses water availability. climate change impacts weather patterns. climate change impacts human life. climate change impacts global agriculture. global agriculture dependent on conditions. climate change presents challenges. climate change presents opportunities. climate change is major. climate change is pressing. global agriculture dependent on conditions. sustainable farming help improve. sustainable farming help build. organic farming help protect. organic farming help reduce. organic farming help promoting. organic farming contribute mitigating.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

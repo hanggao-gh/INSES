@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Clouds are a natural phenomenon.",
+    "retrieved_context": "Clouds are natural. Clouds are fascinating. Clouds are fascinating natural phenomenon. Clouds are natural phenomenon. Clouds are phenomenon. Clouds are fascinating phenomenon. clouds form at altitudes. clouds form through process of condensation. process is crucial as mechanism. clouds are often gray. process is crucial mechanism. clouds bring skies. clouds bring overcast skies. clouds form In conclusion. process is crucial. clouds form through process. process is crucial to cloud formation. clouds form at high altitudes. clouds are gray.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Clouds can be observed in the sky.",
+    "retrieved_context": "Clouds are natural. Clouds are fascinating. Clouds are fascinating natural phenomenon. Clouds are natural phenomenon. Clouds are phenomenon. Clouds are fascinating phenomenon. clouds form at altitudes. clouds form through process of condensation. process is crucial as mechanism. clouds are often gray. process is crucial mechanism. clouds bring skies. clouds bring overcast skies. clouds form In conclusion. process is crucial. clouds form through process. process is crucial to cloud formation. clouds form at high altitudes. clouds are gray.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Clouds are formed through a complex process.",
+    "retrieved_context": "sun has rays. Cloud formation begins by sun. Cloud formation begins with warming. Cloud formation begins with warming of Earth 's surface. Clouds are natural. Clouds are fascinating. Clouds are fascinating natural phenomenon. Clouds are natural phenomenon. Clouds are phenomenon. Clouds are fascinating phenomenon. clouds form at altitudes. clouds form through process of condensation. process is crucial as mechanism. clouds are often gray. process is crucial mechanism. clouds bring skies. clouds bring overcast skies. clouds form In conclusion. process is crucial. clouds form through process. process is crucial to cloud formation. clouds form at high altitudes. clouds are gray.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cloud formation begins with the warming of the Earth's surface.",
+    "retrieved_context": "sun has rays. Cloud formation begins by sun. Cloud formation begins with warming. Cloud formation begins with warming of Earth 's surface.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm air rises and cools as it moves higher into the atmosphere.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Air reaches its dew point during cloud formation.",
+    "retrieved_context": "sun has rays. Cloud formation begins by sun. Cloud formation begins with warming. Cloud formation begins with warming of Earth 's surface.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Water vapor in the air condenses into tiny droplets or ice crystals.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tiny droplets or crystals come together to form clouds.",
+    "retrieved_context": "sun has rays. Cloud formation begins by sun. Cloud formation begins with warming. Cloud formation begins with warming of Earth 's surface. Clouds are natural. Clouds are fascinating. Clouds are fascinating natural phenomenon. Clouds are natural phenomenon. Clouds are phenomenon. Clouds are fascinating phenomenon. clouds form at altitudes. clouds form through process of condensation. process is crucial as mechanism. clouds are often gray. process is crucial mechanism. clouds bring skies. clouds bring overcast skies. clouds form In conclusion. process is crucial. clouds form through process. process is crucial to cloud formation. clouds form at high altitudes. clouds are gray.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Condensation is crucial to cloud formation.",
+    "retrieved_context": "sun has rays. Cloud formation begins by sun. Cloud formation begins with warming. Cloud formation begins with warming of Earth 's surface.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Temperature and humidity influence cloud formation.",
+    "retrieved_context": "sun has rays. Cloud formation begins by sun. Cloud formation begins with warming. Cloud formation begins with warming of Earth 's surface.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Air currents play a significant role in cloud formation.",
+    "retrieved_context": "sun has rays. Cloud formation begins by sun. Cloud formation begins with warming. Cloud formation begins with warming of Earth 's surface.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Different types of clouds can be observed in the sky.",
+    "retrieved_context": "Clouds are natural. Clouds are fascinating. Clouds are fascinating natural phenomenon. Clouds are natural phenomenon. Clouds are phenomenon. Clouds are fascinating phenomenon. clouds form at altitudes. clouds form through process of condensation. process is crucial as mechanism. clouds are often gray. process is crucial mechanism. clouds bring skies. clouds bring overcast skies. clouds form In conclusion. process is crucial. clouds form through process. process is crucial to cloud formation. clouds form at high altitudes. clouds are gray.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cumulus clouds form when warm air rises rapidly.",
+    "retrieved_context": "Cumulus clouds are fluffy.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Stratus clouds are low-lying clouds.",
+    "retrieved_context": "clouds form through process of condensation. Stratus clouds are lying clouds form in uniform layer. clouds are often gray. Stratus clouds are clouds on other hand. Stratus clouds are lying clouds form in more uniform layer. Stratus clouds are lying clouds form in uniform layer across sky. clouds form at altitudes. Stratus clouds are clouds form. clouds bring overcast skies. clouds bring skies. clouds form In conclusion. Stratus clouds are lying clouds form in layer. Stratus clouds are clouds. Stratus clouds are lying clouds. clouds form at high altitudes. Stratus clouds are lying clouds form in layer across sky. clouds are gray. Stratus clouds are clouds form in more uniform layer across sky. Stratus clouds are clouds on hand. clouds form through process. Cirrus clouds are seen. clouds form through process of condensation. Cirrus clouds are often seen in sky on days. clouds are often gray. Cirrus clouds are often seen on clear days. Cirrus clouds are often seen in sky on clear days. Cirrus clouds are composed. Cirrus clouds are seen in sky. clouds form at altitudes. Cirrus clouds are composed of ice crystals. Cirrus clouds are often seen. clouds bring skies. clouds bring overcast skies. clouds form In conclusion. Cirrus clouds are seen in sky on days. Cirrus clouds are high wispy clouds. clouds form at high altitudes. clouds are gray. Cirrus clouds are seen in sky on clear days. Cirrus clouds are seen on days. Cirrus clouds are high clouds. clouds form through process. Clouds are natural. Clouds are fascinating. Clouds are fascinating natural phenomenon. Clouds are natural phenomenon. Clouds are phenomenon. Clouds are fascinating phenomenon. clouds form at altitudes. clouds form through process of condensation. process is crucial as mechanism. clouds are often gray. process is crucial mechanism. clouds bring skies. clouds bring overcast skies. clouds form In conclusion. process is crucial. clouds form through process. process is crucial to cloud formation. clouds form at high altitudes. clouds are gray.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cirrus clouds are high, wispy clouds.",
+    "retrieved_context": "Cirrus clouds are seen. clouds form through process of condensation. Cirrus clouds are often seen in sky on days. clouds are often gray. Cirrus clouds are often seen on clear days. Cirrus clouds are often seen in sky on clear days. Cirrus clouds are composed. Cirrus clouds are seen in sky. clouds form at altitudes. Cirrus clouds are composed of ice crystals. Cirrus clouds are often seen. clouds bring skies. clouds bring overcast skies. clouds form In conclusion. Cirrus clouds are seen in sky on days. Cirrus clouds are high wispy clouds. clouds form at high altitudes. clouds are gray. Cirrus clouds are seen in sky on clear days. Cirrus clouds are seen on days. Cirrus clouds are high clouds. clouds form through process. Clouds are natural. Clouds are fascinating. Clouds are fascinating natural phenomenon. Clouds are natural phenomenon. Clouds are phenomenon. Clouds are fascinating phenomenon. clouds form at altitudes. clouds form through process of condensation. process is crucial as mechanism. clouds are often gray. process is crucial mechanism. clouds bring skies. clouds bring overcast skies. clouds form In conclusion. process is crucial. clouds form through process. process is crucial to cloud formation. clouds form at high altitudes. clouds are gray. Cumulus clouds are fluffy.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

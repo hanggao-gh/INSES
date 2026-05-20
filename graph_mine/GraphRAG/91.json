@@ -1,0 +1,114 @@
+{
+  "entities": [
+    "NEOCORTEX",
+    "LONG-TERM POTENTIATION",
+    "EPISODIC MEMORIES",
+    "EMOTION",
+    "SYNAPTIC PLASTICITY",
+    "SLEEP",
+    "NEURAL NETWORKS",
+    "CEREBELLUM",
+    "MEMORY FORMATION",
+    "MOTOR CORTEX",
+    "AMYGDALA",
+    "ELECTROENCEPHALOGRAPHY (EEG)",
+    "HIPPOCAMPUS",
+    "PREFRONTAL CORTEX",
+    "ATTENTION",
+    "FUNCTIONAL MAGNETIC RESONANCE IMAGING (FMRI)"
+  ],
+  "relations": [
+    [
+      "MEMORY FORMATION",
+      "The hippocampus is a key component in the process of memory formation, particularly in encoding and storage",
+      "HIPPOCAMPUS"
+    ],
+    [
+      "MEMORY FORMATION",
+      "The amygdala is involved in the emotional aspects of memory formation",
+      "AMYGDALA"
+    ],
+    [
+      "MEMORY FORMATION",
+      "The prefrontal cortex is involved in processing and retrieving memories",
+      "PREFRONTAL CORTEX"
+    ],
+    [
+      "MEMORY FORMATION",
+      "Long-term potentiation is a crucial process for the formation of long-lasting memories",
+      "LONG-TERM POTENTIATION"
+    ],
+    [
+      "MEMORY FORMATION",
+      "Memory formation involves the creation of episodic memories, which are stored in the hippocampus",
+      "EPISODIC MEMORIES"
+    ],
+    [
+      "MEMORY FORMATION",
+      "Focused attention helps in the prioritization and filtering of information crucial for memory formation",
+      "ATTENTION"
+    ],
+    [
+      "HIPPOCAMPUS",
+      "The hippocampus is specifically involved in the storage of episodic memories",
+      "EPISODIC MEMORIES"
+    ],
+    [
+      "HIPPOCAMPUS",
+      "Long-term potentiation occurs in the hippocampus, strengthening connections between neurons for memory storage",
+      "LONG-TERM POTENTIATION"
+    ],
+    [
+      "HIPPOCAMPUS",
+      "Memories are transferred from temporary storage in the hippocampus to more permanent storage in the neocortex",
+      "NEOCORTEX"
+    ],
+    [
+      "AMYGDALA",
+      "Sleep involves processes that may interact with the amygdala's role in memory consolidation",
+      "SLEEP"
+    ],
+    [
+      "AMYGDALA",
+      "Emotionally charged events activate the amygdala, enhancing memory encoding",
+      "EMOTION"
+    ],
+    [
+      "CEREBELLUM",
+      "Synaptic plasticity allows for the modification of synaptic connections in the cerebellum in response to learning",
+      "SYNAPTIC PLASTICITY"
+    ],
+    [
+      "MOTOR CORTEX",
+      "Synaptic plasticity allows for the modification of synaptic connections in the motor cortex in response to learning",
+      "SYNAPTIC PLASTICITY"
+    ],
+    [
+      "FUNCTIONAL MAGNETIC RESONANCE IMAGING (FMRI)",
+      "fMRI is used to observe the activity of neural networks during memory tasks",
+      "NEURAL NETWORKS"
+    ],
+    [
+      "ELECTROENCEPHALOGRAPHY (EEG)",
+      "EEG is used to study the neural mechanisms and activity of neural networks underlying memory formation",
+      "NEURAL NETWORKS"
+    ]
+  ],
+  "edges": [
+    "The hippocampus is a key component in the process of memory formation, particularly in encoding and storage",
+    "The amygdala is involved in the emotional aspects of memory formation",
+    "The prefrontal cortex is involved in processing and retrieving memories",
+    "Long-term potentiation is a crucial process for the formation of long-lasting memories",
+    "Memory formation involves the creation of episodic memories, which are stored in the hippocampus",
+    "Focused attention helps in the prioritization and filtering of information crucial for memory formation",
+    "The hippocampus is specifically involved in the storage of episodic memories",
+    "Long-term potentiation occurs in the hippocampus, strengthening connections between neurons for memory storage",
+    "Memories are transferred from temporary storage in the hippocampus to more permanent storage in the neocortex",
+    "Sleep involves processes that may interact with the amygdala's role in memory consolidation",
+    "Emotionally charged events activate the amygdala, enhancing memory encoding",
+    "Synaptic plasticity allows for the modification of synaptic connections in the cerebellum in response to learning",
+    "Synaptic plasticity allows for the modification of synaptic connections in the motor cortex in response to learning",
+    "fMRI is used to observe the activity of neural networks during memory tasks",
+    "EEG is used to study the neural mechanisms and activity of neural networks underlying memory formation"
+  ]
+}

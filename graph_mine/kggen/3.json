@@ -1,0 +1,364 @@
+{
+  "entities": [
+    "abuse",
+    "acceptance",
+    "accountability",
+    "adoption",
+    "advancement",
+    "algorithms",
+    "artificial intelligence",
+    "autonomous",
+    "benefit",
+    "benefits",
+    "bias",
+    "butterfly",
+    "communities",
+    "concentration",
+    "concerns",
+    "corporations",
+    "data",
+    "decision-making",
+    "deployment",
+    "developers",
+    "development",
+    "discrimination",
+    "efficiency",
+    "equity",
+    "ethical dilemmas",
+    "facial recognition",
+    "fairness",
+    "gender",
+    "governments",
+    "guidelines",
+    "harm",
+    "harms",
+    "hiring processes",
+    "impact",
+    "individuals",
+    "industries",
+    "inequality",
+    "job displacement",
+    "life cycle",
+    "manner",
+    "mistake",
+    "potential",
+    "power",
+    "principles",
+    "privacy",
+    "productivity",
+    "race",
+    "regulations",
+    "responsible",
+    "rights",
+    "society",
+    "solutions",
+    "surveillance",
+    "technologies",
+    "transparency",
+    "trust",
+    "users",
+    "violation",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "abuse",
+      "of",
+      "power"
+    ],
+    [
+      "accountability",
+      "is an",
+      "ethical dilemmas"
+    ],
+    [
+      "advancement",
+      "comes with",
+      "ethical dilemmas"
+    ],
+    [
+      "algorithms",
+      "can perpetuate",
+      "discrimination"
+    ],
+    [
+      "artificial intelligence",
+      "has advanced",
+      "industries"
+    ],
+    [
+      "autonomous",
+      "describes",
+      "technologies"
+    ],
+    [
+      "benefits",
+      "include",
+      "efficiency"
+    ],
+    [
+      "benefits",
+      "include",
+      "productivity"
+    ],
+    [
+      "bias",
+      "affects",
+      "equity"
+    ],
+    [
+      "bias",
+      "affects",
+      "fairness"
+    ],
+    [
+      "bias",
+      "is an",
+      "ethical dilemmas"
+    ],
+    [
+      "concentration",
+      "of",
+      "power"
+    ],
+    [
+      "concerns",
+      "include",
+      "accountability"
+    ],
+    [
+      "concerns",
+      "include",
+      "bias"
+    ],
+    [
+      "concerns",
+      "include",
+      "impact"
+    ],
+    [
+      "concerns",
+      "include",
+      "privacy"
+    ],
+    [
+      "concerns",
+      "include",
+      "transparency"
+    ],
+    [
+      "data",
+      "is collected by",
+      "technologies"
+    ],
+    [
+      "data",
+      "raises concerns about",
+      "rights"
+    ],
+    [
+      "developers",
+      "are responsible for",
+      "technologies"
+    ],
+    [
+      "discrimination",
+      "based on",
+      "gender"
+    ],
+    [
+      "discrimination",
+      "based on",
+      "race"
+    ],
+    [
+      "ethical dilemmas",
+      "need to be addressed in",
+      "deployment"
+    ],
+    [
+      "ethical dilemmas",
+      "need to be addressed in",
+      "development"
+    ],
+    [
+      "ethical dilemmas",
+      "stem from",
+      "concerns"
+    ],
+    [
+      "facial recognition",
+      "can be used for",
+      "surveillance"
+    ],
+    [
+      "guidelines",
+      "are needed for",
+      "accountability"
+    ],
+    [
+      "guidelines",
+      "should be",
+      "manner"
+    ],
+    [
+      "guidelines",
+      "should be",
+      "responsible"
+    ],
+    [
+      "impact",
+      "is an",
+      "ethical dilemmas"
+    ],
+    [
+      "impact",
+      "of",
+      "society"
+    ],
+    [
+      "impact",
+      "raises concerns about",
+      "concentration"
+    ],
+    [
+      "impact",
+      "raises concerns about",
+      "inequality"
+    ],
+    [
+      "impact",
+      "raises concerns about",
+      "job displacement"
+    ],
+    [
+      "mistake",
+      "or",
+      "harm"
+    ],
+    [
+      "potential",
+      "of",
+      "benefit"
+    ],
+    [
+      "potential",
+      "of",
+      "harms"
+    ],
+    [
+      "power",
+      "by",
+      "corporations"
+    ],
+    [
+      "power",
+      "by",
+      "governments"
+    ],
+    [
+      "principles",
+      "should prioritize",
+      "well-being"
+    ],
+    [
+      "privacy",
+      "is an",
+      "ethical dilemmas"
+    ],
+    [
+      "regulations",
+      "are needed for",
+      "accountability"
+    ],
+    [
+      "regulations",
+      "should be",
+      "manner"
+    ],
+    [
+      "regulations",
+      "should be",
+      "responsible"
+    ],
+    [
+      "rights",
+      "are at risk of",
+      "violation"
+    ],
+    [
+      "solutions",
+      "should be",
+      "manner"
+    ],
+    [
+      "solutions",
+      "should be",
+      "responsible"
+    ],
+    [
+      "surveillance",
+      "raises questions about",
+      "abuse"
+    ],
+    [
+      "transparency",
+      "affects",
+      "trust"
+    ],
+    [
+      "transparency",
+      "is an",
+      "ethical dilemmas"
+    ],
+    [
+      "trust",
+      "affects",
+      "acceptance"
+    ],
+    [
+      "trust",
+      "affects",
+      "adoption"
+    ],
+    [
+      "users",
+      "are responsible for",
+      "technologies"
+    ],
+    [
+      "well-being",
+      "of",
+      "communities"
+    ],
+    [
+      "well-being",
+      "of",
+      "individuals"
+    ]
+  ],
+  "edges": [
+    "affects",
+    "are at risk of",
+    "are needed for",
+    "are responsible for",
+    "based on",
+    "by",
+    "can be used for",
+    "can perpetuate",
+    "comes with",
+    "describes",
+    "has advanced",
+    "include",
+    "is an",
+    "is collected by",
+    "need to be addressed in",
+    "of",
+    "or",
+    "raises concerns about",
+    "raises questions about",
+    "should be",
+    "should prioritize",
+    "stem from"
+  ]
+}

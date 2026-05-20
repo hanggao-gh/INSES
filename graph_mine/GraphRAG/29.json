@@ -1,0 +1,94 @@
+{
+  "entities": [
+    "GREAT VOWEL SHIFT",
+    "NORMAN CONQUEST OF ENGLAND",
+    "GEOFFREY CHAUCER",
+    "MIDDLE ENGLISH",
+    "NORMANS",
+    "ENGLISH LANGUAGE",
+    "ANGLO-SAXONS",
+    "EARLY MODERN ENGLISH PERIOD",
+    "BRITAIN",
+    "WILLIAM SHAKESPEARE",
+    "BRITISH EMPIRE",
+    "20TH CENTURY",
+    "OLD ENGLISH",
+    "WILLIAM CAXTON"
+  ],
+  "relations": [
+    [
+      "ANGLO-SAXONS",
+      "The Anglo-Saxons arrived in Britain and influenced the development of Old English",
+      "BRITAIN"
+    ],
+    [
+      "OLD ENGLISH",
+      "Old English evolved significantly after the Norman Conquest of England",
+      "NORMAN CONQUEST OF ENGLAND"
+    ],
+    [
+      "NORMAN CONQUEST OF ENGLAND",
+      "The Norman Conquest of England established the Normans as the ruling class",
+      "NORMANS"
+    ],
+    [
+      "NORMANS",
+      "The Normans' language, Old Norman, mixed with Old English to give rise to Middle English",
+      "MIDDLE ENGLISH"
+    ],
+    [
+      "MIDDLE ENGLISH",
+      "Geoffrey Chaucer's works, such as 'The Canterbury Tales', are examples of Middle English literature",
+      "GEOFFREY CHAUCER"
+    ],
+    [
+      "MIDDLE ENGLISH",
+      "William Caxton's introduction of the printing press helped standardize Middle English",
+      "WILLIAM CAXTON"
+    ],
+    [
+      "WILLIAM CAXTON",
+      "William Caxton's printing press contributed significantly to the spread and standardization of the English language",
+      "ENGLISH LANGUAGE"
+    ],
+    [
+      "ENGLISH LANGUAGE",
+      "The Early Modern English period saw further development and changes in the English language",
+      "EARLY MODERN ENGLISH PERIOD"
+    ],
+    [
+      "ENGLISH LANGUAGE",
+      "The British Empire's global influence was instrumental in spreading the English language worldwide",
+      "BRITISH EMPIRE"
+    ],
+    [
+      "ENGLISH LANGUAGE",
+      "In the 20th century, English became the global lingua franca, further cementing its importance worldwide",
+      "20TH CENTURY"
+    ],
+    [
+      "EARLY MODERN ENGLISH PERIOD",
+      "William Shakespeare's works exemplify the language of the Early Modern English period",
+      "WILLIAM SHAKESPEARE"
+    ],
+    [
+      "EARLY MODERN ENGLISH PERIOD",
+      "The Great Vowel Shift was a significant linguistic event during the Early Modern English period",
+      "GREAT VOWEL SHIFT"
+    ]
+  ],
+  "edges": [
+    "The Anglo-Saxons arrived in Britain and influenced the development of Old English",
+    "Old English evolved significantly after the Norman Conquest of England",
+    "The Norman Conquest of England established the Normans as the ruling class",
+    "The Normans' language, Old Norman, mixed with Old English to give rise to Middle English",
+    "Geoffrey Chaucer's works, such as 'The Canterbury Tales', are examples of Middle English literature",
+    "William Caxton's introduction of the printing press helped standardize Middle English",
+    "William Caxton's printing press contributed significantly to the spread and standardization of the English language",
+    "The Early Modern English period saw further development and changes in the English language",
+    "The British Empire's global influence was instrumental in spreading the English language worldwide",
+    "In the 20th century, English became the global lingua franca, further cementing its importance worldwide",
+    "William Shakespeare's works exemplify the language of the Early Modern English period",
+    "The Great Vowel Shift was a significant linguistic event during the Early Modern English period"
+  ]
+}

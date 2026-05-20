@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Music is a powerful medium.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can influence emotions and mood.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can enhance or change emotional state.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can evoke memories and associations.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Hearing a song can trigger memories.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music can regulate emotions physiologically.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music impacts heart rate.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music impacts blood pressure.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Music impacts cortisol levels.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Lyrics of a song can influence mood.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Themes and messages in lyrics can resonate with listeners.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Music can create a sense of unity among listeners.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Listening to music together can create a sense of belonging.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Genre and style of music impact mood.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Different genres evoke different emotions.",
+    "retrieved_context": "MUSIC Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state PHYSIOLOGICAL RESPONSES. MUSIC Music influences mood and can evoke various emotional states EMOTIONS. MUSIC Music can trigger memories of past experiences, influencing mood MEMORIES.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

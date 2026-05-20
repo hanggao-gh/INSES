@@ -1,0 +1,156 @@
+{
+  "entities": [
+    "CARBON FIBER",
+    "ASPIRING AEROSPACE ENGINEER",
+    "HYBRID ENGINES",
+    "ELECTRIC PROPULSION",
+    "PARACHUTE",
+    "FUEL SYSTEM",
+    "ROCKET",
+    "STUDENT",
+    "WEIGHT DISTRIBUTION",
+    "FIBERGLASS",
+    "GUIDANCE AND CONTROL",
+    "HOBBYIST",
+    "SCIENCE PROJECT",
+    "NOSE CONE",
+    "LIQUID FUEL ENGINES",
+    "AERODYNAMICS",
+    "PAYLOAD",
+    "SOLID FUEL ENGINES",
+    "STABILITY",
+    "ELECTRONICS",
+    "FIN",
+    "ALUMINUM"
+  ],
+  "relations": [
+    [
+      "ROCKET",
+      "Rockets can be built as part of a science project to demonstrate principles of physics and engineering",
+      "SCIENCE PROJECT"
+    ],
+    [
+      "ROCKET",
+      "Rockets are designed to carry payloads, which can vary based on the rocket's purpose and design",
+      "PAYLOAD"
+    ],
+    [
+      "ROCKET",
+      "The design of a rocket takes into account aerodynamics to ensure stability and efficiency in flight",
+      "AERODYNAMICS"
+    ],
+    [
+      "ROCKET",
+      "Stability is a critical aspect of rocket design, affecting its ability to maintain a desired flight path",
+      "STABILITY"
+    ],
+    [
+      "ROCKET",
+      "Careful consideration of weight distribution in a rocket is essential for its stability and performance",
+      "WEIGHT DISTRIBUTION"
+    ],
+    [
+      "ROCKET",
+      "A rocket's fuel system is integral to its propulsion and overall functionality",
+      "FUEL SYSTEM"
+    ],
+    [
+      "ROCKET",
+      "Electronics are crucial for the guidance, control, and communication of rockets",
+      "ELECTRONICS"
+    ],
+    [
+      "ROCKET",
+      "Guidance and control systems are essential for directing a rocket's flight path",
+      "GUIDANCE AND CONTROL"
+    ],
+    [
+      "ROCKET",
+      "Fins are used on rockets to provide necessary stability during flight",
+      "FIN"
+    ],
+    [
+      "ROCKET",
+      "The nose cone is a key component of a rocket, designed for aerodynamic efficiency and payload protection",
+      "NOSE CONE"
+    ],
+    [
+      "ROCKET",
+      "Parachutes are employed in rockets for safe recovery of payloads or rocket components",
+      "PARACHUTE"
+    ],
+    [
+      "ROCKET",
+      "Students can engage in building rockets as a learning experience",
+      "STUDENT"
+    ],
+    [
+      "ROCKET",
+      "Hobbyists engage in building rockets as a leisure activity",
+      "HOBBYIST"
+    ],
+    [
+      "ROCKET",
+      "Aspiring aerospace engineers build rockets to apply engineering principles",
+      "ASPIRING AEROSPACE ENGINEER"
+    ],
+    [
+      "CARBON FIBER",
+      "Both aluminum and carbon fiber are used as materials in the construction of rocket bodies",
+      "ALUMINUM"
+    ],
+    [
+      "CARBON FIBER",
+      "Both carbon fiber and fiberglass are used as materials in the construction of rocket bodies",
+      "FIBERGLASS"
+    ],
+    [
+      "FIBERGLASS",
+      "Both aluminum and fiberglass are used as materials in the construction of rocket bodies",
+      "ALUMINUM"
+    ],
+    [
+      "SOLID FUEL ENGINES",
+      "Both solid fuel engines and liquid fuel engines are types of propulsion systems used in rockets",
+      "LIQUID FUEL ENGINES"
+    ],
+    [
+      "SOLID FUEL ENGINES",
+      "Solid fuel engines and hybrid engines are related as types of propulsion systems in rockets",
+      "HYBRID ENGINES"
+    ],
+    [
+      "LIQUID FUEL ENGINES",
+      "Liquid fuel engines and hybrid engines are related as types of propulsion systems in rockets",
+      "HYBRID ENGINES"
+    ],
+    [
+      "HYBRID ENGINES",
+      "Hybrid engines and electric propulsion represent advanced propulsion systems in rockets",
+      "ELECTRIC PROPULSION"
+    ]
+  ],
+  "edges": [
+    "Rockets can be built as part of a science project to demonstrate principles of physics and engineering",
+    "Rockets are designed to carry payloads, which can vary based on the rocket's purpose and design",
+    "The design of a rocket takes into account aerodynamics to ensure stability and efficiency in flight",
+    "Stability is a critical aspect of rocket design, affecting its ability to maintain a desired flight path",
+    "Careful consideration of weight distribution in a rocket is essential for its stability and performance",
+    "A rocket's fuel system is integral to its propulsion and overall functionality",
+    "Electronics are crucial for the guidance, control, and communication of rockets",
+    "Guidance and control systems are essential for directing a rocket's flight path",
+    "Fins are used on rockets to provide necessary stability during flight",
+    "The nose cone is a key component of a rocket, designed for aerodynamic efficiency and payload protection",
+    "Parachutes are employed in rockets for safe recovery of payloads or rocket components",
+    "Students can engage in building rockets as a learning experience",
+    "Hobbyists engage in building rockets as a leisure activity",
+    "Aspiring aerospace engineers build rockets to apply engineering principles",
+    "Both aluminum and carbon fiber are used as materials in the construction of rocket bodies",
+    "Both carbon fiber and fiberglass are used as materials in the construction of rocket bodies",
+    "Both aluminum and fiberglass are used as materials in the construction of rocket bodies",
+    "Both solid fuel engines and liquid fuel engines are types of propulsion systems used in rockets",
+    "Solid fuel engines and hybrid engines are related as types of propulsion systems in rockets",
+    "Liquid fuel engines and hybrid engines are related as types of propulsion systems in rockets",
+    "Hybrid engines and electric propulsion represent advanced propulsion systems in rockets"
+  ]
+}

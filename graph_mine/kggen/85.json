@@ -1,0 +1,551 @@
+{
+  "entities": [
+    "advertisements",
+    "attitudes",
+    "attitudinal",
+    "behavioral factors",
+    "behaviors",
+    "beliefs",
+    "brand",
+    "brand image",
+    "brand loyalty",
+    "branding",
+    "businesses",
+    "buying habits",
+    "cognitive",
+    "collectivist cultures",
+    "comparison shopping",
+    "compelling",
+    "complex",
+    "conclusion",
+    "consumer behavior",
+    "consumer decision-making",
+    "cultural differences",
+    "cultural factors",
+    "culture",
+    "customers",
+    "customs",
+    "decision-making processes",
+    "detect",
+    "emotional",
+    "emotional triggers",
+    "emotions",
+    "endorsements",
+    "engaging",
+    "essay",
+    "evaluation of alternatives",
+    "experiences",
+    "external factors",
+    "extrinsic motivation",
+    "fascinating",
+    "feelings",
+    "group harmony",
+    "harness",
+    "impact",
+    "impulse purchases",
+    "individualistic cultures",
+    "individuals",
+    "influence",
+    "information search",
+    "interact",
+    "internal factors",
+    "interplay",
+    "intrinsic motivation",
+    "limited-time discount",
+    "luxury brand",
+    "market",
+    "marketing messages",
+    "marketing strategies",
+    "motivation",
+    "motivational",
+    "multifaceted",
+    "negative attitudes",
+    "norms",
+    "packaging",
+    "past experiences",
+    "peer pressure",
+    "perceive",
+    "perception",
+    "perceptual",
+    "personal preferences",
+    "positive attitudes",
+    "post-purchase evaluation",
+    "preferences",
+    "premium price",
+    "prey",
+    "problem recognition",
+    "product",
+    "product placements",
+    "products",
+    "psychological factors",
+    "psychology",
+    "purchase decision",
+    "purchase intentions",
+    "purchasing decisions",
+    "quality",
+    "reputation",
+    "sales",
+    "self-expression",
+    "services",
+    "sharks",
+    "situational factors",
+    "social influences",
+    "social norms",
+    "social relationships",
+    "stages",
+    "study",
+    "target audience",
+    "understanding",
+    "values",
+    "world"
+  ],
+  "relations": [
+    [
+      "attitudes",
+      "are based on",
+      "behaviors"
+    ],
+    [
+      "attitudes",
+      "are based on",
+      "beliefs"
+    ],
+    [
+      "attitudes",
+      "are based on",
+      "feelings"
+    ],
+    [
+      "attitudes",
+      "developed from",
+      "cognitive"
+    ],
+    [
+      "attitudes",
+      "developed from",
+      "past experiences"
+    ],
+    [
+      "attitudes",
+      "developed from",
+      "social influences"
+    ],
+    [
+      "attitudes",
+      "influence",
+      "consumer behavior"
+    ],
+    [
+      "businesses",
+      "create",
+      "compelling"
+    ],
+    [
+      "businesses",
+      "create",
+      "engaging"
+    ],
+    [
+      "businesses",
+      "harness",
+      "psychological factors"
+    ],
+    [
+      "businesses",
+      "market",
+      "products"
+    ],
+    [
+      "businesses",
+      "market",
+      "services"
+    ],
+    [
+      "businesses",
+      "tailor",
+      "marketing strategies"
+    ],
+    [
+      "businesses",
+      "understand",
+      "target audience"
+    ],
+    [
+      "collectivist cultures",
+      "prioritize",
+      "group harmony"
+    ],
+    [
+      "collectivist cultures",
+      "prioritize",
+      "social relationships"
+    ],
+    [
+      "consumer behavior",
+      "is",
+      "complex"
+    ],
+    [
+      "consumer behavior",
+      "is",
+      "fascinating"
+    ],
+    [
+      "consumer behavior",
+      "is",
+      "study"
+    ],
+    [
+      "consumer behavior",
+      "is driven by",
+      "extrinsic motivation"
+    ],
+    [
+      "consumer behavior",
+      "is driven by",
+      "intrinsic motivation"
+    ],
+    [
+      "cultural differences",
+      "impact",
+      "buying habits"
+    ],
+    [
+      "cultural differences",
+      "impact",
+      "decision-making processes"
+    ],
+    [
+      "cultural differences",
+      "impact",
+      "preferences"
+    ],
+    [
+      "cultural factors",
+      "influence",
+      "consumer behavior"
+    ],
+    [
+      "culture",
+      "includes",
+      "beliefs"
+    ],
+    [
+      "culture",
+      "includes",
+      "customs"
+    ],
+    [
+      "culture",
+      "includes",
+      "norms"
+    ],
+    [
+      "culture",
+      "includes",
+      "values"
+    ],
+    [
+      "decision-making processes",
+      "are",
+      "complex"
+    ],
+    [
+      "decision-making processes",
+      "include",
+      "stages"
+    ],
+    [
+      "decision-making processes",
+      "involve",
+      "behavioral factors"
+    ],
+    [
+      "decision-making processes",
+      "involve",
+      "cognitive"
+    ],
+    [
+      "decision-making processes",
+      "involve",
+      "emotional"
+    ],
+    [
+      "experiences",
+      "for",
+      "customers"
+    ],
+    [
+      "experiences",
+      "lead to",
+      "brand loyalty"
+    ],
+    [
+      "experiences",
+      "lead to",
+      "sales"
+    ],
+    [
+      "external factors",
+      "include",
+      "marketing messages"
+    ],
+    [
+      "external factors",
+      "include",
+      "peer pressure"
+    ],
+    [
+      "external factors",
+      "include",
+      "social norms"
+    ],
+    [
+      "extrinsic motivation",
+      "is influenced by",
+      "external factors"
+    ],
+    [
+      "impulse purchases",
+      "driven by",
+      "emotional triggers"
+    ],
+    [
+      "impulse purchases",
+      "driven by",
+      "situational factors"
+    ],
+    [
+      "individualistic cultures",
+      "focus on",
+      "personal preferences"
+    ],
+    [
+      "individualistic cultures",
+      "focus on",
+      "self-expression"
+    ],
+    [
+      "information search",
+      "includes",
+      "comparison shopping"
+    ],
+    [
+      "internal factors",
+      "include",
+      "emotions"
+    ],
+    [
+      "internal factors",
+      "include",
+      "personal preferences"
+    ],
+    [
+      "internal factors",
+      "include",
+      "values"
+    ],
+    [
+      "interplay",
+      "in",
+      "consumer decision-making"
+    ],
+    [
+      "interplay",
+      "of",
+      "psychological factors"
+    ],
+    [
+      "intrinsic motivation",
+      "refers to",
+      "internal factors"
+    ],
+    [
+      "limited-time discount",
+      "influences",
+      "purchasing decisions"
+    ],
+    [
+      "luxury brand",
+      "commands",
+      "premium price"
+    ],
+    [
+      "luxury brand",
+      "has",
+      "branding"
+    ],
+    [
+      "luxury brand",
+      "has",
+      "reputation"
+    ],
+    [
+      "luxury brand",
+      "perceived as",
+      "quality"
+    ],
+    [
+      "marketing strategies",
+      "include",
+      "advertisements"
+    ],
+    [
+      "marketing strategies",
+      "include",
+      "endorsements"
+    ],
+    [
+      "marketing strategies",
+      "include",
+      "product placements"
+    ],
+    [
+      "marketing strategies",
+      "influence",
+      "consumer behavior"
+    ],
+    [
+      "motivation",
+      "influences",
+      "consumer behavior"
+    ],
+    [
+      "negative attitudes",
+      "deter",
+      "purchasing decisions"
+    ],
+    [
+      "perception",
+      "influenced by",
+      "brand image"
+    ],
+    [
+      "perception",
+      "influenced by",
+      "marketing messages"
+    ],
+    [
+      "perception",
+      "influenced by",
+      "packaging"
+    ],
+    [
+      "perception",
+      "influenced by",
+      "past experiences"
+    ],
+    [
+      "perception",
+      "shapes",
+      "consumer behavior"
+    ],
+    [
+      "positive attitudes",
+      "result in",
+      "purchase intentions"
+    ],
+    [
+      "psychological factors",
+      "influence",
+      "consumer behavior"
+    ],
+    [
+      "psychology",
+      "involves",
+      "understanding"
+    ],
+    [
+      "purchasing decisions",
+      "are crucial for",
+      "businesses"
+    ],
+    [
+      "stages",
+      "include",
+      "evaluation of alternatives"
+    ],
+    [
+      "stages",
+      "include",
+      "information search"
+    ],
+    [
+      "stages",
+      "include",
+      "post-purchase evaluation"
+    ],
+    [
+      "stages",
+      "include",
+      "problem recognition"
+    ],
+    [
+      "stages",
+      "include",
+      "purchase decision"
+    ],
+    [
+      "study",
+      "within",
+      "psychology"
+    ],
+    [
+      "understanding",
+      "of",
+      "attitudinal"
+    ],
+    [
+      "understanding",
+      "of",
+      "decision-making processes"
+    ],
+    [
+      "understanding",
+      "of",
+      "motivational"
+    ],
+    [
+      "understanding",
+      "of",
+      "perceptual"
+    ]
+  ],
+  "edges": [
+    "are",
+    "are based on",
+    "are crucial for",
+    "commands",
+    "create",
+    "deter",
+    "developed from",
+    "driven by",
+    "focus on",
+    "for",
+    "harness",
+    "has",
+    "impact",
+    "in",
+    "include",
+    "includes",
+    "influence",
+    "influenced by",
+    "influences",
+    "involve",
+    "involves",
+    "is",
+    "is driven by",
+    "is influenced by",
+    "lead to",
+    "market",
+    "of",
+    "perceived as",
+    "prioritize",
+    "refers to",
+    "result in",
+    "shapes",
+    "tailor",
+    "understand",
+    "within"
+  ]
+}

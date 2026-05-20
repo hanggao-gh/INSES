@@ -1,0 +1,330 @@
+{
+  "entities": [
+    "agreement",
+    "art",
+    "assertiveness",
+    "attentiveness",
+    "attraction",
+    "authority",
+    "behavior",
+    "body language",
+    "clarity",
+    "communication",
+    "communication skills",
+    "concern",
+    "confidence",
+    "conflicts",
+    "confusion",
+    "connection",
+    "contagious",
+    "crossing arms",
+    "cultural cues",
+    "defensiveness",
+    "discomfort",
+    "disinterest",
+    "effectiveness",
+    "emotions",
+    "engagement",
+    "eye contact",
+    "facial expressions",
+    "feelings",
+    "friendliness",
+    "frowns",
+    "fulfilling interactions",
+    "gazing",
+    "gestures",
+    "happiness",
+    "impact",
+    "individuals",
+    "insecurity",
+    "insight",
+    "intentions",
+    "intimacy",
+    "laughter",
+    "mastering",
+    "meaningful interactions",
+    "messages",
+    "mirroring",
+    "nodding",
+    "nonverbal communication",
+    "nonverbal cues",
+    "personal cues",
+    "posture",
+    "professional settings",
+    "proxemics",
+    "raised eyebrows",
+    "rapport",
+    "relationships",
+    "research",
+    "romantic body language",
+    "smiles",
+    "social interactions",
+    "social settings",
+    "thoughts",
+    "thumbs up",
+    "touching",
+    "understanding",
+    "waving",
+    "words"
+  ],
+  "relations": [
+    [
+      "body language",
+      "can convey",
+      "emotions"
+    ],
+    [
+      "body language",
+      "can convey",
+      "intentions"
+    ],
+    [
+      "body language",
+      "can impact",
+      "relationships"
+    ],
+    [
+      "body language",
+      "can impact",
+      "social interactions"
+    ],
+    [
+      "body language",
+      "has",
+      "impact"
+    ],
+    [
+      "body language",
+      "is",
+      "art"
+    ],
+    [
+      "body language",
+      "is a form of",
+      "communication"
+    ],
+    [
+      "body language",
+      "leads to",
+      "fulfilling interactions"
+    ],
+    [
+      "body language",
+      "leads to",
+      "meaningful interactions"
+    ],
+    [
+      "confidence",
+      "associated with",
+      "assertiveness"
+    ],
+    [
+      "crossing arms",
+      "may signal",
+      "defensiveness"
+    ],
+    [
+      "crossing arms",
+      "may signal",
+      "discomfort"
+    ],
+    [
+      "eye contact",
+      "signals",
+      "attentiveness"
+    ],
+    [
+      "eye contact",
+      "signals",
+      "engagement"
+    ],
+    [
+      "facial expressions",
+      "include",
+      "frowns"
+    ],
+    [
+      "facial expressions",
+      "include",
+      "raised eyebrows"
+    ],
+    [
+      "facial expressions",
+      "include",
+      "smiles"
+    ],
+    [
+      "frowns",
+      "may indicate",
+      "concern"
+    ],
+    [
+      "frowns",
+      "may indicate",
+      "confusion"
+    ],
+    [
+      "gestures",
+      "enhance",
+      "clarity"
+    ],
+    [
+      "gestures",
+      "enhance",
+      "effectiveness"
+    ],
+    [
+      "gestures",
+      "include",
+      "thumbs up"
+    ],
+    [
+      "gestures",
+      "include",
+      "waving"
+    ],
+    [
+      "individuals",
+      "gain",
+      "insight"
+    ],
+    [
+      "individuals",
+      "use",
+      "body language"
+    ],
+    [
+      "insecurity",
+      "suggested by",
+      "disinterest"
+    ],
+    [
+      "mirroring",
+      "creates",
+      "connection"
+    ],
+    [
+      "mirroring",
+      "establishes",
+      "rapport"
+    ],
+    [
+      "nodding",
+      "can indicate",
+      "agreement"
+    ],
+    [
+      "nodding",
+      "can indicate",
+      "understanding"
+    ],
+    [
+      "nonverbal communication",
+      "includes",
+      "eye contact"
+    ],
+    [
+      "nonverbal cues",
+      "build",
+      "relationships"
+    ],
+    [
+      "nonverbal cues",
+      "improve",
+      "communication skills"
+    ],
+    [
+      "nonverbal cues",
+      "resolve",
+      "conflicts"
+    ],
+    [
+      "posture",
+      "reveals",
+      "feelings"
+    ],
+    [
+      "posture",
+      "reveals",
+      "thoughts"
+    ],
+    [
+      "professional settings",
+      "use",
+      "authority"
+    ],
+    [
+      "proxemics",
+      "conveys",
+      "cultural cues"
+    ],
+    [
+      "proxemics",
+      "conveys",
+      "personal cues"
+    ],
+    [
+      "research",
+      "shows",
+      "nonverbal cues"
+    ],
+    [
+      "romantic body language",
+      "signals",
+      "attraction"
+    ],
+    [
+      "romantic body language",
+      "signals",
+      "intimacy"
+    ],
+    [
+      "smiles",
+      "associated with",
+      "friendliness"
+    ],
+    [
+      "smiles",
+      "associated with",
+      "happiness"
+    ],
+    [
+      "social settings",
+      "build",
+      "connection"
+    ],
+    [
+      "social settings",
+      "establish",
+      "rapport"
+    ]
+  ],
+  "edges": [
+    "associated with",
+    "build",
+    "can convey",
+    "can impact",
+    "can indicate",
+    "conveys",
+    "creates",
+    "enhance",
+    "establish",
+    "establishes",
+    "gain",
+    "has",
+    "improve",
+    "include",
+    "includes",
+    "is",
+    "is a form of",
+    "leads to",
+    "may indicate",
+    "may signal",
+    "resolve",
+    "reveals",
+    "shows",
+    "signals",
+    "suggested by",
+    "use"
+  ]
+}

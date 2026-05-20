@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Bread is a staple food in many cultures.",
+    "retrieved_context": "bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. loaves are forms. carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Baking bread is both an art and a science.",
+    "retrieved_context": "blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. loaves are forms. heat causes yeast. heat causes starches. oven provides heat. carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Bread is made from flour, water, yeast, and salt.",
+    "retrieved_context": "bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. flour is made up of proteins. proteins are called gluten. carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct. loaves are forms. blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. ingredients are flour. ingredients are water. ingredients are yeast. flour is made up of proteins. ingredients are salt.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast plays a key role in the fermentation process of bread.",
+    "retrieved_context": "carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct. flavor has potential. fermentation produces alcohol. fermentation is crucial for flavor. fermentation is crucial for texture. alcohol contributes to flavor. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. loaves are forms. blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process. development creates flavor compounds. maillard reaction is responsible for browning. maillard reaction is responsible for development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yeast feeds on sugars in flour, producing carbon dioxide gas.",
+    "retrieved_context": "carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct. carbon dioxide gas is byproduct. carbon dioxide gas causes rise. rise creates airy texture. flavor has potential. fermentation produces alcohol. fermentation is crucial for flavor. fermentation is crucial for texture. alcohol contributes to flavor. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. flour is made up of proteins. proteins are called gluten. artisanal breads require time.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Carbon dioxide gas causes the dough to rise.",
+    "retrieved_context": "carbon dioxide gas is byproduct. carbon dioxide gas causes rise. rise creates airy texture. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. flour is made up of proteins. proteins are called gluten. blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process. carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation process produces alcohol, contributing to bread flavor.",
+    "retrieved_context": "flavor has potential. fermentation produces alcohol. fermentation is crucial for flavor. fermentation is crucial for texture. alcohol contributes to flavor. carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct. flavor has potential. alcohol contributes to flavor. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. development creates flavor compounds. maillard reaction is responsible for browning. maillard reaction is responsible for development. flavor compounds give taste.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Longer fermentation time leads to more complex flavor in bread.",
+    "retrieved_context": "bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. flavor has potential. fermentation produces alcohol. fermentation is crucial for flavor. fermentation is crucial for texture. alcohol contributes to flavor. carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct. loaves are forms. flavor has potential. development creates flavor compounds. maillard reaction is responsible for browning. maillard reaction is responsible for development.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Flour contains proteins called gluten, giving bread structure.",
+    "retrieved_context": "flour is made up of proteins. proteins are called gluten. gluten gives elasticity. gluten gives structure. gluten forms network. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. gluten gives elasticity. gluten gives structure. proteins are called gluten. gluten forms network. loaves are forms. carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gluten network traps carbon dioxide gas, allowing dough to rise.",
+    "retrieved_context": "gluten gives elasticity. gluten gives structure. gluten forms network. flour is made up of proteins. proteins are called gluten. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. carbon dioxide gas is byproduct. carbon dioxide gas causes rise. rise creates airy texture. carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct. blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Kneading strengthens gluten strands, giving bread structure.",
+    "retrieved_context": "kneading ensures crumb structure. gluten forms network. kneading develops gluten. kneading stretches strands. gluten gives elasticity. kneading gives chewy texture. gluten gives structure. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. gluten gives elasticity. gluten gives structure. gluten forms network. artisanal breads require time. loaves are forms. flour is made up of proteins. proteins are called gluten. blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proper kneading is crucial for bread to rise properly.",
+    "retrieved_context": "bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. kneading ensures crumb structure. gluten forms network. kneading develops gluten. kneading stretches strands. gluten gives elasticity. kneading gives chewy texture. gluten gives structure. artisanal breads require time. loaves are forms. blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Baking bread involves the interaction of heat with dough ingredients.",
+    "retrieved_context": "blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time. heat causes yeast. heat causes starches. oven provides heat. yeast is a type of fungus. heat causes starches. yeast feeds on sugars. starches to gelatinize. yeast produces carbon dioxide gas. heat causes yeast. loaves are forms. development creates flavor compounds. maillard reaction is responsible for browning. maillard reaction is responsible for development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Heat in the oven causes yeast to become more active.",
+    "retrieved_context": "carbon dioxide gas causes rise. yeast is a type of fungus. yeast produces carbon dioxide gas. yeast feeds on sugars. carbon dioxide gas is byproduct. heat causes yeast. heat causes starches. oven provides heat. blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process. flavor has potential. fermentation produces alcohol. fermentation is crucial for flavor. fermentation is crucial for texture. alcohol contributes to flavor. development creates flavor compounds. maillard reaction is responsible for browning. maillard reaction is responsible for development. bread enjoyed by generations. bread is staple food. bread is enjoyed for centuries. bread is food. artisanal breads require time.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Maillard reaction is responsible for browning the crust.",
+    "retrieved_context": "development creates flavor compounds. maillard reaction is responsible for browning. maillard reaction is responsible for development. blend of principles. baking is blend. blend of knowledge. baking is both art. chemical process involves interaction. baking is both science. blend of skill. baking is chemical process. heat causes yeast. heat causes starches. oven provides heat. flavor has potential. fermentation produces alcohol. fermentation is crucial for flavor. fermentation is crucial for texture. alcohol contributes to flavor.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

@@ -1,0 +1,510 @@
+{
+  "entities": [
+    "achievements",
+    "adulthood",
+    "ancestors",
+    "ancient egypt",
+    "ancient traditions",
+    "art",
+    "beliefs",
+    "belonging",
+    "body art",
+    "bond",
+    "borders",
+    "ceremony",
+    "code of honor",
+    "commitment",
+    "communities",
+    "community traditions",
+    "connection",
+    "contagious",
+    "contemporary",
+    "courage",
+    "criminal organization",
+    "cultural heritage",
+    "cultural history",
+    "cultural traditions",
+    "design",
+    "diverse cultural traditions",
+    "emotions",
+    "empowerment",
+    "evil spirits",
+    "experiences",
+    "family lineage",
+    "identity",
+    "indigenous cultures",
+    "indigenous practices",
+    "interests",
+    "laughter",
+    "life changes",
+    "life events",
+    "life story",
+    "lineage",
+    "loved ones",
+    "loyalty",
+    "magical properties",
+    "memorial tattoos",
+    "milestones",
+    "modern forms",
+    "moments",
+    "nature",
+    "permanent",
+    "personal meanings",
+    "personalities",
+    "profound",
+    "protection",
+    "rank",
+    "religious ceremonies",
+    "rite of passage",
+    "ritual",
+    "roots",
+    "sacred",
+    "self-expression",
+    "shared human experiences",
+    "social status",
+    "societies",
+    "spiritual connection",
+    "strength",
+    "symbols",
+    "tangible reminders",
+    "tattoos",
+    "time periods",
+    "traditional japanese culture",
+    "transcends",
+    "tribal affiliations",
+    "unique identities",
+    "values",
+    "visually striking",
+    "western societies",
+    "yakuza"
+  ],
+  "relations": [
+    [
+      "cultural history",
+      "varies across",
+      "societies"
+    ],
+    [
+      "cultural history",
+      "varies across",
+      "time periods"
+    ],
+    [
+      "design",
+      "held",
+      "personal meanings"
+    ],
+    [
+      "symbols",
+      "of",
+      "belonging"
+    ],
+    [
+      "symbols",
+      "of",
+      "identity"
+    ],
+    [
+      "symbols",
+      "of",
+      "ritual"
+    ],
+    [
+      "tattoos",
+      "are",
+      "permanent"
+    ],
+    [
+      "tattoos",
+      "are",
+      "visually striking"
+    ],
+    [
+      "tattoos",
+      "associated with",
+      "yakuza"
+    ],
+    [
+      "tattoos",
+      "celebrating",
+      "achievements"
+    ],
+    [
+      "tattoos",
+      "celebrating",
+      "life changes"
+    ],
+    [
+      "tattoos",
+      "commitment to",
+      "code of honor"
+    ],
+    [
+      "tattoos",
+      "commitment to",
+      "criminal organization"
+    ],
+    [
+      "tattoos",
+      "connect",
+      "communities"
+    ],
+    [
+      "tattoos",
+      "connect",
+      "community traditions"
+    ],
+    [
+      "tattoos",
+      "connect",
+      "cultural heritage"
+    ],
+    [
+      "tattoos",
+      "connection to",
+      "roots"
+    ],
+    [
+      "tattoos",
+      "considered",
+      "rite of passage"
+    ],
+    [
+      "tattoos",
+      "considered",
+      "sacred"
+    ],
+    [
+      "tattoos",
+      "denote",
+      "life story"
+    ],
+    [
+      "tattoos",
+      "denote",
+      "lineage"
+    ],
+    [
+      "tattoos",
+      "denote",
+      "tribal affiliations"
+    ],
+    [
+      "tattoos",
+      "express",
+      "beliefs"
+    ],
+    [
+      "tattoos",
+      "express",
+      "experiences"
+    ],
+    [
+      "tattoos",
+      "express",
+      "personalities"
+    ],
+    [
+      "tattoos",
+      "express",
+      "unique identities"
+    ],
+    [
+      "tattoos",
+      "expressions of",
+      "diverse cultural traditions"
+    ],
+    [
+      "tattoos",
+      "expressions of",
+      "shared human experiences"
+    ],
+    [
+      "tattoos",
+      "form of",
+      "art"
+    ],
+    [
+      "tattoos",
+      "form of",
+      "ceremony"
+    ],
+    [
+      "tattoos",
+      "form of",
+      "empowerment"
+    ],
+    [
+      "tattoos",
+      "form of",
+      "modern forms"
+    ],
+    [
+      "tattoos",
+      "form of",
+      "protection"
+    ],
+    [
+      "tattoos",
+      "form of",
+      "ritual"
+    ],
+    [
+      "tattoos",
+      "foster",
+      "belonging"
+    ],
+    [
+      "tattoos",
+      "foster",
+      "connection"
+    ],
+    [
+      "tattoos",
+      "from",
+      "ancient traditions"
+    ],
+    [
+      "tattoos",
+      "from",
+      "indigenous practices"
+    ],
+    [
+      "tattoos",
+      "have",
+      "cultural history"
+    ],
+    [
+      "tattoos",
+      "have",
+      "magical properties"
+    ],
+    [
+      "tattoos",
+      "have been",
+      "body art"
+    ],
+    [
+      "tattoos",
+      "have been",
+      "self-expression"
+    ],
+    [
+      "tattoos",
+      "hold",
+      "profound"
+    ],
+    [
+      "tattoos",
+      "honoring",
+      "loved ones"
+    ],
+    [
+      "tattoos",
+      "in",
+      "ancient egypt"
+    ],
+    [
+      "tattoos",
+      "in",
+      "contemporary"
+    ],
+    [
+      "tattoos",
+      "in",
+      "traditional japanese culture"
+    ],
+    [
+      "tattoos",
+      "in",
+      "western societies"
+    ],
+    [
+      "tattoos",
+      "mark",
+      "life events"
+    ],
+    [
+      "tattoos",
+      "mark",
+      "milestones"
+    ],
+    [
+      "tattoos",
+      "reflect",
+      "achievements"
+    ],
+    [
+      "tattoos",
+      "reflect",
+      "family lineage"
+    ],
+    [
+      "tattoos",
+      "reflect",
+      "values"
+    ],
+    [
+      "tattoos",
+      "reinforce",
+      "bond"
+    ],
+    [
+      "tattoos",
+      "reminders of",
+      "emotions"
+    ],
+    [
+      "tattoos",
+      "reminders of",
+      "experiences"
+    ],
+    [
+      "tattoos",
+      "reminders of",
+      "moments"
+    ],
+    [
+      "tattoos",
+      "represent",
+      "experiences"
+    ],
+    [
+      "tattoos",
+      "represent",
+      "interests"
+    ],
+    [
+      "tattoos",
+      "represent",
+      "values"
+    ],
+    [
+      "tattoos",
+      "rooted in",
+      "cultural traditions"
+    ],
+    [
+      "tattoos",
+      "rooted in",
+      "personal meanings"
+    ],
+    [
+      "tattoos",
+      "serve as",
+      "tangible reminders"
+    ],
+    [
+      "tattoos",
+      "signify",
+      "achievements"
+    ],
+    [
+      "tattoos",
+      "signify",
+      "rank"
+    ],
+    [
+      "tattoos",
+      "signify",
+      "social status"
+    ],
+    [
+      "tattoos",
+      "symbolize",
+      "adulthood"
+    ],
+    [
+      "tattoos",
+      "symbolize",
+      "ancestors"
+    ],
+    [
+      "tattoos",
+      "symbolize",
+      "commitment"
+    ],
+    [
+      "tattoos",
+      "symbolize",
+      "nature"
+    ],
+    [
+      "tattoos",
+      "symbolize",
+      "spiritual connection"
+    ],
+    [
+      "tattoos",
+      "symbols of",
+      "courage"
+    ],
+    [
+      "tattoos",
+      "symbols of",
+      "loyalty"
+    ],
+    [
+      "tattoos",
+      "symbols of",
+      "strength"
+    ],
+    [
+      "tattoos",
+      "transcends",
+      "borders"
+    ],
+    [
+      "tattoos",
+      "used as",
+      "symbols"
+    ],
+    [
+      "tattoos",
+      "used in",
+      "religious ceremonies"
+    ],
+    [
+      "tattoos",
+      "ward off",
+      "evil spirits"
+    ]
+  ],
+  "edges": [
+    "are",
+    "associated with",
+    "celebrating",
+    "commitment to",
+    "connect",
+    "connection to",
+    "considered",
+    "denote",
+    "express",
+    "expressions of",
+    "form of",
+    "foster",
+    "from",
+    "have",
+    "have been",
+    "held",
+    "hold",
+    "honoring",
+    "in",
+    "mark",
+    "of",
+    "reflect",
+    "reinforce",
+    "reminders of",
+    "represent",
+    "rooted in",
+    "serve as",
+    "signify",
+    "symbolize",
+    "symbols of",
+    "transcends",
+    "used as",
+    "used in",
+    "varies across",
+    "ward off"
+  ]
+}

@@ -1,0 +1,1526 @@
+{
+    "entities": [
+        "its value",
+        "ancient art form",
+        "various techniques",
+        "patience",
+        "techniques",
+        "compositions",
+        "its artistic value",
+        "striking visual representations of nature",
+        "numerous benefits",
+        "growing miniature trees",
+        "deep understanding",
+        "rich practice",
+        "greater appreciation for world",
+        "different styles emerging in regions",
+        "different styles emerging in various regions",
+        "bonsai tree cultivation",
+        "understanding of horticulture",
+        "form",
+        "essence of full sized tree",
+        "appreciation for world",
+        "styles",
+        "styles emerging",
+        "appearance of sized trees",
+        "deep understanding of horticulture",
+        "story",
+        "centuries",
+        "impact of bonsai",
+        "appearance of full sized trees",
+        "mindfulness",
+        "way",
+        "In conclusion practice",
+        "range of expressions",
+        "conclusion",
+        "final impact",
+        "growing trees",
+        "roots",
+        "nature",
+        "angle",
+        "styles emerging in various regions around world",
+        "bonsai cultivation",
+        "trees",
+        "space",
+        "connecting",
+        "connecting with nature",
+        "can therapeutic experience",
+        "In conclusion rich practice",
+        "concept",
+        "styles emerging in regions around world",
+        "sense of calm",
+        "appreciation",
+        "miniature",
+        "appearance of full sized trees in nature",
+        "branches",
+        "miniature masterpieces",
+        "benefits",
+        "greater appreciation",
+        "art",
+        "visual representations",
+        "factors",
+        "different styles emerging",
+        "bonsai artists",
+        "different styles emerging in regions around world",
+        "appearance of trees",
+        "benefits for enthusiasts",
+        "harmonious balance",
+        "diverse range of expressions",
+        "trunk",
+        "balance between tree 's trunk",
+        "bonsai tree",
+        "different styles",
+        "it",
+        "styles emerging in regions",
+        "rich",
+        "appreciation for natural world",
+        "different styles emerging in various regions around world",
+        "concept of miniaturization",
+        "Bonsai cultivation",
+        "unique compositions",
+        "bonsai enthusiasts",
+        "styles emerging in various regions",
+        "diverse range",
+        "striking representations",
+        "final aesthetic impact",
+        "pots",
+        "appearance in nature",
+        "placement",
+        "final impact of bonsai",
+        "numerous benefits for enthusiasts",
+        "therapeutic",
+        "appearance of trees in nature",
+        "understanding",
+        "greater appreciation for natural world",
+        "design",
+        "originated",
+        "diverse range of artistic expressions",
+        "sense",
+        "harmonious balance between tree 's trunk",
+        "balance",
+        "representations",
+        "representations of nature",
+        "essence of sized tree",
+        "range of artistic expressions",
+        "careful cultivation",
+        "striking representations of nature",
+        "Bonsai artists",
+        "miniature trees",
+        "masterpieces",
+        "confined space",
+        "appearance",
+        "essence of tree",
+        "goal",
+        "visual representations of nature",
+        "artist 's vision",
+        "tree",
+        "cultivation",
+        "overall design",
+        "striking visual representations",
+        "can experience",
+        "tree 's branches",
+        "essence",
+        "aesthetic impact",
+        "vision",
+        "desired form",
+        "range",
+        "inspiration",
+        "impact",
+        "sense of age",
+        "art form",
+        "practice",
+        "appearance of sized trees in nature",
+        "artist",
+        "skill"
+    ],
+    "relations": [
+        [
+            "art",
+            "is old",
+            "originated"
+        ],
+        [
+            "growing miniature trees",
+            "mimic",
+            "appearance of trees"
+        ],
+        [
+            "trees",
+            "mimic",
+            "appearance of sized trees in nature"
+        ],
+        [
+            "miniature trees",
+            "mimic",
+            "appearance of sized trees in nature"
+        ],
+        [
+            "growing trees",
+            "mimic",
+            "appearance in nature"
+        ],
+        [
+            "growing miniature trees",
+            "mimic",
+            "appearance"
+        ],
+        [
+            "miniature trees",
+            "mimic",
+            "appearance of sized trees"
+        ],
+        [
+            "growing trees",
+            "mimic",
+            "appearance of trees"
+        ],
+        [
+            "trees",
+            "mimic",
+            "appearance"
+        ],
+        [
+            "miniature trees",
+            "mimic",
+            "appearance of full sized trees in nature"
+        ],
+        [
+            "growing trees",
+            "mimic",
+            "appearance of sized trees"
+        ],
+        [
+            "growing trees",
+            "mimic",
+            "appearance of full sized trees"
+        ],
+        [
+            "growing trees",
+            "mimic",
+            "appearance of full sized trees in nature"
+        ],
+        [
+            "appearance",
+            "is in",
+            "nature"
+        ],
+        [
+            "miniature trees",
+            "mimic",
+            "appearance in nature"
+        ],
+        [
+            "growing miniature trees",
+            "is in",
+            "pots"
+        ],
+        [
+            "growing miniature trees",
+            "mimic",
+            "appearance of sized trees"
+        ],
+        [
+            "growing miniature trees",
+            "mimic",
+            "appearance of full sized trees"
+        ],
+        [
+            "trees",
+            "mimic",
+            "appearance of full sized trees in nature"
+        ],
+        [
+            "miniature trees",
+            "mimic",
+            "appearance of full sized trees"
+        ],
+        [
+            "miniature trees",
+            "mimic",
+            "appearance"
+        ],
+        [
+            "growing miniature trees",
+            "mimic",
+            "appearance of trees in nature"
+        ],
+        [
+            "trees",
+            "mimic",
+            "appearance of trees in nature"
+        ],
+        [
+            "growing trees",
+            "mimic",
+            "appearance of sized trees in nature"
+        ],
+        [
+            "trees",
+            "mimic",
+            "appearance of full sized trees"
+        ],
+        [
+            "trees",
+            "mimic",
+            "appearance of sized trees"
+        ],
+        [
+            "growing miniature trees",
+            "mimic",
+            "appearance in nature"
+        ],
+        [
+            "growing trees",
+            "mimic",
+            "appearance"
+        ],
+        [
+            "trees",
+            "mimic",
+            "appearance of trees"
+        ],
+        [
+            "growing miniature trees",
+            "mimic",
+            "appearance of full sized trees in nature"
+        ],
+        [
+            "miniature trees",
+            "mimic",
+            "appearance of trees"
+        ],
+        [
+            "growing trees",
+            "mimic",
+            "appearance of trees in nature"
+        ],
+        [
+            "growing miniature trees",
+            "mimic",
+            "appearance of sized trees in nature"
+        ],
+        [
+            "trees",
+            "mimic",
+            "appearance in nature"
+        ],
+        [
+            "miniature trees",
+            "mimic",
+            "appearance of trees in nature"
+        ],
+        [
+            "patience",
+            "ancient form",
+            "deep understanding of horticulture"
+        ],
+        [
+            "patience",
+            "ancient form",
+            "deep understanding"
+        ],
+        [
+            "patience",
+            "form",
+            "deep understanding"
+        ],
+        [
+            "patience",
+            "form",
+            "skill"
+        ],
+        [
+            "patience",
+            "form",
+            "understanding"
+        ],
+        [
+            "patience",
+            "form",
+            "understanding of horticulture"
+        ],
+        [
+            "art form",
+            "requires",
+            "patience"
+        ],
+        [
+            "ancient art form",
+            "requires",
+            "patience"
+        ],
+        [
+            "patience",
+            "form",
+            "deep understanding of horticulture"
+        ],
+        [
+            "patience",
+            "ancient form",
+            "skill"
+        ],
+        [
+            "patience",
+            "ancient form",
+            "understanding of horticulture"
+        ],
+        [
+            "patience",
+            "ancient form",
+            "understanding"
+        ],
+        [
+            "bonsai cultivation",
+            "key principles of is",
+            "concept"
+        ],
+        [
+            "bonsai cultivation",
+            "key principles of is",
+            "concept of miniaturization"
+        ],
+        [
+            "cultivation",
+            "principles of is",
+            "concept"
+        ],
+        [
+            "cultivation",
+            "key principles of is",
+            "concept of miniaturization"
+        ],
+        [
+            "bonsai cultivation",
+            "principles of is",
+            "concept"
+        ],
+        [
+            "cultivation",
+            "key principles of is",
+            "concept"
+        ],
+        [
+            "cultivation",
+            "principles of is",
+            "concept of miniaturization"
+        ],
+        [
+            "bonsai cultivation",
+            "principles of is",
+            "concept of miniaturization"
+        ],
+        [
+            "roots",
+            "creating",
+            "sense"
+        ],
+        [
+            "roots",
+            "creating",
+            "sense of age"
+        ],
+        [
+            "Bonsai artists",
+            "prune",
+            "tree 's branches"
+        ],
+        [
+            "tree",
+            "has",
+            "branches"
+        ],
+        [
+            "Bonsai artists",
+            "carefully prune",
+            "tree 's branches"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create",
+            "visual representations of nature"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create",
+            "striking visual representations of nature"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create",
+            "striking representations of nature"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create",
+            "striking representations"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create",
+            "striking visual representations"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create representations in",
+            "confined space"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create",
+            "representations"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create",
+            "representations of nature"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create",
+            "visual representations"
+        ],
+        [
+            "bonsai enthusiasts",
+            "can create representations in",
+            "space"
+        ],
+        [
+            "Bonsai artists",
+            "use",
+            "techniques"
+        ],
+        [
+            "Bonsai artists",
+            "use",
+            "various techniques"
+        ],
+        [
+            "Bonsai artists",
+            "sculpt",
+            "tree"
+        ],
+        [
+            "Bonsai artists",
+            "sculpt tree into",
+            "form"
+        ],
+        [
+            "Bonsai artists",
+            "sculpt tree into",
+            "desired form"
+        ],
+        [
+            "goal",
+            "also capturing",
+            "essence"
+        ],
+        [
+            "goal",
+            "also capturing",
+            "essence of tree"
+        ],
+        [
+            "goal",
+            "also capturing essence in",
+            "miniature"
+        ],
+        [
+            "goal",
+            "is create",
+            "harmonious balance between tree 's trunk"
+        ],
+        [
+            "goal",
+            "capturing essence in",
+            "miniature"
+        ],
+        [
+            "goal",
+            "is create",
+            "balance between tree 's trunk"
+        ],
+        [
+            "goal",
+            "is create",
+            "harmonious balance"
+        ],
+        [
+            "goal",
+            "capturing",
+            "essence of full sized tree"
+        ],
+        [
+            "tree",
+            "between",
+            "trunk"
+        ],
+        [
+            "goal",
+            "capturing",
+            "essence of sized tree"
+        ],
+        [
+            "goal",
+            "also capturing",
+            "essence of sized tree"
+        ],
+        [
+            "goal",
+            "capturing",
+            "essence of tree"
+        ],
+        [
+            "goal",
+            "capturing",
+            "essence"
+        ],
+        [
+            "goal",
+            "is create",
+            "balance"
+        ],
+        [
+            "goal",
+            "also capturing",
+            "essence of full sized tree"
+        ],
+        [
+            "Bonsai artists",
+            "consider",
+            "factors"
+        ],
+        [
+            "Bonsai artists",
+            "carefully consider",
+            "factors"
+        ],
+        [
+            "placement",
+            "contribute to",
+            "final aesthetic impact"
+        ],
+        [
+            "angle",
+            "contribute to",
+            "aesthetic impact"
+        ],
+        [
+            "design",
+            "contribute to",
+            "final impact"
+        ],
+        [
+            "angle",
+            "contribute to",
+            "final aesthetic impact"
+        ],
+        [
+            "design",
+            "contribute to",
+            "impact"
+        ],
+        [
+            "overall design",
+            "contribute to",
+            "aesthetic impact"
+        ],
+        [
+            "overall design",
+            "all contribute to",
+            "final impact"
+        ],
+        [
+            "overall design",
+            "contribute to",
+            "final impact of bonsai"
+        ],
+        [
+            "angle",
+            "all contribute to",
+            "final impact"
+        ],
+        [
+            "design",
+            "contribute to",
+            "final aesthetic impact"
+        ],
+        [
+            "overall design",
+            "all contribute to",
+            "impact of bonsai"
+        ],
+        [
+            "placement",
+            "contribute to",
+            "impact"
+        ],
+        [
+            "placement",
+            "all contribute to",
+            "final impact"
+        ],
+        [
+            "angle",
+            "contribute to",
+            "impact"
+        ],
+        [
+            "angle",
+            "contribute to",
+            "final impact"
+        ],
+        [
+            "design",
+            "all contribute to",
+            "impact"
+        ],
+        [
+            "angle",
+            "all contribute to",
+            "impact"
+        ],
+        [
+            "design",
+            "contribute to",
+            "aesthetic impact"
+        ],
+        [
+            "design",
+            "contribute to",
+            "impact of bonsai"
+        ],
+        [
+            "overall design",
+            "all contribute to",
+            "final aesthetic impact"
+        ],
+        [
+            "placement",
+            "contribute to",
+            "impact of bonsai"
+        ],
+        [
+            "design",
+            "all contribute to",
+            "aesthetic impact"
+        ],
+        [
+            "placement",
+            "contribute to",
+            "aesthetic impact"
+        ],
+        [
+            "overall design",
+            "contribute to",
+            "final impact"
+        ],
+        [
+            "angle",
+            "contribute to",
+            "final impact of bonsai"
+        ],
+        [
+            "design",
+            "all contribute to",
+            "final aesthetic impact"
+        ],
+        [
+            "design",
+            "all contribute to",
+            "impact of bonsai"
+        ],
+        [
+            "overall design",
+            "contribute to",
+            "impact of bonsai"
+        ],
+        [
+            "placement",
+            "all contribute to",
+            "final aesthetic impact"
+        ],
+        [
+            "overall design",
+            "contribute to",
+            "final aesthetic impact"
+        ],
+        [
+            "angle",
+            "all contribute to",
+            "impact of bonsai"
+        ],
+        [
+            "placement",
+            "contribute to",
+            "final impact of bonsai"
+        ],
+        [
+            "angle",
+            "contribute to",
+            "impact of bonsai"
+        ],
+        [
+            "placement",
+            "all contribute to",
+            "impact"
+        ],
+        [
+            "overall design",
+            "all contribute to",
+            "impact"
+        ],
+        [
+            "angle",
+            "all contribute to",
+            "final aesthetic impact"
+        ],
+        [
+            "design",
+            "all contribute to",
+            "final impact"
+        ],
+        [
+            "placement",
+            "contribute to",
+            "final impact"
+        ],
+        [
+            "overall design",
+            "all contribute to",
+            "aesthetic impact"
+        ],
+        [
+            "design",
+            "contribute to",
+            "final impact of bonsai"
+        ],
+        [
+            "angle",
+            "all contribute to",
+            "aesthetic impact"
+        ],
+        [
+            "placement",
+            "all contribute to",
+            "impact of bonsai"
+        ],
+        [
+            "overall design",
+            "contribute to",
+            "impact"
+        ],
+        [
+            "placement",
+            "all contribute to",
+            "aesthetic impact"
+        ],
+        [
+            "Bonsai artists",
+            "often draw inspiration from",
+            "nature"
+        ],
+        [
+            "Bonsai artists",
+            "draw inspiration from",
+            "nature"
+        ],
+        [
+            "Bonsai artists",
+            "draw",
+            "inspiration"
+        ],
+        [
+            "Bonsai artists",
+            "often draw",
+            "inspiration"
+        ],
+        [
+            "Bonsai artists",
+            "create",
+            "unique compositions"
+        ],
+        [
+            "Bonsai artists",
+            "create",
+            "compositions"
+        ],
+        [
+            "artist",
+            "has",
+            "vision"
+        ],
+        [
+            "bonsai tree",
+            "tells",
+            "story"
+        ],
+        [
+            "bonsai tree",
+            "reflects",
+            "artist 's vision"
+        ],
+        [
+            "bonsai cultivation",
+            "offers benefits Beyond",
+            "its value"
+        ],
+        [
+            "cultivation",
+            "offers",
+            "numerous benefits for enthusiasts"
+        ],
+        [
+            "cultivation",
+            "also offers benefits Beyond",
+            "its artistic value"
+        ],
+        [
+            "cultivation",
+            "also offers benefits Beyond",
+            "its value"
+        ],
+        [
+            "bonsai cultivation",
+            "offers benefits Beyond",
+            "its artistic value"
+        ],
+        [
+            "bonsai cultivation",
+            "also offers benefits Beyond",
+            "its value"
+        ],
+        [
+            "bonsai cultivation",
+            "offers",
+            "benefits for enthusiasts"
+        ],
+        [
+            "cultivation",
+            "offers",
+            "numerous benefits"
+        ],
+        [
+            "cultivation",
+            "offers benefits Beyond",
+            "its artistic value"
+        ],
+        [
+            "bonsai cultivation",
+            "offers",
+            "numerous benefits for enthusiasts"
+        ],
+        [
+            "bonsai cultivation",
+            "also offers",
+            "benefits for enthusiasts"
+        ],
+        [
+            "cultivation",
+            "also offers",
+            "benefits"
+        ],
+        [
+            "cultivation",
+            "also offers",
+            "numerous benefits"
+        ],
+        [
+            "cultivation",
+            "offers",
+            "benefits"
+        ],
+        [
+            "cultivation",
+            "also offers",
+            "numerous benefits for enthusiasts"
+        ],
+        [
+            "bonsai cultivation",
+            "also offers benefits Beyond",
+            "its artistic value"
+        ],
+        [
+            "bonsai cultivation",
+            "also offers",
+            "numerous benefits"
+        ],
+        [
+            "bonsai cultivation",
+            "also offers",
+            "benefits"
+        ],
+        [
+            "bonsai cultivation",
+            "also offers",
+            "numerous benefits for enthusiasts"
+        ],
+        [
+            "cultivation",
+            "offers",
+            "benefits for enthusiasts"
+        ],
+        [
+            "cultivation",
+            "also offers",
+            "benefits for enthusiasts"
+        ],
+        [
+            "cultivation",
+            "offers benefits Beyond",
+            "its value"
+        ],
+        [
+            "bonsai cultivation",
+            "offers",
+            "benefits"
+        ],
+        [
+            "bonsai cultivation",
+            "offers",
+            "numerous benefits"
+        ],
+        [
+            "practice",
+            "providing",
+            "sense"
+        ],
+        [
+            "practice",
+            "providing",
+            "sense of calm"
+        ],
+        [
+            "practice",
+            "can",
+            "can therapeutic experience"
+        ],
+        [
+            "practice",
+            "connection to",
+            "nature"
+        ],
+        [
+            "practice",
+            "can",
+            "can experience"
+        ],
+        [
+            "practice",
+            "be",
+            "therapeutic"
+        ],
+        [
+            "Bonsai cultivation",
+            "fosters",
+            "greater appreciation for world"
+        ],
+        [
+            "Bonsai cultivation",
+            "also fosters",
+            "greater appreciation"
+        ],
+        [
+            "Bonsai cultivation",
+            "fosters",
+            "appreciation"
+        ],
+        [
+            "Bonsai cultivation",
+            "also fosters",
+            "appreciation"
+        ],
+        [
+            "Bonsai cultivation",
+            "fosters",
+            "greater appreciation"
+        ],
+        [
+            "Bonsai cultivation",
+            "fosters",
+            "greater appreciation for natural world"
+        ],
+        [
+            "Bonsai cultivation",
+            "also fosters",
+            "appreciation for world"
+        ],
+        [
+            "Bonsai cultivation",
+            "also fosters",
+            "appreciation for natural world"
+        ],
+        [
+            "Bonsai cultivation",
+            "encourages",
+            "mindfulness"
+        ],
+        [
+            "Bonsai cultivation",
+            "fosters",
+            "appreciation for natural world"
+        ],
+        [
+            "Bonsai cultivation",
+            "fosters",
+            "appreciation for world"
+        ],
+        [
+            "Bonsai cultivation",
+            "also fosters",
+            "greater appreciation for natural world"
+        ],
+        [
+            "Bonsai cultivation",
+            "also fosters",
+            "greater appreciation for world"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "styles emerging in various regions"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "different styles emerging in various regions"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "different styles emerging"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "different styles emerging in various regions around world"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "styles emerging"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "styles emerging in various regions around world"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "styles"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "different styles emerging in regions"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "styles emerging in regions"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "different styles emerging in regions around world"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "different styles"
+        ],
+        [
+            "art",
+            "has evolved over",
+            "centuries"
+        ],
+        [
+            "art",
+            "has evolved with",
+            "styles emerging in regions around world"
+        ],
+        [
+            "bonsai cultivation",
+            "encompasses",
+            "diverse range"
+        ],
+        [
+            "cultivation",
+            "encompasses",
+            "diverse range"
+        ],
+        [
+            "cultivation",
+            "encompasses",
+            "range of artistic expressions"
+        ],
+        [
+            "cultivation",
+            "encompasses",
+            "diverse range of artistic expressions"
+        ],
+        [
+            "bonsai cultivation",
+            "encompasses",
+            "range of artistic expressions"
+        ],
+        [
+            "bonsai cultivation",
+            "encompasses",
+            "diverse range of artistic expressions"
+        ],
+        [
+            "bonsai cultivation",
+            "encompasses",
+            "diverse range of expressions"
+        ],
+        [
+            "cultivation",
+            "encompasses",
+            "diverse range of expressions"
+        ],
+        [
+            "bonsai cultivation",
+            "encompasses",
+            "range"
+        ],
+        [
+            "bonsai cultivation",
+            "encompasses",
+            "range of expressions"
+        ],
+        [
+            "cultivation",
+            "encompasses",
+            "range"
+        ],
+        [
+            "cultivation",
+            "encompasses",
+            "range of expressions"
+        ],
+        [
+            "art",
+            "is practice In",
+            "conclusion"
+        ],
+        [
+            "art",
+            "is rich practice In",
+            "conclusion"
+        ],
+        [
+            "bonsai tree cultivation",
+            "art of is",
+            "In conclusion rich practice"
+        ],
+        [
+            "art",
+            "is",
+            "practice"
+        ],
+        [
+            "bonsai tree cultivation",
+            "art of is",
+            "practice"
+        ],
+        [
+            "rich practice",
+            "is In",
+            "conclusion"
+        ],
+        [
+            "art",
+            "is rich and intricate practice In",
+            "conclusion"
+        ],
+        [
+            "bonsai tree cultivation",
+            "art of is",
+            "In conclusion practice"
+        ],
+        [
+            "bonsai tree cultivation",
+            "art of is",
+            "rich practice"
+        ],
+        [
+            "art",
+            "is",
+            "rich"
+        ],
+        [
+            "art",
+            "is",
+            "rich practice"
+        ],
+        [
+            "bonsai artists",
+            "create",
+            "miniature masterpieces"
+        ],
+        [
+            "bonsai artists",
+            "create masterpieces Through",
+            "cultivation"
+        ],
+        [
+            "bonsai artists",
+            "create masterpieces Through",
+            "careful cultivation"
+        ],
+        [
+            "bonsai artists",
+            "create",
+            "masterpieces"
+        ],
+        [
+            "it",
+            "is way of",
+            "connecting with nature"
+        ],
+        [
+            "it",
+            "is",
+            "way"
+        ],
+        [
+            "it",
+            "is way of",
+            "connecting"
+        ]
+    ],
+    "edges": [
+        "is old",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "is in",
+        "mimic",
+        "is in",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "mimic",
+        "ancient form",
+        "ancient form",
+        "form",
+        "form",
+        "form",
+        "form",
+        "requires",
+        "requires",
+        "form",
+        "ancient form",
+        "ancient form",
+        "ancient form",
+        "key principles of is",
+        "key principles of is",
+        "principles of is",
+        "key principles of is",
+        "principles of is",
+        "key principles of is",
+        "principles of is",
+        "principles of is",
+        "creating",
+        "creating",
+        "prune",
+        "has",
+        "carefully prune",
+        "can create",
+        "can create",
+        "can create",
+        "can create",
+        "can create",
+        "can create representations in",
+        "can create",
+        "can create",
+        "can create",
+        "can create representations in",
+        "use",
+        "use",
+        "sculpt",
+        "sculpt tree into",
+        "sculpt tree into",
+        "also capturing",
+        "also capturing",
+        "also capturing essence in",
+        "is create",
+        "capturing essence in",
+        "is create",
+        "is create",
+        "capturing",
+        "between",
+        "capturing",
+        "also capturing",
+        "capturing",
+        "capturing",
+        "is create",
+        "also capturing",
+        "consider",
+        "carefully consider",
+        "contribute to",
+        "contribute to",
+        "contribute to",
+        "contribute to",
+        "contribute to",
+        "contribute to",
+        "all contribute to",
+        "contribute to",
+        "all contribute to",
+        "contribute to",
+        "all contribute to",
+        "contribute to",
+        "all contribute to",
+        "contribute to",
+        "contribute to",
+        "all contribute to",
+        "all contribute to",
+        "contribute to",
+        "contribute to",
+        "all contribute to",
+        "contribute to",
+        "all contribute to",
+        "contribute to",
+        "contribute to",
+        "contribute to",
+        "all contribute to",
+        "all contribute to",
+        "contribute to",
+        "all contribute to",
+        "contribute to",
+        "all contribute to",
+        "contribute to",
+        "contribute to",
+        "all contribute to",
+        "all contribute to",
+        "all contribute to",
+        "all contribute to",
+        "contribute to",
+        "all contribute to",
+        "contribute to",
+        "all contribute to",
+        "all contribute to",
+        "contribute to",
+        "all contribute to",
+        "often draw inspiration from",
+        "draw inspiration from",
+        "draw",
+        "often draw",
+        "create",
+        "create",
+        "has",
+        "tells",
+        "reflects",
+        "offers benefits Beyond",
+        "offers",
+        "also offers benefits Beyond",
+        "also offers benefits Beyond",
+        "offers benefits Beyond",
+        "also offers benefits Beyond",
+        "offers",
+        "offers",
+        "offers benefits Beyond",
+        "offers",
+        "also offers",
+        "also offers",
+        "also offers",
+        "offers",
+        "also offers",
+        "also offers benefits Beyond",
+        "also offers",
+        "also offers",
+        "also offers",
+        "offers",
+        "also offers",
+        "offers benefits Beyond",
+        "offers",
+        "offers",
+        "providing",
+        "providing",
+        "can",
+        "connection to",
+        "can",
+        "be",
+        "fosters",
+        "also fosters",
+        "fosters",
+        "also fosters",
+        "fosters",
+        "fosters",
+        "also fosters",
+        "also fosters",
+        "encourages",
+        "fosters",
+        "fosters",
+        "also fosters",
+        "also fosters",
+        "has evolved with",
+        "has evolved with",
+        "has evolved with",
+        "has evolved with",
+        "has evolved with",
+        "has evolved with",
+        "has evolved with",
+        "has evolved with",
+        "has evolved with",
+        "has evolved with",
+        "has evolved with",
+        "has evolved over",
+        "has evolved with",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "encompasses",
+        "is practice In",
+        "is rich practice In",
+        "art of is",
+        "is",
+        "art of is",
+        "is In",
+        "is rich and intricate practice In",
+        "art of is",
+        "art of is",
+        "is",
+        "is",
+        "create",
+        "create masterpieces Through",
+        "create masterpieces Through",
+        "create",
+        "is way of",
+        "is",
+        "is way of"
+    ]
+}

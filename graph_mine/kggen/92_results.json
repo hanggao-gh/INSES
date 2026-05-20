@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Color plays a crucial role in branding and marketing strategies.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. warm colors create urgency. warm colors encourage impulse purchases. blue associated with reliability. blue associated with trust. blue associated with calmness.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors have the power to evoke emotions.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. warm colors create urgency. warm colors encourage impulse purchases. cool colors create trust. cool colors create reliability. blue associated with reliability. blue associated with trust. blue associated with calmness. red associated with energy. red associated with passion. red associated with coca-cola. red associated with excitement.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors can convey messages.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. warm colors create urgency. warm colors encourage impulse purchases. blue associated with reliability. blue associated with trust. blue associated with calmness. red associated with energy. red associated with passion. red associated with coca-cola. red associated with excitement. cool colors create trust. cool colors create reliability. yellow associated with mcdonald's.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors influence consumer behavior.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. warm colors create urgency. warm colors encourage impulse purchases. blue associated with reliability. blue associated with trust. blue associated with calmness.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding color psychology helps create a strong brand identity.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. psychology resonates with target audience. psychology plays role in branding. psychology helps create brand identity. psychology plays role in marketing. psychology helps create impactful. warm colors create urgency. warm colors encourage impulse purchases. blue associated with reliability. blue associated with trust. blue associated with calmness.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Different colors evoke specific emotions and associations.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. warm colors create urgency. warm colors encourage impulse purchases. blue associated with reliability. blue associated with trust. blue associated with calmness. cool colors create trust. cool colors create reliability. red associated with energy. red associated with passion. red associated with coca-cola. red associated with excitement.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Red is associated with passion, energy, and excitement.",
+    "retrieved_context": "red associated with energy. red associated with passion. red associated with coca-cola. red associated with excitement. warm colors create urgency. warm colors encourage impulse purchases. colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. blue associated with reliability. blue associated with trust. blue associated with calmness.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Blue is associated with trust, reliability, and calmness.",
+    "retrieved_context": "blue associated with reliability. blue associated with trust. blue associated with calmness. colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. warm colors create urgency. warm colors encourage impulse purchases. cool colors create trust. cool colors create reliability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors affect how consumers perceive a brand's personality, quality, and value.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. blue associated with reliability. blue associated with trust. blue associated with calmness. warm colors create urgency. warm colors encourage impulse purchases.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warm colors like red and orange create a sense of urgency.",
+    "retrieved_context": "warm colors create urgency. warm colors encourage impulse purchases. colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. red associated with energy. red associated with passion. red associated with coca-cola. red associated with excitement. cool colors create trust. cool colors create reliability. yellow associated with mcdonald's.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cool colors like blue and green create a sense of trust.",
+    "retrieved_context": "cool colors create trust. cool colors create reliability. colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. warm colors create urgency. warm colors encourage impulse purchases. blue associated with reliability. blue associated with trust. blue associated with calmness. red associated with energy. red associated with passion. red associated with coca-cola. red associated with excitement. yellow associated with mcdonald's.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Colors help differentiate a brand from competitors.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. blue associated with reliability. blue associated with trust. blue associated with calmness. warm colors create urgency. warm colors encourage impulse purchases.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Cultural associations of colors should be considered in branding.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. warm colors create urgency. warm colors encourage impulse purchases. blue associated with reliability. blue associated with trust. blue associated with calmness.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Context influences the meaning and effects of colors in branding.",
+    "retrieved_context": "colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. logo associated with coca-cola. blue associated with reliability. blue associated with trust. blue associated with calmness. warm colors create urgency. warm colors encourage impulse purchases.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Youth-oriented brands may use bright and bold colors.",
+    "retrieved_context": "warm colors create urgency. warm colors encourage impulse purchases. colors leverage power. colors influence consumer behavior. colors help differentiation. colors have context. colors affect value. colors influence behaviors. colors convey messages. colors evoke emotions. colors have industry. colors have associations. colors influence perceptions. colors create unique. colors create visual identity. colors create memorable. colors play role in branding. colors create success. colors affect quality. colors affect personality. colors have cultural. colors have meanings. colors play role in marketing. colors create presence. colors have brand positioning. colors have contextual. cool colors create trust. cool colors create reliability. logo associated with coca-cola.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "93.33%"
+  }
+]

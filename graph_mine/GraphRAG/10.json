@@ -1,0 +1,134 @@
+{
+  "entities": [
+    "SCHWARZSCHILD RADIUS",
+    "STEPHEN HAWKING",
+    "GRAVITATIONAL WAVES",
+    "INFORMATION PARADOX",
+    "BLACK HOLE INFORMATION PARADOX",
+    "EVENT HORIZON",
+    "QUANTUM MECHANICS",
+    "HAWKING RADIATION",
+    "GRAVITATIONAL TIME DILATION",
+    "HOLOGRAPHIC PRINCIPLE",
+    "STARS",
+    "QUANTUM GRAVITY",
+    "GENERAL RELATIVITY",
+    "BLACK HOLES",
+    "LIGO OBSERVATORY",
+    "SINGULARITY",
+    "STRING THEORY",
+    "BLACK HOLE"
+  ],
+  "relations": [
+    [
+      "BLACK HOLES",
+      "Black holes are formed from the remnants of massive stars that have undergone a supernova explosion",
+      "STARS"
+    ],
+    [
+      "BLACK HOLES",
+      "Black holes contain a singularity at their center",
+      "SINGULARITY"
+    ],
+    [
+      "BLACK HOLES",
+      "The event horizon surrounds the singularity at the center of a black hole",
+      "EVENT HORIZON"
+    ],
+    [
+      "BLACK HOLES",
+      "Black holes cause gravitational time dilation due to their immense gravitational pull",
+      "GRAVITATIONAL TIME DILATION"
+    ],
+    [
+      "BLACK HOLES",
+      "The Schwarzschild radius defines the size of a black hole",
+      "SCHWARZSCHILD RADIUS"
+    ],
+    [
+      "BLACK HOLES",
+      "General relativity's breakdown at the singularity of black holes indicates the need for new physics to describe these phenomena",
+      "GENERAL RELATIVITY"
+    ],
+    [
+      "BLACK HOLES",
+      "Quantum gravity is sought to explain the phenomena of black holes beyond the scope of general relativity",
+      "QUANTUM GRAVITY"
+    ],
+    [
+      "BLACK HOLES",
+      "Hawking radiation is a phenomenon associated with black holes, predicting their ability to emit radiation and eventually evaporate",
+      "HAWKING RADIATION"
+    ],
+    [
+      "BLACK HOLE",
+      "The holographic principle is a concept developed from the study of black holes, challenging traditional views on information storage.",
+      "HOLOGRAPHIC PRINCIPLE"
+    ],
+    [
+      "BLACK HOLE",
+      "The information paradox is directly related to the nature of black holes and the fate of information that falls into them.",
+      "INFORMATION PARADOX"
+    ],
+    [
+      "BLACK HOLE",
+      "The detection of gravitational waves was evidence of black holes' existence, resulting from the merger of two black holes.",
+      "GRAVITATIONAL WAVES"
+    ],
+    [
+      "BLACK HOLE",
+      "Black holes serve as a unique testing ground for the theories of general relativity.",
+      "GENERAL RELATIVITY"
+    ],
+    [
+      "BLACK HOLE",
+      "The study of black holes has inspired new ideas in quantum mechanics.",
+      "QUANTUM MECHANICS"
+    ],
+    [
+      "BLACK HOLE",
+      "The study of black holes has contributed to new ideas in string theory.",
+      "STRING THEORY"
+    ],
+    [
+      "LIGO OBSERVATORY",
+      "The LIGO observatory was responsible for the detection of gravitational waves, confirming the existence of black holes.",
+      "GRAVITATIONAL WAVES"
+    ],
+    [
+      "GENERAL RELATIVITY",
+      "Quantum gravity is speculated to extend the principles of general relativity to provide a more complete description of black holes",
+      "QUANTUM GRAVITY"
+    ],
+    [
+      "HAWKING RADIATION",
+      "Hawking radiation was predicted by Stephen Hawking, linking his work directly to this phenomenon",
+      "STEPHEN HAWKING"
+    ],
+    [
+      "HAWKING RADIATION",
+      "The prediction of Hawking radiation leads to the black hole information paradox, as it suggests information could be lost when black holes evaporate",
+      "BLACK HOLE INFORMATION PARADOX"
+    ]
+  ],
+  "edges": [
+    "Black holes are formed from the remnants of massive stars that have undergone a supernova explosion",
+    "Black holes contain a singularity at their center",
+    "The event horizon surrounds the singularity at the center of a black hole",
+    "Black holes cause gravitational time dilation due to their immense gravitational pull",
+    "The Schwarzschild radius defines the size of a black hole",
+    "General relativity's breakdown at the singularity of black holes indicates the need for new physics to describe these phenomena",
+    "Quantum gravity is sought to explain the phenomena of black holes beyond the scope of general relativity",
+    "Hawking radiation is a phenomenon associated with black holes, predicting their ability to emit radiation and eventually evaporate",
+    "The holographic principle is a concept developed from the study of black holes, challenging traditional views on information storage.",
+    "The information paradox is directly related to the nature of black holes and the fate of information that falls into them.",
+    "The detection of gravitational waves was evidence of black holes' existence, resulting from the merger of two black holes.",
+    "Black holes serve as a unique testing ground for the theories of general relativity.",
+    "The study of black holes has inspired new ideas in quantum mechanics.",
+    "The study of black holes has contributed to new ideas in string theory.",
+    "The LIGO observatory was responsible for the detection of gravitational waves, confirming the existence of black holes.",
+    "Quantum gravity is speculated to extend the principles of general relativity to provide a more complete description of black holes",
+    "Hawking radiation was predicted by Stephen Hawking, linking his work directly to this phenomenon",
+    "The prediction of Hawking radiation leads to the black hole information paradox, as it suggests information could be lost when black holes evaporate"
+  ]
+}

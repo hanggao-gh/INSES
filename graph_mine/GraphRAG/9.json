@@ -1,0 +1,51 @@
+{
+  "entities": [
+    "ORANGE",
+    "YELLOW",
+    "BLUE",
+    "RED",
+    "GREEN",
+    "PURPLE",
+    "COLOR PSYCHOLOGY"
+  ],
+  "relations": [
+    [
+      "COLOR PSYCHOLOGY",
+      "Red is studied in color psychology for its impact on emotions and physical reactions",
+      "RED"
+    ],
+    [
+      "COLOR PSYCHOLOGY",
+      "Orange is analyzed in color psychology for its ability to evoke feelings of energy and excitement",
+      "ORANGE"
+    ],
+    [
+      "COLOR PSYCHOLOGY",
+      "Yellow's energizing effects are a subject of study in color psychology",
+      "YELLOW"
+    ],
+    [
+      "COLOR PSYCHOLOGY",
+      "Blue is significant in color psychology for its calming effects on the mind and body",
+      "BLUE"
+    ],
+    [
+      "COLOR PSYCHOLOGY",
+      "Green's calming and relaxing effects are explored in color psychology",
+      "GREEN"
+    ],
+    [
+      "COLOR PSYCHOLOGY",
+      "Purple's association with tranquility and serenity is of interest in color psychology",
+      "PURPLE"
+    ]
+  ],
+  "edges": [
+    "Red is studied in color psychology for its impact on emotions and physical reactions",
+    "Orange is analyzed in color psychology for its ability to evoke feelings of energy and excitement",
+    "Yellow's energizing effects are a subject of study in color psychology",
+    "Blue is significant in color psychology for its calming effects on the mind and body",
+    "Green's calming and relaxing effects are explored in color psychology",
+    "Purple's association with tranquility and serenity is of interest in color psychology"
+  ]
+}

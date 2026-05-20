@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Military technology shapes the course of history.",
+    "retrieved_context": "military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare. history is adaptation. history is transformation. armies used siege weapons. siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls. cyber warfare transformed battlefield. advancements led to sophisticated. world wars saw advancements. advancements led to mobile. advancements led to repeating firearms. advancements led to rifled barrels. advancements in metallurgy. advancements led to breech-loading mechanisms. advancements led to deadly. advancements include aircraft. advancements include tanks. advancements include submarines. advancements in engineering. advancements led to dynamic. advancements include missiles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Weapons and equipment development for military advantage is a constant theme in human civilization.",
+    "retrieved_context": "military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare. weapons to gain advantage. armies used siege weapons. siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls. siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls. nuclear weapons potential to annihilate. nuclear weapons developed during manhattan project. nuclear weapons potential to cities. nuclear weapons potential to civilizations. nuclear weapons marked era.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bow and arrow revolutionized warfare by enabling long-range combat.",
+    "retrieved_context": "bow and arrow allowed combat. bow and arrow increased effectiveness. bow and arrow impact on archery. military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare. weapons to gain advantage. cyber warfare transformed battlefield.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The bow and arrow increased soldiers' effectiveness on the battlefield.",
+    "retrieved_context": "bow and arrow allowed combat. bow and arrow increased effectiveness. bow and arrow impact on archery. armies used siege weapons. siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls. weapons to gain advantage. military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare. siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Siege weapons like catapults and trebuchets were used to lay siege to fortified cities and castles.",
+    "retrieved_context": "siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Siege weapons were instrumental in shaping the outcome of battles and conflicts.",
+    "retrieved_context": "siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls. weapons to gain advantage.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Gunpowder weapons revolutionized warfare by providing powerful means of engaging the enemy.",
+    "retrieved_context": "gunpowder invented in china. firearms provided means. gunpowder marked turning point. gunpowder led to cannons. gunpowder led to firearms. firearms engaged enemy. siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls. weapons to gain advantage. firearms provided means. firearms engaged enemy. industrial revolution brought innovation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution brought mass production of sophisticated and deadly weapons.",
+    "retrieved_context": "industrial revolution brought innovation. weapons to gain advantage. gunpowder invented in china. firearms provided means. gunpowder marked turning point. gunpowder led to cannons. gunpowder led to firearms. firearms engaged enemy. weapons to gain advantage. mass production of weapons. firearms provided means. firearms engaged enemy. military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Rifled barrels, breech-loading mechanisms, and repeating firearms transformed warfare.",
+    "retrieved_context": "firearms provided means. firearms engaged enemy. siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls. weapons to gain advantage. gunpowder invented in china. firearms provided means. gunpowder marked turning point. gunpowder led to cannons. gunpowder led to firearms. firearms engaged enemy.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 20th century saw advancements in tanks, aircraft, submarines, and missiles.",
+    "retrieved_context": "military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare. advancements led to sophisticated. advancements led to mobile. advancements led to repeating firearms. advancements led to rifled barrels. advancements in metallurgy. advancements led to breech-loading mechanisms. advancements led to deadly. advancements include aircraft. advancements include tanks. advancements include submarines. advancements in engineering. advancements led to dynamic. advancements include missiles. hypersonic missiles poised to battlefield. advancements led to sophisticated. advancements led to mobile. advancements led to repeating firearms. advancements led to rifled barrels. cold war saw advancements. advancements in metallurgy. advancements led to breech-loading mechanisms. advancements led to deadly. advancements include aircraft. advancements include tanks. advancements include submarines. advancements in engineering. advancements led to dynamic. advancements include missiles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nuclear weapons have the potential to annihilate entire cities and civilizations.",
+    "retrieved_context": "nuclear weapons potential to annihilate. nuclear weapons developed during manhattan project. nuclear weapons potential to cities. nuclear weapons potential to civilizations. nuclear weapons marked era. directed energy weapons poised to battlefield. weapons to gain advantage. hypersonic missiles poised to battlefield. advancements led to sophisticated. world wars saw advancements. advancements led to mobile. advancements led to repeating firearms. advancements led to rifled barrels. advancements in metallurgy. advancements led to breech-loading mechanisms. advancements led to deadly. advancements include aircraft. advancements include tanks. advancements include submarines. advancements in engineering. advancements led to dynamic. advancements include missiles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Unmanned aerial vehicles (UAVs), drones, cyber warfare, and artificial intelligence have transformed the battlefield.",
+    "retrieved_context": "unmanned aerial vehicles transformed battlefield. unmanned aerial vehicles include drones. unmanned aerial vehicles include uavs. cyber warfare transformed battlefield. military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare. armies used siege weapons. siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advanced technology enables precision strikes and real-time intelligence gathering.",
+    "retrieved_context": "military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare. cyber warfare transformed battlefield. directed energy weapons poised to battlefield. artificial intelligence transformed battlefield. cutting-edge technologies of 21st century.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hypersonic missiles, directed energy weapons, and autonomous robots are emerging military technologies.",
+    "retrieved_context": "hypersonic missiles poised to battlefield. military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare. directed energy weapons poised to battlefield. nuclear weapons potential to annihilate. nuclear weapons developed during manhattan project. nuclear weapons potential to cities. nuclear weapons potential to civilizations. nuclear weapons marked era. weapons to gain advantage. cyber warfare transformed battlefield.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Military technology innovation continues to drive change and shape conflicts.",
+    "retrieved_context": "military technology has played history. military technology shaped geopolitical landscape. history is adaptation. history is transformation. military technology transformed warfare. cyber warfare transformed battlefield. armies used siege weapons. siege weapons used against fortified cities. siege weapons used against castles. siege weapons include catapults. siege weapons include trebuchets. siege weapons used in siege. siege weapons broke down defenses. siege weapons broke down walls.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

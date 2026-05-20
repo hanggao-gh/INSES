@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Language processing is a function of the human brain.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Language processing involves multiple regions in the brain.",
+    "retrieved_context": "Several brain regions are involved each contributing to different aspects. Several brain regions are involved each contributing to aspects. Several brain regions are involved each contributing. Several brain regions are involved each. Several brain regions are involved each contributing to aspects of linguistic function. Several brain regions are involved each contributing to aspects of function. Several brain regions are involved each contributing to different aspects of function. Several brain regions are involved each contributing to different aspects of linguistic function. brain regions are involved each contributing to different aspects of linguistic function. brain regions are involved each contributing. brain regions are involved each. brain regions are involved each contributing to aspects of linguistic function. brain regions are involved each contributing to different aspects of function. brain regions are involved each contributing to aspects of function. brain regions are involved each contributing to aspects. brain regions are involved each contributing to different aspects.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves intricate neural pathways.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Understanding and producing language is key for communication.",
+    "retrieved_context": "process involves activation of motor areas in frontal lobe. process begins in cortex. process involves integration of information. language is key aspect. process involves integration. language processing of is complex process. process begins for language. language processing of is In conclusion process. process involves activation in frontal lobe. process involves integration of phonological information. process begins in auditory cortex. language is aspect. language processing of is In conclusion complex process. language is aspect of communication. process involves activation in lobe. complex process is In conclusion. process involves activation of motor areas. process involves activation of motor areas in lobe. process involves activation. process is supported by brain 's plasticity. process begins for spoken language. language processing of is process. process involves activation of motor areas in frontal lobe. process begins in cortex. process involves integration of information. process involves integration. process involves activation in lobe. process involves activation in frontal lobe. process involves integration of phonological information. process begins in auditory cortex. Language acquisition is lifelong process. process involves activation of motor areas in lobe. Language acquisition is process. process involves activation. process begins for spoken language. process is supported by brain 's plasticity. process involves activation of motor areas. process begins for language.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Researchers have made significant strides in understanding language processing.",
+    "retrieved_context": "language processing first stage of is perception. Language processing is fascinating function of brain. brain sense of linguistic input meaning. brain moves has understood. fascinating function involving regions. brain is able. brain sense of input meaning from it. brain by plasticity. brain makes sense of input meaning from it. brain sends motor commands to articulatory muscles. brain sense of linguistic input meaning from it. brain organizes them. brain sends motor commands to muscles. brain makes sense of linguistic input meaning. brain makes sense of linguistic input. fascinating function involving multiple regions. brain moves on on production stage. brain makes sense of input meaning. function involving multiple regions. brain makes sense of input. brain retrieves words from its mental lexicon. brain distinguish between phonemes. brain sense of linguistic input. brain makes sense. brain of remarkable capacity for language processing. Language processing is fascinating function of human brain. brain moves Once has understood. function involving regions. brain retrieves words. Language processing is function. brain distinguish between different phonemes. Language processing is fascinating function. brain makes sense of linguistic input meaning from it. brain sends motor commands. brain retrieves words from its lexicon. brain sense of input meaning. brain sense of input.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Language processing involves stages like perception, comprehension, production, and acquisition.",
+    "retrieved_context": "process involves activation of motor areas in frontal lobe. process begins in cortex. process involves integration of information. process involves integration. process involves activation in lobe. process involves activation in frontal lobe. process involves integration of phonological information. process begins in auditory cortex. Language acquisition is lifelong process. process involves activation of motor areas in lobe. Language acquisition is process. process involves activation. process begins for spoken language. process is supported by brain 's plasticity. process involves activation of motor areas. process begins for language. language processing first stage of is perception. Language processing is fascinating function of brain. brain sense of linguistic input meaning. brain moves has understood. fascinating function involving regions. brain is able. brain sense of input meaning from it. brain by plasticity. brain makes sense of input meaning from it. brain sends motor commands to articulatory muscles. brain sense of linguistic input meaning from it. brain organizes them. brain sends motor commands to muscles. brain makes sense of linguistic input meaning. brain makes sense of linguistic input. fascinating function involving multiple regions. brain moves on on production stage. brain makes sense of input meaning. function involving multiple regions. brain makes sense of input. brain retrieves words from its mental lexicon. brain distinguish between phonemes. brain sense of linguistic input. brain makes sense. brain of remarkable capacity for language processing. Language processing is fascinating function of human brain. brain moves Once has understood. function involving regions. brain retrieves words. Language processing is function. brain distinguish between different phonemes. Language processing is fascinating function. brain makes sense of linguistic input meaning from it. brain sends motor commands. brain retrieves words from its lexicon. brain sense of input meaning. brain sense of input.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception stage involves recognition and decoding of speech sounds or written symbols.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Perception stage begins in the auditory cortex for spoken language.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comprehension involves making sense of linguistic input and extracting meaning.",
+    "retrieved_context": "Comprehension is next stage. Comprehension is stage of language processing. Comprehension is stage. stage is perception. language processing first stage of is perception.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comprehension integrates phonological, syntactic, and semantic information.",
+    "retrieved_context": "Comprehension is next stage. Comprehension is stage of language processing. Comprehension is stage. stage is perception. language processing first stage of is perception.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Production stage involves generating a response in spoken or written language.",
+    "retrieved_context": "stage is perception.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Production stage activates motor areas in the frontal lobe.",
+    "retrieved_context": "brain regions are involved each contributing to different aspects of linguistic function. brain regions are involved each contributing. brain regions are involved each. brain regions are involved each contributing to aspects of linguistic function. brain regions are involved each contributing to different aspects of function. brain regions are involved each contributing to aspects of function. brain regions are involved each contributing to aspects. brain regions are involved each contributing to different aspects.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Language acquisition involves learning new words and grammatical rules.",
+    "retrieved_context": "process involves activation of motor areas in frontal lobe. process begins in cortex. process involves integration of information. process involves integration. process involves activation in lobe. process involves activation in frontal lobe. process involves integration of phonological information. process begins in auditory cortex. Language acquisition is lifelong process. process involves activation of motor areas in lobe. Language acquisition is process. process involves activation. process begins for spoken language. process is supported by brain 's plasticity. process involves activation of motor areas. process begins for language.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Broca's area is crucial for language production and grammatical processing.",
+    "retrieved_context": "Broca 's area is crucial. Broca 's area is crucial for language production. Broca such area. Broca has area located in left frontal lobe.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Wernicke's area is responsible for language comprehension and semantic processing.",
+    "retrieved_context": "Wernicke 's area is responsible. Wernicke 's area is responsible for language comprehension. Wernicke has areas. Wernicke has area located in left temporal lobe. Wernicke such area. process involves activation of motor areas in frontal lobe. process begins in cortex. process involves integration of information. process involves integration. process involves activation in lobe. process involves activation in frontal lobe. process involves integration of phonological information. process begins in auditory cortex. Language acquisition is lifelong process. process involves activation of motor areas in lobe. Language acquisition is process. process involves activation. process begins for spoken language. process is supported by brain 's plasticity. process involves activation of motor areas. process begins for language.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

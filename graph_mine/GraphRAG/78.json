@@ -1,0 +1,97 @@
+{
+  "entities": [
+    "MONA LISA",
+    "VINCENT VAN GOGH",
+    "CARAVAGGIO",
+    "FRIDA KAHLO",
+    "MICHELANGELO",
+    "CUBISM",
+    "VATICAN",
+    "CLAUDE MONET",
+    "LES DEMOISELLES D'AVIGNON",
+    "GIVERNY",
+    "THE CALLING OF SAINT MATTHEW",
+    "LEONARDO DA VINCI",
+    "PICASSO",
+    "ART",
+    "PABLO PICASSO",
+    "RENAISSANCE",
+    "SISTINE CHAPEL"
+  ],
+  "relations": [
+    [
+      "LEONARDO DA VINCI",
+      "Leonardo da Vinci created the Mona Lisa, which is one of the most recognizable paintings in the world",
+      "MONA LISA"
+    ],
+    [
+      "LEONARDO DA VINCI",
+      "Leonardo da Vinci was a key figure of the Renaissance, contributing significantly to its artistic achievements",
+      "RENAISSANCE"
+    ],
+    [
+      "MONA LISA",
+      "The Mona Lisa has influenced the course of art history and continues to captivate audiences, showcasing the power of artistic expression",
+      "ART"
+    ],
+    [
+      "MICHELANGELO",
+      "Michelangelo painted the ceiling of the Sistine Chapel, including the Creation of Adam and the Last Judgment",
+      "SISTINE CHAPEL"
+    ],
+    [
+      "MICHELANGELO",
+      "Michelangelo's work, especially in the Sistine Chapel, is a hallmark of Renaissance art",
+      "RENAISSANCE"
+    ],
+    [
+      "MICHELANGELO",
+      "Michelangelo painted the ceiling of the chapel in the Vatican, a masterpiece that continues to inspire awe",
+      "VATICAN"
+    ],
+    [
+      "CARAVAGGIO",
+      "Caravaggio painted \"The Calling of Saint Matthew\", a work known for its dramatic use of light and shadow",
+      "THE CALLING OF SAINT MATTHEW"
+    ],
+    [
+      "CLAUDE MONET",
+      "Claude Monet lived and painted in Giverny, where he created his famous water lilies series",
+      "GIVERNY"
+    ],
+    [
+      "PABLO PICASSO",
+      "Pablo Picasso was a pioneer of the Cubism movement, revolutionizing modern art",
+      "CUBISM"
+    ],
+    [
+      "LES DEMOISELLES D'AVIGNON",
+      "Picasso created \"Les Demoiselles d'Avignon\", a painting that is considered a pivotal work in modern art",
+      "PICASSO"
+    ],
+    [
+      "VINCENT VAN GOGH",
+      "Vincent van Gogh contributed to the art world with his emotionally charged landscapes, influencing the perception of art",
+      "ART"
+    ],
+    [
+      "FRIDA KAHLO",
+      "Frida Kahlo's powerful self-portraits have left a significant mark on the art world, showcasing her unique vision and creativity",
+      "ART"
+    ]
+  ],
+  "edges": [
+    "Leonardo da Vinci created the Mona Lisa, which is one of the most recognizable paintings in the world",
+    "Leonardo da Vinci was a key figure of the Renaissance, contributing significantly to its artistic achievements",
+    "The Mona Lisa has influenced the course of art history and continues to captivate audiences, showcasing the power of artistic expression",
+    "Michelangelo painted the ceiling of the Sistine Chapel, including the Creation of Adam and the Last Judgment",
+    "Michelangelo's work, especially in the Sistine Chapel, is a hallmark of Renaissance art",
+    "Michelangelo painted the ceiling of the chapel in the Vatican, a masterpiece that continues to inspire awe",
+    "Caravaggio painted \"The Calling of Saint Matthew\", a work known for its dramatic use of light and shadow",
+    "Claude Monet lived and painted in Giverny, where he created his famous water lilies series",
+    "Pablo Picasso was a pioneer of the Cubism movement, revolutionizing modern art",
+    "Picasso created \"Les Demoiselles d'Avignon\", a painting that is considered a pivotal work in modern art",
+    "Vincent van Gogh contributed to the art world with his emotionally charged landscapes, influencing the perception of art",
+    "Frida Kahlo's powerful self-portraits have left a significant mark on the art world, showcasing her unique vision and creativity"
+  ]
+}

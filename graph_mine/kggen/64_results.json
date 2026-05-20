@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The wheel was invented around 3500 BC in Mesopotamia.",
+    "retrieved_context": "wheel enabled development. wheel component of modern. wheel foundation for future. inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The wheel revolutionized transportation and enabled the development of wheeled vehicles.",
+    "retrieved_context": "wheel enabled development. wheel component of modern. wheel foundation for future. inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The printing press was invented by Johannes Gutenberg in the 15th century.",
+    "retrieved_context": "printing press transformed society. printing press accessible to population. printing press democratization of knowledge. printing press disseminated information. inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The printing press revolutionized the dissemination of information.",
+    "retrieved_context": "printing press transformed society. printing press accessible to population. printing press democratization of knowledge. printing press disseminated information. inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The steam engine was invented in the 18th century.",
+    "retrieved_context": "steam engine transformed global. steam engine powered machinery. inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The steam engine powered machinery and revolutionized manufacturing processes.",
+    "retrieved_context": "steam engine transformed global. steam engine powered machinery. inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The telephone was invented by Alexander Graham Bell in the 19th century.",
+    "retrieved_context": "telephone groundwork for development. telephone revolutionized communication. inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The telephone transformed communication over long distances.",
+    "retrieved_context": "telephone groundwork for development. telephone revolutionized communication. internet impact on society. internet access information. internet reshaped interact. technologies enhance lives. technologies shape world.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The light bulb was invented by Thomas Edison in the late 19th century.",
+    "retrieved_context": "light bulb illuminate homes. light bulb adoption of electric lighting. light bulb illuminate cities. inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The light bulb replaced gas lamps and candles as the primary source of lighting.",
+    "retrieved_context": "light bulb illuminate homes. light bulb adoption of electric lighting. light bulb illuminate cities.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The computer was invented in the 20th century.",
+    "retrieved_context": "inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization. computer aspect of business. computer aspect of education. computer process information. computer ushered in digital age. computer aspect of entertainment. technologies enhance lives. technologies shape world.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The computer ushered in the digital age and revolutionized various aspects of life.",
+    "retrieved_context": "computer aspect of business. computer aspect of education. computer process information. computer ushered in digital age. computer aspect of entertainment. technologies enhance lives. technologies shape world.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The internet was developed in the late 20th century.",
+    "retrieved_context": "internet impact on society. internet access information. internet reshaped interact. technologies enhance lives. technologies shape world.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The internet revolutionized access to information and communication.",
+    "retrieved_context": "internet impact on society. internet access information. internet reshaped interact.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Inventions have played a crucial role in shaping human history and driving progress.",
+    "retrieved_context": "inventions role in innovation. inventions revolutionized work. inventions role in progress. inventions revolutionized live. inventions revolutionized communicate. inventions role in advancing civilization. technologies enhance lives. technologies shape world.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

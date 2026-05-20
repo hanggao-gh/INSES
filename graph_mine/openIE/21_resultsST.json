@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "VR technology has rapidly evolved in recent years.",
+    "retrieved_context": "VR can help By real world environments. VR can help By simulating world environments. VR can help By world environments. VR can help By simulating real world environments. VR equipment maintaining software. Virtual Reality VR technology has evolved in recent years. Virtual Reality VR technology has rapidly evolved in years. VR content facilitate virtual experiences. VR content assess student learning in virtual environments. VR content assess student learning. VR headsets becoming affordable. VR headsets becoming more affordable.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Virtual reality offers new possibilities for various industries, including education.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Virtual reality can create immersive and engaging learning experiences.",
+    "retrieved_context": "Virtual Reality is in Education. education inclusive to diverse range. virtual reality can cater to learning styles. education more inclusive to range of students. virtual reality has potential. virtual reality can cater to different learning styles. education inclusive to diverse range of students. virtual reality is in education. education inclusive to range.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "VR simulates real-world environments and scenarios.",
+    "retrieved_context": "VR can help By real world environments. VR can help By simulating world environments. VR can help By world environments. VR can help By simulating real world environments. Virtual Reality VR technology has evolved in recent years. Virtual Reality VR technology has rapidly evolved in years. VR content facilitate virtual experiences. VR content assess student learning in virtual environments. VR content assess student learning. VR equipment maintaining software. Virtual Reality is in Education. education inclusive to diverse range. virtual reality can cater to learning styles. education more inclusive to range of students. virtual reality has potential. virtual reality can cater to different learning styles. education inclusive to diverse range of students. virtual reality is in education. education inclusive to range.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Virtual reality helps students visualize complex concepts in a hands-on manner.",
+    "retrieved_context": "Virtual Reality is in Education. education inclusive to diverse range. virtual reality can cater to learning styles. education more inclusive to range of students. virtual reality has potential. virtual reality can cater to different learning styles. education inclusive to diverse range of students. virtual reality is in education. education inclusive to range.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Medical students can practice surgical procedures in a virtual operating room.",
+    "retrieved_context": "medical students can practice surgical procedures. medical students can practice procedures in virtual operating room. medical students can practice procedures For example. medical students can practice procedures. Virtual Reality is in Education. education inclusive to diverse range. virtual reality can cater to learning styles. education more inclusive to range of students. virtual reality has potential. virtual reality can cater to different learning styles. education inclusive to diverse range of students. virtual reality is in education. education inclusive to range. education inclusive to diverse range. using virtual reality is in education. education more inclusive to range of students. education inclusive to diverse range of students. education inclusive to range.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "History students can explore historical landmarks through immersive virtual tours.",
+    "retrieved_context": "history students can explore landmarks through immersive virtual tours. landmarks students events. history students can explore historical landmarks. historical landmarks students events. history students can explore landmarks through virtual tours. history students can explore landmarks. historical landmarks students events. VR content facilitate virtual experiences. VR content assess student learning in virtual environments. VR content assess student learning.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Virtual reality caters to different learning styles and preferences.",
+    "retrieved_context": "Virtual Reality is in Education. education inclusive to diverse range. virtual reality can cater to learning styles. education more inclusive to range of students. virtual reality has potential. virtual reality can cater to different learning styles. education inclusive to diverse range of students. virtual reality is in education. education inclusive to range.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR benefits visual and kinesthetic learners.",
+    "retrieved_context": "VR equipment maintaining software.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Students with disabilities can benefit from virtual reality technology.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "VR can democratize access to high-quality educational resources.",
+    "retrieved_context": "VR content facilitate virtual experiences. VR content assess student learning in virtual environments. VR content assess student learning. VR can help By real world environments. VR can help By simulating world environments. VR can help By world environments. VR can help By simulating real world environments. VR equipment maintaining software. Virtual Reality VR technology has evolved in recent years. Virtual Reality VR technology has rapidly evolved in years.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "VR headsets are becoming more affordable and widespread.",
+    "retrieved_context": "VR headsets becoming affordable. VR headsets becoming more affordable. VR equipment maintaining software. VR can help By real world environments. VR can help By simulating world environments. VR can help By world environments. VR can help By simulating real world environments. VR content facilitate virtual experiences. VR content assess student learning in virtual environments. VR content assess student learning.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "One challenge is the cost of acquiring and maintaining VR equipment.",
+    "retrieved_context": "VR equipment maintaining software. VR can help By real world environments. VR can help By simulating world environments. VR can help By world environments. VR can help By simulating real world environments. VR content facilitate virtual experiences. VR content assess student learning in virtual environments. VR content assess student learning. Virtual Reality VR technology has evolved in recent years. Virtual Reality VR technology has rapidly evolved in years.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "There are concerns about health and safety risks associated with VR devices.",
+    "retrieved_context": "VR equipment maintaining software. VR content facilitate virtual experiences. VR content assess student learning in virtual environments. VR content assess student learning. VR can help By real world environments. VR can help By simulating world environments. VR can help By world environments. VR can help By simulating real world environments.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Educators need training on how to integrate virtual reality into teaching practices.",
+    "retrieved_context": "education inclusive to diverse range. using virtual reality is in education. education more inclusive to range of students. education inclusive to diverse range of students. education inclusive to range.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

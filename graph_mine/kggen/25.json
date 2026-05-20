@@ -1,0 +1,565 @@
+{
+  "entities": [
+    "acquaintances",
+    "activism",
+    "advocate",
+    "approval",
+    "audience",
+    "awareness",
+    "behaviors",
+    "board games",
+    "challenges",
+    "change",
+    "citizen journalism",
+    "closeness",
+    "comments",
+    "communication",
+    "community",
+    "comparison",
+    "conclusion",
+    "connect",
+    "connections",
+    "connectivity",
+    "consequences",
+    "conspiracy theories",
+    "constructive",
+    "content",
+    "conversations",
+    "debates",
+    "democratization",
+    "digital age",
+    "distance",
+    "diversity",
+    "drawbacks",
+    "emojis",
+    "empowerment",
+    "events",
+    "facebook",
+    "fake news",
+    "family",
+    "friends",
+    "history",
+    "impact",
+    "implications",
+    "inadequacy",
+    "inclusion",
+    "individuals",
+    "information",
+    "injustices",
+    "instagram",
+    "instant messaging",
+    "interact",
+    "interaction",
+    "interactions",
+    "issues",
+    "landscape",
+    "likes",
+    "mainstream media",
+    "marginalized groups",
+    "media outlets",
+    "mental health",
+    "misinformation",
+    "networking",
+    "news",
+    "patterns",
+    "perceptions",
+    "photos",
+    "platforms",
+    "power",
+    "propaganda",
+    "quality",
+    "quantity",
+    "relationships",
+    "responsible",
+    "rumors",
+    "self-esteem",
+    "shallow",
+    "shares",
+    "sites",
+    "snapchat",
+    "social media",
+    "society",
+    "stories",
+    "superficial",
+    "thoughts",
+    "tool",
+    "touch",
+    "twitter",
+    "updates",
+    "validation",
+    "video calls",
+    "visibility",
+    "voice",
+    "voices",
+    "world"
+  ],
+  "relations": [
+    [
+      "platforms",
+      "help",
+      "acquaintances"
+    ],
+    [
+      "platforms",
+      "help",
+      "closeness"
+    ],
+    [
+      "platforms",
+      "help",
+      "community"
+    ],
+    [
+      "platforms",
+      "help",
+      "connect"
+    ],
+    [
+      "platforms",
+      "help",
+      "distance"
+    ],
+    [
+      "platforms",
+      "help",
+      "family"
+    ],
+    [
+      "platforms",
+      "help",
+      "friends"
+    ],
+    [
+      "platforms",
+      "help",
+      "instant messaging"
+    ],
+    [
+      "platforms",
+      "help",
+      "networking"
+    ],
+    [
+      "platforms",
+      "help",
+      "photos"
+    ],
+    [
+      "platforms",
+      "help",
+      "thoughts"
+    ],
+    [
+      "platforms",
+      "help",
+      "touch"
+    ],
+    [
+      "platforms",
+      "help",
+      "updates"
+    ],
+    [
+      "platforms",
+      "help",
+      "video calls"
+    ],
+    [
+      "platforms",
+      "include",
+      "facebook"
+    ],
+    [
+      "platforms",
+      "include",
+      "instagram"
+    ],
+    [
+      "platforms",
+      "include",
+      "snapchat"
+    ],
+    [
+      "platforms",
+      "include",
+      "twitter"
+    ],
+    [
+      "platforms",
+      "should be",
+      "constructive"
+    ],
+    [
+      "platforms",
+      "should be",
+      "responsible"
+    ],
+    [
+      "social media",
+      "has amplified",
+      "voices"
+    ],
+    [
+      "social media",
+      "has challenges",
+      "drawbacks"
+    ],
+    [
+      "social media",
+      "has empowered",
+      "individuals"
+    ],
+    [
+      "social media",
+      "has given",
+      "voice"
+    ],
+    [
+      "social media",
+      "has helped",
+      "advocate"
+    ],
+    [
+      "social media",
+      "has helped",
+      "change"
+    ],
+    [
+      "social media",
+      "has helped",
+      "marginalized groups"
+    ],
+    [
+      "social media",
+      "has helped",
+      "stories"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "awareness"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "challenges"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "comparison"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "connectivity"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "empowerment"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "inadequacy"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "interact"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "issues"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "mental health"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "self-esteem"
+    ],
+    [
+      "social media",
+      "has impacted",
+      "society"
+    ],
+    [
+      "social media",
+      "has implications",
+      "landscape"
+    ],
+    [
+      "social media",
+      "has implications",
+      "patterns"
+    ],
+    [
+      "social media",
+      "has increased",
+      "consequences"
+    ],
+    [
+      "social media",
+      "has increased",
+      "conspiracy theories"
+    ],
+    [
+      "social media",
+      "has increased",
+      "fake news"
+    ],
+    [
+      "social media",
+      "has increased",
+      "information"
+    ],
+    [
+      "social media",
+      "has increased",
+      "misinformation"
+    ],
+    [
+      "social media",
+      "has increased",
+      "propaganda"
+    ],
+    [
+      "social media",
+      "has increased",
+      "rumors"
+    ],
+    [
+      "social media",
+      "has increased",
+      "sites"
+    ],
+    [
+      "social media",
+      "has increased",
+      "visibility"
+    ],
+    [
+      "social media",
+      "has influenced",
+      "communication"
+    ],
+    [
+      "social media",
+      "has power",
+      "change"
+    ],
+    [
+      "social media",
+      "has power",
+      "connections"
+    ],
+    [
+      "social media",
+      "has power",
+      "society"
+    ],
+    [
+      "social media",
+      "has power",
+      "voices"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "activism"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "approval"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "comments"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "connections"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "diversity"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "emojis"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "inclusion"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "interaction"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "interactions"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "likes"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "quality"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "quantity"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "relationships"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "shallow"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "shares"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "superficial"
+    ],
+    [
+      "social media",
+      "has promoted",
+      "validation"
+    ],
+    [
+      "social media",
+      "has raised",
+      "awareness"
+    ],
+    [
+      "social media",
+      "has raised",
+      "injustices"
+    ],
+    [
+      "social media",
+      "has revolutionized",
+      "communication"
+    ],
+    [
+      "social media",
+      "has shaped",
+      "behaviors"
+    ],
+    [
+      "social media",
+      "has shaped",
+      "perceptions"
+    ],
+    [
+      "social media",
+      "has shaped",
+      "relationships"
+    ],
+    [
+      "social media",
+      "has sparked",
+      "conversations"
+    ],
+    [
+      "social media",
+      "has sparked",
+      "debates"
+    ],
+    [
+      "social media",
+      "has sparked",
+      "issues"
+    ],
+    [
+      "social media",
+      "has transformed",
+      "audience"
+    ],
+    [
+      "social media",
+      "has transformed",
+      "citizen journalism"
+    ],
+    [
+      "social media",
+      "has transformed",
+      "content"
+    ],
+    [
+      "social media",
+      "has transformed",
+      "democratization"
+    ],
+    [
+      "social media",
+      "has transformed",
+      "information"
+    ],
+    [
+      "social media",
+      "has transformed",
+      "media outlets"
+    ],
+    [
+      "social media",
+      "has transformed",
+      "news"
+    ],
+    [
+      "social media",
+      "is a",
+      "tool"
+    ]
+  ],
+  "edges": [
+    "has amplified",
+    "has challenges",
+    "has empowered",
+    "has given",
+    "has helped",
+    "has impacted",
+    "has implications",
+    "has increased",
+    "has influenced",
+    "has power",
+    "has promoted",
+    "has raised",
+    "has revolutionized",
+    "has shaped",
+    "has sparked",
+    "has transformed",
+    "help",
+    "include",
+    "is a",
+    "should be"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Smell is also known as olfaction.",
+    "retrieved_context": "odor molecules enter cavity through nostrils. odor molecules enter cavity. odor molecules enter nasal cavity. receptor is sensitive. odor molecule binds to receptor. receptor is sensitive to odor molecules allowing. receptor is sensitive to specific odor molecules allowing. receptor is sensitive to odor molecules. receptor is sensitive to specific odor molecules.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Smell influences emotions, memories, and behavior.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Odor molecules enter the nasal cavity through the nostrils.",
+    "retrieved_context": "odor molecules enter cavity through nostrils. odor molecules enter cavity. odor molecules enter nasal cavity. receptor is sensitive. odor molecule binds to receptor. receptor is sensitive to odor molecules allowing. receptor is sensitive to specific odor molecules allowing. receptor is sensitive to odor molecules. receptor is sensitive to specific odor molecules.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Olfactory receptors are located in the olfactory epithelium.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Each receptor is sensitive to specific odor molecules.",
+    "retrieved_context": "odor molecules enter cavity through nostrils. odor molecules enter cavity. odor molecules enter nasal cavity. receptor is sensitive. odor molecule binds to receptor. receptor is sensitive to odor molecules allowing. receptor is sensitive to specific odor molecules allowing. receptor is sensitive to odor molecules. receptor is sensitive to specific odor molecules. specialized olfactory receptors layer at back of nasal cavity. specialized olfactory receptors layer of tissue.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Odor molecules trigger chemical reactions in the brain.",
+    "retrieved_context": "odor molecules enter cavity through nostrils. odor molecules enter cavity. odor molecules enter nasal cavity. receptor is sensitive. odor molecule binds to receptor. receptor is sensitive to odor molecules allowing. receptor is sensitive to specific odor molecules allowing. receptor is sensitive to odor molecules. receptor is sensitive to specific odor molecules.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Early humans relied on smell to detect predators and find food.",
+    "retrieved_context": "specialized olfactory receptors layer at back of nasal cavity. specialized olfactory receptors layer of tissue.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Our sense of smell warns us of danger, like spoiled food.",
+    "retrieved_context": "smell triggered flood of memories. memories has led to its use in various psychological therapies. memories has led to its use in psychological therapies. smell plays vital role. smell plays role From its role to its impact on emotions. smell plays role From its role in evolution. memories has led to its use in therapies. smell triggered flood. smell triggered flood of memories from his childhood. smell plays role From its role. smell plays role. memories people with conditions. smell plays role From its role in evolution to its impact. memories has led to its use. smell plays role From its role to its impact. smell science of is rich field. smell triggered flood from his childhood. memories has led to its use in various therapies. smell plays role From its role in evolution to its impact on emotions. smell science of is field. smell flood from his childhood. smell flood of memories. rich field is In conclusion. smell science of is In conclusion field. its role is in evolution. smell plays role in our lives. smell science of is In conclusion rich field. memories people with conditions like Alzheimer 's disease. Smell plays role. Smell also plays role in culture. Smell plays significant role.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Smells can trigger memories more vividly than other cues.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The limbic system is responsible for emotions and memories.",
+    "retrieved_context": "emotions create lasting impressions. emotions create impressions. smell triggered flood of memories. smell plays vital role. smell plays role From its role to its impact on emotions. smell plays role From its role in evolution. smell triggered flood. smell triggered flood of memories from his childhood. smell plays role From its role. smell plays role. smell plays role From its role in evolution to its impact. smell plays role From its role to its impact. smell science of is rich field. smell triggered flood from his childhood. smell plays role From its role in evolution to its impact on emotions. smell science of is field. smell flood from his childhood. smell flood of memories. smell science of is In conclusion field. smell plays role in our lives. smell science of is In conclusion rich field. our emotions power of smell. specific emotions create lasting impressions. specific emotions create impressions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Aromatherapy uses essential oils for physical and psychological well-being.",
+    "retrieved_context": "essential oils improve physical. derived essential oils improve physical. oils improve physical. derived oils improve physical. scents have therapeutic effects. scents evoke feelings of nostalgia. scents can transport us. us distinguish between different smells. scents have therapeutic effects on mood. scents evoke strong feelings. scents evoke feelings. us distinguish between smells. scents have effects. scents have effects on mood. scents are believed. scents evoke strong feelings of nostalgia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Certain scents can help people with Alzheimer's recall memories.",
+    "retrieved_context": "Certain scents have effects on mood. Certain scents are believed. Certain scents have therapeutic effects. Certain scents have effects. Certain scents have therapeutic effects on mood. certain scents evoke feelings of nostalgia. us distinguish between different smells. us distinguish between smells. certain scents can transport us. certain scents evoke strong feelings. certain scents evoke feelings. certain scents evoke strong feelings of nostalgia. scents have therapeutic effects. scents evoke feelings of nostalgia. scents can transport us. us distinguish between different smells. scents have therapeutic effects on mood. scents evoke strong feelings. scents evoke feelings. us distinguish between smells. scents have effects. scents have effects on mood. scents are believed. scents evoke strong feelings of nostalgia. Alzheimer like disease.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Different cultures have unique preferences for scents.",
+    "retrieved_context": "Certain scents have effects on mood. Certain scents are believed. Certain scents have therapeutic effects. Certain scents have effects. Certain scents have therapeutic effects on mood. certain scents evoke feelings of nostalgia. us distinguish between different smells. us distinguish between smells. certain scents can transport us. certain scents evoke strong feelings. certain scents evoke feelings. certain scents evoke strong feelings of nostalgia. scents have therapeutic effects. scents evoke feelings of nostalgia. scents can transport us. us distinguish between different smells. scents have therapeutic effects on mood. scents evoke strong feelings. scents evoke feelings. us distinguish between smells. scents have effects. scents have effects on mood. scents are believed. scents evoke strong feelings of nostalgia.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Scents can influence perceptions, moods, and attraction in social settings.",
+    "retrieved_context": "Certain scents have effects on mood. Certain scents are believed. Certain scents have therapeutic effects. Certain scents have effects. Certain scents have therapeutic effects on mood. certain scents evoke feelings of nostalgia. us distinguish between different smells. us distinguish between smells. certain scents can transport us. certain scents evoke strong feelings. certain scents evoke feelings. certain scents evoke strong feelings of nostalgia. scents have therapeutic effects. scents evoke feelings of nostalgia. scents can transport us. us distinguish between different smells. scents have therapeutic effects on mood. scents evoke strong feelings. scents evoke feelings. us distinguish between smells. scents have effects. scents have effects on mood. scents are believed. scents evoke strong feelings of nostalgia.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The fragrance industry is a multi-billion-dollar business.",
+    "retrieved_context": "fragrance industry is multi-billion-dollar business. fragrance industry is business. fragrance industry is why business. fragrance industry is why business with perfumes designed. fragrance industry is why multi-billion-dollar business with perfumes designed. fragrance industry is multi-billion-dollar business with perfumes designed. fragrance industry is why multi-billion-dollar business. fragrance industry is why business with perfumes. fragrance industry is business with perfumes. fragrance industry is why multi-billion-dollar business with perfumes. multi-billion-dollar business is with perfumes designed. multi-billion-dollar business is with perfumes designed.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

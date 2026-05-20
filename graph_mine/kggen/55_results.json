@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Tornadoes are powerful and destructive natural phenomena on Earth.",
+    "retrieved_context": "tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column. meteorologists use tools. tools include ground observations. tools include weather radar. tools include satellite imagery. meteorologists monitor risk.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes can cause immense damage to buildings, trees, and anything in their path.",
+    "retrieved_context": "tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column. damage to trees. damage to buildings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes form in severe thunderstorms when specific atmospheric conditions are present.",
+    "retrieved_context": "tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column. meteorologists use tools. tools include ground observations. tools include weather radar. tools include satellite imagery. meteorologists monitor risk.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear is a key ingredient for tornado formation.",
+    "retrieved_context": "change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column. tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. meteorologists use tools. tools include ground observations. tools include weather radar. tools include satellite imagery. meteorologists monitor risk. dust whirl stage is visible.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wind shear creates a rotating column of air known as a mesocyclone within a thunderstorm.",
+    "retrieved_context": "change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column. tornadoes are phenomena. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. mesocyclone tightens tornadoes. tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. rotating column is mesocyclone. mesocyclone tightens tornadoes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Instability in the atmosphere is another important factor in tornado formation.",
+    "retrieved_context": "tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. instability in atmosphere. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Instability occurs when warm, moist air near the surface is overlaid by cooler, drier air aloft.",
+    "retrieved_context": "instability in atmosphere. drier air is aloft. development of tornadoes. development of severe thunderstorms. lifting air leads to development. dissipating stage weakens inflow. inflow causes shrink. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "A trigger mechanism, such as a cold front, dry line, or outflow boundary, is needed for tornado formation.",
+    "retrieved_context": "tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. trigger mechanism is cold front. trigger mechanism is outflow boundary. trigger mechanism is dry line. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column. dust whirl stage is visible.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Tornadoes go through stages of development: dust whirl stage, mature stage, and dissipating stage.",
+    "retrieved_context": "tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. dust whirl stage is visible. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Tornadoes are classified using the Enhanced Fujita (EF) scale.",
+    "retrieved_context": "enhanced fujita scale ranges from ef0. ef0 cause minor damage. ef0 have wind speeds. enhanced fujita scale ranges to ef5. ef5 cause catastrophic destruction. ef5 have wind speeds. tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. ef0 cause minor damage. ef0 have wind speeds. ef5 cause catastrophic destruction. ef5 have wind speeds. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The EF scale ranges from EF0 (weakest) to EF5 (strongest).",
+    "retrieved_context": "ef5 cause catastrophic destruction. ef5 have wind speeds. ef0 cause minor damage. ef0 have wind speeds. enhanced fujita scale ranges from ef0. ef0 cause minor damage. ef0 have wind speeds. enhanced fujita scale ranges to ef5. ef5 cause catastrophic destruction. ef5 have wind speeds. advances in capabilities. advances in technology.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forecasting tornadoes is complex due to their rapid and unpredictable nature.",
+    "retrieved_context": "tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. forecasting remains challenging. forecasting remains complex. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Meteorologists use weather radar, satellite imagery, and ground observations to monitor atmospheric conditions for tornado development.",
+    "retrieved_context": "meteorologists use tools. tools include ground observations. tools include weather radar. tools include satellite imagery. meteorologists monitor risk. tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. detecting within rotation. doppler radar is instrumental in detecting.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Doppler radar is instrumental in detecting rotation within thunderstorms and issuing tornado warnings.",
+    "retrieved_context": "detecting within rotation. doppler radar is instrumental in detecting. tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column. meteorologists use tools. tools include ground observations. tools include weather radar. tools include satellite imagery. meteorologists monitor risk.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Despite advances in technology, tornadoes continue to pose a significant threat to communities.",
+    "retrieved_context": "tornadoes are phenomena. classified using enhanced fujita scale. damage to buildings. tornadoes cause damage. tornadoes are classified. tornadoes form in severe thunderstorms. tornadoes are powerful. threat to communities. tornadoes pose threat. tornadoes are destructive. tornadoes go through stages. damage to trees. phenomena on earth. meteorologists use tools. tools include ground observations. tools include weather radar. tools include satellite imagery. meteorologists monitor risk. change in direction. wind shear is change. change in speed. rotating column is mesocyclone. wind shear creates rotating column.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "80.00%"
+  }
+]

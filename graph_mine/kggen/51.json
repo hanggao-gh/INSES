@@ -1,0 +1,514 @@
+{
+  "entities": [
+    "acceptance",
+    "access",
+    "accidents",
+    "age",
+    "artificial intelligence algorithms",
+    "automakers",
+    "autonomous vehicles",
+    "benefits",
+    "cameras",
+    "car ownership",
+    "challenges",
+    "cities",
+    "collaboration",
+    "communication",
+    "commute",
+    "concerns",
+    "conclusion",
+    "conditions",
+    "congestion",
+    "contagious",
+    "convenience",
+    "coordination",
+    "debate",
+    "development",
+    "disability",
+    "driver",
+    "driving",
+    "efficiency",
+    "emissions",
+    "environment",
+    "experts",
+    "factor",
+    "focus",
+    "future",
+    "governments",
+    "hazards",
+    "highways",
+    "human error",
+    "idling vehicles",
+    "impact",
+    "incidents",
+    "industry stakeholders",
+    "infrastructure",
+    "insurance",
+    "interest",
+    "investment",
+    "laughter",
+    "laws",
+    "legal framework",
+    "liability",
+    "licensing",
+    "mobility options",
+    "parking",
+    "people",
+    "pilot programs",
+    "possibilities",
+    "private entities",
+    "progress",
+    "public entities",
+    "reality",
+    "regulations",
+    "regulatory bodies",
+    "regulatory framework",
+    "reliability",
+    "research",
+    "revolutionize",
+    "road",
+    "road infrastructure",
+    "road traffic accidents",
+    "roads",
+    "role",
+    "safety",
+    "scenarios",
+    "self-driving cars",
+    "sensors",
+    "shared autonomous fleets",
+    "sight",
+    "society",
+    "space",
+    "stakeholders",
+    "support",
+    "surroundings",
+    "systems",
+    "technology",
+    "technology companies",
+    "time",
+    "traffic",
+    "traffic flow",
+    "traffic infrastructure",
+    "transportation",
+    "travel times",
+    "trust",
+    "world health organization"
+  ],
+  "relations": [
+    [
+      "access",
+      "to",
+      "society"
+    ],
+    [
+      "accidents",
+      "on",
+      "road"
+    ],
+    [
+      "artificial intelligence algorithms",
+      "used by",
+      "autonomous vehicles"
+    ],
+    [
+      "automakers",
+      "and",
+      "technology companies"
+    ],
+    [
+      "autonomous vehicles",
+      "also known as",
+      "self-driving cars"
+    ],
+    [
+      "autonomous vehicles",
+      "eliminate",
+      "human error"
+    ],
+    [
+      "autonomous vehicles",
+      "faster than",
+      "driver"
+    ],
+    [
+      "autonomous vehicles",
+      "give back",
+      "time"
+    ],
+    [
+      "autonomous vehicles",
+      "increase",
+      "efficiency"
+    ],
+    [
+      "autonomous vehicles",
+      "monitor",
+      "surroundings"
+    ],
+    [
+      "autonomous vehicles",
+      "promise",
+      "convenience"
+    ],
+    [
+      "autonomous vehicles",
+      "promise",
+      "efficiency"
+    ],
+    [
+      "autonomous vehicles",
+      "promise",
+      "safety"
+    ],
+    [
+      "autonomous vehicles",
+      "react to",
+      "hazards"
+    ],
+    [
+      "autonomous vehicles",
+      "reduce",
+      "accidents"
+    ],
+    [
+      "autonomous vehicles",
+      "topic of",
+      "debate"
+    ],
+    [
+      "autonomous vehicles",
+      "topic of",
+      "interest"
+    ],
+    [
+      "benefits",
+      "include",
+      "safety"
+    ],
+    [
+      "cameras",
+      "used by",
+      "autonomous vehicles"
+    ],
+    [
+      "challenges",
+      "and",
+      "progress"
+    ],
+    [
+      "challenges",
+      "need to be overcome for",
+      "reality"
+    ],
+    [
+      "communication",
+      "cuts down on",
+      "travel times"
+    ],
+    [
+      "communication",
+      "optimizes",
+      "traffic flow"
+    ],
+    [
+      "communication",
+      "reduces",
+      "congestion"
+    ],
+    [
+      "commute",
+      "during",
+      "traffic"
+    ],
+    [
+      "conclusion",
+      "about",
+      "revolutionize"
+    ],
+    [
+      "conditions",
+      "and",
+      "scenarios"
+    ],
+    [
+      "convenience",
+      "drives",
+      "interest"
+    ],
+    [
+      "development",
+      "drives",
+      "interest"
+    ],
+    [
+      "development",
+      "potential to",
+      "revolutionize"
+    ],
+    [
+      "emissions",
+      "from",
+      "idling vehicles"
+    ],
+    [
+      "experts",
+      "believe in",
+      "role"
+    ],
+    [
+      "focus",
+      "on",
+      "driving"
+    ],
+    [
+      "future",
+      "of",
+      "autonomous vehicles"
+    ],
+    [
+      "future",
+      "of",
+      "possibilities"
+    ],
+    [
+      "governments",
+      "and",
+      "regulatory bodies"
+    ],
+    [
+      "human error",
+      "is a",
+      "factor"
+    ],
+    [
+      "impact",
+      "on",
+      "environment"
+    ],
+    [
+      "incidents",
+      "raise",
+      "concerns"
+    ],
+    [
+      "infrastructure",
+      "needed for",
+      "support"
+    ],
+    [
+      "investment",
+      "and",
+      "collaboration"
+    ],
+    [
+      "investment",
+      "and",
+      "coordination"
+    ],
+    [
+      "laws",
+      "and",
+      "regulations"
+    ],
+    [
+      "liability",
+      "and",
+      "insurance"
+    ],
+    [
+      "licensing",
+      "for",
+      "autonomous vehicles"
+    ],
+    [
+      "mobility options",
+      "for",
+      "age"
+    ],
+    [
+      "mobility options",
+      "for",
+      "disability"
+    ],
+    [
+      "people",
+      "die in",
+      "road traffic accidents"
+    ],
+    [
+      "pilot programs",
+      "in",
+      "cities"
+    ],
+    [
+      "progress",
+      "has been made in",
+      "development"
+    ],
+    [
+      "public entities",
+      "and",
+      "private entities"
+    ],
+    [
+      "regulatory bodies",
+      "work with",
+      "industry stakeholders"
+    ],
+    [
+      "regulatory framework",
+      "and",
+      "legal framework"
+    ],
+    [
+      "research",
+      "and",
+      "development"
+    ],
+    [
+      "revolutionize",
+      "in",
+      "convenience"
+    ],
+    [
+      "revolutionize",
+      "in",
+      "efficiency"
+    ],
+    [
+      "revolutionize",
+      "in",
+      "safety"
+    ],
+    [
+      "revolutionize",
+      "object",
+      "transportation"
+    ],
+    [
+      "road infrastructure",
+      "needed for",
+      "support"
+    ],
+    [
+      "role",
+      "in",
+      "future"
+    ],
+    [
+      "safety",
+      "and",
+      "reliability"
+    ],
+    [
+      "sensors",
+      "used by",
+      "autonomous vehicles"
+    ],
+    [
+      "shared autonomous fleets",
+      "replace",
+      "car ownership"
+    ],
+    [
+      "sight",
+      "on",
+      "roads"
+    ],
+    [
+      "space",
+      "freed up for",
+      "highways"
+    ],
+    [
+      "space",
+      "freed up for",
+      "parking"
+    ],
+    [
+      "space",
+      "freed up for",
+      "roads"
+    ],
+    [
+      "stakeholders",
+      "focus on",
+      "safety"
+    ],
+    [
+      "systems",
+      "communicate with",
+      "traffic infrastructure"
+    ],
+    [
+      "technology",
+      "improves",
+      "acceptance"
+    ],
+    [
+      "technology",
+      "involves",
+      "incidents"
+    ],
+    [
+      "technology",
+      "still in",
+      "development"
+    ],
+    [
+      "trust",
+      "and",
+      "acceptance"
+    ],
+    [
+      "world health organization",
+      "reports",
+      "people"
+    ]
+  ],
+  "edges": [
+    "about",
+    "also known as",
+    "and",
+    "believe in",
+    "communicate with",
+    "cuts down on",
+    "die in",
+    "drives",
+    "during",
+    "eliminate",
+    "faster than",
+    "focus on",
+    "for",
+    "freed up for",
+    "from",
+    "give back",
+    "has been made in",
+    "improves",
+    "in",
+    "include",
+    "increase",
+    "involves",
+    "is a",
+    "monitor",
+    "need to be overcome for",
+    "needed for",
+    "object",
+    "of",
+    "on",
+    "optimizes",
+    "potential to",
+    "promise",
+    "raise",
+    "react to",
+    "reduce",
+    "reduces",
+    "replace",
+    "reports",
+    "still in",
+    "to",
+    "topic of",
+    "used by",
+    "work with"
+  ]
+}

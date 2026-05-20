@@ -1,0 +1,395 @@
+{
+  "entities": [
+    "activity",
+    "adenosine",
+    "apnea",
+    "brain",
+    "butterfly",
+    "cardiovascular disease",
+    "categories",
+    "changes",
+    "choices",
+    "circadian rhythm",
+    "clock",
+    "cognitive",
+    "components",
+    "conclusion",
+    "consciousness",
+    "consolidation",
+    "cycle",
+    "deprivation",
+    "devices",
+    "diabetes",
+    "disorders",
+    "disruptions",
+    "dopamine",
+    "dreaming",
+    "emotional",
+    "essay",
+    "exposure",
+    "factors",
+    "function",
+    "habits",
+    "health",
+    "heart rate",
+    "importance",
+    "insomnia",
+    "interplay",
+    "k-complexes",
+    "life",
+    "life cycle",
+    "lifestyle",
+    "light",
+    "mechanisms",
+    "melatonin",
+    "memory",
+    "mental health",
+    "metabolism",
+    "movements",
+    "n1",
+    "n2",
+    "n3",
+    "narcolepsy",
+    "neurotransmitters",
+    "noise",
+    "non-rem",
+    "obesity",
+    "paralysis",
+    "phenomenon",
+    "process",
+    "processes",
+    "processing",
+    "production",
+    "quality",
+    "rapid eye movement",
+    "regulation",
+    "rest",
+    "risk",
+    "role",
+    "science",
+    "serotonin",
+    "sleep",
+    "slow-wave",
+    "spindles",
+    "stage",
+    "stages",
+    "suprachiasmatic nucleus",
+    "temperature",
+    "temperatures",
+    "timing",
+    "understanding",
+    "wakefulness",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "adenosine",
+      "promotes",
+      "sleep"
+    ],
+    [
+      "categories",
+      "include",
+      "non-rem"
+    ],
+    [
+      "categories",
+      "include",
+      "rapid eye movement"
+    ],
+    [
+      "changes",
+      "promote",
+      "habits"
+    ],
+    [
+      "circadian rhythm",
+      "is",
+      "clock"
+    ],
+    [
+      "clock",
+      "determines",
+      "timing"
+    ],
+    [
+      "conclusion",
+      "emphasizes",
+      "importance"
+    ],
+    [
+      "deprivation",
+      "increases",
+      "risk"
+    ],
+    [
+      "disorders",
+      "include",
+      "apnea"
+    ],
+    [
+      "disorders",
+      "include",
+      "insomnia"
+    ],
+    [
+      "disorders",
+      "include",
+      "narcolepsy"
+    ],
+    [
+      "disruptions",
+      "lead to",
+      "disorders"
+    ],
+    [
+      "essay",
+      "explores",
+      "science"
+    ],
+    [
+      "factors",
+      "impact",
+      "quality"
+    ],
+    [
+      "factors",
+      "include",
+      "lifestyle"
+    ],
+    [
+      "factors",
+      "include",
+      "light"
+    ],
+    [
+      "factors",
+      "include",
+      "noise"
+    ],
+    [
+      "factors",
+      "include",
+      "temperatures"
+    ],
+    [
+      "factors",
+      "influence",
+      "sleep"
+    ],
+    [
+      "habits",
+      "enhance",
+      "quality"
+    ],
+    [
+      "importance",
+      "is of",
+      "rest"
+    ],
+    [
+      "interplay",
+      "involves",
+      "processes"
+    ],
+    [
+      "light",
+      "affects",
+      "production"
+    ],
+    [
+      "n1",
+      "involves",
+      "consciousness"
+    ],
+    [
+      "n2",
+      "characterized by",
+      "heart rate"
+    ],
+    [
+      "n2",
+      "characterized by",
+      "temperature"
+    ],
+    [
+      "n2",
+      "involves",
+      "k-complexes"
+    ],
+    [
+      "n2",
+      "involves",
+      "spindles"
+    ],
+    [
+      "n3",
+      "involves",
+      "processes"
+    ],
+    [
+      "n3",
+      "is",
+      "slow-wave"
+    ],
+    [
+      "non-rem",
+      "is divided into",
+      "stages"
+    ],
+    [
+      "processes",
+      "involve",
+      "neurotransmitters"
+    ],
+    [
+      "quality",
+      "improves",
+      "life"
+    ],
+    [
+      "rapid eye movement",
+      "characterized by",
+      "activity"
+    ],
+    [
+      "rapid eye movement",
+      "characterized by",
+      "movements"
+    ],
+    [
+      "rapid eye movement",
+      "characterized by",
+      "paralysis"
+    ],
+    [
+      "rapid eye movement",
+      "involves",
+      "dreaming"
+    ],
+    [
+      "rapid eye movement",
+      "plays a role in",
+      "emotional"
+    ],
+    [
+      "rapid eye movement",
+      "plays a role in",
+      "memory"
+    ],
+    [
+      "risk",
+      "includes",
+      "cardiovascular disease"
+    ],
+    [
+      "risk",
+      "includes",
+      "diabetes"
+    ],
+    [
+      "risk",
+      "includes",
+      "mental health"
+    ],
+    [
+      "risk",
+      "includes",
+      "obesity"
+    ],
+    [
+      "sleep",
+      "involves",
+      "mechanisms"
+    ],
+    [
+      "sleep",
+      "is a",
+      "process"
+    ],
+    [
+      "sleep",
+      "is divided into",
+      "categories"
+    ],
+    [
+      "sleep",
+      "is essential for",
+      "health"
+    ],
+    [
+      "sleep",
+      "is essential for",
+      "well-being"
+    ],
+    [
+      "sleep",
+      "regulated by",
+      "interplay"
+    ],
+    [
+      "stages",
+      "are part of",
+      "sleep"
+    ],
+    [
+      "stages",
+      "include",
+      "n1"
+    ],
+    [
+      "stages",
+      "include",
+      "n2"
+    ],
+    [
+      "stages",
+      "include",
+      "n3"
+    ],
+    [
+      "suprachiasmatic nucleus",
+      "is in",
+      "brain"
+    ],
+    [
+      "suprachiasmatic nucleus",
+      "regulates",
+      "melatonin"
+    ],
+    [
+      "timing",
+      "involves",
+      "wakefulness"
+    ]
+  ],
+  "edges": [
+    "affects",
+    "are part of",
+    "characterized by",
+    "determines",
+    "emphasizes",
+    "enhance",
+    "explores",
+    "impact",
+    "improves",
+    "include",
+    "includes",
+    "increases",
+    "influence",
+    "involve",
+    "involves",
+    "is",
+    "is a",
+    "is divided into",
+    "is essential for",
+    "is in",
+    "is of",
+    "lead to",
+    "plays a role in",
+    "promote",
+    "promotes",
+    "regulated by",
+    "regulates"
+  ]
+}

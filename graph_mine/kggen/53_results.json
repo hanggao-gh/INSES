@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Body language is a form of communication.",
+    "retrieved_context": "body language can impact social interactions. body language can convey emotions. body language is a form of communication. body language is art. body language leads to fulfilling interactions. body language leads to meaningful interactions. body language can impact relationships. body language has impact. body language can convey intentions. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. romantic body language signals intimacy. romantic body language signals attraction. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts. frowns may indicate concern. facial expressions include frowns. smiles associated with happiness. facial expressions include raised eyebrows. frowns may indicate confusion. smiles associated with friendliness. facial expressions include smiles. gestures enhance effectiveness. gestures include thumbs up. gestures include waving. gestures enhance clarity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Individuals use body language daily.",
+    "retrieved_context": "body language can impact social interactions. body language can convey emotions. body language is a form of communication. body language is art. body language leads to fulfilling interactions. body language leads to meaningful interactions. body language can impact relationships. body language has impact. body language can convey intentions. romantic body language signals intimacy. romantic body language signals attraction. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Facial expressions convey emotions.",
+    "retrieved_context": "frowns may indicate concern. facial expressions include frowns. smiles associated with happiness. facial expressions include raised eyebrows. frowns may indicate confusion. smiles associated with friendliness. facial expressions include smiles. body language can impact social interactions. body language can convey emotions. body language is a form of communication. body language is art. body language leads to fulfilling interactions. body language leads to meaningful interactions. body language can impact relationships. body language has impact. body language can convey intentions. romantic body language signals intimacy. romantic body language signals attraction. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smiling is associated with happiness.",
+    "retrieved_context": "smiles associated with happiness. smiles associated with friendliness. frowns may indicate concern. facial expressions include frowns. smiles associated with happiness. facial expressions include raised eyebrows. frowns may indicate confusion. smiles associated with friendliness. facial expressions include smiles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Furrowed brow may indicate confusion.",
+    "retrieved_context": "frowns may indicate confusion. frowns may indicate concern. nodding can indicate agreement. nodding can indicate understanding. eye contact signals engagement. eye contact signals attentiveness. frowns may indicate concern. facial expressions include frowns. smiles associated with happiness. facial expressions include raised eyebrows. frowns may indicate confusion. smiles associated with friendliness. facial expressions include smiles.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Gestures convey messages without words.",
+    "retrieved_context": "gestures enhance effectiveness. gestures include thumbs up. gestures include waving. gestures enhance clarity. body language can impact social interactions. body language can convey emotions. body language is a form of communication. body language is art. body language leads to fulfilling interactions. body language leads to meaningful interactions. body language can impact relationships. body language has impact. body language can convey intentions. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts. romantic body language signals intimacy. romantic body language signals attraction. frowns may indicate concern. facial expressions include frowns. smiles associated with happiness. facial expressions include raised eyebrows. frowns may indicate confusion. smiles associated with friendliness. facial expressions include smiles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Crossing arms may signal defensiveness.",
+    "retrieved_context": "crossing arms may signal discomfort. crossing arms may signal defensiveness.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Nodding can indicate agreement.",
+    "retrieved_context": "nodding can indicate agreement. nodding can indicate understanding. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts. romantic body language signals intimacy. romantic body language signals attraction. body language can impact social interactions. body language can convey emotions. body language is a form of communication. body language is art. body language leads to fulfilling interactions. body language leads to meaningful interactions. body language can impact relationships. body language has impact. body language can convey intentions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Posture reveals thoughts and feelings.",
+    "retrieved_context": "posture reveals thoughts. posture reveals feelings. frowns may indicate concern. facial expressions include frowns. smiles associated with happiness. facial expressions include raised eyebrows. frowns may indicate confusion. smiles associated with friendliness. facial expressions include smiles. romantic body language signals intimacy. romantic body language signals attraction. body language can impact social interactions. body language can convey emotions. body language is a form of communication. body language is art. body language leads to fulfilling interactions. body language leads to meaningful interactions. body language can impact relationships. body language has impact. body language can convey intentions. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Standing up straight signals confidence.",
+    "retrieved_context": "confidence associated with assertiveness. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. posture reveals thoughts. posture reveals feelings.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Slouching may suggest insecurity.",
+    "retrieved_context": "insecurity suggested by disinterest. romantic body language signals intimacy. romantic body language signals attraction. body language can impact social interactions. body language can convey emotions. body language is a form of communication. body language is art. body language leads to fulfilling interactions. body language leads to meaningful interactions. body language can impact relationships. body language has impact. body language can convey intentions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Maintaining eye contact signals attentiveness.",
+    "retrieved_context": "eye contact signals engagement. eye contact signals attentiveness. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. romantic body language signals intimacy. romantic body language signals attraction. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts. frowns may indicate concern. facial expressions include frowns. smiles associated with happiness. facial expressions include raised eyebrows. frowns may indicate confusion. smiles associated with friendliness. facial expressions include smiles.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Avoiding eye contact may suggest discomfort.",
+    "retrieved_context": "eye contact signals engagement. eye contact signals attentiveness. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Proxemics conveys cultural and personal cues.",
+    "retrieved_context": "proxemics conveys personal cues. proxemics conveys cultural cues. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts. romantic body language signals intimacy. romantic body language signals attraction. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. body language can impact social interactions. body language can convey emotions. body language is a form of communication. body language is art. body language leads to fulfilling interactions. body language leads to meaningful interactions. body language can impact relationships. body language has impact. body language can convey intentions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Body language can help navigate social situations.",
+    "retrieved_context": "body language can impact social interactions. body language can convey emotions. body language is a form of communication. body language is art. body language leads to fulfilling interactions. body language leads to meaningful interactions. body language can impact relationships. body language has impact. body language can convey intentions. romantic body language signals intimacy. romantic body language signals attraction. eye contact signals engagement. nonverbal communication includes eye contact. eye contact signals attentiveness. nonverbal cues build relationships. nonverbal cues improve communication skills. nonverbal cues resolve conflicts.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

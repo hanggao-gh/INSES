@@ -1,0 +1,493 @@
+{
+  "entities": [
+    "19th century",
+    "20th century",
+    "ability",
+    "ages",
+    "amaze",
+    "ancient egypt",
+    "ancient greece",
+    "ancient times",
+    "art of illusion",
+    "art of magic",
+    "astounded",
+    "audiences",
+    "baffled",
+    "balls",
+    "boundaries",
+    "butterfly",
+    "centuries",
+    "cloaks",
+    "comedy",
+    "conclusion",
+    "creativity",
+    "crowds",
+    "crystal balls",
+    "cups",
+    "cutting-edge technology",
+    "daring escapes",
+    "david copperfield",
+    "death-defying stunts",
+    "deceive",
+    "diverse",
+    "drama",
+    "dynamic",
+    "elaborate illusions",
+    "elaborate performances",
+    "enduring appeal",
+    "entertain",
+    "entertainment",
+    "essay",
+    "evolution",
+    "fascinating journey",
+    "geometry",
+    "girolamo cardano",
+    "harry houdini",
+    "history",
+    "humble beginnings",
+    "illusions",
+    "ingenuity",
+    "innovative techniques",
+    "interest",
+    "jean eug\u00e8ne robert-houdin",
+    "john dee",
+    "knowledge",
+    "life cycle",
+    "logic",
+    "magic tricks",
+    "magicians",
+    "marketplaces",
+    "mathematics",
+    "middle ages",
+    "mind-boggling illusions",
+    "misdirection",
+    "modern era",
+    "mysterious",
+    "mystery",
+    "mystical quality",
+    "mystify",
+    "occult",
+    "optics",
+    "penn & teller",
+    "perceptions",
+    "popularized",
+    "power of imagination",
+    "professional magicians",
+    "props",
+    "public squares",
+    "reality",
+    "realm of illusion",
+    "records",
+    "religious ceremonies",
+    "renaissance period",
+    "resurgence",
+    "revolutionized",
+    "rome",
+    "science",
+    "skills",
+    "sleight of hand",
+    "sophisticated",
+    "stage effects",
+    "storytelling",
+    "supernatural powers",
+    "suspense",
+    "technologically advanced",
+    "testament",
+    "theatrics",
+    "unknown",
+    "wands",
+    "witchcraft",
+    "wonder",
+    "world"
+  ],
+  "relations": [
+    [
+      "19th century",
+      "saw rise of",
+      "professional magicians"
+    ],
+    [
+      "20th century",
+      "saw",
+      "sophisticated"
+    ],
+    [
+      "20th century",
+      "saw",
+      "technologically advanced"
+    ],
+    [
+      "ancient egypt",
+      "skilled in",
+      "art of illusion"
+    ],
+    [
+      "art of magic",
+      "evolving into",
+      "diverse"
+    ],
+    [
+      "art of magic",
+      "evolving into",
+      "dynamic"
+    ],
+    [
+      "art of magic",
+      "form of",
+      "entertainment"
+    ],
+    [
+      "boundaries",
+      "of",
+      "realm of illusion"
+    ],
+    [
+      "david copperfield",
+      "pushing",
+      "boundaries"
+    ],
+    [
+      "elaborate illusions",
+      "astounded",
+      "audiences"
+    ],
+    [
+      "elaborate illusions",
+      "baffled",
+      "audiences"
+    ],
+    [
+      "entertainment",
+      "captivate",
+      "audiences"
+    ],
+    [
+      "entertainment",
+      "of all",
+      "ages"
+    ],
+    [
+      "essay",
+      "explore",
+      "evolution"
+    ],
+    [
+      "evolution",
+      "from",
+      "humble beginnings"
+    ],
+    [
+      "evolution",
+      "to",
+      "elaborate performances"
+    ],
+    [
+      "fascinating journey",
+      "showcasing",
+      "creativity"
+    ],
+    [
+      "fascinating journey",
+      "showcasing",
+      "ingenuity"
+    ],
+    [
+      "girolamo cardano",
+      "incorporate",
+      "mathematics"
+    ],
+    [
+      "harry houdini",
+      "known for",
+      "death-defying stunts"
+    ],
+    [
+      "harry houdini",
+      "revolutionized",
+      "art of magic"
+    ],
+    [
+      "history",
+      "dates back to",
+      "ancient times"
+    ],
+    [
+      "history",
+      "is",
+      "fascinating journey"
+    ],
+    [
+      "illusions",
+      "used to",
+      "entertain"
+    ],
+    [
+      "jean eug\u00e8ne robert-houdin",
+      "known for",
+      "daring escapes"
+    ],
+    [
+      "jean eug\u00e8ne robert-houdin",
+      "revolutionized",
+      "art of magic"
+    ],
+    [
+      "john dee",
+      "incorporate",
+      "science"
+    ],
+    [
+      "knowledge",
+      "of",
+      "geometry"
+    ],
+    [
+      "knowledge",
+      "of",
+      "optics"
+    ],
+    [
+      "magic tricks",
+      "captivating",
+      "audiences"
+    ],
+    [
+      "magic tricks",
+      "challenge",
+      "perceptions"
+    ],
+    [
+      "magic tricks",
+      "defy",
+      "logic"
+    ],
+    [
+      "magic tricks",
+      "testament to",
+      "enduring appeal"
+    ],
+    [
+      "magic tricks",
+      "testament to",
+      "power of imagination"
+    ],
+    [
+      "magic tricks",
+      "testament to",
+      "unknown"
+    ],
+    [
+      "magicians",
+      "associated with",
+      "occult"
+    ],
+    [
+      "magicians",
+      "associated with",
+      "religious ceremonies"
+    ],
+    [
+      "magicians",
+      "associated with",
+      "witchcraft"
+    ],
+    [
+      "magicians",
+      "believed to have",
+      "supernatural powers"
+    ],
+    [
+      "magicians",
+      "in",
+      "ancient greece"
+    ],
+    [
+      "magicians",
+      "in",
+      "rome"
+    ],
+    [
+      "magicians",
+      "incorporate",
+      "comedy"
+    ],
+    [
+      "magicians",
+      "incorporate",
+      "drama"
+    ],
+    [
+      "magicians",
+      "incorporate",
+      "storytelling"
+    ],
+    [
+      "magicians",
+      "incorporate",
+      "suspense"
+    ],
+    [
+      "magicians",
+      "incorporate",
+      "theatrics"
+    ],
+    [
+      "magicians",
+      "perform",
+      "illusions"
+    ],
+    [
+      "magicians",
+      "perform in",
+      "marketplaces"
+    ],
+    [
+      "magicians",
+      "perform in",
+      "public squares"
+    ],
+    [
+      "magicians",
+      "popularized",
+      "stage effects"
+    ],
+    [
+      "magicians",
+      "throughout",
+      "history"
+    ],
+    [
+      "magicians",
+      "use",
+      "cutting-edge technology"
+    ],
+    [
+      "magicians",
+      "use",
+      "innovative techniques"
+    ],
+    [
+      "magicians",
+      "use",
+      "knowledge"
+    ],
+    [
+      "magicians",
+      "use",
+      "misdirection"
+    ],
+    [
+      "magicians",
+      "use",
+      "sleight of hand"
+    ],
+    [
+      "mind-boggling illusions",
+      "amazed",
+      "world"
+    ],
+    [
+      "penn & teller",
+      "pushing",
+      "boundaries"
+    ],
+    [
+      "props",
+      "such as",
+      "balls"
+    ],
+    [
+      "props",
+      "such as",
+      "cloaks"
+    ],
+    [
+      "props",
+      "such as",
+      "crystal balls"
+    ],
+    [
+      "props",
+      "such as",
+      "cups"
+    ],
+    [
+      "props",
+      "such as",
+      "wands"
+    ],
+    [
+      "props",
+      "used to",
+      "deceive"
+    ],
+    [
+      "records",
+      "traced back to",
+      "ancient egypt"
+    ],
+    [
+      "renaissance period",
+      "saw",
+      "resurgence"
+    ],
+    [
+      "resurgence",
+      "of",
+      "interest"
+    ],
+    [
+      "skills",
+      "used to",
+      "amaze"
+    ],
+    [
+      "skills",
+      "used to",
+      "crowds"
+    ],
+    [
+      "sleight of hand",
+      "used to",
+      "mystify"
+    ]
+  ],
+  "edges": [
+    "amazed",
+    "associated with",
+    "astounded",
+    "baffled",
+    "believed to have",
+    "captivate",
+    "captivating",
+    "challenge",
+    "dates back to",
+    "defy",
+    "evolving into",
+    "explore",
+    "form of",
+    "from",
+    "in",
+    "incorporate",
+    "is",
+    "known for",
+    "of",
+    "of all",
+    "perform",
+    "perform in",
+    "popularized",
+    "pushing",
+    "revolutionized",
+    "saw",
+    "saw rise of",
+    "showcasing",
+    "skilled in",
+    "such as",
+    "testament to",
+    "throughout",
+    "to",
+    "traced back to",
+    "use",
+    "used to"
+  ]
+}

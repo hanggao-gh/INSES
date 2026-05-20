@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Memory formation is essential for daily functioning and well-being.",
+    "retrieved_context": "memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable. hippocampus for memory processing. hippocampus helps incoming information. hippocampus is central hub. hippocampus helps organize. hippocampus forms connections. connections between neurons. hippocampus for consolidation. procedural memories involve skills. procedural memories stored in motor cortex. procedural memories stored in cerebellum. procedural memories involve habits.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Memory formation involves encoding, storing, and retrieving memories.",
+    "retrieved_context": "memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable. procedural memories involve skills. procedural memories stored in motor cortex. procedural memories stored in cerebellum. procedural memories involve habits. hippocampus for memory processing. hippocampus helps incoming information. hippocampus is central hub. hippocampus helps organize. hippocampus forms connections. connections between neurons. hippocampus for consolidation. hippocampus for memory processing. episodic memories stored in hippocampus. hippocampus helps incoming information. hippocampus is central hub. episodic memories related to specific events. hippocampus helps organize. hippocampus forms connections. hippocampus for consolidation. memories stored in regions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Encoding converts sensory information into a form stored in the brain.",
+    "retrieved_context": "sensory information into form. form stored in brain. encoding involves converting. neurons are building blocks. series of complex processes. brain undergoes series. external stimuli through senses. senses include taste. senses include touch. senses include smell. senses include sight. senses include sound. perception of external stimuli. external stimuli through senses.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "External stimuli are perceived through senses like sight, sound, touch, taste, and smell.",
+    "retrieved_context": "external stimuli through senses. senses include taste. senses include touch. senses include smell. senses include sight. senses include sound. senses include taste. senses include touch. senses include smell. senses include sight. senses include sound. sensory information into form. form stored in brain. perception of external stimuli. external stimuli through senses. memories stored in regions. neural processes store memories.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The hippocampus, amygdala, and prefrontal cortex are involved in memory formation.",
+    "retrieved_context": "memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. hippocampus for memory processing. hippocampus helps incoming information. hippocampus is central hub. hippocampus helps organize. hippocampus forms connections. connections between neurons. hippocampus for consolidation. memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable. brain activity during tasks. brain activity providing valuable insights. brain activity in real time. amygdala activation enhance.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The hippocampus is a central hub for memory processing and consolidation.",
+    "retrieved_context": "hippocampus for memory processing. hippocampus helps incoming information. hippocampus is central hub. hippocampus helps organize. hippocampus forms connections. connections between neurons. hippocampus for consolidation. memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable. memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. procedural memories involve skills. procedural memories stored in motor cortex. procedural memories stored in cerebellum. procedural memories involve habits. brain activity during tasks. brain activity providing valuable insights. brain activity in real time. synapses are connections. synapses strengthened through long-term potentiation. long-term potentiation is essential for long-lasting memories. connections between neurons.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Synapses are strengthened through long-term potentiation for memory formation.",
+    "retrieved_context": "synapses are connections. synapses strengthened through long-term potentiation. long-term potentiation is essential for long-lasting memories. connections between neurons. memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. modification of synaptic plasticity. synaptic plasticity allows for modification. long-term potentiation is essential for long-lasting memories. memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable. hippocampus for memory processing. hippocampus helps incoming information. hippocampus is central hub. hippocampus helps organize. hippocampus forms connections. connections between neurons. hippocampus for consolidation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Memories can be stored in different brain regions based on memory type.",
+    "retrieved_context": "memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. procedural memories involve skills. procedural memories stored in motor cortex. procedural memories stored in cerebellum. procedural memories involve habits. hippocampus for memory processing. episodic memories stored in hippocampus. hippocampus helps incoming information. hippocampus is central hub. episodic memories related to specific events. hippocampus helps organize. hippocampus forms connections. hippocampus for consolidation. hippocampus for memory processing. hippocampus helps incoming information. hippocampus is central hub. hippocampus helps organize. hippocampus forms connections. connections between neurons. hippocampus for consolidation. memories stored in regions. memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Episodic memories are typically stored in the hippocampus.",
+    "retrieved_context": "hippocampus for memory processing. episodic memories stored in hippocampus. hippocampus helps incoming information. hippocampus is central hub. episodic memories related to specific events. hippocampus helps organize. hippocampus forms connections. hippocampus for consolidation. hippocampus for memory processing. hippocampus helps incoming information. hippocampus is central hub. hippocampus helps organize. hippocampus forms connections. connections between neurons. hippocampus for consolidation. procedural memories involve skills. procedural memories stored in motor cortex. procedural memories stored in cerebellum. procedural memories involve habits. memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. memories stored in regions. memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Procedural memories are often stored in the cerebellum and motor cortex.",
+    "retrieved_context": "procedural memories involve skills. procedural memories stored in motor cortex. procedural memories stored in cerebellum. procedural memories involve habits. memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. hippocampus for memory processing. hippocampus helps incoming information. hippocampus is central hub. hippocampus helps organize. hippocampus forms connections. connections between neurons. hippocampus for consolidation. memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable. memories stored in regions. neural processes store memories.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Memory traces represent stored information in the brain.",
+    "retrieved_context": "memory traces are physical changes. memory traces represent stored. memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. procedural memories involve skills. procedural memories stored in motor cortex. procedural memories stored in cerebellum. procedural memories involve habits. hippocampus for memory processing. episodic memories stored in hippocampus. hippocampus helps incoming information. hippocampus is central hub. episodic memories related to specific events. hippocampus helps organize. hippocampus forms connections. hippocampus for consolidation. memories stored in regions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Synaptic plasticity allows for modification of synaptic connections.",
+    "retrieved_context": "modification of synaptic plasticity. synaptic plasticity allows for modification. synapses are connections. synapses strengthened through long-term potentiation. long-term potentiation is essential for long-lasting memories. connections between neurons. neurons are building blocks. hippocampus for memory processing. hippocampus helps incoming information. hippocampus is central hub. hippocampus helps organize. hippocampus forms connections. connections between neurons. hippocampus for consolidation. long-term potentiation is essential for long-lasting memories. mechanisms understanding maintained. memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Memory retrieval involves activating neural networks to reconstruct memories.",
+    "retrieved_context": "memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable. memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. retrieval is bring to mind. retrieval involves activation. activation of neural networks. retrieval is dynamic. retrieval is access. hippocampus for memory processing. episodic memories stored in hippocampus. hippocampus helps incoming information. hippocampus is central hub. episodic memories related to specific events. hippocampus helps organize. hippocampus forms connections. hippocampus for consolidation. memories stored in regions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Memory consolidation transfers memories from temporary to permanent storage.",
+    "retrieved_context": "memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable. memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. permanent storage in neocortex. memories stored in regions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Neuroimaging techniques like fMRI and EEG help study neural mechanisms in memory formation.",
+    "retrieved_context": "memory formation is essential for daily functioning. memory formation is essential for well-being. memory formation is complex. memory formation is fascinating. brain activity during tasks. neuroimaging observe brain activity. neuroimaging techniques fmri. brain activity providing valuable insights. neuroimaging techniques eeg. neuroimaging techniques functional magnetic resonance imaging. brain activity in real time. neuroimaging techniques electroencephalography. memory consolidation refers to resistant. memory consolidation involves transfer. memory consolidation is concept. transfer to permanent storage. transfer from temporary storage. memory consolidation refers to stable. brain activity during tasks. brain activity providing valuable insights. brain activity in real time. procedural memories involve skills. procedural memories stored in motor cortex. procedural memories stored in cerebellum. procedural memories involve habits.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

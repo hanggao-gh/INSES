@@ -1,0 +1,568 @@
+{
+  "entities": [
+    "active",
+    "adapt",
+    "adjust",
+    "air",
+    "attack",
+    "attract",
+    "balance",
+    "behavior",
+    "beneficial",
+    "biology",
+    "board games",
+    "chances",
+    "changes",
+    "changing",
+    "chemical signals",
+    "combination",
+    "communicate",
+    "communicative",
+    "complex",
+    "compounds",
+    "convey",
+    "cooperation",
+    "coordinate",
+    "damage",
+    "danger",
+    "defend",
+    "defensive chemicals",
+    "delicate",
+    "detect",
+    "deter",
+    "developed",
+    "diverse",
+    "dynamic",
+    "ecological balance",
+    "ecosystems",
+    "environment",
+    "exchange",
+    "fascinating",
+    "food source",
+    "fungal threads",
+    "grow",
+    "growth",
+    "harnessing",
+    "health",
+    "herbivores",
+    "history",
+    "improve",
+    "increase",
+    "insects",
+    "interact",
+    "interconnectedness",
+    "intricacies",
+    "intricate",
+    "messages",
+    "microbes",
+    "minimize",
+    "mutual support",
+    "mutualistic",
+    "mycorrhizal networks",
+    "nature",
+    "nectar",
+    "neighboring",
+    "network",
+    "networks",
+    "nitrogen-fixing bacteria",
+    "nutrients",
+    "optimize",
+    "organisms",
+    "participants",
+    "passive",
+    "pathogens",
+    "patterns",
+    "photosynthesize",
+    "physical cues",
+    "plant-to-plant signaling",
+    "plants",
+    "pollen",
+    "pollinators",
+    "power",
+    "preserving",
+    "production",
+    "promote",
+    "protect",
+    "relationships",
+    "release",
+    "reproduction",
+    "research",
+    "resilience",
+    "resources",
+    "responses",
+    "rhizosphere communication",
+    "root exudates",
+    "roots",
+    "shaken",
+    "sheds light",
+    "silent",
+    "soil",
+    "species",
+    "study",
+    "sugars",
+    "support",
+    "survival",
+    "survive",
+    "sustainable",
+    "symbiotic",
+    "systems",
+    "threats",
+    "thrive",
+    "touch",
+    "transfer",
+    "travel",
+    "triggering",
+    "underground",
+    "understanding",
+    "uptake",
+    "utilizing",
+    "vibrations",
+    "vocs",
+    "volatile organic compounds",
+    "warn",
+    "water",
+    "wind",
+    "world"
+  ],
+  "relations": [
+    [
+      "chemical signals",
+      "convey",
+      "messages"
+    ],
+    [
+      "chemical signals",
+      "travel through",
+      "air"
+    ],
+    [
+      "defensive chemicals",
+      "deter",
+      "herbivores"
+    ],
+    [
+      "microbes",
+      "receive",
+      "compounds"
+    ],
+    [
+      "microbes",
+      "receive",
+      "sugars"
+    ],
+    [
+      "nectar",
+      "is",
+      "food source"
+    ],
+    [
+      "network",
+      "is",
+      "fungal threads"
+    ],
+    [
+      "network",
+      "is",
+      "mycorrhizal networks"
+    ],
+    [
+      "network",
+      "is",
+      "underground"
+    ],
+    [
+      "organisms",
+      "are perceived as",
+      "grow"
+    ],
+    [
+      "organisms",
+      "are perceived as",
+      "photosynthesize"
+    ],
+    [
+      "plant-to-plant signaling",
+      "coordinate",
+      "responses"
+    ],
+    [
+      "plant-to-plant signaling",
+      "helps",
+      "defend"
+    ],
+    [
+      "plants",
+      "adjust",
+      "patterns"
+    ],
+    [
+      "plants",
+      "are",
+      "active"
+    ],
+    [
+      "plants",
+      "are",
+      "communicative"
+    ],
+    [
+      "plants",
+      "are",
+      "complex"
+    ],
+    [
+      "plants",
+      "are",
+      "interconnectedness"
+    ],
+    [
+      "plants",
+      "are",
+      "participants"
+    ],
+    [
+      "plants",
+      "are",
+      "sustainable"
+    ],
+    [
+      "plants",
+      "are perceived as",
+      "passive"
+    ],
+    [
+      "plants",
+      "are perceived as",
+      "silent"
+    ],
+    [
+      "plants",
+      "are under",
+      "attack"
+    ],
+    [
+      "plants",
+      "attract",
+      "nitrogen-fixing bacteria"
+    ],
+    [
+      "plants",
+      "attract",
+      "pollinators"
+    ],
+    [
+      "plants",
+      "communicate through",
+      "physical cues"
+    ],
+    [
+      "plants",
+      "communicate through",
+      "rhizosphere communication"
+    ],
+    [
+      "plants",
+      "communicate through",
+      "roots"
+    ],
+    [
+      "plants",
+      "communicate through",
+      "touch"
+    ],
+    [
+      "plants",
+      "communicate through",
+      "vibrations"
+    ],
+    [
+      "plants",
+      "communicate with",
+      "insects"
+    ],
+    [
+      "plants",
+      "communicate with",
+      "microbes"
+    ],
+    [
+      "plants",
+      "communicate with",
+      "organisms"
+    ],
+    [
+      "plants",
+      "demonstrate",
+      "cooperation"
+    ],
+    [
+      "plants",
+      "demonstrate",
+      "mutual support"
+    ],
+    [
+      "plants",
+      "detect",
+      "shaken"
+    ],
+    [
+      "plants",
+      "enhance",
+      "growth"
+    ],
+    [
+      "plants",
+      "enhance",
+      "health"
+    ],
+    [
+      "plants",
+      "enhance",
+      "resilience"
+    ],
+    [
+      "plants",
+      "ensure",
+      "reproduction"
+    ],
+    [
+      "plants",
+      "exchange",
+      "chemical signals"
+    ],
+    [
+      "plants",
+      "exchange",
+      "nutrients"
+    ],
+    [
+      "plants",
+      "exchange",
+      "water"
+    ],
+    [
+      "plants",
+      "form",
+      "beneficial"
+    ],
+    [
+      "plants",
+      "harnessing",
+      "power"
+    ],
+    [
+      "plants",
+      "have developed",
+      "intricate"
+    ],
+    [
+      "plants",
+      "improve",
+      "uptake"
+    ],
+    [
+      "plants",
+      "increase",
+      "production"
+    ],
+    [
+      "plants",
+      "interact",
+      "diverse"
+    ],
+    [
+      "plants",
+      "interact",
+      "networks"
+    ],
+    [
+      "plants",
+      "interact with",
+      "soil"
+    ],
+    [
+      "plants",
+      "minimize",
+      "damage"
+    ],
+    [
+      "plants",
+      "optimize",
+      "chances"
+    ],
+    [
+      "plants",
+      "preserving",
+      "balance"
+    ],
+    [
+      "plants",
+      "preserving",
+      "delicate"
+    ],
+    [
+      "plants",
+      "preserving",
+      "nature"
+    ],
+    [
+      "plants",
+      "produce",
+      "defensive chemicals"
+    ],
+    [
+      "plants",
+      "promote",
+      "understanding"
+    ],
+    [
+      "plants",
+      "protect",
+      "pathogens"
+    ],
+    [
+      "plants",
+      "protect",
+      "species"
+    ],
+    [
+      "plants",
+      "release",
+      "root exudates"
+    ],
+    [
+      "plants",
+      "release",
+      "volatile organic compounds"
+    ],
+    [
+      "plants",
+      "sense",
+      "wind"
+    ],
+    [
+      "plants",
+      "sheds light on",
+      "intricacies"
+    ],
+    [
+      "plants",
+      "support",
+      "species"
+    ],
+    [
+      "plants",
+      "survive and thrive in",
+      "ecosystems"
+    ],
+    [
+      "plants",
+      "transfer",
+      "resources"
+    ],
+    [
+      "plants",
+      "triggering",
+      "adapt"
+    ],
+    [
+      "plants",
+      "warn",
+      "danger"
+    ],
+    [
+      "pollen",
+      "is",
+      "food source"
+    ],
+    [
+      "pollinators",
+      "receive",
+      "nectar"
+    ],
+    [
+      "pollinators",
+      "receive",
+      "pollen"
+    ],
+    [
+      "relationships",
+      "are",
+      "mutualistic"
+    ],
+    [
+      "relationships",
+      "are",
+      "symbiotic"
+    ],
+    [
+      "relationships",
+      "maintain",
+      "ecological balance"
+    ],
+    [
+      "roots",
+      "are part of",
+      "network"
+    ],
+    [
+      "systems",
+      "are",
+      "communicative"
+    ],
+    [
+      "volatile organic compounds",
+      "are",
+      "chemical signals"
+    ],
+    [
+      "volatile organic compounds",
+      "warn",
+      "neighboring"
+    ]
+  ],
+  "edges": [
+    "adjust",
+    "are",
+    "are part of",
+    "are perceived as",
+    "are under",
+    "attract",
+    "communicate through",
+    "communicate with",
+    "convey",
+    "coordinate",
+    "demonstrate",
+    "detect",
+    "deter",
+    "enhance",
+    "ensure",
+    "exchange",
+    "form",
+    "harnessing",
+    "have developed",
+    "helps",
+    "improve",
+    "increase",
+    "interact",
+    "interact with",
+    "is",
+    "maintain",
+    "minimize",
+    "optimize",
+    "preserving",
+    "produce",
+    "promote",
+    "protect",
+    "receive",
+    "release",
+    "sense",
+    "sheds light on",
+    "support",
+    "survive and thrive in",
+    "transfer",
+    "travel through",
+    "triggering",
+    "warn"
+  ]
+}

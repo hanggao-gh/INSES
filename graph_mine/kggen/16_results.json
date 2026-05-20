@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cooking is a complex chemical reaction.",
+    "retrieved_context": "chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. chemical reaction involves chemical changes. chemical reaction involves interactions. cooks create unique flavor profiles. cooks control browning process. cooks safely preserve food. browning process achieve flavor profile. flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning. crucial aspect in taste. chemistry is fascinating. crucial aspect governed by temperature ranges. chemistry plays crucial aspect. chemistry unlock new flavors. chemistry elevate heights. chemistry is essential aspect. crucial aspect in texture. crucial aspect in nutritional value. essential aspect of culinary arts. culinary arts delight senses. fermentation preserves food. fermentation enhances flavorful dishes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chemistry of cooking determines taste, texture, and nutritional value of food.",
+    "retrieved_context": "chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. flavor compounds responsible for flavors. flavors in baked goods. flavor compounds responsible for aromas. flavors in roasted meats. flavors in grilled vegetables. flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning. crucial aspect in taste. chemistry is fascinating. crucial aspect governed by temperature ranges. chemistry plays crucial aspect. chemistry unlock new flavors. chemistry elevate heights. chemistry is essential aspect. crucial aspect in texture. crucial aspect in nutritional value. essential aspect of culinary arts. cooks create unique flavor profiles. cooks control browning process. cooks safely preserve food. browning process achieve flavor profile. culinary arts delight senses.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maillard reaction is a key chemical reaction during cooking.",
+    "retrieved_context": "flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning. chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. chemical reaction involves chemical changes. chemical reaction involves interactions. fermentation preserves food. fermentation enhances flavorful dishes. browning process achieve flavor profile. flavor compounds responsible for flavors. flavors in baked goods. flavor compounds responsible for aromas. flavors in roasted meats. flavors in grilled vegetables. cooks create unique flavor profiles. cooks control browning process. cooks safely preserve food. browning process achieve flavor profile.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maillard reaction results in browning of food and formation of flavor compounds.",
+    "retrieved_context": "flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning. browning process achieve flavor profile. flavor compounds responsible for flavors. flavors in baked goods. flavor compounds responsible for aromas. flavors in roasted meats. flavors in grilled vegetables. flavors in roasted meats. flavors in grilled vegetables. flavors in baked goods.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Emulsification is an important chemical process in cooking.",
+    "retrieved_context": "emulsification involves mixing. stable emulsion creates dressings. chemical reaction involves chemical changes. chemical reaction involves interactions. stable emulsion creates mayonnaise. mixing involves immiscible liquids. emulsification forms stable emulsion. emulsification is chemical reaction. stable emulsion creates creamy sauces. stable emulsions enhance texture. stable emulsions enhance mouthfeel. stable emulsion creates mayonnaise. stable emulsion creates dressings. stable emulsion creates creamy sauces. flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning. chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. culinary arts delight senses. fermentation preserves food. fermentation enhances flavorful dishes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Emulsification involves mixing immiscible liquids to form a stable emulsion.",
+    "retrieved_context": "emulsification involves mixing. stable emulsion creates dressings. chemical reaction involves chemical changes. chemical reaction involves interactions. stable emulsion creates mayonnaise. mixing involves immiscible liquids. emulsification forms stable emulsion. emulsification is chemical reaction. stable emulsion creates creamy sauces. stable emulsions enhance texture. stable emulsions enhance mouthfeel. stable emulsion creates mayonnaise. stable emulsion creates dressings. stable emulsion creates creamy sauces. immiscible liquids are water. immiscible liquids are oil. mixing involves immiscible liquids. immiscible liquids are oil. immiscible liquids are water. flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Acids influence flavor, texture, and structure of food in cooking.",
+    "retrieved_context": "acids tenderize meat. acids balance sweetness. acids enhance taste. critical role in influencing. acids play critical role. flavor compounds responsible for flavors. flavors in baked goods. flavor compounds responsible for aromas. flavors in roasted meats. flavors in grilled vegetables. chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. flavors in roasted meats. flavors in grilled vegetables. flavors in baked goods.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Salt enhances flavor and regulates enzymatic reactions in cooking.",
+    "retrieved_context": "salts enhance flavorful dishes. salts tenderize proteins. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. salts amplify natural flavors. salts regulate enzymatic reactions. salts are essential. chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. flavor compounds responsible for flavors. flavors in baked goods. flavor compounds responsible for aromas. flavors in roasted meats. flavors in grilled vegetables. flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning. flavors in roasted meats. flavors in grilled vegetables. flavors in baked goods.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Temperature control affects texture, color, and flavor of food.",
+    "retrieved_context": "crucial aspect in taste. temperature control is crucial aspect. crucial aspect in texture. crucial aspect in nutritional value. crucial aspect governed by temperature ranges. temperature ranges affect color. temperature ranges affect texture. flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning. flavor compounds responsible for flavors. flavors in baked goods. flavor compounds responsible for aromas. flavors in roasted meats. flavors in grilled vegetables.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Proteins denature and coagulate at specific temperatures.",
+    "retrieved_context": "proteins denature meat. proteins exposed to heat. proteins coagulate eggs. temperature ranges affect color. temperature ranges affect texture. crucial aspect in taste. temperature control is crucial aspect. crucial aspect in texture. crucial aspect in nutritional value. crucial aspect governed by temperature ranges.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fermentation is a food preservation technique involving microorganisms.",
+    "retrieved_context": "fermentation preserves food. fermentation enhances flavorful dishes. food preservation techniques include fermentation. pickling involves brine solution. food preservation techniques include pickling. fermentation preserves food. fermentation enhances flavorful dishes. microorganisms produce acids. acids tenderize meat. microorganisms break down sugars. microorganisms produce carbon dioxide. sugars exposed to heat. acids balance sweetness. microorganisms produce alcohol. acids enhance taste. acids play critical role. chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fermentation enhances flavor and nutritional value of food.",
+    "retrieved_context": "fermentation preserves food. fermentation enhances flavorful dishes. flavor compounds responsible for flavors. flavors in baked goods. flavor compounds responsible for aromas. flavors in roasted meats. flavors in grilled vegetables. flavors in roasted meats. flavors in grilled vegetables. flavors in baked goods.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pickling involves preserving food in a brine solution.",
+    "retrieved_context": "brine solution inhibit growth. pickling involves brine solution. brine solution inhibit spoilage microorganisms. food preservation techniques include fermentation. pickling involves brine solution. food preservation techniques include pickling. fermentation preserves food. fermentation enhances flavorful dishes. brine solution inhibit growth. brine solution inhibit spoilage microorganisms. chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. fermentation preserves food. fermentation enhances flavorful dishes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chemistry of cooking is essential in culinary arts.",
+    "retrieved_context": "culinary arts delight senses. chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. crucial aspect in taste. chemistry is fascinating. crucial aspect governed by temperature ranges. chemistry plays crucial aspect. chemistry unlock new flavors. chemistry elevate heights. chemistry is essential aspect. crucial aspect in texture. crucial aspect in nutritional value. essential aspect of culinary arts. chefs create flavorful dishes. chefs create well-balanced. cooks create unique flavor profiles. cooks control browning process. cooks safely preserve food. browning process achieve flavor profile. fermentation preserves food. fermentation enhances flavorful dishes. flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding chemical reactions in cooking helps create delicious dishes.",
+    "retrieved_context": "chemical reaction involves chemical changes. cooking involves chemical reaction. cooking is process. chemical reaction involves interactions. chemical reaction involves chemical changes. chemical reaction involves interactions. crucial aspect in taste. chemistry is fascinating. crucial aspect governed by temperature ranges. chemistry plays crucial aspect. chemistry unlock new flavors. chemistry elevate heights. chemistry is essential aspect. crucial aspect in texture. crucial aspect in nutritional value. essential aspect of culinary arts. flavor compounds responsible for flavors. maillard reaction involves sugars. proteins denature meat. proteins exposed to heat. proteins coagulate eggs. maillard reaction is chemical reaction. chemical reaction involves chemical changes. chemical reaction involves interactions. sugars exposed to heat. flavor compounds responsible for aromas. maillard reaction results in flavor compounds. maillard reaction involves proteins. maillard reaction results in browning. culinary arts delight senses.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "86.67%"
+  }
+]

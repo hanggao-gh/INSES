@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "MEMORIES",
+    "PHYSIOLOGICAL RESPONSES",
+    "MUSIC",
+    "EMOTIONS"
+  ],
+  "relations": [
+    [
+      "MUSIC",
+      "Music influences mood and can evoke various emotional states",
+      "EMOTIONS"
+    ],
+    [
+      "MUSIC",
+      "Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state",
+      "PHYSIOLOGICAL RESPONSES"
+    ],
+    [
+      "MUSIC",
+      "Music can trigger memories of past experiences, influencing mood",
+      "MEMORIES"
+    ]
+  ],
+  "edges": [
+    "Music influences mood and can evoke various emotional states",
+    "Music impacts heart rate, blood pressure, and cortisol levels, affecting emotional state",
+    "Music can trigger memories of past experiences, influencing mood"
+  ]
+}

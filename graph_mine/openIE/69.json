@@ -1,0 +1,803 @@
+{
+    "entities": [
+        "Other examples",
+        "For example in J.K. Rowling 's Harry Potter series device",
+        "advance",
+        "time travel",
+        "shows",
+        "his self",
+        "captivating audiences",
+        "implications of history",
+        "their set",
+        "their own set of rules",
+        "questions about causality",
+        "implications of altering history",
+        "Overall concept",
+        "magical device",
+        "their actions in past",
+        "to advance",
+        "ethical implications",
+        "their actions",
+        "time machine",
+        "Time travel",
+        "magical",
+        "journey",
+        "his younger self",
+        "philosophical questions",
+        "nature",
+        "time machines",
+        "J.K. Rowling",
+        "will fascinating",
+        "journey to future",
+        "questions",
+        "storytelling audiences",
+        "history",
+        "DeLorean",
+        "discussions about nature of time itself",
+        "concept",
+        "fiction",
+        "its possibilities",
+        "Back to Future",
+        "nature of time",
+        "For example in J.K. Rowling 's Harry Potter series magical device",
+        "portrayal",
+        "journey to distant future",
+        "example",
+        "new discussions",
+        "One common method",
+        "technology",
+        "discussions",
+        "spells",
+        "to consider",
+        "wide range",
+        "short period",
+        "time travel in fiction",
+        "characters",
+        "versatile",
+        "In cases may able",
+        "Harry Potter series",
+        "has popular concept",
+        "Doctor",
+        "it",
+        "Back",
+        "implications",
+        "J.K. Rowling 's Harry Potter series",
+        "wide range of themes",
+        "themselves",
+        "examples",
+        "period",
+        "their own set",
+        "their set of rules",
+        "ethical implications of altering history",
+        "time",
+        "travel",
+        "may able",
+        "Time Turner",
+        "user",
+        "discussions about nature",
+        "protagonist",
+        "consider",
+        "range of themes",
+        "explored",
+        "ethical implications of history",
+        "Turner",
+        "shows like Fringe",
+        "new discussions about nature of time itself",
+        "contraption",
+        "future",
+        "future catastrophe",
+        "device",
+        "common method",
+        "depth",
+        "versatile concept",
+        "TARDIS",
+        "Overall versatile concept",
+        "Characters",
+        "past",
+        "range",
+        "new discussions about nature",
+        "predetermined",
+        "events",
+        "storytellers"
+    ],
+    "relations": [
+        [
+            "captivating audiences",
+            "is with",
+            "its possibilities"
+        ],
+        [
+            "travel",
+            "been popular",
+            "fiction"
+        ],
+        [
+            "has popular concept",
+            "is in",
+            "fiction"
+        ],
+        [
+            "common method",
+            "is use of",
+            "time machine"
+        ],
+        [
+            "One common method",
+            "is use of",
+            "time machine"
+        ],
+        [
+            "characters",
+            "physically travel through",
+            "time"
+        ],
+        [
+            "device",
+            "allows",
+            "characters"
+        ],
+        [
+            "characters",
+            "travel through",
+            "time"
+        ],
+        [
+            "protagonist",
+            "uses contraption to",
+            "journey"
+        ],
+        [
+            "protagonist",
+            "uses",
+            "contraption"
+        ],
+        [
+            "protagonist",
+            "uses contraption to",
+            "journey to future"
+        ],
+        [
+            "protagonist",
+            "uses contraption to",
+            "journey to distant future"
+        ],
+        [
+            "Other examples",
+            "include DeLorean in",
+            "Back to Future"
+        ],
+        [
+            "examples",
+            "include DeLorean in",
+            "Back"
+        ],
+        [
+            "examples",
+            "include",
+            "DeLorean"
+        ],
+        [
+            "Other examples",
+            "include DeLorean in",
+            "Back"
+        ],
+        [
+            "examples",
+            "include DeLorean in",
+            "Back to Future"
+        ],
+        [
+            "TARDIS",
+            "is in",
+            "Doctor"
+        ],
+        [
+            "Other examples",
+            "include",
+            "DeLorean"
+        ],
+        [
+            "time machines",
+            "come with",
+            "their own set of rules"
+        ],
+        [
+            "time machines",
+            "often come with",
+            "their set of rules"
+        ],
+        [
+            "time machines",
+            "often come with",
+            "their set"
+        ],
+        [
+            "time machines",
+            "often come with",
+            "their own set"
+        ],
+        [
+            "time machines",
+            "come with",
+            "their set of rules"
+        ],
+        [
+            "time machines",
+            "come with",
+            "their own set"
+        ],
+        [
+            "time machines",
+            "often come with",
+            "their own set of rules"
+        ],
+        [
+            "time machines",
+            "come with",
+            "their set"
+        ],
+        [
+            "time travel",
+            "is in",
+            "fiction"
+        ],
+        [
+            "characters",
+            "may",
+            "In cases may able"
+        ],
+        [
+            "characters",
+            "manipulate",
+            "time"
+        ],
+        [
+            "characters",
+            "may",
+            "may able"
+        ],
+        [
+            "characters",
+            "manipulate time through",
+            "spells"
+        ],
+        [
+            "Turner",
+            "is",
+            "magical"
+        ],
+        [
+            "Time Turner",
+            "is magical device For",
+            "example"
+        ],
+        [
+            "user",
+            "travel back for",
+            "period"
+        ],
+        [
+            "user",
+            "travel for",
+            "period"
+        ],
+        [
+            "Time Turner",
+            "is device in",
+            "J.K. Rowling 's Harry Potter series"
+        ],
+        [
+            "user",
+            "travel for",
+            "short period"
+        ],
+        [
+            "J.K. Rowling",
+            "in",
+            "Harry Potter series"
+        ],
+        [
+            "Time Turner",
+            "is",
+            "For example in J.K. Rowling 's Harry Potter series device"
+        ],
+        [
+            "user",
+            "travel back for",
+            "short period"
+        ],
+        [
+            "Time Turner",
+            "is",
+            "device"
+        ],
+        [
+            "magical device",
+            "is in",
+            "J.K. Rowling 's Harry Potter series"
+        ],
+        [
+            "Time Turner",
+            "is",
+            "For example in J.K. Rowling 's Harry Potter series magical device"
+        ],
+        [
+            "user",
+            "travel back in",
+            "time"
+        ],
+        [
+            "user",
+            "travel in",
+            "time"
+        ],
+        [
+            "Time Turner",
+            "is",
+            "magical device"
+        ],
+        [
+            "Time Turner",
+            "is device For",
+            "example"
+        ],
+        [
+            "Time Turner",
+            "is magical device in",
+            "J.K. Rowling 's Harry Potter series"
+        ],
+        [
+            "history",
+            "has unfolded differently due",
+            "their actions"
+        ],
+        [
+            "history",
+            "has unfolded due",
+            "their actions in past"
+        ],
+        [
+            "Characters",
+            "may find",
+            "themselves"
+        ],
+        [
+            "history",
+            "has unfolded differently due",
+            "their actions in past"
+        ],
+        [
+            "their actions",
+            "is in",
+            "past"
+        ],
+        [
+            "history",
+            "has unfolded due",
+            "their actions"
+        ],
+        [
+            "concept",
+            "is explored in",
+            "shows like Fringe"
+        ],
+        [
+            "concept",
+            "is",
+            "explored"
+        ],
+        [
+            "concept",
+            "is explored in",
+            "shows"
+        ],
+        [
+            "past",
+            "alter",
+            "future"
+        ],
+        [
+            "Characters",
+            "may grapple with",
+            "ethical implications of history"
+        ],
+        [
+            "Characters",
+            "may grapple with",
+            "implications of altering history"
+        ],
+        [
+            "Characters",
+            "may grapple with",
+            "implications of history"
+        ],
+        [
+            "Characters",
+            "may grapple with",
+            "ethical implications"
+        ],
+        [
+            "Characters",
+            "may grapple with",
+            "ethical implications of altering history"
+        ],
+        [
+            "Characters",
+            "may grapple with",
+            "implications"
+        ],
+        [
+            "protagonist",
+            "must confront",
+            "his self"
+        ],
+        [
+            "his self",
+            "prevent while",
+            "future catastrophe"
+        ],
+        [
+            "his younger self",
+            "prevent while",
+            "future catastrophe"
+        ],
+        [
+            "his self",
+            "prevent",
+            "future catastrophe"
+        ],
+        [
+            "his younger self",
+            "prevent",
+            "future catastrophe"
+        ],
+        [
+            "protagonist",
+            "must confront",
+            "his younger self"
+        ],
+        [
+            "Time travel",
+            "is in",
+            "fiction"
+        ],
+        [
+            "Time travel",
+            "also raises",
+            "questions about causality"
+        ],
+        [
+            "Time travel",
+            "raises",
+            "questions about causality"
+        ],
+        [
+            "Time travel",
+            "raises",
+            "questions"
+        ],
+        [
+            "Time travel",
+            "also raises",
+            "questions"
+        ],
+        [
+            "future",
+            "is",
+            "predetermined"
+        ],
+        [
+            "characters",
+            "alter",
+            "events"
+        ],
+        [
+            "characters",
+            "can travel in",
+            "time"
+        ],
+        [
+            "characters",
+            "can travel back in",
+            "time"
+        ],
+        [
+            "philosophical questions",
+            "add",
+            "depth"
+        ],
+        [
+            "philosophical questions",
+            "add depth",
+            "to consider"
+        ],
+        [
+            "questions",
+            "add",
+            "depth"
+        ],
+        [
+            "questions",
+            "add depth to",
+            "storytelling audiences"
+        ],
+        [
+            "questions",
+            "consider",
+            "nature"
+        ],
+        [
+            "questions",
+            "consider",
+            "nature of time"
+        ],
+        [
+            "philosophical questions",
+            "add depth to",
+            "storytelling audiences"
+        ],
+        [
+            "philosophical questions",
+            "consider",
+            "nature"
+        ],
+        [
+            "philosophical questions",
+            "consider",
+            "nature of time"
+        ],
+        [
+            "philosophical questions",
+            "add depth",
+            "consider"
+        ],
+        [
+            "questions",
+            "add depth",
+            "to consider"
+        ],
+        [
+            "questions",
+            "add depth",
+            "consider"
+        ],
+        [
+            "time travel",
+            "is",
+            "versatile concept"
+        ],
+        [
+            "storytellers",
+            "explore",
+            "range of themes"
+        ],
+        [
+            "storytellers",
+            "explore",
+            "range"
+        ],
+        [
+            "time travel",
+            "is in",
+            "fiction"
+        ],
+        [
+            "time travel",
+            "is",
+            "concept"
+        ],
+        [
+            "storytellers",
+            "explore",
+            "wide range of themes"
+        ],
+        [
+            "storytellers",
+            "explore",
+            "wide range"
+        ],
+        [
+            "time travel",
+            "is",
+            "Overall concept"
+        ],
+        [
+            "travel",
+            "is",
+            "versatile"
+        ],
+        [
+            "time travel",
+            "is",
+            "Overall versatile concept"
+        ],
+        [
+            "discussions",
+            "portrayal of",
+            "time travel in fiction"
+        ],
+        [
+            "portrayal",
+            "evolves",
+            "new discussions"
+        ],
+        [
+            "portrayal",
+            "evolves",
+            "discussions"
+        ],
+        [
+            "portrayal",
+            "evolves",
+            "discussions about nature"
+        ],
+        [
+            "it",
+            "will",
+            "will fascinating"
+        ],
+        [
+            "new discussions",
+            "portrayal of",
+            "time travel in fiction"
+        ],
+        [
+            "portrayal",
+            "evolves",
+            "new discussions about nature of time itself"
+        ],
+        [
+            "technology",
+            "continues",
+            "to advance"
+        ],
+        [
+            "technology",
+            "continues",
+            "advance"
+        ],
+        [
+            "portrayal",
+            "evolves",
+            "new discussions about nature"
+        ],
+        [
+            "portrayal",
+            "evolves",
+            "discussions about nature of time itself"
+        ],
+        [
+            "time travel",
+            "is in",
+            "fiction"
+        ],
+        [
+            "new discussions",
+            "portrayal of",
+            "time travel"
+        ],
+        [
+            "discussions",
+            "portrayal of",
+            "time travel"
+        ]
+    ],
+    "edges": [
+        "is with",
+        "been popular",
+        "is in",
+        "is use of",
+        "is use of",
+        "physically travel through",
+        "allows",
+        "travel through",
+        "uses contraption to",
+        "uses",
+        "uses contraption to",
+        "uses contraption to",
+        "include DeLorean in",
+        "include DeLorean in",
+        "include",
+        "include DeLorean in",
+        "include DeLorean in",
+        "is in",
+        "include",
+        "come with",
+        "often come with",
+        "often come with",
+        "often come with",
+        "come with",
+        "come with",
+        "often come with",
+        "come with",
+        "is in",
+        "may",
+        "manipulate",
+        "may",
+        "manipulate time through",
+        "is",
+        "is magical device For",
+        "travel back for",
+        "travel for",
+        "is device in",
+        "travel for",
+        "in",
+        "is",
+        "travel back for",
+        "is",
+        "is in",
+        "is",
+        "travel back in",
+        "travel in",
+        "is",
+        "is device For",
+        "is magical device in",
+        "has unfolded differently due",
+        "has unfolded due",
+        "may find",
+        "has unfolded differently due",
+        "is in",
+        "has unfolded due",
+        "is explored in",
+        "is",
+        "is explored in",
+        "alter",
+        "may grapple with",
+        "may grapple with",
+        "may grapple with",
+        "may grapple with",
+        "may grapple with",
+        "may grapple with",
+        "must confront",
+        "prevent while",
+        "prevent while",
+        "prevent",
+        "prevent",
+        "must confront",
+        "is in",
+        "also raises",
+        "raises",
+        "raises",
+        "also raises",
+        "is",
+        "alter",
+        "can travel in",
+        "can travel back in",
+        "add",
+        "add depth",
+        "add",
+        "add depth to",
+        "consider",
+        "consider",
+        "add depth to",
+        "consider",
+        "consider",
+        "add depth",
+        "add depth",
+        "add depth",
+        "is",
+        "explore",
+        "explore",
+        "is in",
+        "is",
+        "explore",
+        "explore",
+        "is",
+        "is",
+        "is",
+        "portrayal of",
+        "evolves",
+        "evolves",
+        "evolves",
+        "will",
+        "portrayal of",
+        "evolves",
+        "continues",
+        "continues",
+        "evolves",
+        "evolves",
+        "is in",
+        "portrayal of",
+        "portrayal of"
+    ]
+}

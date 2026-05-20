@@ -1,0 +1,419 @@
+{
+  "entities": [
+    "1980s",
+    "1986",
+    "2003",
+    "20th century",
+    "accessible",
+    "achievements",
+    "advanced propulsion systems",
+    "advancements",
+    "adventure",
+    "apollo 11",
+    "april 12, 1961",
+    "artificial satellite",
+    "astronauts",
+    "beginnings",
+    "blue origin",
+    "boundaries",
+    "buzz aldrin",
+    "celestial body",
+    "challenges",
+    "collaborative effort",
+    "colonizing",
+    "columbia disaster",
+    "commercialize",
+    "complexities",
+    "conclusion",
+    "conquer",
+    "cosmos",
+    "countries",
+    "courage",
+    "crewed missions",
+    "dawn",
+    "detect",
+    "determination",
+    "discovery",
+    "elon musk",
+    "event",
+    "evolve",
+    "exploration",
+    "explore",
+    "flight",
+    "frontier",
+    "future",
+    "general public",
+    "generations",
+    "history",
+    "human space travel",
+    "improve",
+    "ingenuity",
+    "international space station",
+    "interplanetary exploration",
+    "iss",
+    "journey",
+    "july 20, 1969",
+    "knowledge",
+    "launch",
+    "lunar bases",
+    "manned missions",
+    "mars",
+    "milestones",
+    "missions",
+    "moon",
+    "nasa",
+    "national aeronautics and space administration",
+    "neil armstrong",
+    "october 4, 1957",
+    "permanent presence",
+    "planets",
+    "possibilities",
+    "potential",
+    "prey",
+    "private companies",
+    "promise",
+    "race",
+    "reality",
+    "reusable spacecraft",
+    "revolutionized",
+    "risks",
+    "russia",
+    "sharks",
+    "soviet union",
+    "space age",
+    "space shuttle challenger disaster",
+    "space shuttle program",
+    "space tourism",
+    "spacex",
+    "spirit",
+    "sputnik 1",
+    "technology",
+    "testament",
+    "tragedies",
+    "understanding",
+    "united states",
+    "vostok 1",
+    "wonders",
+    "yuri gagarin"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "advancements in",
+      "human space travel"
+    ],
+    [
+      "advanced propulsion systems",
+      "development of",
+      "technology"
+    ],
+    [
+      "apollo 11",
+      "landed on",
+      "moon"
+    ],
+    [
+      "apollo 11",
+      "on",
+      "july 20, 1969"
+    ],
+    [
+      "artificial satellite",
+      "is",
+      "sputnik 1"
+    ],
+    [
+      "astronauts",
+      "are",
+      "buzz aldrin"
+    ],
+    [
+      "astronauts",
+      "are",
+      "neil armstrong"
+    ],
+    [
+      "beginnings",
+      "of",
+      "sputnik 1"
+    ],
+    [
+      "boundaries",
+      "of",
+      "exploration"
+    ],
+    [
+      "buzz aldrin",
+      "set foot on",
+      "celestial body"
+    ],
+    [
+      "collaborative effort",
+      "between",
+      "countries"
+    ],
+    [
+      "colonizing",
+      "other",
+      "planets"
+    ],
+    [
+      "columbia disaster",
+      "in",
+      "2003"
+    ],
+    [
+      "conquer",
+      "the",
+      "frontier"
+    ],
+    [
+      "crewed missions",
+      "to",
+      "iss"
+    ],
+    [
+      "dawn",
+      "of",
+      "space age"
+    ],
+    [
+      "event",
+      "marked",
+      "dawn"
+    ],
+    [
+      "flight",
+      "aboard",
+      "vostok 1"
+    ],
+    [
+      "future",
+      "of",
+      "generations"
+    ],
+    [
+      "history",
+      "is",
+      "testament"
+    ],
+    [
+      "history",
+      "of",
+      "human space travel"
+    ],
+    [
+      "human space travel",
+      "to",
+      "mars"
+    ],
+    [
+      "international space station",
+      "is",
+      "iss"
+    ],
+    [
+      "interplanetary exploration",
+      "demonstrated",
+      "adventure"
+    ],
+    [
+      "interplanetary exploration",
+      "demonstrated",
+      "knowledge"
+    ],
+    [
+      "interplanetary exploration",
+      "demonstrated",
+      "possibilities"
+    ],
+    [
+      "interplanetary exploration",
+      "demonstrated",
+      "wonders"
+    ],
+    [
+      "iss",
+      "establish",
+      "permanent presence"
+    ],
+    [
+      "iss",
+      "is",
+      "collaborative effort"
+    ],
+    [
+      "journey",
+      "began with",
+      "launch"
+    ],
+    [
+      "launch",
+      "of",
+      "artificial satellite"
+    ],
+    [
+      "manned missions",
+      "establishment of",
+      "lunar bases"
+    ],
+    [
+      "manned missions",
+      "to",
+      "mars"
+    ],
+    [
+      "milestones",
+      "expanded",
+      "understanding"
+    ],
+    [
+      "missions",
+      "to",
+      "explore"
+    ],
+    [
+      "nasa",
+      "is",
+      "national aeronautics and space administration"
+    ],
+    [
+      "neil armstrong",
+      "set foot on",
+      "celestial body"
+    ],
+    [
+      "private companies",
+      "are",
+      "blue origin"
+    ],
+    [
+      "private companies",
+      "are",
+      "spacex"
+    ],
+    [
+      "race",
+      "between",
+      "soviet union"
+    ],
+    [
+      "race",
+      "between",
+      "united states"
+    ],
+    [
+      "space shuttle challenger disaster",
+      "in",
+      "1986"
+    ],
+    [
+      "space shuttle program",
+      "in",
+      "1980s"
+    ],
+    [
+      "space shuttle program",
+      "revolutionized",
+      "reusable spacecraft"
+    ],
+    [
+      "space tourism",
+      "and",
+      "colonizing"
+    ],
+    [
+      "spacex",
+      "founded by",
+      "elon musk"
+    ],
+    [
+      "spacex",
+      "launched",
+      "crewed missions"
+    ],
+    [
+      "spacex",
+      "plans to send",
+      "human space travel"
+    ],
+    [
+      "sputnik 1",
+      "by",
+      "soviet union"
+    ],
+    [
+      "sputnik 1",
+      "on",
+      "october 4, 1957"
+    ],
+    [
+      "testament",
+      "to",
+      "courage"
+    ],
+    [
+      "testament",
+      "to",
+      "determination"
+    ],
+    [
+      "testament",
+      "to",
+      "ingenuity"
+    ],
+    [
+      "understanding",
+      "of",
+      "cosmos"
+    ],
+    [
+      "united states",
+      "to",
+      "conquer"
+    ],
+    [
+      "united states",
+      "to",
+      "explore"
+    ],
+    [
+      "yuri gagarin",
+      "aboard",
+      "vostok 1"
+    ],
+    [
+      "yuri gagarin",
+      "on",
+      "april 12, 1961"
+    ]
+  ],
+  "edges": [
+    "aboard",
+    "advancements in",
+    "and",
+    "are",
+    "began with",
+    "between",
+    "by",
+    "demonstrated",
+    "development of",
+    "establish",
+    "establishment of",
+    "expanded",
+    "founded by",
+    "in",
+    "is",
+    "landed on",
+    "launched",
+    "marked",
+    "of",
+    "on",
+    "other",
+    "plans to send",
+    "revolutionized",
+    "set foot on",
+    "the",
+    "to"
+  ]
+}

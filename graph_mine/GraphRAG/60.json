@@ -1,0 +1,170 @@
+{
+  "entities": [
+    "WEATHER SATELLITES",
+    "WEATHER SATELLITE",
+    "POLAR ORBIT",
+    "LOW EARTH ORBIT (LEO)",
+    "SATELLITES",
+    "COMMUNICATION SATELLITE",
+    "SCIENTIFIC RESEARCH",
+    "GEOSTATIONARY SATELLITES",
+    "EDUCATIONAL INSTITUTIONS",
+    "SOLAR PANELS",
+    "STARTUPS",
+    "SATELLITE TECHNOLOGY",
+    "EARTH",
+    "LASER COMMUNICATION TECHNOLOGY",
+    "SCIENTIFIC RESEARCH SATELLITES",
+    "SATELLITE",
+    "ELECTRIC PROPULSION SYSTEMS",
+    "CUBESATS",
+    "GEOSTATIONARY ORBIT (GEO)",
+    "DEVELOPING COUNTRIES",
+    "EARTH STATION",
+    "LOW EARTH ORBIT SATELLITES",
+    "NATIONAL SECURITY",
+    "TELECOMMUNICATIONS"
+  ],
+  "relations": [
+    [
+      "SATELLITES",
+      "Satellites are placed in Low Earth Orbit for specific missions close to Earth",
+      "LOW EARTH ORBIT (LEO)"
+    ],
+    [
+      "SATELLITES",
+      "Satellites in Geostationary Orbit remain in a fixed position relative to the surface of Earth",
+      "GEOSTATIONARY ORBIT (GEO)"
+    ],
+    [
+      "SATELLITES",
+      "Satellites in Polar Orbit travel over Earth's poles, useful for mapping and surveillance",
+      "POLAR ORBIT"
+    ],
+    [
+      "SATELLITES",
+      "Satellites are crucial for the telecommunications industry to provide global connectivity",
+      "TELECOMMUNICATIONS"
+    ],
+    [
+      "SATELLITES",
+      "Satellites support scientific research by gathering data from Earth's atmosphere, surface, and beyond",
+      "SCIENTIFIC RESEARCH"
+    ],
+    [
+      "SATELLITES",
+      "Satellites are utilized for national security purposes, including monitoring and intelligence gathering",
+      "NATIONAL SECURITY"
+    ],
+    [
+      "EARTH",
+      "Communication satellites are launched into orbit around Earth to facilitate global communications",
+      "COMMUNICATION SATELLITE"
+    ],
+    [
+      "EARTH",
+      "Weather satellites orbit Earth to monitor weather patterns and assist meteorologists",
+      "WEATHER SATELLITE"
+    ],
+    [
+      "TELECOMMUNICATIONS",
+      "Geostationary satellites are used in the telecommunications industry for broadcasting and connectivity",
+      "GEOSTATIONARY SATELLITES"
+    ],
+    [
+      "SATELLITE",
+      "Satellites communicate with Earth stations through radio signals",
+      "EARTH STATION"
+    ],
+    [
+      "SATELLITE",
+      "Satellites are powered by solar panels that convert sunlight into electricity",
+      "SOLAR PANELS"
+    ],
+    [
+      "LOW EARTH ORBIT SATELLITES",
+      "Low Earth orbit satellites are utilized for scientific research and Earth observation",
+      "SCIENTIFIC RESEARCH SATELLITES"
+    ],
+    [
+      "WEATHER SATELLITES",
+      "Weather satellites contribute to the scientific study of Earth's climate and weather patterns",
+      "SCIENTIFIC RESEARCH SATELLITES"
+    ],
+    [
+      "CUBESATS",
+      "CubeSats benefit from the advancements in electric propulsion systems to maneuver more efficiently in space",
+      "ELECTRIC PROPULSION SYSTEMS"
+    ],
+    [
+      "CUBESATS",
+      "CubeSats could utilize laser communication technology to enhance data transmission rates",
+      "LASER COMMUNICATION TECHNOLOGY"
+    ],
+    [
+      "CUBESATS",
+      "CubeSats are a significant part of the advancements in satellite technology",
+      "SATELLITE TECHNOLOGY"
+    ],
+    [
+      "CUBESATS",
+      "Educational institutions are among the beneficiaries of the CubeSats revolution, using them for educational and research purposes",
+      "EDUCATIONAL INSTITUTIONS"
+    ],
+    [
+      "CUBESATS",
+      "Startups are utilizing CubeSats to offer new services and innovate within various sectors",
+      "STARTUPS"
+    ],
+    [
+      "CUBESATS",
+      "Developing countries are taking advantage of CubeSats to enhance their space capabilities affordably",
+      "DEVELOPING COUNTRIES"
+    ],
+    [
+      "ELECTRIC PROPULSION SYSTEMS",
+      "Both electric propulsion systems and laser communication technology are advancements that improve satellite capabilities",
+      "LASER COMMUNICATION TECHNOLOGY"
+    ],
+    [
+      "EDUCATIONAL INSTITUTIONS",
+      "Educational institutions benefit from the advancements in satellite technology for research and educational purposes",
+      "SATELLITE TECHNOLOGY"
+    ],
+    [
+      "STARTUPS",
+      "Startups leverage advancements in satellite technology to innovate and develop new services",
+      "SATELLITE TECHNOLOGY"
+    ],
+    [
+      "DEVELOPING COUNTRIES",
+      "Developing countries are increasingly accessing satellite technology to improve their space and telecommunications capabilities",
+      "SATELLITE TECHNOLOGY"
+    ]
+  ],
+  "edges": [
+    "Satellites are placed in Low Earth Orbit for specific missions close to Earth",
+    "Satellites in Geostationary Orbit remain in a fixed position relative to the surface of Earth",
+    "Satellites in Polar Orbit travel over Earth's poles, useful for mapping and surveillance",
+    "Satellites are crucial for the telecommunications industry to provide global connectivity",
+    "Satellites support scientific research by gathering data from Earth's atmosphere, surface, and beyond",
+    "Satellites are utilized for national security purposes, including monitoring and intelligence gathering",
+    "Communication satellites are launched into orbit around Earth to facilitate global communications",
+    "Weather satellites orbit Earth to monitor weather patterns and assist meteorologists",
+    "Geostationary satellites are used in the telecommunications industry for broadcasting and connectivity",
+    "Satellites communicate with Earth stations through radio signals",
+    "Satellites are powered by solar panels that convert sunlight into electricity",
+    "Low Earth orbit satellites are utilized for scientific research and Earth observation",
+    "Weather satellites contribute to the scientific study of Earth's climate and weather patterns",
+    "CubeSats benefit from the advancements in electric propulsion systems to maneuver more efficiently in space",
+    "CubeSats could utilize laser communication technology to enhance data transmission rates",
+    "CubeSats are a significant part of the advancements in satellite technology",
+    "Educational institutions are among the beneficiaries of the CubeSats revolution, using them for educational and research purposes",
+    "Startups are utilizing CubeSats to offer new services and innovate within various sectors",
+    "Developing countries are taking advantage of CubeSats to enhance their space capabilities affordably",
+    "Both electric propulsion systems and laser communication technology are advancements that improve satellite capabilities",
+    "Educational institutions benefit from the advancements in satellite technology for research and educational purposes",
+    "Startups leverage advancements in satellite technology to innovate and develop new services",
+    "Developing countries are increasingly accessing satellite technology to improve their space and telecommunications capabilities"
+  ]
+}

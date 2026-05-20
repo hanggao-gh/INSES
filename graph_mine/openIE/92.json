@@ -1,0 +1,1406 @@
+{
+    "entities": [
+        "businesses",
+        "associations of colors",
+        "marketplace",
+        "of how may perceived in markets",
+        "When important",
+        "different meanings",
+        "yellow",
+        "cultural associations",
+        "associated in Western cultures",
+        "brand identity",
+        "strong brand identity",
+        "For example associated with passion",
+        "branding",
+        "associated",
+        "minds of consumers",
+        "For example may appropriate for youth oriented brand",
+        "may perceived in different markets",
+        "instantly recognizable",
+        "so should mindful",
+        "consumers",
+        "emotions",
+        "while associated with purity in cultures",
+        "brand presence",
+        "bright yellow",
+        "of may perceived",
+        "cultural associations of colors",
+        "associated in cultures",
+        "effects",
+        "Branding Color",
+        "mourning",
+        "Western cultures",
+        "McDonald",
+        "while associated in cultures",
+        "crowded marketplace",
+        "brand differentiation",
+        "important",
+        "conclusion",
+        "its competitors",
+        "For example associated with mourning in Eastern cultures",
+        "Psychology",
+        "may perceived in markets",
+        "trust",
+        "associated with purity in cultures",
+        "brands",
+        "their brand",
+        "branding strategies",
+        "value",
+        "behaviors",
+        "For example associated with mourning",
+        "considerations",
+        "color",
+        "For example often associated with passion",
+        "For example often associated with mourning in Eastern cultures",
+        "Eastern cultures",
+        "may appropriate",
+        "depending industry",
+        "how may perceived in different markets",
+        "cultural considerations",
+        "example",
+        "arches",
+        "colors",
+        "recognizable",
+        "strong brand presence",
+        "while associated with purity",
+        "factors",
+        "identity",
+        "role",
+        "associations of different colors",
+        "cultures",
+        "of may perceived in markets",
+        "power of color psychology",
+        "their target audience",
+        "cultural associations of different colors",
+        "how may perceived in markets",
+        "right colors",
+        "For example may appropriate for oriented brand",
+        "For example may appropriate",
+        "passion",
+        "messages",
+        "it",
+        "brand",
+        "visual identity",
+        "associated with purity",
+        "consumer perceptions",
+        "may appropriate for brand",
+        "psychology",
+        "quality",
+        "color psychology",
+        "white",
+        "purity",
+        "of may perceived in different markets",
+        "may appropriate for oriented brand",
+        "their color choices",
+        "power",
+        "particular emotions",
+        "cultural factors",
+        "while associated",
+        "different cultures",
+        "while associated with purity in Western cultures",
+        "blue",
+        "red",
+        "mourning in Eastern cultures",
+        "evoking emotions",
+        "For example may appropriate for brand",
+        "color palette",
+        "personality",
+        "logo",
+        "while associated in Western cultures",
+        "crucial role",
+        "how may perceived",
+        "may perceived",
+        "of how may perceived",
+        "context",
+        "associations",
+        "may appropriate for youth oriented brand",
+        "minds",
+        "successful brand",
+        "unique brand identity",
+        "For example often associated with mourning",
+        "will presented",
+        "bright color palette",
+        "often associated",
+        "Coca Cola",
+        "same color",
+        "Different colors",
+        "associated with purity in Western cultures",
+        "while associated with trust",
+        "Colors",
+        "meanings",
+        "of how may perceived in different markets",
+        "brand 's personality",
+        "should mindful"
+    ],
+    "relations": [
+        [
+            "crucial role",
+            "Psychology in",
+            "Branding Color"
+        ],
+        [
+            "Psychology",
+            "plays role in",
+            "branding strategies"
+        ],
+        [
+            "Psychology",
+            "plays",
+            "crucial role"
+        ],
+        [
+            "crucial role",
+            "Psychology of",
+            "Colors"
+        ],
+        [
+            "role",
+            "Psychology in",
+            "Branding Color"
+        ],
+        [
+            "it",
+            "has",
+            "power"
+        ],
+        [
+            "Psychology",
+            "is in",
+            "Branding Color"
+        ],
+        [
+            "role",
+            "Psychology of",
+            "Colors"
+        ],
+        [
+            "Psychology",
+            "plays",
+            "role"
+        ],
+        [
+            "emotions",
+            "convey",
+            "messages"
+        ],
+        [
+            "businesses",
+            "connect with",
+            "their target audience"
+        ],
+        [
+            "businesses",
+            "create",
+            "brand identity"
+        ],
+        [
+            "businesses",
+            "connect effectively with",
+            "their target audience"
+        ],
+        [
+            "businesses",
+            "create",
+            "strong brand identity"
+        ],
+        [
+            "businesses",
+            "connect more effectively with",
+            "their target audience"
+        ],
+        [
+            "color psychology",
+            "is in",
+            "branding"
+        ],
+        [
+            "Different colors",
+            "have",
+            "meanings"
+        ],
+        [
+            "colors",
+            "have",
+            "meanings"
+        ],
+        [
+            "Different colors",
+            "are",
+            "associated"
+        ],
+        [
+            "colors",
+            "are associated with",
+            "emotions"
+        ],
+        [
+            "colors",
+            "have",
+            "different meanings"
+        ],
+        [
+            "Different colors",
+            "are associated with",
+            "emotions"
+        ],
+        [
+            "colors",
+            "are associated with",
+            "particular emotions"
+        ],
+        [
+            "colors",
+            "are often associated with",
+            "emotions"
+        ],
+        [
+            "Different colors",
+            "are",
+            "often associated"
+        ],
+        [
+            "colors",
+            "are",
+            "associated"
+        ],
+        [
+            "colors",
+            "are often associated with",
+            "particular emotions"
+        ],
+        [
+            "Different colors",
+            "are associated with",
+            "particular emotions"
+        ],
+        [
+            "Different colors",
+            "are often associated with",
+            "particular emotions"
+        ],
+        [
+            "Different colors",
+            "have",
+            "different meanings"
+        ],
+        [
+            "Different colors",
+            "are often associated with",
+            "emotions"
+        ],
+        [
+            "colors",
+            "are",
+            "often associated"
+        ],
+        [
+            "blue",
+            "is associated with",
+            "trust"
+        ],
+        [
+            "red",
+            "is often associated with",
+            "passion"
+        ],
+        [
+            "red",
+            "is",
+            "often associated"
+        ],
+        [
+            "red",
+            "is associated For",
+            "example"
+        ],
+        [
+            "blue",
+            "is",
+            "while associated with trust"
+        ],
+        [
+            "red",
+            "is associated with",
+            "passion"
+        ],
+        [
+            "red",
+            "is often associated For",
+            "example"
+        ],
+        [
+            "blue",
+            "is",
+            "associated"
+        ],
+        [
+            "red",
+            "is",
+            "For example associated with passion"
+        ],
+        [
+            "red",
+            "is",
+            "For example often associated with passion"
+        ],
+        [
+            "blue",
+            "is",
+            "while associated"
+        ],
+        [
+            "red",
+            "is",
+            "associated"
+        ],
+        [
+            "businesses",
+            "can create",
+            "visual identity"
+        ],
+        [
+            "businesses",
+            "can create",
+            "identity"
+        ],
+        [
+            "colors",
+            "can influence consumer perceptions In",
+            "evoking emotions"
+        ],
+        [
+            "colors",
+            "can also influence consumer perceptions In",
+            "emotions"
+        ],
+        [
+            "colors",
+            "can also influence consumer perceptions In",
+            "evoking emotions"
+        ],
+        [
+            "colors",
+            "can influence",
+            "consumer perceptions"
+        ],
+        [
+            "consumer perceptions",
+            "colors",
+            "behaviors"
+        ],
+        [
+            "colors",
+            "can also influence",
+            "consumer perceptions"
+        ],
+        [
+            "colors",
+            "can influence consumer perceptions In",
+            "emotions"
+        ],
+        [
+            "brand",
+            "has",
+            "personality"
+        ],
+        [
+            "brand 's personality",
+            "consumers",
+            "value"
+        ],
+        [
+            "brand 's personality",
+            "consumers",
+            "quality"
+        ],
+        [
+            "consumers",
+            "perceive",
+            "brand 's personality"
+        ],
+        [
+            "colors",
+            "differentiate brand from",
+            "its competitors"
+        ],
+        [
+            "brand",
+            "create",
+            "unique brand identity"
+        ],
+        [
+            "colors",
+            "differentiate",
+            "brand"
+        ],
+        [
+            "brand",
+            "create",
+            "brand identity"
+        ],
+        [
+            "businesses",
+            "create",
+            "brand presence"
+        ],
+        [
+            "businesses",
+            "can stand out in",
+            "marketplace"
+        ],
+        [
+            "businesses",
+            "can stand out in",
+            "crowded marketplace"
+        ],
+        [
+            "businesses",
+            "create",
+            "strong brand presence"
+        ],
+        [
+            "Coca Cola",
+            "of",
+            "logo"
+        ],
+        [
+            "bright yellow",
+            "are instantly recognizable For",
+            "example"
+        ],
+        [
+            "McDonald",
+            "of",
+            "arches"
+        ],
+        [
+            "bright yellow",
+            "are",
+            "instantly recognizable"
+        ],
+        [
+            "bright yellow",
+            "are recognizable For",
+            "example"
+        ],
+        [
+            "bright yellow",
+            "are",
+            "recognizable"
+        ],
+        [
+            "yellow",
+            "are recognizable For",
+            "example"
+        ],
+        [
+            "brands",
+            "stand out in",
+            "minds of consumers"
+        ],
+        [
+            "yellow",
+            "are",
+            "recognizable"
+        ],
+        [
+            "yellow",
+            "are instantly recognizable For",
+            "example"
+        ],
+        [
+            "brands",
+            "stand out in",
+            "minds"
+        ],
+        [
+            "yellow",
+            "are",
+            "instantly recognizable"
+        ],
+        [
+            "it",
+            "consider",
+            "cultural associations of colors"
+        ],
+        [
+            "it",
+            "consider",
+            "cultural associations"
+        ],
+        [
+            "it",
+            "consider",
+            "associations of colors"
+        ],
+        [
+            "it",
+            "consider",
+            "cultural associations of different colors"
+        ],
+        [
+            "it",
+            "consider",
+            "associations"
+        ],
+        [
+            "it",
+            "is",
+            "important"
+        ],
+        [
+            "it",
+            "is",
+            "When important"
+        ],
+        [
+            "it",
+            "consider",
+            "associations of different colors"
+        ],
+        [
+            "Colors",
+            "can have meanings",
+            "so should mindful"
+        ],
+        [
+            "their color choices",
+            "may",
+            "may perceived in markets"
+        ],
+        [
+            "their color choices",
+            "may",
+            "of may perceived in markets"
+        ],
+        [
+            "Colors",
+            "can have meanings in",
+            "different cultures"
+        ],
+        [
+            "Colors",
+            "can have meanings",
+            "should mindful"
+        ],
+        [
+            "their color choices",
+            "may",
+            "of may perceived"
+        ],
+        [
+            "their color choices",
+            "may",
+            "of how may perceived in different markets"
+        ],
+        [
+            "their color choices",
+            "may",
+            "how may perceived in different markets"
+        ],
+        [
+            "their color choices",
+            "may",
+            "of how may perceived in markets"
+        ],
+        [
+            "their color choices",
+            "may",
+            "may perceived in different markets"
+        ],
+        [
+            "Colors",
+            "can have meanings in",
+            "cultures"
+        ],
+        [
+            "their color choices",
+            "may",
+            "of how may perceived"
+        ],
+        [
+            "Colors",
+            "can have",
+            "meanings"
+        ],
+        [
+            "Colors",
+            "can have",
+            "different meanings"
+        ],
+        [
+            "different meanings",
+            "Colors",
+            "associations"
+        ],
+        [
+            "their color choices",
+            "may",
+            "may perceived"
+        ],
+        [
+            "meanings",
+            "Colors",
+            "associations"
+        ],
+        [
+            "their color choices",
+            "may",
+            "of may perceived in different markets"
+        ],
+        [
+            "their color choices",
+            "may",
+            "how may perceived in markets"
+        ],
+        [
+            "businesses",
+            "should",
+            "should mindful"
+        ],
+        [
+            "businesses",
+            "should",
+            "so should mindful"
+        ],
+        [
+            "their color choices",
+            "may",
+            "how may perceived"
+        ],
+        [
+            "it",
+            "is associated with",
+            "mourning"
+        ],
+        [
+            "it",
+            "is often associated",
+            "while associated with purity in Western cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "while associated in cultures"
+        ],
+        [
+            "white",
+            "is",
+            "associated with purity in Western cultures"
+        ],
+        [
+            "it",
+            "is",
+            "For example often associated with mourning in Eastern cultures"
+        ],
+        [
+            "mourning",
+            "is in",
+            "Eastern cultures"
+        ],
+        [
+            "white",
+            "is associated with",
+            "purity"
+        ],
+        [
+            "it",
+            "is associated",
+            "associated in Western cultures"
+        ],
+        [
+            "it",
+            "is often associated",
+            "associated in Western cultures"
+        ],
+        [
+            "it",
+            "is associated with",
+            "mourning in Eastern cultures"
+        ],
+        [
+            "white",
+            "is",
+            "while associated"
+        ],
+        [
+            "it",
+            "is often associated",
+            "associated in cultures"
+        ],
+        [
+            "white",
+            "is",
+            "while associated in cultures"
+        ],
+        [
+            "it",
+            "is",
+            "often associated"
+        ],
+        [
+            "it",
+            "is often associated",
+            "while associated"
+        ],
+        [
+            "white",
+            "is",
+            "associated with purity in cultures"
+        ],
+        [
+            "it",
+            "is often associated",
+            "associated with purity"
+        ],
+        [
+            "it",
+            "is associated For",
+            "example"
+        ],
+        [
+            "it",
+            "is associated",
+            "while associated with purity"
+        ],
+        [
+            "it",
+            "is often associated",
+            "associated with purity in Western cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "while associated with purity in cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "associated with purity"
+        ],
+        [
+            "it",
+            "is often associated",
+            "associated"
+        ],
+        [
+            "white",
+            "is associated in",
+            "cultures"
+        ],
+        [
+            "white",
+            "is",
+            "while associated with purity"
+        ],
+        [
+            "it",
+            "is",
+            "For example associated with mourning"
+        ],
+        [
+            "white",
+            "is associated in",
+            "Western cultures"
+        ],
+        [
+            "it",
+            "is often associated",
+            "while associated in cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "associated with purity in cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "while associated in Western cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "associated in cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "while associated with purity in Western cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "while associated"
+        ],
+        [
+            "white",
+            "is",
+            "while associated with purity in cultures"
+        ],
+        [
+            "it",
+            "is often associated",
+            "while associated with purity in cultures"
+        ],
+        [
+            "it",
+            "is often associated with",
+            "mourning"
+        ],
+        [
+            "it",
+            "is often associated",
+            "while associated in Western cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "associated with purity in Western cultures"
+        ],
+        [
+            "white",
+            "is",
+            "while associated with purity in Western cultures"
+        ],
+        [
+            "it",
+            "is",
+            "associated"
+        ],
+        [
+            "white",
+            "is",
+            "while associated in Western cultures"
+        ],
+        [
+            "it",
+            "is often associated",
+            "while associated with purity"
+        ],
+        [
+            "it",
+            "is often associated with",
+            "mourning in Eastern cultures"
+        ],
+        [
+            "it",
+            "is often associated",
+            "associated with purity in cultures"
+        ],
+        [
+            "white",
+            "is",
+            "associated"
+        ],
+        [
+            "it",
+            "is",
+            "For example often associated with mourning"
+        ],
+        [
+            "it",
+            "is often associated For",
+            "example"
+        ],
+        [
+            "it",
+            "is",
+            "For example associated with mourning in Eastern cultures"
+        ],
+        [
+            "it",
+            "is associated",
+            "associated"
+        ],
+        [
+            "businesses",
+            "should consider In",
+            "cultural considerations"
+        ],
+        [
+            "businesses",
+            "should consider context In",
+            "considerations"
+        ],
+        [
+            "businesses",
+            "should also consider",
+            "context"
+        ],
+        [
+            "businesses",
+            "should also consider In",
+            "cultural considerations"
+        ],
+        [
+            "businesses",
+            "should also consider In",
+            "considerations"
+        ],
+        [
+            "their brand",
+            "will",
+            "will presented"
+        ],
+        [
+            "businesses",
+            "should consider In",
+            "considerations"
+        ],
+        [
+            "businesses",
+            "should also consider context In",
+            "considerations"
+        ],
+        [
+            "businesses",
+            "should consider",
+            "context"
+        ],
+        [
+            "businesses",
+            "should consider context In",
+            "cultural considerations"
+        ],
+        [
+            "businesses",
+            "should also consider context In",
+            "cultural considerations"
+        ],
+        [
+            "different meanings",
+            "same color",
+            "effects"
+        ],
+        [
+            "color",
+            "may have",
+            "meanings"
+        ],
+        [
+            "meanings",
+            "color",
+            "effects"
+        ],
+        [
+            "color",
+            "may have meanings depending",
+            "depending industry"
+        ],
+        [
+            "meanings",
+            "same color",
+            "effects"
+        ],
+        [
+            "same color",
+            "may have meanings depending",
+            "depending industry"
+        ],
+        [
+            "different meanings",
+            "color",
+            "effects"
+        ],
+        [
+            "color",
+            "may have",
+            "different meanings"
+        ],
+        [
+            "same color",
+            "may have",
+            "different meanings"
+        ],
+        [
+            "same color",
+            "may have",
+            "meanings"
+        ],
+        [
+            "color palette",
+            "may",
+            "may appropriate for oriented brand"
+        ],
+        [
+            "color palette",
+            "may",
+            "For example may appropriate for brand"
+        ],
+        [
+            "bright color palette",
+            "may",
+            "may appropriate for youth oriented brand"
+        ],
+        [
+            "bright color palette",
+            "may",
+            "For example may appropriate"
+        ],
+        [
+            "bright color palette",
+            "may",
+            "may appropriate for brand"
+        ],
+        [
+            "color palette",
+            "may",
+            "For example may appropriate"
+        ],
+        [
+            "color palette",
+            "may",
+            "may appropriate for youth oriented brand"
+        ],
+        [
+            "bright color palette",
+            "may",
+            "For example may appropriate for oriented brand"
+        ],
+        [
+            "color palette",
+            "may",
+            "may appropriate"
+        ],
+        [
+            "bright color palette",
+            "may",
+            "may appropriate for oriented brand"
+        ],
+        [
+            "color palette",
+            "may",
+            "may appropriate for brand"
+        ],
+        [
+            "bright color palette",
+            "may",
+            "For example may appropriate for brand"
+        ],
+        [
+            "color palette",
+            "may",
+            "For example may appropriate for youth oriented brand"
+        ],
+        [
+            "bright color palette",
+            "may",
+            "For example may appropriate for youth oriented brand"
+        ],
+        [
+            "color palette",
+            "may",
+            "For example may appropriate for oriented brand"
+        ],
+        [
+            "bright color palette",
+            "may",
+            "may appropriate"
+        ],
+        [
+            "role",
+            "psychology of",
+            "colors"
+        ],
+        [
+            "psychology",
+            "plays",
+            "crucial role"
+        ],
+        [
+            "crucial role",
+            "psychology of",
+            "colors"
+        ],
+        [
+            "psychology",
+            "plays role In",
+            "conclusion"
+        ],
+        [
+            "psychology",
+            "plays",
+            "role"
+        ],
+        [
+            "psychology",
+            "plays role in",
+            "branding strategies"
+        ],
+        [
+            "colors",
+            "evoke",
+            "emotions"
+        ],
+        [
+            "colors",
+            "create",
+            "brand differentiation"
+        ],
+        [
+            "businesses",
+            "can create",
+            "brand identity"
+        ],
+        [
+            "businesses",
+            "can create",
+            "strong brand identity"
+        ],
+        [
+            "power",
+            "create",
+            "successful brand"
+        ],
+        [
+            "colors",
+            "considering",
+            "cultural factors"
+        ],
+        [
+            "right colors",
+            "considering",
+            "cultural factors"
+        ],
+        [
+            "right colors",
+            "considering",
+            "factors"
+        ],
+        [
+            "businesses",
+            "can leverage",
+            "power of color psychology"
+        ],
+        [
+            "power",
+            "create",
+            "brand"
+        ],
+        [
+            "businesses",
+            "can leverage",
+            "power"
+        ],
+        [
+            "colors",
+            "considering",
+            "factors"
+        ]
+    ],
+    "edges": [
+        "Psychology in",
+        "plays role in",
+        "plays",
+        "Psychology of",
+        "Psychology in",
+        "has",
+        "is in",
+        "Psychology of",
+        "plays",
+        "convey",
+        "connect with",
+        "create",
+        "connect effectively with",
+        "create",
+        "connect more effectively with",
+        "is in",
+        "have",
+        "have",
+        "are",
+        "are associated with",
+        "have",
+        "are associated with",
+        "are associated with",
+        "are often associated with",
+        "are",
+        "are",
+        "are often associated with",
+        "are associated with",
+        "are often associated with",
+        "have",
+        "are often associated with",
+        "are",
+        "is associated with",
+        "is often associated with",
+        "is",
+        "is associated For",
+        "is",
+        "is associated with",
+        "is often associated For",
+        "is",
+        "is",
+        "is",
+        "is",
+        "is",
+        "can create",
+        "can create",
+        "can influence consumer perceptions In",
+        "can also influence consumer perceptions In",
+        "can also influence consumer perceptions In",
+        "can influence",
+        "colors",
+        "can also influence",
+        "can influence consumer perceptions In",
+        "has",
+        "consumers",
+        "consumers",
+        "perceive",
+        "differentiate brand from",
+        "create",
+        "differentiate",
+        "create",
+        "create",
+        "can stand out in",
+        "can stand out in",
+        "create",
+        "of",
+        "are instantly recognizable For",
+        "of",
+        "are",
+        "are recognizable For",
+        "are",
+        "are recognizable For",
+        "stand out in",
+        "are",
+        "are instantly recognizable For",
+        "stand out in",
+        "are",
+        "consider",
+        "consider",
+        "consider",
+        "consider",
+        "consider",
+        "is",
+        "is",
+        "consider",
+        "can have meanings",
+        "may",
+        "may",
+        "can have meanings in",
+        "can have meanings",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "can have meanings in",
+        "may",
+        "can have",
+        "can have",
+        "Colors",
+        "may",
+        "Colors",
+        "may",
+        "may",
+        "should",
+        "should",
+        "may",
+        "is associated with",
+        "is often associated",
+        "is associated",
+        "is",
+        "is",
+        "is in",
+        "is associated with",
+        "is associated",
+        "is often associated",
+        "is associated with",
+        "is",
+        "is often associated",
+        "is",
+        "is",
+        "is often associated",
+        "is",
+        "is often associated",
+        "is associated For",
+        "is associated",
+        "is often associated",
+        "is associated",
+        "is associated",
+        "is often associated",
+        "is associated in",
+        "is",
+        "is",
+        "is associated in",
+        "is often associated",
+        "is associated",
+        "is associated",
+        "is associated",
+        "is associated",
+        "is associated",
+        "is",
+        "is often associated",
+        "is often associated with",
+        "is often associated",
+        "is associated",
+        "is",
+        "is",
+        "is",
+        "is often associated",
+        "is often associated with",
+        "is often associated",
+        "is",
+        "is",
+        "is often associated For",
+        "is",
+        "is associated",
+        "should consider In",
+        "should consider context In",
+        "should also consider",
+        "should also consider In",
+        "should also consider In",
+        "will",
+        "should consider In",
+        "should also consider context In",
+        "should consider",
+        "should consider context In",
+        "should also consider context In",
+        "same color",
+        "may have",
+        "color",
+        "may have meanings depending",
+        "same color",
+        "may have meanings depending",
+        "color",
+        "may have",
+        "may have",
+        "may have",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "may",
+        "psychology of",
+        "plays",
+        "psychology of",
+        "plays role In",
+        "plays",
+        "plays role in",
+        "evoke",
+        "create",
+        "can create",
+        "can create",
+        "create",
+        "considering",
+        "considering",
+        "considering",
+        "can leverage",
+        "create",
+        "can leverage",
+        "considering"
+    ]
+}

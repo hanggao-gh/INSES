@@ -1,0 +1,577 @@
+{
+  "entities": [
+    "advance",
+    "ai research",
+    "analyze",
+    "artificial intelligence",
+    "assist",
+    "augmentation",
+    "automation",
+    "autonomous vehicles",
+    "balance",
+    "benefits",
+    "businesses",
+    "capabilities",
+    "challenges",
+    "chatbots",
+    "collaborate",
+    "complement",
+    "complex",
+    "concerns",
+    "conclusion",
+    "consideration",
+    "creation",
+    "creative",
+    "creativity",
+    "critical thinking",
+    "customer service",
+    "customer service representatives",
+    "data science",
+    "datasets",
+    "decisions",
+    "demand",
+    "designing",
+    "detect",
+    "develop",
+    "diagnosing",
+    "digital literacy",
+    "diseases",
+    "displaced",
+    "doctors",
+    "economic",
+    "education",
+    "educators",
+    "effectively",
+    "efficiency",
+    "efficiently",
+    "embracing",
+    "employment",
+    "engineers",
+    "enhance",
+    "expertise",
+    "fields",
+    "growth",
+    "harness",
+    "hazardous",
+    "human workers",
+    "impact",
+    "implications",
+    "income inequality",
+    "industries",
+    "injury",
+    "innovation",
+    "insecurity",
+    "insights",
+    "integration",
+    "issue",
+    "job displacement",
+    "job market",
+    "job opportunities",
+    "lawyers",
+    "legal research",
+    "leveraging",
+    "logistics",
+    "low-skilled workers",
+    "machine learning",
+    "machines",
+    "maintain",
+    "manufacturing",
+    "multifaceted",
+    "operate",
+    "opportunities",
+    "outcomes",
+    "performance",
+    "phenomenon",
+    "physically demanding",
+    "policymakers",
+    "prey",
+    "proactively",
+    "problem-solving",
+    "processes",
+    "productivity",
+    "programs",
+    "repetitive",
+    "replace",
+    "responsibly",
+    "revolutionized",
+    "risk",
+    "robots",
+    "routine",
+    "safety",
+    "satisfaction",
+    "sectors",
+    "sharks",
+    "skills",
+    "social",
+    "social unrest",
+    "society",
+    "software",
+    "stakeholders",
+    "strategic",
+    "strategies",
+    "streamline",
+    "sustainable employment",
+    "systems",
+    "tasks",
+    "technological advancements",
+    "technologies",
+    "tools",
+    "training",
+    "transformed",
+    "truck drivers",
+    "unemployment",
+    "virtual assistants",
+    "widespread",
+    "workers",
+    "workforce",
+    "workplace"
+  ],
+  "relations": [
+    [
+      "ai research",
+      "assist",
+      "doctors"
+    ],
+    [
+      "ai research",
+      "assist",
+      "engineers"
+    ],
+    [
+      "ai research",
+      "assist",
+      "lawyers"
+    ],
+    [
+      "ai research",
+      "augment",
+      "capabilities"
+    ],
+    [
+      "ai research",
+      "complement",
+      "skills"
+    ],
+    [
+      "ai research",
+      "create",
+      "demand"
+    ],
+    [
+      "ai research",
+      "create",
+      "job opportunities"
+    ],
+    [
+      "ai research",
+      "create",
+      "opportunities"
+    ],
+    [
+      "ai research",
+      "embracing",
+      "proactively"
+    ],
+    [
+      "ai research",
+      "embracing",
+      "responsibly"
+    ],
+    [
+      "ai research",
+      "enhance",
+      "creativity"
+    ],
+    [
+      "ai research",
+      "enhance",
+      "efficiency"
+    ],
+    [
+      "ai research",
+      "enhance",
+      "problem-solving"
+    ],
+    [
+      "ai research",
+      "enhance",
+      "productivity"
+    ],
+    [
+      "ai research",
+      "enhance",
+      "workplace"
+    ],
+    [
+      "ai research",
+      "harness",
+      "growth"
+    ],
+    [
+      "ai research",
+      "harness",
+      "sustainable employment"
+    ],
+    [
+      "ai research",
+      "has impact on",
+      "employment"
+    ],
+    [
+      "ai research",
+      "improve",
+      "safety"
+    ],
+    [
+      "ai research",
+      "is complex and multifaceted",
+      "impact"
+    ],
+    [
+      "ai research",
+      "lead to",
+      "benefits"
+    ],
+    [
+      "ai research",
+      "lead to",
+      "concerns"
+    ],
+    [
+      "ai research",
+      "lead to",
+      "outcomes"
+    ],
+    [
+      "ai research",
+      "leading to",
+      "job displacement"
+    ],
+    [
+      "ai research",
+      "leading to",
+      "unemployment"
+    ],
+    [
+      "ai research",
+      "reduce",
+      "injury"
+    ],
+    [
+      "ai research",
+      "reduce",
+      "risk"
+    ],
+    [
+      "ai research",
+      "replace",
+      "workers"
+    ],
+    [
+      "ai research",
+      "transformed",
+      "job market"
+    ],
+    [
+      "artificial intelligence",
+      "has impact on",
+      "employment"
+    ],
+    [
+      "artificial intelligence",
+      "has revolutionized",
+      "industries"
+    ],
+    [
+      "augmentation",
+      "of",
+      "capabilities"
+    ],
+    [
+      "automation",
+      "is affecting",
+      "employment"
+    ],
+    [
+      "automation",
+      "is in",
+      "sectors"
+    ],
+    [
+      "automation",
+      "replace",
+      "workers"
+    ],
+    [
+      "autonomous vehicles",
+      "replace",
+      "truck drivers"
+    ],
+    [
+      "balance",
+      "between",
+      "benefits"
+    ],
+    [
+      "balance",
+      "between",
+      "creation"
+    ],
+    [
+      "balance",
+      "between",
+      "innovation"
+    ],
+    [
+      "balance",
+      "between",
+      "society"
+    ],
+    [
+      "businesses",
+      "make",
+      "decisions"
+    ],
+    [
+      "chatbots",
+      "replace",
+      "customer service representatives"
+    ],
+    [
+      "concerns",
+      "are about",
+      "economic"
+    ],
+    [
+      "concerns",
+      "are about",
+      "social"
+    ],
+    [
+      "creation",
+      "of",
+      "industries"
+    ],
+    [
+      "creation",
+      "of",
+      "job opportunities"
+    ],
+    [
+      "decisions",
+      "are",
+      "creative"
+    ],
+    [
+      "decisions",
+      "are",
+      "strategic"
+    ],
+    [
+      "demand",
+      "for",
+      "expertise"
+    ],
+    [
+      "demand",
+      "for",
+      "skills"
+    ],
+    [
+      "education",
+      "involves",
+      "programs"
+    ],
+    [
+      "educators",
+      "address",
+      "challenges"
+    ],
+    [
+      "fields",
+      "include",
+      "ai research"
+    ],
+    [
+      "fields",
+      "include",
+      "data science"
+    ],
+    [
+      "implications",
+      "are about",
+      "automation"
+    ],
+    [
+      "implications",
+      "are about",
+      "income inequality"
+    ],
+    [
+      "implications",
+      "are about",
+      "insecurity"
+    ],
+    [
+      "implications",
+      "are about",
+      "social unrest"
+    ],
+    [
+      "insights",
+      "help",
+      "businesses"
+    ],
+    [
+      "integration",
+      "transformed",
+      "job market"
+    ],
+    [
+      "low-skilled workers",
+      "are displaced by",
+      "ai research"
+    ],
+    [
+      "machine learning",
+      "replace",
+      "workers"
+    ],
+    [
+      "machines",
+      "perform",
+      "tasks"
+    ],
+    [
+      "policymakers",
+      "address",
+      "challenges"
+    ],
+    [
+      "programs",
+      "focus on",
+      "critical thinking"
+    ],
+    [
+      "programs",
+      "focus on",
+      "digital literacy"
+    ],
+    [
+      "robots",
+      "perform",
+      "tasks"
+    ],
+    [
+      "sectors",
+      "include",
+      "customer service"
+    ],
+    [
+      "sectors",
+      "include",
+      "logistics"
+    ],
+    [
+      "sectors",
+      "include",
+      "manufacturing"
+    ],
+    [
+      "skills",
+      "are in",
+      "job market"
+    ],
+    [
+      "stakeholders",
+      "collaborate",
+      "strategies"
+    ],
+    [
+      "strategies",
+      "promote",
+      "balance"
+    ],
+    [
+      "tasks",
+      "are",
+      "creative"
+    ],
+    [
+      "tasks",
+      "are",
+      "strategic"
+    ],
+    [
+      "tasks",
+      "were exclusive to",
+      "human workers"
+    ],
+    [
+      "technological advancements",
+      "result in",
+      "creation"
+    ],
+    [
+      "tools",
+      "analyze",
+      "datasets"
+    ],
+    [
+      "tools",
+      "provide",
+      "insights"
+    ],
+    [
+      "tools",
+      "streamline",
+      "processes"
+    ],
+    [
+      "virtual assistants",
+      "replace",
+      "customer service representatives"
+    ]
+  ],
+  "edges": [
+    "address",
+    "analyze",
+    "are",
+    "are about",
+    "are displaced by",
+    "are in",
+    "assist",
+    "augment",
+    "between",
+    "collaborate",
+    "complement",
+    "create",
+    "embracing",
+    "enhance",
+    "focus on",
+    "for",
+    "harness",
+    "has impact on",
+    "has revolutionized",
+    "help",
+    "improve",
+    "include",
+    "involves",
+    "is affecting",
+    "is complex and multifaceted",
+    "is in",
+    "lead to",
+    "leading to",
+    "make",
+    "of",
+    "perform",
+    "promote",
+    "provide",
+    "reduce",
+    "replace",
+    "result in",
+    "streamline",
+    "transformed",
+    "were exclusive to"
+  ]
+}

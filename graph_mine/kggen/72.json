@@ -1,0 +1,443 @@
+{
+  "entities": [
+    "access",
+    "action",
+    "adapt",
+    "animal populations",
+    "animals",
+    "arctic",
+    "australia",
+    "balance",
+    "bats",
+    "behavior",
+    "biodiversity",
+    "breeding seasons",
+    "brink",
+    "cascading effect",
+    "challenges",
+    "climate change",
+    "conclusion",
+    "conditions",
+    "conservation organizations",
+    "coral bleaching",
+    "coral reefs",
+    "creatures",
+    "crisis",
+    "detect",
+    "devastating effects",
+    "diseases",
+    "displace",
+    "distances",
+    "droughts",
+    "ecosystems",
+    "effects",
+    "elevations",
+    "environmental conditions",
+    "essay",
+    "extinction",
+    "extreme weather events",
+    "fish",
+    "food",
+    "food sources",
+    "food webs",
+    "fungal disease",
+    "fungus",
+    "generations",
+    "global temperatures",
+    "governments",
+    "greenhouse gas emissions",
+    "habitats",
+    "hunting ground",
+    "hurricanes",
+    "individuals",
+    "koalas",
+    "loss",
+    "migrate",
+    "mitigate",
+    "natural cycles",
+    "ocean temperatures",
+    "organisms",
+    "outbreaks",
+    "parasites",
+    "planet",
+    "plants",
+    "polar bears",
+    "populations",
+    "pressure",
+    "prey",
+    "ranges",
+    "reproductive patterns",
+    "reproductive success",
+    "sea ice",
+    "sharks",
+    "shelter",
+    "spread",
+    "strategies",
+    "stress",
+    "survival",
+    "temperatures",
+    "threat",
+    "warming temperatures",
+    "water",
+    "weather patterns",
+    "well-being",
+    "white-nose syndrome",
+    "wildfires",
+    "wildlife",
+    "winters"
+  ],
+  "relations": [
+    [
+      "action",
+      "mitigate",
+      "effects"
+    ],
+    [
+      "action",
+      "needed for",
+      "crisis"
+    ],
+    [
+      "action",
+      "protects",
+      "biodiversity"
+    ],
+    [
+      "balance",
+      "disrupted by",
+      "biodiversity"
+    ],
+    [
+      "breeding seasons",
+      "alter",
+      "environmental conditions"
+    ],
+    [
+      "cascading effect",
+      "disrupts",
+      "food webs"
+    ],
+    [
+      "cascading effect",
+      "leads to",
+      "populations"
+    ],
+    [
+      "challenges",
+      "pushing",
+      "extinction"
+    ],
+    [
+      "climate change",
+      "affects",
+      "behavior"
+    ],
+    [
+      "climate change",
+      "affects",
+      "reproductive patterns"
+    ],
+    [
+      "climate change",
+      "causes",
+      "extreme weather events"
+    ],
+    [
+      "climate change",
+      "causes",
+      "food"
+    ],
+    [
+      "climate change",
+      "causes",
+      "loss"
+    ],
+    [
+      "climate change",
+      "causes",
+      "spread"
+    ],
+    [
+      "climate change",
+      "disrupting",
+      "natural cycles"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "animals"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "food sources"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "habitats"
+    ],
+    [
+      "climate change",
+      "impacts",
+      "well-being"
+    ],
+    [
+      "climate change",
+      "leading to",
+      "extreme weather events"
+    ],
+    [
+      "climate change",
+      "poses",
+      "threat"
+    ],
+    [
+      "climate change",
+      "threatens",
+      "survival"
+    ],
+    [
+      "conditions",
+      "favor",
+      "organisms"
+    ],
+    [
+      "conservation organizations",
+      "reduce",
+      "greenhouse gas emissions"
+    ],
+    [
+      "coral bleaching",
+      "reduces",
+      "fish"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "food"
+    ],
+    [
+      "coral reefs",
+      "provide",
+      "shelter"
+    ],
+    [
+      "devastating effects",
+      "displace",
+      "animals"
+    ],
+    [
+      "devastating effects",
+      "impact",
+      "animal populations"
+    ],
+    [
+      "devastating effects",
+      "impact",
+      "habitats"
+    ],
+    [
+      "devastating effects",
+      "reduce",
+      "access"
+    ],
+    [
+      "distances",
+      "leading to",
+      "reproductive success"
+    ],
+    [
+      "distances",
+      "leading to",
+      "stress"
+    ],
+    [
+      "essay",
+      "explore",
+      "effects"
+    ],
+    [
+      "extreme weather events",
+      "have",
+      "devastating effects"
+    ],
+    [
+      "extreme weather events",
+      "include",
+      "droughts"
+    ],
+    [
+      "extreme weather events",
+      "include",
+      "hurricanes"
+    ],
+    [
+      "extreme weather events",
+      "include",
+      "wildfires"
+    ],
+    [
+      "fish",
+      "rely on",
+      "coral reefs"
+    ],
+    [
+      "global temperatures",
+      "rise",
+      "weather patterns"
+    ],
+    [
+      "governments",
+      "reduce",
+      "greenhouse gas emissions"
+    ],
+    [
+      "individuals",
+      "reduce",
+      "greenhouse gas emissions"
+    ],
+    [
+      "koalas",
+      "pushed",
+      "brink"
+    ],
+    [
+      "ocean temperatures",
+      "causing",
+      "coral bleaching"
+    ],
+    [
+      "organisms",
+      "cause",
+      "outbreaks"
+    ],
+    [
+      "polar bears",
+      "facing",
+      "loss"
+    ],
+    [
+      "polar bears",
+      "travel",
+      "distances"
+    ],
+    [
+      "pressure",
+      "on",
+      "animal populations"
+    ],
+    [
+      "pressure",
+      "on",
+      "creatures"
+    ],
+    [
+      "pressure",
+      "on",
+      "planet"
+    ],
+    [
+      "ranges",
+      "shift",
+      "elevations"
+    ],
+    [
+      "ranges",
+      "shift",
+      "temperatures"
+    ],
+    [
+      "sea ice",
+      "melts",
+      "warming temperatures"
+    ],
+    [
+      "spread",
+      "linked to",
+      "diseases"
+    ],
+    [
+      "spread",
+      "linked to",
+      "parasites"
+    ],
+    [
+      "strategies",
+      "help",
+      "animals"
+    ],
+    [
+      "weather patterns",
+      "become",
+      "challenges"
+    ],
+    [
+      "white-nose syndrome",
+      "affects",
+      "bats"
+    ],
+    [
+      "wildfires",
+      "decimated",
+      "koalas"
+    ],
+    [
+      "wildfires",
+      "decimated",
+      "wildlife"
+    ],
+    [
+      "wildfires",
+      "ravaged",
+      "australia"
+    ],
+    [
+      "winters",
+      "allow",
+      "fungus"
+    ]
+  ],
+  "edges": [
+    "affects",
+    "allow",
+    "alter",
+    "become",
+    "cause",
+    "causes",
+    "causing",
+    "decimated",
+    "displace",
+    "disrupted by",
+    "disrupting",
+    "disrupts",
+    "explore",
+    "facing",
+    "favor",
+    "have",
+    "help",
+    "impact",
+    "impacts",
+    "include",
+    "leading to",
+    "leads to",
+    "linked to",
+    "melts",
+    "mitigate",
+    "needed for",
+    "on",
+    "poses",
+    "protects",
+    "provide",
+    "pushed",
+    "pushing",
+    "ravaged",
+    "reduce",
+    "reduces",
+    "rely on",
+    "rise",
+    "shift",
+    "threatens",
+    "travel"
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "entities": [
+    "aesthetically pleasing",
+    "air quality",
+    "architecture",
+    "australia",
+    "authority",
+    "barriers",
+    "buildings",
+    "built environment",
+    "burj khalifa",
+    "carbon footprint",
+    "character",
+    "cities",
+    "city",
+    "civilizations",
+    "climate change",
+    "columns",
+    "communities",
+    "community engagement",
+    "conclusion",
+    "connectivity",
+    "construction",
+    "crime",
+    "decline",
+    "design",
+    "detect",
+    "development",
+    "dubai",
+    "economic development",
+    "economically sustainable",
+    "economy",
+    "energy consumption",
+    "energy-efficient",
+    "environment",
+    "environmentally responsible",
+    "essay",
+    "experience",
+    "explore",
+    "force",
+    "functional",
+    "glass",
+    "government offices",
+    "green spaces",
+    "greenery",
+    "greenhouse gas emissions",
+    "habitat",
+    "homes",
+    "houses",
+    "iconic buildings",
+    "impact",
+    "inclusive",
+    "individuals",
+    "influences",
+    "innovation",
+    "interact",
+    "investment",
+    "isolation",
+    "jobs",
+    "layout",
+    "libraries",
+    "library",
+    "lines",
+    "live",
+    "materials",
+    "modernist",
+    "modernity",
+    "move",
+    "museums",
+    "neglected",
+    "neighborhoods",
+    "openness",
+    "outcomes",
+    "ownership",
+    "park",
+    "parks",
+    "pedestrian safety",
+    "power",
+    "prey",
+    "pride",
+    "priorities",
+    "public spaces",
+    "quality of life",
+    "residential areas",
+    "residents",
+    "resilient",
+    "revenue",
+    "role",
+    "roof",
+    "schools",
+    "seating",
+    "sense",
+    "shapes",
+    "sharks",
+    "sidewalks",
+    "social cohesion",
+    "social interaction",
+    "socially equitable",
+    "society",
+    "squares",
+    "stability",
+    "street",
+    "streets",
+    "style",
+    "sustainability",
+    "sustainable materials",
+    "sydney opera house",
+    "symbolic value",
+    "symbols",
+    "technologies",
+    "tourism",
+    "tourist attractions",
+    "tradition",
+    "transform",
+    "unrest",
+    "urban blight",
+    "urban forests",
+    "urban heat islands",
+    "urban spaces",
+    "values",
+    "visitors",
+    "ways",
+    "wildlife",
+    "work"
+  ],
+  "relations": [
+    [
+      "architecture",
+      "can",
+      "transform"
+    ],
+    [
+      "architecture",
+      "create",
+      "inclusive"
+    ],
+    [
+      "architecture",
+      "create",
+      "resilient"
+    ],
+    [
+      "architecture",
+      "impact on",
+      "communities"
+    ],
+    [
+      "architecture",
+      "impact on",
+      "environment"
+    ],
+    [
+      "architecture",
+      "impact on",
+      "individuals"
+    ],
+    [
+      "architecture",
+      "impact on",
+      "sustainability"
+    ],
+    [
+      "architecture",
+      "influence",
+      "economic development"
+    ],
+    [
+      "architecture",
+      "influences",
+      "design"
+    ],
+    [
+      "architecture",
+      "influences",
+      "development"
+    ],
+    [
+      "architecture",
+      "influences",
+      "society"
+    ],
+    [
+      "architecture",
+      "is",
+      "aesthetically pleasing"
+    ],
+    [
+      "architecture",
+      "is",
+      "economically sustainable"
+    ],
+    [
+      "architecture",
+      "is",
+      "environmentally responsible"
+    ],
+    [
+      "architecture",
+      "is",
+      "functional"
+    ],
+    [
+      "architecture",
+      "is",
+      "socially equitable"
+    ],
+    [
+      "architecture",
+      "played role in",
+      "character"
+    ],
+    [
+      "architecture",
+      "recognized as",
+      "force"
+    ],
+    [
+      "architecture",
+      "shapes",
+      "built environment"
+    ],
+    [
+      "buildings",
+      "attract",
+      "investment"
+    ],
+    [
+      "buildings",
+      "attract",
+      "tourism"
+    ],
+    [
+      "buildings",
+      "boost",
+      "economy"
+    ],
+    [
+      "buildings",
+      "create",
+      "jobs"
+    ],
+    [
+      "buildings",
+      "have",
+      "symbolic value"
+    ],
+    [
+      "buildings",
+      "include",
+      "government offices"
+    ],
+    [
+      "buildings",
+      "include",
+      "libraries"
+    ],
+    [
+      "buildings",
+      "include",
+      "museums"
+    ],
+    [
+      "buildings",
+      "include",
+      "schools"
+    ],
+    [
+      "buildings",
+      "serve as",
+      "symbols"
+    ],
+    [
+      "buildings",
+      "shape",
+      "interact"
+    ],
+    [
+      "built environment",
+      "includes",
+      "residential areas"
+    ],
+    [
+      "burj khalifa",
+      "located in",
+      "dubai"
+    ],
+    [
+      "city",
+      "includes",
+      "parks"
+    ],
+    [
+      "city",
+      "includes",
+      "sidewalks"
+    ],
+    [
+      "city",
+      "includes",
+      "squares"
+    ],
+    [
+      "city",
+      "includes",
+      "streets"
+    ],
+    [
+      "conclusion",
+      "states",
+      "architecture"
+    ],
+    [
+      "construction",
+      "contributes to",
+      "energy consumption"
+    ],
+    [
+      "construction",
+      "contributes to",
+      "greenhouse gas emissions"
+    ],
+    [
+      "design",
+      "convey",
+      "sense"
+    ],
+    [
+      "design",
+      "impact on",
+      "quality of life"
+    ],
+    [
+      "energy-efficient",
+      "mitigate",
+      "climate change"
+    ],
+    [
+      "energy-efficient",
+      "reduce",
+      "carbon footprint"
+    ],
+    [
+      "essay",
+      "explore",
+      "ways"
+    ],
+    [
+      "force",
+      "shapes",
+      "interact"
+    ],
+    [
+      "force",
+      "shapes",
+      "live"
+    ],
+    [
+      "force",
+      "shapes",
+      "work"
+    ],
+    [
+      "government offices",
+      "have",
+      "columns"
+    ],
+    [
+      "government offices",
+      "have",
+      "roof"
+    ],
+    [
+      "government offices",
+      "project",
+      "power"
+    ],
+    [
+      "government offices",
+      "project",
+      "stability"
+    ],
+    [
+      "green spaces",
+      "enhance",
+      "quality of life"
+    ],
+    [
+      "green spaces",
+      "improve",
+      "air quality"
+    ],
+    [
+      "green spaces",
+      "provide",
+      "habitat"
+    ],
+    [
+      "green spaces",
+      "reduce",
+      "urban heat islands"
+    ],
+    [
+      "houses",
+      "built with",
+      "materials"
+    ],
+    [
+      "houses",
+      "contribute to",
+      "crime"
+    ],
+    [
+      "houses",
+      "contribute to",
+      "isolation"
+    ],
+    [
+      "houses",
+      "contribute to",
+      "outcomes"
+    ],
+    [
+      "houses",
+      "lead to",
+      "social cohesion"
+    ],
+    [
+      "houses",
+      "promote",
+      "ownership"
+    ],
+    [
+      "houses",
+      "promote",
+      "pride"
+    ],
+    [
+      "iconic buildings",
+      "are",
+      "tourist attractions"
+    ],
+    [
+      "iconic buildings",
+      "include",
+      "burj khalifa"
+    ],
+    [
+      "iconic buildings",
+      "include",
+      "sydney opera house"
+    ],
+    [
+      "layout",
+      "influences",
+      "experience"
+    ],
+    [
+      "layout",
+      "influences",
+      "move"
+    ],
+    [
+      "layout",
+      "influences",
+      "urban spaces"
+    ],
+    [
+      "library",
+      "have",
+      "glass"
+    ],
+    [
+      "library",
+      "have",
+      "lines"
+    ],
+    [
+      "library",
+      "signal",
+      "innovation"
+    ],
+    [
+      "library",
+      "signal",
+      "openness"
+    ],
+    [
+      "modernist",
+      "describes",
+      "library"
+    ],
+    [
+      "neglected",
+      "lead to",
+      "decline"
+    ],
+    [
+      "neglected",
+      "lead to",
+      "unrest"
+    ],
+    [
+      "neglected",
+      "lead to",
+      "urban blight"
+    ],
+    [
+      "park",
+      "encourage",
+      "community engagement"
+    ],
+    [
+      "park",
+      "encourage",
+      "social interaction"
+    ],
+    [
+      "park",
+      "have",
+      "greenery"
+    ],
+    [
+      "park",
+      "have",
+      "seating"
+    ],
+    [
+      "public spaces",
+      "include",
+      "buildings"
+    ],
+    [
+      "residential areas",
+      "include",
+      "homes"
+    ],
+    [
+      "residential areas",
+      "include",
+      "neighborhoods"
+    ],
+    [
+      "residents",
+      "live in",
+      "homes"
+    ],
+    [
+      "sense",
+      "include",
+      "authority"
+    ],
+    [
+      "sense",
+      "include",
+      "modernity"
+    ],
+    [
+      "sense",
+      "include",
+      "tradition"
+    ],
+    [
+      "street",
+      "create",
+      "barriers"
+    ],
+    [
+      "street",
+      "create",
+      "connectivity"
+    ],
+    [
+      "street",
+      "create",
+      "pedestrian safety"
+    ],
+    [
+      "style",
+      "influences",
+      "sense"
+    ],
+    [
+      "sydney opera house",
+      "located in",
+      "australia"
+    ],
+    [
+      "symbols",
+      "represent",
+      "priorities"
+    ],
+    [
+      "symbols",
+      "represent",
+      "values"
+    ],
+    [
+      "tourist attractions",
+      "draw",
+      "visitors"
+    ],
+    [
+      "tourist attractions",
+      "generate",
+      "revenue"
+    ]
+  ],
+  "edges": [
+    "are",
+    "attract",
+    "boost",
+    "built with",
+    "can",
+    "contribute to",
+    "contributes to",
+    "convey",
+    "create",
+    "describes",
+    "draw",
+    "encourage",
+    "enhance",
+    "explore",
+    "generate",
+    "have",
+    "impact on",
+    "improve",
+    "include",
+    "includes",
+    "influence",
+    "influences",
+    "is",
+    "lead to",
+    "live in",
+    "located in",
+    "mitigate",
+    "played role in",
+    "project",
+    "promote",
+    "provide",
+    "recognized as",
+    "reduce",
+    "represent",
+    "serve as",
+    "shape",
+    "shapes",
+    "signal",
+    "states"
+  ]
+}

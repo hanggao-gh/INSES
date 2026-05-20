@@ -1,0 +1,565 @@
+{
+  "entities": [
+    "abuse",
+    "advancements",
+    "affront",
+    "arguments",
+    "armies",
+    "benefits",
+    "boundaries",
+    "challenges",
+    "characteristics",
+    "clone",
+    "commodities",
+    "compassion",
+    "concern",
+    "conclusion",
+    "conditions",
+    "consent",
+    "consequences",
+    "considerations",
+    "controversial",
+    "copy",
+    "creator",
+    "critics",
+    "decision-making",
+    "designer babies",
+    "detect",
+    "dialogue",
+    "dignity",
+    "dilemmas",
+    "discovery",
+    "divine",
+    "emotions",
+    "essay",
+    "ethicists",
+    "ethics",
+    "experiences",
+    "experiments",
+    "exploitation",
+    "fascination",
+    "fears",
+    "genetic diseases",
+    "genetic makeup",
+    "genetic material",
+    "healthcare",
+    "higher power",
+    "hubristic endeavor",
+    "human cloning",
+    "identical twins",
+    "identities",
+    "identity",
+    "implications",
+    "individuality",
+    "individuals",
+    "innovation",
+    "inquiry",
+    "integrity",
+    "issue",
+    "knowledge",
+    "life",
+    "limits",
+    "lives",
+    "manipulating",
+    "medicine",
+    "misused",
+    "moral",
+    "morality",
+    "nature",
+    "nefarious purposes",
+    "objects",
+    "obligations",
+    "order",
+    "organ harvesting",
+    "organs",
+    "oversight",
+    "patient-specific stem cells",
+    "person",
+    "personal identity",
+    "perspectives",
+    "policymakers",
+    "power",
+    "prey",
+    "principles",
+    "progress",
+    "proponents",
+    "public",
+    "purposes",
+    "pursuit",
+    "quality of life",
+    "questions",
+    "reflection",
+    "regenerative therapies",
+    "regulations",
+    "religious questions",
+    "replica",
+    "research",
+    "researchers",
+    "respect",
+    "responsibly",
+    "resurrecting",
+    "role",
+    "sanctity",
+    "scenarios",
+    "scientists",
+    "sharks",
+    "soldiers",
+    "spirituality",
+    "technology",
+    "terrain",
+    "thoughts",
+    "topic",
+    "traditions",
+    "traits",
+    "transplantation",
+    "treatment",
+    "treatments",
+    "uncertainties",
+    "understanding",
+    "unique",
+    "uniqueness",
+    "violation",
+    "way",
+    "well-being",
+    "work"
+  ],
+  "relations": [
+    [
+      "advancements",
+      "in",
+      "technology"
+    ],
+    [
+      "benefits",
+      "of",
+      "research"
+    ],
+    [
+      "benefits",
+      "of",
+      "treatment"
+    ],
+    [
+      "clone",
+      "is",
+      "affront"
+    ],
+    [
+      "clone",
+      "is",
+      "copy"
+    ],
+    [
+      "clone",
+      "is",
+      "hubristic endeavor"
+    ],
+    [
+      "clone",
+      "is",
+      "person"
+    ],
+    [
+      "clone",
+      "is",
+      "replica"
+    ],
+    [
+      "clone",
+      "is",
+      "violation"
+    ],
+    [
+      "concern",
+      "among",
+      "policymakers"
+    ],
+    [
+      "concern",
+      "among",
+      "public"
+    ],
+    [
+      "concern",
+      "among",
+      "scientists"
+    ],
+    [
+      "conclusion",
+      "are",
+      "challenges"
+    ],
+    [
+      "conclusion",
+      "are",
+      "uncertainties"
+    ],
+    [
+      "considerations",
+      "remain",
+      "questions"
+    ],
+    [
+      "critics",
+      "argue",
+      "dignity"
+    ],
+    [
+      "critics",
+      "argue",
+      "uniqueness"
+    ],
+    [
+      "critics",
+      "reduce",
+      "commodities"
+    ],
+    [
+      "critics",
+      "reduce",
+      "objects"
+    ],
+    [
+      "dilemmas",
+      "demand",
+      "decision-making"
+    ],
+    [
+      "dilemmas",
+      "demand",
+      "reflection"
+    ],
+    [
+      "essay",
+      "examines",
+      "arguments"
+    ],
+    [
+      "essay",
+      "explores",
+      "considerations"
+    ],
+    [
+      "ethicists",
+      "argue",
+      "implications"
+    ],
+    [
+      "fascination",
+      "among",
+      "policymakers"
+    ],
+    [
+      "fascination",
+      "among",
+      "public"
+    ],
+    [
+      "fascination",
+      "among",
+      "scientists"
+    ],
+    [
+      "fears",
+      "about",
+      "armies"
+    ],
+    [
+      "fears",
+      "about",
+      "nefarious purposes"
+    ],
+    [
+      "fears",
+      "about",
+      "resurrecting"
+    ],
+    [
+      "genetic diseases",
+      "and",
+      "treatments"
+    ],
+    [
+      "hubristic endeavor",
+      "challenges",
+      "boundaries"
+    ],
+    [
+      "hubristic endeavor",
+      "challenges",
+      "consequences"
+    ],
+    [
+      "human cloning",
+      "could have",
+      "healthcare"
+    ],
+    [
+      "human cloning",
+      "could have",
+      "medicine"
+    ],
+    [
+      "human cloning",
+      "is",
+      "controversial"
+    ],
+    [
+      "human cloning",
+      "raises",
+      "abuse"
+    ],
+    [
+      "human cloning",
+      "raises",
+      "exploitation"
+    ],
+    [
+      "human cloning",
+      "raises",
+      "moral"
+    ],
+    [
+      "human cloning",
+      "raises",
+      "questions"
+    ],
+    [
+      "human cloning",
+      "raises",
+      "religious questions"
+    ],
+    [
+      "identical twins",
+      "lead",
+      "lives"
+    ],
+    [
+      "identical twins",
+      "share",
+      "genetic makeup"
+    ],
+    [
+      "identity",
+      "must be",
+      "dignity"
+    ],
+    [
+      "identity",
+      "must be",
+      "well-being"
+    ],
+    [
+      "individuality",
+      "and",
+      "personal identity"
+    ],
+    [
+      "individuals",
+      "suffering from",
+      "conditions"
+    ],
+    [
+      "limits",
+      "of",
+      "inquiry"
+    ],
+    [
+      "manipulating",
+      "of",
+      "genetic material"
+    ],
+    [
+      "misused",
+      "for",
+      "purposes"
+    ],
+    [
+      "obligations",
+      "to",
+      "discovery"
+    ],
+    [
+      "obligations",
+      "to",
+      "progress"
+    ],
+    [
+      "organs",
+      "for",
+      "transplantation"
+    ],
+    [
+      "patient-specific stem cells",
+      "for",
+      "regenerative therapies"
+    ],
+    [
+      "proponents",
+      "contend",
+      "emotions"
+    ],
+    [
+      "proponents",
+      "contend",
+      "experiences"
+    ],
+    [
+      "proponents",
+      "contend",
+      "identities"
+    ],
+    [
+      "proponents",
+      "contend",
+      "thoughts"
+    ],
+    [
+      "purposes",
+      "such as",
+      "designer babies"
+    ],
+    [
+      "purposes",
+      "such as",
+      "experiments"
+    ],
+    [
+      "purposes",
+      "such as",
+      "organ harvesting"
+    ],
+    [
+      "pursuit",
+      "of",
+      "innovation"
+    ],
+    [
+      "pursuit",
+      "of",
+      "knowledge"
+    ],
+    [
+      "questions",
+      "about",
+      "consequences"
+    ],
+    [
+      "questions",
+      "about",
+      "identity"
+    ],
+    [
+      "questions",
+      "about",
+      "nature"
+    ],
+    [
+      "questions",
+      "about",
+      "sanctity"
+    ],
+    [
+      "researchers",
+      "could improve",
+      "quality of life"
+    ],
+    [
+      "researchers",
+      "could revolutionize",
+      "healthcare"
+    ],
+    [
+      "respect",
+      "and",
+      "compassion"
+    ],
+    [
+      "respect",
+      "and",
+      "integrity"
+    ],
+    [
+      "resurrecting",
+      "without",
+      "consent"
+    ],
+    [
+      "role",
+      "of",
+      "creator"
+    ],
+    [
+      "scenarios",
+      "highlight",
+      "oversight"
+    ],
+    [
+      "scenarios",
+      "highlight",
+      "regulations"
+    ],
+    [
+      "scenarios",
+      "highlight",
+      "responsibly"
+    ],
+    [
+      "technology",
+      "could be",
+      "misused"
+    ],
+    [
+      "technology",
+      "forces",
+      "questions"
+    ],
+    [
+      "terrain",
+      "of",
+      "principles"
+    ],
+    [
+      "understanding",
+      "of",
+      "morality"
+    ],
+    [
+      "understanding",
+      "of",
+      "spirituality"
+    ]
+  ],
+  "edges": [
+    "about",
+    "among",
+    "and",
+    "are",
+    "argue",
+    "challenges",
+    "contend",
+    "could be",
+    "could have",
+    "could improve",
+    "could revolutionize",
+    "demand",
+    "examines",
+    "explores",
+    "for",
+    "forces",
+    "highlight",
+    "in",
+    "is",
+    "lead",
+    "must be",
+    "of",
+    "raises",
+    "reduce",
+    "remain",
+    "share",
+    "such as",
+    "suffering from",
+    "to",
+    "without"
+  ]
+}

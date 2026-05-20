@@ -1,0 +1,23 @@
+{
+  "entities": [
+    "FILM EDITOR",
+    "FILM EDITING",
+    "ROUGH CUT"
+  ],
+  "relations": [
+    [
+      "FILM EDITING",
+      "The rough cut is the first step in the film editing process, serving as the foundation for the final film",
+      "ROUGH CUT"
+    ],
+    [
+      "FILM EDITING",
+      "The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative",
+      "FILM EDITOR"
+    ]
+  ],
+  "edges": [
+    "The rough cut is the first step in the film editing process, serving as the foundation for the final film",
+    "The film editor is crucial in the film editing process, manipulating timing, pace, and rhythm to create a compelling narrative"
+  ]
+}

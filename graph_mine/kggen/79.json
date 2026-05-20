@@ -1,0 +1,582 @@
+{
+  "entities": [
+    "activities",
+    "air pollution",
+    "alternative energy sources",
+    "ancient times",
+    "bacteria",
+    "baking",
+    "benefit",
+    "boiling",
+    "ceramics",
+    "ceremonies",
+    "civilization",
+    "civilizations",
+    "cold nights",
+    "communication",
+    "community",
+    "companion",
+    "conclusion",
+    "control",
+    "cooking",
+    "cooking methods",
+    "cooperation",
+    "crafts",
+    "culinary arts",
+    "cultural diversity",
+    "culture",
+    "darkness",
+    "deforestation",
+    "deity",
+    "destruction",
+    "detect",
+    "development",
+    "diet",
+    "discovery",
+    "dishes",
+    "diversification",
+    "divine",
+    "economic growth",
+    "electricity",
+    "engines",
+    "environment",
+    "environmental challenges",
+    "evolution",
+    "expressions",
+    "fibers",
+    "fire",
+    "food culture",
+    "foundation",
+    "generations",
+    "guidance",
+    "harness",
+    "health",
+    "homes",
+    "human history",
+    "impact",
+    "importance",
+    "industries",
+    "innovation",
+    "light",
+    "lives",
+    "mark",
+    "meals",
+    "modern times",
+    "mystical powers",
+    "nutrition",
+    "open flame",
+    "palatable",
+    "pottery",
+    "prey",
+    "productivity",
+    "progress",
+    "protection",
+    "renewal",
+    "resource",
+    "responsibly",
+    "restaurants",
+    "rituals",
+    "roasting",
+    "role",
+    "sacred element",
+    "sectors",
+    "sharks",
+    "shelters",
+    "significance",
+    "skills",
+    "smelt metals",
+    "social aspect",
+    "social structures",
+    "societies",
+    "society",
+    "spirituality",
+    "sustainable future",
+    "sustainable practices",
+    "symbol",
+    "technologies",
+    "technology",
+    "tool-making",
+    "tools",
+    "transformative properties",
+    "waking hours",
+    "warmth",
+    "weapons",
+    "well-being"
+  ],
+  "relations": [
+    [
+      "civilizations",
+      "attributed",
+      "mystical powers"
+    ],
+    [
+      "civilizations",
+      "worshipped",
+      "deity"
+    ],
+    [
+      "civilizations",
+      "worshipped",
+      "sacred element"
+    ],
+    [
+      "control",
+      "allowed",
+      "smelt metals"
+    ],
+    [
+      "control",
+      "enabled",
+      "technologies"
+    ],
+    [
+      "control",
+      "enabled",
+      "tools"
+    ],
+    [
+      "control",
+      "enabled",
+      "weapons"
+    ],
+    [
+      "cooking methods",
+      "allow for",
+      "dishes"
+    ],
+    [
+      "cooking methods",
+      "include",
+      "baking"
+    ],
+    [
+      "cooking methods",
+      "include",
+      "boiling"
+    ],
+    [
+      "cooking methods",
+      "include",
+      "roasting"
+    ],
+    [
+      "discovery",
+      "allowed",
+      "productivity"
+    ],
+    [
+      "discovery",
+      "allowed",
+      "waking hours"
+    ],
+    [
+      "discovery",
+      "laid the foundation for",
+      "civilization"
+    ],
+    [
+      "discovery",
+      "led to",
+      "activities"
+    ],
+    [
+      "discovery",
+      "led to",
+      "ceramics"
+    ],
+    [
+      "discovery",
+      "led to",
+      "crafts"
+    ],
+    [
+      "discovery",
+      "led to",
+      "pottery"
+    ],
+    [
+      "discovery",
+      "led to",
+      "skills"
+    ],
+    [
+      "dishes",
+      "reflect",
+      "cultural diversity"
+    ],
+    [
+      "fire",
+      "companion to",
+      "human history"
+    ],
+    [
+      "fire",
+      "crucial role in",
+      "industries"
+    ],
+    [
+      "fire",
+      "crucial role in",
+      "modern times"
+    ],
+    [
+      "fire",
+      "crucial role in",
+      "sectors"
+    ],
+    [
+      "fire",
+      "crucial role in",
+      "society"
+    ],
+    [
+      "fire",
+      "drives",
+      "economic growth"
+    ],
+    [
+      "fire",
+      "enables",
+      "cooking"
+    ],
+    [
+      "fire",
+      "enables",
+      "tool-making"
+    ],
+    [
+      "fire",
+      "enabling",
+      "expressions"
+    ],
+    [
+      "fire",
+      "ensure",
+      "generations"
+    ],
+    [
+      "fire",
+      "ensure",
+      "sustainable future"
+    ],
+    [
+      "fire",
+      "essential element in",
+      "progress"
+    ],
+    [
+      "fire",
+      "essential for",
+      "cold nights"
+    ],
+    [
+      "fire",
+      "essential for",
+      "darkness"
+    ],
+    [
+      "fire",
+      "essential for",
+      "shelters"
+    ],
+    [
+      "fire",
+      "essential in",
+      "ancient times"
+    ],
+    [
+      "fire",
+      "generates",
+      "electricity"
+    ],
+    [
+      "fire",
+      "harness for",
+      "benefit"
+    ],
+    [
+      "fire",
+      "has",
+      "transformative properties"
+    ],
+    [
+      "fire",
+      "highlights need for",
+      "alternative energy sources"
+    ],
+    [
+      "fire",
+      "highlights need for",
+      "sustainable practices"
+    ],
+    [
+      "fire",
+      "indispensable",
+      "resource"
+    ],
+    [
+      "fire",
+      "influencing",
+      "lives"
+    ],
+    [
+      "fire",
+      "instrumental in",
+      "innovation"
+    ],
+    [
+      "fire",
+      "instrumental in",
+      "technology"
+    ],
+    [
+      "fire",
+      "leads to",
+      "air pollution"
+    ],
+    [
+      "fire",
+      "leads to",
+      "deforestation"
+    ],
+    [
+      "fire",
+      "leads to",
+      "environmental challenges"
+    ],
+    [
+      "fire",
+      "left a mark on",
+      "civilization"
+    ],
+    [
+      "fire",
+      "means of",
+      "communication"
+    ],
+    [
+      "fire",
+      "means of",
+      "divine"
+    ],
+    [
+      "fire",
+      "means of",
+      "guidance"
+    ],
+    [
+      "fire",
+      "means of",
+      "protection"
+    ],
+    [
+      "fire",
+      "paved the way for",
+      "cooking methods"
+    ],
+    [
+      "fire",
+      "paved the way for",
+      "culinary arts"
+    ],
+    [
+      "fire",
+      "paved the way for",
+      "food culture"
+    ],
+    [
+      "fire",
+      "played a crucial role in",
+      "diet"
+    ],
+    [
+      "fire",
+      "played a crucial role in",
+      "evolution"
+    ],
+    [
+      "fire",
+      "played a crucial role in",
+      "human history"
+    ],
+    [
+      "fire",
+      "played a crucial role in",
+      "nutrition"
+    ],
+    [
+      "fire",
+      "powers",
+      "engines"
+    ],
+    [
+      "fire",
+      "provides",
+      "light"
+    ],
+    [
+      "fire",
+      "provides",
+      "protection"
+    ],
+    [
+      "fire",
+      "provides",
+      "warmth"
+    ],
+    [
+      "fire",
+      "provides heat in",
+      "homes"
+    ],
+    [
+      "fire",
+      "represents",
+      "destruction"
+    ],
+    [
+      "fire",
+      "represents",
+      "renewal"
+    ],
+    [
+      "fire",
+      "revolutionized",
+      "environment"
+    ],
+    [
+      "fire",
+      "shaping",
+      "evolution"
+    ],
+    [
+      "fire",
+      "symbol in",
+      "culture"
+    ],
+    [
+      "fire",
+      "symbol in",
+      "spirituality"
+    ],
+    [
+      "fire",
+      "use it",
+      "responsibly"
+    ],
+    [
+      "fire",
+      "used for cooking in",
+      "restaurants"
+    ],
+    [
+      "fire",
+      "used in",
+      "ceremonies"
+    ],
+    [
+      "fire",
+      "used in",
+      "rituals"
+    ],
+    [
+      "open flame",
+      "allows for",
+      "diversification"
+    ],
+    [
+      "open flame",
+      "breaks down",
+      "fibers"
+    ],
+    [
+      "open flame",
+      "improves",
+      "health"
+    ],
+    [
+      "open flame",
+      "improves",
+      "well-being"
+    ],
+    [
+      "open flame",
+      "kills",
+      "bacteria"
+    ],
+    [
+      "open flame",
+      "made food",
+      "palatable"
+    ],
+    [
+      "social aspect",
+      "fosters",
+      "community"
+    ],
+    [
+      "social aspect",
+      "fosters",
+      "cooperation"
+    ],
+    [
+      "social aspect",
+      "fosters",
+      "meals"
+    ],
+    [
+      "social aspect",
+      "lays the groundwork for",
+      "social structures"
+    ]
+  ],
+  "edges": [
+    "allow for",
+    "allowed",
+    "allows for",
+    "attributed",
+    "breaks down",
+    "companion to",
+    "crucial role in",
+    "drives",
+    "enabled",
+    "enables",
+    "enabling",
+    "ensure",
+    "essential element in",
+    "essential for",
+    "essential in",
+    "fosters",
+    "generates",
+    "harness for",
+    "has",
+    "highlights need for",
+    "improves",
+    "include",
+    "indispensable",
+    "influencing",
+    "instrumental in",
+    "kills",
+    "laid the foundation for",
+    "lays the groundwork for",
+    "leads to",
+    "led to",
+    "left a mark on",
+    "made food",
+    "means of",
+    "paved the way for",
+    "played a crucial role in",
+    "powers",
+    "provides",
+    "provides heat in",
+    "reflect",
+    "represents",
+    "revolutionized",
+    "shaping",
+    "symbol in",
+    "use it",
+    "used for cooking in",
+    "used in",
+    "worshipped"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Transportation is crucial for human civilization development.",
+    "retrieved_context": "transportation played a role in development. development of human civilization. personal transportation more affordable. human civilization establish communities. space travel shaped by emerging technologies. space travel becoming reality. trade routes connected regions. civilizations establish trade routes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Transportation systems connect people, goods, and ideas over long distances.",
+    "retrieved_context": "transportation played a role in development. development of human civilization. personal transportation more affordable. railway networks enabled goods. passengers in pods.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Walking was one of the earliest forms of transportation.",
+    "retrieved_context": "walking was forms. transportation played a role in development. development of human civilization. personal transportation more affordable. wheeled carts transport loads.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Animals like horses, camels, and oxen were used for transportation in ancient times.",
+    "retrieved_context": "animals carry passengers. passengers in pods. animals carry goods. transportation played a role in development. development of human civilization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the wheel led to wheeled carts and chariots for transportation.",
+    "retrieved_context": "wheeled carts transport loads. transportation played a role in development. wheel revolutionized transportation. transportation played a role in development. development of human civilization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sailing ships enabled travel across oceans and exploration of new lands.",
+    "retrieved_context": "sailing ships explore lands. steamships revolutionized sea. space travel shaped by emerging technologies. space travel becoming reality.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Steam engine revolutionized land and sea travel in the 18th century.",
+    "retrieved_context": "steam engine marked turning point. steamships revolutionized sea. steam-powered locomotives revolutionized land. sailing ships explore lands. 20th century saw automobiles. 20th century saw airplanes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Steam-powered locomotives and steamships made transportation faster and more reliable.",
+    "retrieved_context": "steam-powered locomotives revolutionized land. steamships revolutionized sea. steam engine marked turning point. transportation played a role in development. development of human civilization. railway networks enabled goods. sailing ships explore lands.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Automobiles and airplanes became dominant modes of transportation in the 20th century.",
+    "retrieved_context": "20th century saw automobiles. 20th century saw airplanes. transportation played a role in development. development of human civilization. personal transportation more affordable. commercial aviation made cities. passengers in pods.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Mass production of automobiles made personal transportation more affordable.",
+    "retrieved_context": "personal transportation more affordable. transportation played a role in development. development of human civilization. companies like ford. companies like spacex. mass production by companies. companies like blue origin. companies like general motors.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Commercial aviation enabled long-distance travel in a matter of hours.",
+    "retrieved_context": "commercial aviation made cities. commercial spaceflight pioneering space tourism. space travel shaped by emerging technologies. space travel becoming reality. interplanetary travel raises exploration. interplanetary travel raises colonization.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in technology led to the development of ride-sharing services and electric vehicles.",
+    "retrieved_context": "personal transportation more affordable. transportation played a role in development. development of human civilization. wheeled carts transport loads. passengers in pods.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Hyperloop trains aim to transport passengers in high-speed pods through vacuum tubes.",
+    "retrieved_context": "hyperloop trains shaped by emerging technologies. hyperloop technology proposed by elon musk. space travel shaped by emerging technologies. space travel becoming reality. passengers in pods.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Drones are used for delivery services and aerial surveys in transportation.",
+    "retrieved_context": "drones used for aerial surveys. drones shaped by emerging technologies. drones used for delivery services. commercial aviation made cities. commercial spaceflight pioneering space tourism. autonomous vehicles holds promise.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space travel is becoming a reality with companies like SpaceX and Blue Origin.",
+    "retrieved_context": "space travel shaped by emerging technologies. space travel becoming reality. commercial spaceflight pioneering space tourism. interplanetary travel raises exploration. interplanetary travel raises colonization. transportation played a role in development. development of human civilization.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

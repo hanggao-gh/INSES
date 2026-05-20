@@ -1,0 +1,91 @@
+{
+  "entities": [
+    "RELIGIOUS TEXTS",
+    "ANCIENT EGYPT",
+    "MUMMIFICATION",
+    "PROFESSIONAL MOURNERS",
+    "PRIESTS",
+    "PHARAOHS",
+    "EMBALMERS",
+    "AMULETS",
+    "PYRAMIDS AT GIZA",
+    "TOMBS",
+    "BOOK OF THE DEAD"
+  ],
+  "relations": [
+    [
+      "ANCIENT EGYPT",
+      "The Pyramids at Giza were constructed in Ancient Egypt as part of their burial practices",
+      "PYRAMIDS AT GIZA"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Mummification was a crucial aspect of Ancient Egyptian burial practices",
+      "MUMMIFICATION"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "The Book of the Dead was a significant part of burial practices in ancient Egypt",
+      "BOOK OF THE DEAD"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Priests played a crucial role in the burial process in ancient Egypt",
+      "PRIESTS"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Embalming, conducted by embalmers, was essential for preparing the deceased for the afterlife in ancient Egypt",
+      "EMBALMERS"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Professional mourners were part of the funeral traditions in ancient Egypt",
+      "PROFESSIONAL MOURNERS"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Religious texts were integral to ancient Egyptian burial practices to ensure safe passage into the afterlife",
+      "RELIGIOUS TEXTS"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Amulets were used in ancient Egypt as part of the burial practices to protect the deceased in the afterlife",
+      "AMULETS"
+    ],
+    [
+      "MUMMIFICATION",
+      "Mummification was performed to preserve bodies that were then placed in tombs",
+      "TOMBS"
+    ],
+    [
+      "PHARAOHS",
+      "Tombs, including the pyramids at Giza, were specifically built to house pharaohs in the afterlife",
+      "TOMBS"
+    ],
+    [
+      "BOOK OF THE DEAD",
+      "The Book of the Dead is one of the most well-known religious texts found in Egyptian tombs",
+      "RELIGIOUS TEXTS"
+    ],
+    [
+      "BOOK OF THE DEAD",
+      "Amulets, like the Book of the Dead, were used to guide and protect the deceased in the afterlife",
+      "AMULETS"
+    ]
+  ],
+  "edges": [
+    "The Pyramids at Giza were constructed in Ancient Egypt as part of their burial practices",
+    "Mummification was a crucial aspect of Ancient Egyptian burial practices",
+    "The Book of the Dead was a significant part of burial practices in ancient Egypt",
+    "Priests played a crucial role in the burial process in ancient Egypt",
+    "Embalming, conducted by embalmers, was essential for preparing the deceased for the afterlife in ancient Egypt",
+    "Professional mourners were part of the funeral traditions in ancient Egypt",
+    "Religious texts were integral to ancient Egyptian burial practices to ensure safe passage into the afterlife",
+    "Amulets were used in ancient Egypt as part of the burial practices to protect the deceased in the afterlife",
+    "Mummification was performed to preserve bodies that were then placed in tombs",
+    "Tombs, including the pyramids at Giza, were specifically built to house pharaohs in the afterlife",
+    "The Book of the Dead is one of the most well-known religious texts found in Egyptian tombs",
+    "Amulets, like the Book of the Dead, were used to guide and protect the deceased in the afterlife"
+  ]
+}

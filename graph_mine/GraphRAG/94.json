@@ -1,0 +1,64 @@
+{
+  "entities": [
+    "SPACE TOURISM",
+    "SCIENTIFIC RESEARCH",
+    "SPACE TRAVEL",
+    "VIRGIN GALACTIC",
+    "ENVIRONMENTAL CONSERVATION",
+    "MARS",
+    "SPACEX",
+    "BLUE ORIGIN"
+  ],
+  "relations": [
+    [
+      "SPACE TOURISM",
+      "SpaceX is a key driver in the development and affordability of space tourism, playing a pivotal role in the industry's evolution. Through its efforts in creating reusable rockets and spacecraft, SpaceX is laying the groundwork for a sustainable future of space tourism. This innovative approach not only reduces the cost of space travel but also significantly impacts the accessibility and environmental footprint of space exploration. As a result, SpaceX's contributions are crucial for the ongoing expansion and viability of space tourism, making it an integral player in making space travel more accessible to the public.",
+      "SPACEX"
+    ],
+    [
+      "SPACE TOURISM",
+      "Blue Origin is playing a significant role in the evolution of space tourism by contributing to advancements in space transportation technology. The company's development of reusable rockets and spacecraft is not only pushing the boundaries of what is possible in space exploration but also contributes to the sustainability and accessibility of space tourism. Through these innovations, Blue Origin is impacting the future of space travel, making it more feasible and environmentally friendly.",
+      "BLUE ORIGIN"
+    ],
+    [
+      "SPACE TOURISM",
+      "Virgin Galactic is actively involved in making space tourism a reality for civilians",
+      "VIRGIN GALACTIC"
+    ],
+    [
+      "SPACE TOURISM",
+      "Space tourism serves as a platform for scientific research, allowing for experiments and data collection in space",
+      "SCIENTIFIC RESEARCH"
+    ],
+    [
+      "SPACE TOURISM",
+      "The future of space tourism includes a focus on sustainability and environmental conservation to ensure eco-friendly space travel",
+      "ENVIRONMENTAL CONSERVATION"
+    ],
+    [
+      "SPACEX",
+      "SpaceX is working on creating habitats on Mars, indicating a direct relationship between the organization and the geo entity in the context of space tourism",
+      "MARS"
+    ],
+    [
+      "SCIENTIFIC RESEARCH",
+      "Scientific research benefits from advancements in space travel, enabling more in-depth studies and exploration",
+      "SPACE TRAVEL"
+    ],
+    [
+      "ENVIRONMENTAL CONSERVATION",
+      "Environmental conservation efforts in space travel aim to develop sustainable practices that reduce the ecological footprint of space exploration",
+      "SPACE TRAVEL"
+    ]
+  ],
+  "edges": [
+    "SpaceX is a key driver in the development and affordability of space tourism, playing a pivotal role in the industry's evolution. Through its efforts in creating reusable rockets and spacecraft, SpaceX is laying the groundwork for a sustainable future of space tourism. This innovative approach not only reduces the cost of space travel but also significantly impacts the accessibility and environmental footprint of space exploration. As a result, SpaceX's contributions are crucial for the ongoing expansion and viability of space tourism, making it an integral player in making space travel more accessible to the public.",
+    "Blue Origin is playing a significant role in the evolution of space tourism by contributing to advancements in space transportation technology. The company's development of reusable rockets and spacecraft is not only pushing the boundaries of what is possible in space exploration but also contributes to the sustainability and accessibility of space tourism. Through these innovations, Blue Origin is impacting the future of space travel, making it more feasible and environmentally friendly.",
+    "Virgin Galactic is actively involved in making space tourism a reality for civilians",
+    "Space tourism serves as a platform for scientific research, allowing for experiments and data collection in space",
+    "The future of space tourism includes a focus on sustainability and environmental conservation to ensure eco-friendly space travel",
+    "SpaceX is working on creating habitats on Mars, indicating a direct relationship between the organization and the geo entity in the context of space tourism",
+    "Scientific research benefits from advancements in space travel, enabling more in-depth studies and exploration",
+    "Environmental conservation efforts in space travel aim to develop sustainable practices that reduce the ecological footprint of space exploration"
+  ]
+}

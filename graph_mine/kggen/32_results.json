@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Time zones shape the way we perceive and organize time across the world.",
+    "retrieved_context": "time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive. greenwich meridian chosen as prime meridian.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The concept of time zones evolved over centuries to standardize time measurement.",
+    "retrieved_context": "time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Time zones synchronize activities across vast distances.",
+    "retrieved_context": "time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive. railway time marked regional.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The need for time zones arose with the expansion of global trade and transportation networks.",
+    "retrieved_context": "time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive. railway time marked regional.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Communities used local solar time before standardized time measurement.",
+    "retrieved_context": "time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Trains and telegraphs highlighted the inefficiencies of using local time across long distances.",
+    "retrieved_context": "railway time marked regional. telegraphs highlighted inefficiencies. trains highlighted inefficiencies. rail travel became widespread.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The introduction of standard time in the mid-19th century marked a major development in timekeeping.",
+    "retrieved_context": "time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive. railway time marked regional.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Railway Time was adopted by British railway companies in 1847.",
+    "retrieved_context": "railway time marked regional. british railway companies adopted railway time. railway time marked regional. rail travel became widespread. trains highlighted inefficiencies. time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive. gmt established as reference point.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sir Sandford Fleming proposed dividing the world into 24 time zones in the late 19th century.",
+    "retrieved_context": "sir sandford fleming proposed dividing. time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive. greenwich meridian chosen as prime meridian.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The International Meridian Conference in 1884 agreed to adopt a system of standard time zones based on Greenwich Mean Time.",
+    "retrieved_context": "greenwich meridian chosen as prime meridian. time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive. international meridian conference held in washington, d.c..",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Greenwich Meridian in London was chosen as the Prime Meridian for coordinating time globally.",
+    "retrieved_context": "greenwich meridian chosen as prime meridian. international meridian conference held in washington, d.c.. time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The world was divided into 24 time zones, each spanning 15 degrees of longitude.",
+    "retrieved_context": "time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive. greenwich meridian chosen as prime meridian. international meridian conference held in washington, d.c..",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Daylight Saving Time (DST) was introduced in the early 20th century to extend daylight hours.",
+    "retrieved_context": "dst advancing clocks. time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "DST was first implemented during World War I to conserve energy.",
+    "retrieved_context": "dst advancing clocks. gmt established as reference point.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advances in technology and communication have made coordinating time across different time zones easier.",
+    "retrieved_context": "time zones shaping organize. time zones shaping interact. time zones integral daily lives. time zones played a crucial role perceive. railway time marked regional.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "13.33%"
+  }
+]

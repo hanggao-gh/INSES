@@ -1,0 +1,592 @@
+{
+  "entities": [
+    "accessibility",
+    "advancements",
+    "adventure",
+    "affordability",
+    "attractive",
+    "blue origin",
+    "breakthroughs",
+    "broader range",
+    "carbon footprint",
+    "challenges",
+    "civilians",
+    "collaboration",
+    "competition",
+    "conclusion",
+    "convenient",
+    "cost",
+    "demand",
+    "detect",
+    "development",
+    "discoveries",
+    "dream",
+    "earth's orbit",
+    "eco-friendly technologies",
+    "efficient",
+    "environmental conservation",
+    "exorbitant",
+    "experience",
+    "experiences",
+    "experiments",
+    "exploration",
+    "facilitate",
+    "factor",
+    "faster",
+    "fields",
+    "frontiers",
+    "future",
+    "gather data",
+    "growth",
+    "idea",
+    "impact",
+    "individuals",
+    "infrastructure",
+    "innovative",
+    "integrity",
+    "interest",
+    "journey",
+    "key drivers",
+    "leisure",
+    "living spaces",
+    "long run",
+    "longer stays",
+    "mars",
+    "opportunities",
+    "option",
+    "outer space",
+    "participation",
+    "passengers",
+    "people",
+    "perceive",
+    "platform",
+    "possibilities",
+    "potential",
+    "practices",
+    "preserve",
+    "prey",
+    "prices",
+    "private space companies",
+    "promise",
+    "reality",
+    "recreational activities",
+    "redefine",
+    "relationship",
+    "researchers",
+    "reusable rockets",
+    "revolutionize",
+    "rise",
+    "science fiction novels",
+    "scientific research",
+    "scientists",
+    "sharks",
+    "shift",
+    "sophisticated",
+    "space enthusiasts",
+    "space habitats",
+    "space hotels",
+    "space tourism",
+    "space transportation technology",
+    "space travel",
+    "spacecraft",
+    "spacex",
+    "stars",
+    "sustainability",
+    "sustainable",
+    "technology",
+    "transforming",
+    "transporting",
+    "travel adventures",
+    "travelers",
+    "traveling",
+    "understanding",
+    "universe",
+    "venture",
+    "viable option",
+    "virgin galactic"
+  ],
+  "relations": [
+    [
+      "accessibility",
+      "to",
+      "broader range"
+    ],
+    [
+      "advancements",
+      "in",
+      "space transportation technology"
+    ],
+    [
+      "advancements",
+      "in",
+      "technology"
+    ],
+    [
+      "affordability",
+      "making",
+      "accessibility"
+    ],
+    [
+      "affordability",
+      "of",
+      "space travel"
+    ],
+    [
+      "affordability",
+      "to",
+      "innovative"
+    ],
+    [
+      "attractive",
+      "option for",
+      "travelers"
+    ],
+    [
+      "breakthroughs",
+      "in",
+      "fields"
+    ],
+    [
+      "broader range",
+      "of",
+      "people"
+    ],
+    [
+      "civilians",
+      "conduct",
+      "experiments"
+    ],
+    [
+      "civilians",
+      "experience",
+      "space tourism"
+    ],
+    [
+      "civilians",
+      "gather",
+      "understanding"
+    ],
+    [
+      "civilians",
+      "venture into",
+      "space tourism"
+    ],
+    [
+      "collaboration",
+      "between",
+      "researchers"
+    ],
+    [
+      "collaboration",
+      "between",
+      "scientists"
+    ],
+    [
+      "collaboration",
+      "between",
+      "space enthusiasts"
+    ],
+    [
+      "collaboration",
+      "leading to",
+      "breakthroughs"
+    ],
+    [
+      "collaboration",
+      "leading to",
+      "discoveries"
+    ],
+    [
+      "competition",
+      "among",
+      "private space companies"
+    ],
+    [
+      "competition",
+      "driving down",
+      "prices"
+    ],
+    [
+      "conclusion",
+      "filled with",
+      "possibilities"
+    ],
+    [
+      "cost",
+      "of",
+      "space tourism"
+    ],
+    [
+      "cost",
+      "traditionally been",
+      "exorbitant"
+    ],
+    [
+      "demand",
+      "for",
+      "space travel"
+    ],
+    [
+      "development",
+      "of",
+      "infrastructure"
+    ],
+    [
+      "development",
+      "of",
+      "space habitats"
+    ],
+    [
+      "eco-friendly technologies",
+      "and",
+      "practices"
+    ],
+    [
+      "efficient",
+      "means of",
+      "transporting"
+    ],
+    [
+      "experience",
+      "of",
+      "outer space"
+    ],
+    [
+      "factor",
+      "shaping",
+      "development"
+    ],
+    [
+      "faster",
+      "and",
+      "efficient"
+    ],
+    [
+      "frontiers",
+      "for",
+      "adventure"
+    ],
+    [
+      "frontiers",
+      "for",
+      "exploration"
+    ],
+    [
+      "future",
+      "holds",
+      "experience"
+    ],
+    [
+      "future",
+      "holds",
+      "potential"
+    ],
+    [
+      "future",
+      "holds",
+      "promise"
+    ],
+    [
+      "future",
+      "presents",
+      "challenges"
+    ],
+    [
+      "future",
+      "presents",
+      "opportunities"
+    ],
+    [
+      "future",
+      "set to",
+      "redefine"
+    ],
+    [
+      "growth",
+      "in",
+      "interest"
+    ],
+    [
+      "idea",
+      "of",
+      "traveling"
+    ],
+    [
+      "impact",
+      "of",
+      "space tourism"
+    ],
+    [
+      "individuals",
+      "consider",
+      "space tourism"
+    ],
+    [
+      "innovative",
+      "space habitats",
+      "future"
+    ],
+    [
+      "integrity",
+      "of",
+      "outer space"
+    ],
+    [
+      "interest",
+      "and",
+      "participation"
+    ],
+    [
+      "journey",
+      "to",
+      "stars"
+    ],
+    [
+      "key drivers",
+      "of",
+      "affordability"
+    ],
+    [
+      "opportunities",
+      "for",
+      "environmental conservation"
+    ],
+    [
+      "opportunities",
+      "for",
+      "sustainability"
+    ],
+    [
+      "participation",
+      "in",
+      "space tourism"
+    ],
+    [
+      "platform",
+      "for",
+      "collaboration"
+    ],
+    [
+      "possibilities",
+      "for",
+      "growth"
+    ],
+    [
+      "potential",
+      "for",
+      "transforming"
+    ],
+    [
+      "practices",
+      "to minimize",
+      "carbon footprint"
+    ],
+    [
+      "practices",
+      "to preserve",
+      "integrity"
+    ],
+    [
+      "private space companies",
+      "include",
+      "blue origin"
+    ],
+    [
+      "private space companies",
+      "include",
+      "spacex"
+    ],
+    [
+      "private space companies",
+      "include",
+      "virgin galactic"
+    ],
+    [
+      "promise",
+      "for",
+      "exploration"
+    ],
+    [
+      "promise",
+      "for",
+      "scientific research"
+    ],
+    [
+      "redefine",
+      "our",
+      "relationship"
+    ],
+    [
+      "relationship",
+      "offer",
+      "frontiers"
+    ],
+    [
+      "relationship",
+      "with",
+      "outer space"
+    ],
+    [
+      "reusable rockets",
+      "and",
+      "spacecraft"
+    ],
+    [
+      "reusable rockets",
+      "make",
+      "sustainable"
+    ],
+    [
+      "reusable rockets",
+      "reduce",
+      "cost"
+    ],
+    [
+      "revolutionize",
+      "the way we",
+      "traveling"
+    ],
+    [
+      "rise",
+      "of",
+      "private space companies"
+    ],
+    [
+      "shift",
+      "towards",
+      "affordability"
+    ],
+    [
+      "sophisticated",
+      "and",
+      "sustainable"
+    ],
+    [
+      "space hotels",
+      "facilitate",
+      "experiences"
+    ],
+    [
+      "space hotels",
+      "facilitate",
+      "longer stays"
+    ],
+    [
+      "space hotels",
+      "facilitate",
+      "recreational activities"
+    ],
+    [
+      "space hotels",
+      "in",
+      "earth's orbit"
+    ],
+    [
+      "space tourism",
+      "as",
+      "attractive"
+    ],
+    [
+      "space tourism",
+      "as",
+      "convenient"
+    ],
+    [
+      "space tourism",
+      "as",
+      "viable option"
+    ],
+    [
+      "space tourism",
+      "becoming",
+      "reality"
+    ],
+    [
+      "space transportation technology",
+      "set to",
+      "revolutionize"
+    ],
+    [
+      "sustainable",
+      "in",
+      "long run"
+    ],
+    [
+      "sustainable",
+      "living spaces",
+      "mars"
+    ],
+    [
+      "transforming",
+      "the way we",
+      "experience"
+    ],
+    [
+      "transforming",
+      "the way we",
+      "perceive"
+    ],
+    [
+      "transporting",
+      "passengers",
+      "space tourism"
+    ],
+    [
+      "traveling",
+      "confined to",
+      "science fiction novels"
+    ],
+    [
+      "traveling",
+      "to",
+      "leisure"
+    ],
+    [
+      "understanding",
+      "of",
+      "universe"
+    ]
+  ],
+  "edges": [
+    "among",
+    "and",
+    "as",
+    "becoming",
+    "between",
+    "conduct",
+    "confined to",
+    "consider",
+    "driving down",
+    "experience",
+    "facilitate",
+    "filled with",
+    "for",
+    "gather",
+    "holds",
+    "in",
+    "include",
+    "leading to",
+    "living spaces",
+    "make",
+    "making",
+    "means of",
+    "of",
+    "offer",
+    "option for",
+    "our",
+    "passengers",
+    "presents",
+    "reduce",
+    "set to",
+    "shaping",
+    "space habitats",
+    "the way we",
+    "to",
+    "to minimize",
+    "to preserve",
+    "towards",
+    "traditionally been",
+    "venture into",
+    "with"
+  ]
+}

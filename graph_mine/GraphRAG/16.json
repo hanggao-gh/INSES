@@ -1,0 +1,52 @@
+{
+  "entities": [
+    "KING MIDAS",
+    "NATURAL PHENOMENA",
+    "MYTHS",
+    "GREEK MYTHOLOGY",
+    "ANCIENT TIMES",
+    "HADES",
+    "SOCIETIES",
+    "DEMETER AND PERSEPHONE"
+  ],
+  "relations": [
+    [
+      "MYTHS",
+      "Myths have shaped societies by explaining the unknown, providing moral guidance, reinforcing social norms, and offering comfort",
+      "SOCIETIES"
+    ],
+    [
+      "MYTHS",
+      "The tale of King Midas is a myth that serves as a moral lesson against greed",
+      "KING MIDAS"
+    ],
+    [
+      "MYTHS",
+      "In ancient times, myths were used to explain natural phenomena and the unknown",
+      "ANCIENT TIMES"
+    ],
+    [
+      "MYTHS",
+      "Myths were often created to make sense of natural phenomena, such as the changing seasons and the movement of celestial bodies",
+      "NATURAL PHENOMENA"
+    ],
+    [
+      "DEMETER AND PERSEPHONE",
+      "The myth of Demeter and Persephone is part of Greek mythology, explaining the seasons",
+      "GREEK MYTHOLOGY"
+    ],
+    [
+      "DEMETER AND PERSEPHONE",
+      "Hades' abduction of Persephone is a central event in the myth explaining the cycle of seasons",
+      "HADES"
+    ]
+  ],
+  "edges": [
+    "Myths have shaped societies by explaining the unknown, providing moral guidance, reinforcing social norms, and offering comfort",
+    "The tale of King Midas is a myth that serves as a moral lesson against greed",
+    "In ancient times, myths were used to explain natural phenomena and the unknown",
+    "Myths were often created to make sense of natural phenomena, such as the changing seasons and the movement of celestial bodies",
+    "The myth of Demeter and Persephone is part of Greek mythology, explaining the seasons",
+    "Hades' abduction of Persephone is a central event in the myth explaining the cycle of seasons"
+  ]
+}

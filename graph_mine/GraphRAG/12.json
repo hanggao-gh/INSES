@@ -1,0 +1,85 @@
+{
+  "entities": [
+    "ANCIENT EGYPT",
+    "ANCIENT ROME",
+    "ANCIENT GREECE",
+    "HARRY HOUDINI",
+    "DAVID COPPERFIELD",
+    "JOHN DEE",
+    "GIROLAMO CARDANO",
+    "PENN & TELLER",
+    "MIDDLE AGES",
+    "RENAISSANCE",
+    "JEAN EUG\u00c8NE ROBERT-HOUDIN"
+  ],
+  "relations": [
+    [
+      "ANCIENT EGYPT",
+      "The evolution of magic from Ancient Egypt's religious ceremonies to the mystical performances of the Middle Ages",
+      "MIDDLE AGES"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Jean Eug\u00e8ne Robert-Houdin's art of magic was influenced by the foundational elements of magic that originated in Ancient Egypt",
+      "JEAN EUG\u00c8NE ROBERT-HOUDIN"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Harry Houdini's performances were part of the evolution of magic that has its roots in Ancient Egypt",
+      "HARRY HOUDINI"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "David Copperfield's sophisticated illusions are part of the long history of magic that began in Ancient Egypt",
+      "DAVID COPPERFIELD"
+    ],
+    [
+      "ANCIENT EGYPT",
+      "Penn & Teller's innovative magic tricks are a continuation of the magical traditions that started in Ancient Egypt",
+      "PENN & TELLER"
+    ],
+    [
+      "ANCIENT GREECE",
+      "Both Ancient Greece and Ancient Rome contributed to the development of magic tricks with public performances",
+      "ANCIENT ROME"
+    ],
+    [
+      "MIDDLE AGES",
+      "The transition from the mystical and occult magic of the Middle Ages to the scientifically influenced magic of the Renaissance",
+      "RENAISSANCE"
+    ],
+    [
+      "RENAISSANCE",
+      "John Dee was a prominent figure in the resurgence of magic during the Renaissance, using science and math in his acts",
+      "JOHN DEE"
+    ],
+    [
+      "RENAISSANCE",
+      "Girolamo Cardano contributed to the Renaissance's interest in magic with his performances that included scientific and mathematical elements",
+      "GIROLAMO CARDANO"
+    ],
+    [
+      "JEAN EUG\u00c8NE ROBERT-HOUDIN",
+      "Both magicians revolutionized the art of magic in the 19th century with their performances",
+      "HARRY HOUDINI"
+    ],
+    [
+      "DAVID COPPERFIELD",
+      "Both magicians are known for their sophisticated and technologically advanced magic tricks in the 20th century",
+      "PENN & TELLER"
+    ]
+  ],
+  "edges": [
+    "The evolution of magic from Ancient Egypt's religious ceremonies to the mystical performances of the Middle Ages",
+    "Jean Eug\u00e8ne Robert-Houdin's art of magic was influenced by the foundational elements of magic that originated in Ancient Egypt",
+    "Harry Houdini's performances were part of the evolution of magic that has its roots in Ancient Egypt",
+    "David Copperfield's sophisticated illusions are part of the long history of magic that began in Ancient Egypt",
+    "Penn & Teller's innovative magic tricks are a continuation of the magical traditions that started in Ancient Egypt",
+    "Both Ancient Greece and Ancient Rome contributed to the development of magic tricks with public performances",
+    "The transition from the mystical and occult magic of the Middle Ages to the scientifically influenced magic of the Renaissance",
+    "John Dee was a prominent figure in the resurgence of magic during the Renaissance, using science and math in his acts",
+    "Girolamo Cardano contributed to the Renaissance's interest in magic with his performances that included scientific and mathematical elements",
+    "Both magicians revolutionized the art of magic in the 19th century with their performances",
+    "Both magicians are known for their sophisticated and technologically advanced magic tricks in the 20th century"
+  ]
+}

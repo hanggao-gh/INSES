@@ -1,0 +1,90 @@
+{
+  "entities": [
+    "SUN",
+    "CUMULUS CLOUDS",
+    "WATER VAPOR",
+    "AIR CURRENTS",
+    "CUMULONIMBUS CLOUDS",
+    "STRATUS CLOUDS",
+    "CLOUDS",
+    "DEW POINT",
+    "CIRRUS CLOUDS",
+    "EARTH"
+  ],
+  "relations": [
+    [
+      "CLOUDS",
+      "Clouds form as a result of the warming of the Earth's surface by the sun",
+      "EARTH"
+    ],
+    [
+      "CLOUDS",
+      "The sun's rays initiate the warming process that leads to cloud formation",
+      "SUN"
+    ],
+    [
+      "CLOUDS",
+      "Cumulus clouds are a specific type of cloud that can be observed in the sky",
+      "CUMULUS CLOUDS"
+    ],
+    [
+      "CLOUDS",
+      "Stratus clouds are formed under certain conditions related to cloud formation processes",
+      "STRATUS CLOUDS"
+    ],
+    [
+      "CLOUDS",
+      "Cirrus clouds represent another type of cloud that forms in the atmosphere",
+      "CIRRUS CLOUDS"
+    ],
+    [
+      "CLOUDS",
+      "Water vapor condenses to form clouds when the air reaches its dew point",
+      "WATER VAPOR"
+    ],
+    [
+      "CLOUDS",
+      "Air currents play a significant role in the formation and types of clouds",
+      "AIR CURRENTS"
+    ],
+    [
+      "CLOUDS",
+      "Reaching the dew point is crucial for the condensation process that forms clouds",
+      "DEW POINT"
+    ],
+    [
+      "CUMULUS CLOUDS",
+      "Cumulus clouds can develop into cumulonimbus clouds, which are associated with more severe weather like thunderstorms",
+      "CUMULONIMBUS CLOUDS"
+    ],
+    [
+      "CUMULUS CLOUDS",
+      "Both cumulus and stratus clouds form through the process of condensation but under different conditions",
+      "STRATUS CLOUDS"
+    ],
+    [
+      "CUMULUS CLOUDS",
+      "Cumulus and cirrus clouds represent different stages and conditions of cloud formation",
+      "CIRRUS CLOUDS"
+    ],
+    [
+      "STRATUS CLOUDS",
+      "Stratus and cirrus clouds form in different layers of the atmosphere and under different atmospheric conditions",
+      "CIRRUS CLOUDS"
+    ]
+  ],
+  "edges": [
+    "Clouds form as a result of the warming of the Earth's surface by the sun",
+    "The sun's rays initiate the warming process that leads to cloud formation",
+    "Cumulus clouds are a specific type of cloud that can be observed in the sky",
+    "Stratus clouds are formed under certain conditions related to cloud formation processes",
+    "Cirrus clouds represent another type of cloud that forms in the atmosphere",
+    "Water vapor condenses to form clouds when the air reaches its dew point",
+    "Air currents play a significant role in the formation and types of clouds",
+    "Reaching the dew point is crucial for the condensation process that forms clouds",
+    "Cumulus clouds can develop into cumulonimbus clouds, which are associated with more severe weather like thunderstorms",
+    "Both cumulus and stratus clouds form through the process of condensation but under different conditions",
+    "Cumulus and cirrus clouds represent different stages and conditions of cloud formation",
+    "Stratus and cirrus clouds form in different layers of the atmosphere and under different atmospheric conditions"
+  ]
+}

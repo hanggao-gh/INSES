@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "PHYSICS",
+    "CHEMISTRY",
+    "CHROMATOGRAPHY",
+    "MICROSCOPY",
+    "DNA PROFILING",
+    "MATHEMATICS",
+    "SPECTROSCOPY",
+    "FORENSIC SCIENCE",
+    "CRIMINAL JUSTICE SYSTEM",
+    "BIOLOGY"
+  ],
+  "relations": [
+    [
+      "FORENSIC SCIENCE",
+      "Forensic science provides evidence that aids in the investigation and prosecution within the criminal justice system",
+      "CRIMINAL JUSTICE SYSTEM"
+    ],
+    [
+      "FORENSIC SCIENCE",
+      "DNA profiling is one of the techniques used in forensic science to analyze physical evidence",
+      "DNA PROFILING"
+    ],
+    [
+      "FORENSIC SCIENCE",
+      "Biology is one of the disciplines that forensic science uses to analyze evidence",
+      "BIOLOGY"
+    ],
+    [
+      "FORENSIC SCIENCE",
+      "Chemistry is utilized in forensic science for evidence analysis",
+      "CHEMISTRY"
+    ],
+    [
+      "FORENSIC SCIENCE",
+      "Physics is incorporated into forensic science for evidence examination",
+      "PHYSICS"
+    ],
+    [
+      "FORENSIC SCIENCE",
+      "Mathematics is used in forensic science for evidence analysis and crime solving",
+      "MATHEMATICS"
+    ],
+    [
+      "FORENSIC SCIENCE",
+      "Microscopy is a technique used in forensic science for evidence collection and analysis",
+      "MICROSCOPY"
+    ],
+    [
+      "FORENSIC SCIENCE",
+      "Spectroscopy is employed in forensic science for the analysis of evidence",
+      "SPECTROSCOPY"
+    ],
+    [
+      "FORENSIC SCIENCE",
+      "Chromatography is a technique used in forensic science for analyzing complex mixtures",
+      "CHROMATOGRAPHY"
+    ]
+  ],
+  "edges": [
+    "Forensic science provides evidence that aids in the investigation and prosecution within the criminal justice system",
+    "DNA profiling is one of the techniques used in forensic science to analyze physical evidence",
+    "Biology is one of the disciplines that forensic science uses to analyze evidence",
+    "Chemistry is utilized in forensic science for evidence analysis",
+    "Physics is incorporated into forensic science for evidence examination",
+    "Mathematics is used in forensic science for evidence analysis and crime solving",
+    "Microscopy is a technique used in forensic science for evidence collection and analysis",
+    "Spectroscopy is employed in forensic science for the analysis of evidence",
+    "Chromatography is a technique used in forensic science for analyzing complex mixtures"
+  ]
+}

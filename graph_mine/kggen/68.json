@@ -1,0 +1,515 @@
+{
+  "entities": [
+    "1697",
+    "ages",
+    "audiences",
+    "beauty and the beast",
+    "bravery",
+    "brothers",
+    "brothers grimm",
+    "cannibalistic",
+    "centuries",
+    "characters",
+    "charles perrault",
+    "children",
+    "cinderella",
+    "collecting",
+    "collections",
+    "conclusion",
+    "countryside",
+    "creation",
+    "creatures",
+    "culture",
+    "cultures",
+    "detect",
+    "dwarfs",
+    "early 19th century",
+    "elements",
+    "enduring",
+    "european",
+    "experience",
+    "exterior",
+    "fairy godmother",
+    "fairytales",
+    "folklore",
+    "forest",
+    "galatea",
+    "generations",
+    "german",
+    "glass slipper",
+    "grimm's fairy tales",
+    "hansel and gretel",
+    "history",
+    "house",
+    "insights",
+    "italian",
+    "jacob grimm",
+    "king",
+    "lessons",
+    "life",
+    "listeners",
+    "love",
+    "midnight",
+    "mystery",
+    "myths",
+    "nature",
+    "origins",
+    "ovid",
+    "parents",
+    "peasants",
+    "poet",
+    "popular",
+    "prey",
+    "prince",
+    "princess",
+    "protagonists",
+    "publishing",
+    "pygmalion",
+    "queen",
+    "readers",
+    "rhodopis",
+    "roman",
+    "scholars",
+    "sculptor",
+    "sharks",
+    "siblings",
+    "slavic",
+    "slipper",
+    "snow white",
+    "statue",
+    "stepmother",
+    "stories",
+    "storytelling",
+    "sweets",
+    "themes",
+    "time",
+    "traditions",
+    "transformation",
+    "variations",
+    "villagers",
+    "wilhelm grimm",
+    "wit",
+    "witch",
+    "witches",
+    "woman",
+    "woods",
+    "world"
+  ],
+  "relations": [
+    [
+      "beauty and the beast",
+      "traced back to",
+      "history"
+    ],
+    [
+      "beauty and the beast",
+      "traced back to",
+      "myths"
+    ],
+    [
+      "brothers",
+      "are",
+      "scholars"
+    ],
+    [
+      "brothers",
+      "began",
+      "collecting"
+    ],
+    [
+      "brothers",
+      "began",
+      "publishing"
+    ],
+    [
+      "brothers",
+      "gathering",
+      "stories"
+    ],
+    [
+      "brothers",
+      "traveled throughout",
+      "countryside"
+    ],
+    [
+      "brothers grimm",
+      "collection",
+      "grimm's fairy tales"
+    ],
+    [
+      "charles perrault",
+      "in",
+      "1697"
+    ],
+    [
+      "charles perrault",
+      "introduced",
+      "fairy godmother"
+    ],
+    [
+      "charles perrault",
+      "introduced",
+      "glass slipper"
+    ],
+    [
+      "charles perrault",
+      "introduced",
+      "midnight"
+    ],
+    [
+      "charles perrault",
+      "published",
+      "cinderella"
+    ],
+    [
+      "children",
+      "outsmarting",
+      "witches"
+    ],
+    [
+      "cinderella",
+      "told in",
+      "traditions"
+    ],
+    [
+      "cinderella",
+      "told in",
+      "variations"
+    ],
+    [
+      "creation",
+      "is",
+      "statue"
+    ],
+    [
+      "fairytales",
+      "captivating",
+      "audiences"
+    ],
+    [
+      "fairytales",
+      "feature",
+      "creatures"
+    ],
+    [
+      "fairytales",
+      "feature",
+      "lessons"
+    ],
+    [
+      "fairytales",
+      "feature",
+      "protagonists"
+    ],
+    [
+      "fairytales",
+      "have been",
+      "storytelling"
+    ],
+    [
+      "fairytales",
+      "offer",
+      "experience"
+    ],
+    [
+      "fairytales",
+      "offer",
+      "insights"
+    ],
+    [
+      "grimm's fairy tales",
+      "includes",
+      "cinderella"
+    ],
+    [
+      "grimm's fairy tales",
+      "includes",
+      "hansel and gretel"
+    ],
+    [
+      "grimm's fairy tales",
+      "includes",
+      "snow white"
+    ],
+    [
+      "hansel and gretel",
+      "collected by",
+      "brothers grimm"
+    ],
+    [
+      "hansel and gretel",
+      "originated from",
+      "european"
+    ],
+    [
+      "house",
+      "belonging to",
+      "cannibalistic"
+    ],
+    [
+      "house",
+      "made of",
+      "sweets"
+    ],
+    [
+      "jacob grimm",
+      "is",
+      "brothers"
+    ],
+    [
+      "king",
+      "finds",
+      "slipper"
+    ],
+    [
+      "lessons",
+      "passed down through",
+      "generations"
+    ],
+    [
+      "origins",
+      "rooted in",
+      "folklore"
+    ],
+    [
+      "origins",
+      "rooted in",
+      "myths"
+    ],
+    [
+      "origins",
+      "rooted in",
+      "traditions"
+    ],
+    [
+      "origins",
+      "shrouded in",
+      "folklore"
+    ],
+    [
+      "origins",
+      "shrouded in",
+      "mystery"
+    ],
+    [
+      "ovid",
+      "wrote about",
+      "pygmalion"
+    ],
+    [
+      "princess",
+      "escape",
+      "stepmother"
+    ],
+    [
+      "princess",
+      "forced to flee into",
+      "forest"
+    ],
+    [
+      "pygmalion",
+      "falls in love with",
+      "creation"
+    ],
+    [
+      "rhodopis",
+      "marries",
+      "king"
+    ],
+    [
+      "siblings",
+      "abandoned in",
+      "woods"
+    ],
+    [
+      "siblings",
+      "by",
+      "parents"
+    ],
+    [
+      "siblings",
+      "outsmart",
+      "witch"
+    ],
+    [
+      "snow white",
+      "collected by",
+      "brothers grimm"
+    ],
+    [
+      "snow white",
+      "finds",
+      "prince"
+    ],
+    [
+      "snow white",
+      "found in",
+      "traditions"
+    ],
+    [
+      "snow white",
+      "found in",
+      "variations"
+    ],
+    [
+      "snow white",
+      "help of",
+      "dwarfs"
+    ],
+    [
+      "snow white",
+      "published in",
+      "grimm's fairy tales"
+    ],
+    [
+      "statue",
+      "comes to",
+      "life"
+    ],
+    [
+      "stepmother",
+      "is",
+      "queen"
+    ],
+    [
+      "stories",
+      "beloved by",
+      "audiences"
+    ],
+    [
+      "stories",
+      "enchant",
+      "listeners"
+    ],
+    [
+      "stories",
+      "enchant",
+      "readers"
+    ],
+    [
+      "stories",
+      "endured",
+      "time"
+    ],
+    [
+      "stories",
+      "from",
+      "peasants"
+    ],
+    [
+      "stories",
+      "from",
+      "villagers"
+    ],
+    [
+      "stories",
+      "known and loved around",
+      "world"
+    ],
+    [
+      "stories",
+      "passed down verbally for",
+      "generations"
+    ],
+    [
+      "stories",
+      "preserve",
+      "culture"
+    ],
+    [
+      "stories",
+      "preserve",
+      "traditions"
+    ],
+    [
+      "stories",
+      "with",
+      "characters"
+    ],
+    [
+      "stories",
+      "with",
+      "elements"
+    ],
+    [
+      "stories",
+      "with",
+      "lessons"
+    ],
+    [
+      "storytelling",
+      "connect us across",
+      "cultures"
+    ],
+    [
+      "storytelling",
+      "connect us across",
+      "time"
+    ],
+    [
+      "wilhelm grimm",
+      "is",
+      "brothers"
+    ],
+    [
+      "woman",
+      "discovers",
+      "prince"
+    ],
+    [
+      "woman",
+      "sees beyond",
+      "exterior"
+    ]
+  ],
+  "edges": [
+    "abandoned in",
+    "are",
+    "began",
+    "belonging to",
+    "beloved by",
+    "by",
+    "captivating",
+    "collected by",
+    "collection",
+    "comes to",
+    "connect us across",
+    "discovers",
+    "enchant",
+    "endured",
+    "escape",
+    "falls in love with",
+    "feature",
+    "finds",
+    "forced to flee into",
+    "found in",
+    "from",
+    "gathering",
+    "have been",
+    "help of",
+    "in",
+    "includes",
+    "introduced",
+    "is",
+    "known and loved around",
+    "made of",
+    "marries",
+    "offer",
+    "originated from",
+    "outsmart",
+    "outsmarting",
+    "passed down through",
+    "passed down verbally for",
+    "preserve",
+    "published",
+    "published in",
+    "rooted in",
+    "sees beyond",
+    "shrouded in",
+    "told in",
+    "traced back to",
+    "traveled throughout",
+    "with",
+    "wrote about"
+  ]
+}

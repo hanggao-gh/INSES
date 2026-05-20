@@ -1,0 +1,354 @@
+{
+  "entities": [
+    "absurdities",
+    "action",
+    "actions",
+    "ages",
+    "audience",
+    "audiences",
+    "awareness",
+    "background",
+    "barriers",
+    "beliefs",
+    "bond",
+    "boundaries",
+    "camaraderie",
+    "catalyst",
+    "challenges",
+    "change",
+    "comedians",
+    "comedy",
+    "community",
+    "complexity",
+    "conclusion",
+    "connection",
+    "conversations",
+    "critical thinking",
+    "criticism",
+    "culture",
+    "daily life",
+    "detect",
+    "diversity",
+    "engaging",
+    "entertainment",
+    "escape",
+    "ethics",
+    "events",
+    "evolution",
+    "existence",
+    "experience",
+    "functions",
+    "health benefits",
+    "humor",
+    "ideas",
+    "immune system",
+    "impact",
+    "individuals",
+    "injustices",
+    "issues",
+    "joy",
+    "laughter",
+    "life",
+    "means",
+    "moment",
+    "movies",
+    "norms",
+    "offense",
+    "parody",
+    "people",
+    "perspective",
+    "perspectives",
+    "places",
+    "positive change",
+    "power",
+    "pressures",
+    "prey",
+    "progress",
+    "reflection",
+    "release",
+    "responsibility",
+    "satire",
+    "sensitivities",
+    "sharks",
+    "shows",
+    "sitcoms",
+    "social commentary",
+    "society",
+    "source",
+    "spirits",
+    "stand-up comedy",
+    "state",
+    "status quo",
+    "stereotypes",
+    "stress",
+    "stresses",
+    "subjectivity",
+    "subjects",
+    "thought",
+    "tool",
+    "topics",
+    "unity",
+    "vehicle",
+    "well-being",
+    "wit",
+    "words",
+    "world"
+  ],
+  "relations": [
+    [
+      "comedians",
+      "are aware of",
+      "impact"
+    ],
+    [
+      "comedians",
+      "highlight",
+      "absurdities"
+    ],
+    [
+      "comedians",
+      "highlight",
+      "injustices"
+    ],
+    [
+      "comedians",
+      "inspire",
+      "action"
+    ],
+    [
+      "comedians",
+      "navigate",
+      "boundaries"
+    ],
+    [
+      "comedians",
+      "respect",
+      "sensitivities"
+    ],
+    [
+      "comedians",
+      "use",
+      "humor"
+    ],
+    [
+      "comedy",
+      "brings",
+      "camaraderie"
+    ],
+    [
+      "comedy",
+      "brings joy to",
+      "ages"
+    ],
+    [
+      "comedy",
+      "challenges",
+      "status quo"
+    ],
+    [
+      "comedy",
+      "connects",
+      "individuals"
+    ],
+    [
+      "comedy",
+      "effects",
+      "positive change"
+    ],
+    [
+      "comedy",
+      "encourages",
+      "critical thinking"
+    ],
+    [
+      "comedy",
+      "helps cope with",
+      "challenges"
+    ],
+    [
+      "comedy",
+      "offers",
+      "perspective"
+    ],
+    [
+      "comedy",
+      "offers escape from",
+      "pressures"
+    ],
+    [
+      "comedy",
+      "offers release from",
+      "stresses"
+    ],
+    [
+      "comedy",
+      "plays role in",
+      "society"
+    ],
+    [
+      "comedy",
+      "promotes",
+      "change"
+    ],
+    [
+      "comedy",
+      "prompts reflection on",
+      "state"
+    ],
+    [
+      "comedy",
+      "provides",
+      "laughter"
+    ],
+    [
+      "comedy",
+      "raises",
+      "awareness"
+    ],
+    [
+      "comedy",
+      "serves as",
+      "catalyst"
+    ],
+    [
+      "comedy",
+      "serves as",
+      "criticism"
+    ],
+    [
+      "comedy",
+      "serves as",
+      "entertainment"
+    ],
+    [
+      "comedy",
+      "serves as",
+      "events"
+    ],
+    [
+      "comedy",
+      "serves as",
+      "means"
+    ],
+    [
+      "comedy",
+      "serves as",
+      "social commentary"
+    ],
+    [
+      "comedy",
+      "serves as",
+      "source"
+    ],
+    [
+      "comedy",
+      "serves as",
+      "tool"
+    ],
+    [
+      "comedy",
+      "serves as",
+      "vehicle"
+    ],
+    [
+      "comedy",
+      "sparks",
+      "conversations"
+    ],
+    [
+      "comedy",
+      "uplifts",
+      "spirits"
+    ],
+    [
+      "humor",
+      "challenges",
+      "norms"
+    ],
+    [
+      "humor",
+      "is",
+      "subjectivity"
+    ],
+    [
+      "humor",
+      "provokes",
+      "thought"
+    ],
+    [
+      "humor",
+      "sheds light on",
+      "issues"
+    ],
+    [
+      "laughter",
+      "boosts",
+      "immune system"
+    ],
+    [
+      "laughter",
+      "creates",
+      "bond"
+    ],
+    [
+      "laughter",
+      "has benefits for",
+      "health benefits"
+    ],
+    [
+      "laughter",
+      "improves",
+      "well-being"
+    ],
+    [
+      "laughter",
+      "promotes",
+      "unity"
+    ],
+    [
+      "laughter",
+      "reduces",
+      "stress"
+    ],
+    [
+      "laughter",
+      "transcends",
+      "barriers"
+    ]
+  ],
+  "edges": [
+    "are aware of",
+    "boosts",
+    "brings",
+    "brings joy to",
+    "challenges",
+    "connects",
+    "creates",
+    "effects",
+    "encourages",
+    "has benefits for",
+    "helps cope with",
+    "highlight",
+    "improves",
+    "inspire",
+    "is",
+    "navigate",
+    "offers",
+    "offers escape from",
+    "offers release from",
+    "plays role in",
+    "promotes",
+    "prompts reflection on",
+    "provides",
+    "provokes",
+    "raises",
+    "reduces",
+    "respect",
+    "serves as",
+    "sheds light on",
+    "sparks",
+    "transcends",
+    "uplifts",
+    "use"
+  ]
+}

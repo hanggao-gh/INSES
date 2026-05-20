@@ -1,0 +1,314 @@
+{
+  "entities": [
+    "activities",
+    "adapt",
+    "adjusting",
+    "adopt",
+    "advances",
+    "advancing",
+    "align",
+    "basic principles",
+    "board games",
+    "british railway companies",
+    "calculated",
+    "canadian engineer",
+    "central",
+    "changes",
+    "changing",
+    "clocks",
+    "collaboration",
+    "common",
+    "communication",
+    "concept",
+    "conclusion",
+    "connected",
+    "conserve",
+    "coordinating",
+    "coordination",
+    "crucial",
+    "daily lives",
+    "dates",
+    "daylight hours",
+    "daylight saving time",
+    "degrees of longitude",
+    "development",
+    "dividing",
+    "dst",
+    "early days",
+    "eastern",
+    "efficiency",
+    "energy",
+    "essential",
+    "evening",
+    "events",
+    "evolved",
+    "expansion",
+    "extend",
+    "facilitating",
+    "global communication",
+    "global telecommunications networks",
+    "global trade",
+    "globalized",
+    "globe",
+    "gmt",
+    "greenwich mean time",
+    "greenwich meridian",
+    "history",
+    "human ingenuity",
+    "implementation",
+    "impractical",
+    "inefficiencies",
+    "instant",
+    "integral",
+    "interact",
+    "international meridian conference",
+    "internet",
+    "introduction",
+    "local regulations",
+    "local solar time",
+    "london",
+    "mean solar time",
+    "measurement",
+    "meetings",
+    "motion",
+    "mountain",
+    "natural daylight",
+    "organize",
+    "organizing",
+    "pacific",
+    "perceive",
+    "practices",
+    "precise",
+    "prime meridian",
+    "proposed",
+    "rail travel",
+    "railway time",
+    "real-time",
+    "reference point",
+    "refined",
+    "regional",
+    "scheduling",
+    "sir sandford fleming",
+    "standard time",
+    "standardize",
+    "standardized",
+    "synchronize",
+    "system",
+    "technology",
+    "telegraphs",
+    "testament",
+    "time zones",
+    "timekeeping",
+    "traction",
+    "trains",
+    "transportation networks",
+    "united states",
+    "warmer months",
+    "washington, d.c.",
+    "widespread",
+    "world war i"
+  ],
+  "relations": [
+    [
+      "advances",
+      "made",
+      "global telecommunications networks"
+    ],
+    [
+      "advances",
+      "made",
+      "internet"
+    ],
+    [
+      "advances",
+      "made",
+      "technology"
+    ],
+    [
+      "basic principles",
+      "remain",
+      "essential"
+    ],
+    [
+      "british railway companies",
+      "adopted",
+      "railway time"
+    ],
+    [
+      "concept",
+      "has evolved",
+      "standardize"
+    ],
+    [
+      "concept",
+      "has evolved",
+      "synchronize"
+    ],
+    [
+      "development",
+      "refined with",
+      "daylight saving time"
+    ],
+    [
+      "dst",
+      "advancing",
+      "clocks"
+    ],
+    [
+      "expansion",
+      "arose with",
+      "global trade"
+    ],
+    [
+      "expansion",
+      "arose with",
+      "transportation networks"
+    ],
+    [
+      "gmt",
+      "established as",
+      "reference point"
+    ],
+    [
+      "greenwich meridian",
+      "chosen as",
+      "prime meridian"
+    ],
+    [
+      "history",
+      "is a testament",
+      "human ingenuity"
+    ],
+    [
+      "international meridian conference",
+      "held in",
+      "washington, d.c."
+    ],
+    [
+      "introduction",
+      "came with",
+      "standard time"
+    ],
+    [
+      "practices",
+      "adjusting",
+      "align"
+    ],
+    [
+      "rail travel",
+      "became",
+      "widespread"
+    ],
+    [
+      "railway time",
+      "marked",
+      "regional"
+    ],
+    [
+      "sir sandford fleming",
+      "proposed",
+      "dividing"
+    ],
+    [
+      "system",
+      "based on",
+      "greenwich mean time"
+    ],
+    [
+      "system",
+      "facilitating",
+      "coordination"
+    ],
+    [
+      "system",
+      "facilitating",
+      "global communication"
+    ],
+    [
+      "telegraphs",
+      "highlighted",
+      "inefficiencies"
+    ],
+    [
+      "time zones",
+      "integral",
+      "daily lives"
+    ],
+    [
+      "time zones",
+      "played a crucial role",
+      "organize"
+    ],
+    [
+      "time zones",
+      "played a crucial role",
+      "perceive"
+    ],
+    [
+      "time zones",
+      "shaping",
+      "interact"
+    ],
+    [
+      "time zones",
+      "shaping",
+      "organize"
+    ],
+    [
+      "trains",
+      "highlighted",
+      "inefficiencies"
+    ],
+    [
+      "united states",
+      "divided into",
+      "central"
+    ],
+    [
+      "united states",
+      "divided into",
+      "eastern"
+    ],
+    [
+      "united states",
+      "divided into",
+      "mountain"
+    ],
+    [
+      "united states",
+      "divided into",
+      "pacific"
+    ],
+    [
+      "world war i",
+      "implemented during",
+      "conserve"
+    ]
+  ],
+  "edges": [
+    "adjusting",
+    "adopted",
+    "advancing",
+    "arose with",
+    "based on",
+    "became",
+    "came with",
+    "chosen as",
+    "divided into",
+    "established as",
+    "facilitating",
+    "has evolved",
+    "held in",
+    "highlighted",
+    "implemented during",
+    "integral",
+    "is a testament",
+    "made",
+    "marked",
+    "played a crucial role",
+    "proposed",
+    "refined with",
+    "remain",
+    "shaping"
+  ]
+}

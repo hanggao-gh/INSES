@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Spiders build intricate webs.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Webs serve as homes and hunting grounds for spiders.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spiders catch prey efficiently using their webs.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders select suitable locations for web-building.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders produce silk from spinnerets.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spider silk is strong and elastic.",
+    "retrieved_context": "SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spider silk is composed of protein molecules.",
+    "retrieved_context": "SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders can produce different types of silk.",
+    "retrieved_context": "SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB. SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders anchor silk strands to surfaces to build webs.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders construct radial lines as the framework of the web.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders lay down sticky spiral lines on the web.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders periodically test the tension of silk strands.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders have an innate sense of how to build webs.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders place a trap line in the web to signal prey.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spiders immobilize prey with a bite and wrap it in silk.",
+    "retrieved_context": "SILK Silk is the material used by spiders to construct webs WEB. SPIDERS Spiders use spinnerets located at their abdomen to produce silk SPINNERETS. SILK Spiders produce silk to construct their webs SPIDER. SPIDERS Spiders produce silk from their spinnerets for various purposes including web building SILK. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SPIDER Spiders use their skill and silk to build webs as homes and hunting grounds WEB. SILK Spiders produce silk to construct their webs SPIDER. SILK Silk is the material used by spiders to construct webs WEB.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

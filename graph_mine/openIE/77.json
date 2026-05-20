@@ -1,0 +1,1481 @@
+{
+    "entities": [
+        "often seen in sky on clear days",
+        "They",
+        "us",
+        "air currents",
+        "fascinating phenomenon",
+        "fascinating natural phenomenon",
+        "water vapor",
+        "form in layer",
+        "cloud formation",
+        "saturated",
+        "often seen",
+        "sky",
+        "beauty",
+        "condensation",
+        "fluffy",
+        "complex process",
+        "crystals",
+        "to condense into tiny water droplets",
+        "condensation of water vapor into tiny droplets",
+        "their appearance",
+        "formed",
+        "As moist air rises",
+        "altitudes",
+        "when lifted gently",
+        "water vapor transforms into clouds",
+        "condensation into droplets",
+        "formation",
+        "formation of different types of clouds",
+        "warm moist air rises",
+        "where cold",
+        "layers",
+        "very cold",
+        "temperatures",
+        "referred",
+        "rays",
+        "different layers of air",
+        "its dew point",
+        "form",
+        "significant role in cloud formation",
+        "form in uniform layer",
+        "hand",
+        "Temperature",
+        "As warm air rises",
+        "warming of Earth 's surface",
+        "natural",
+        "conclusion",
+        "condensation of water vapor",
+        "other hand",
+        "atmosphere",
+        "differences",
+        "often seen in sky on days",
+        "water vapor in air transforms into clouds",
+        "condense into cumulus clouds",
+        "As warm moist air rises",
+        "skies",
+        "their wispy appearance",
+        "water vapor in air transforms",
+        "sun 's rays",
+        "stratus clouds",
+        "overcast skies",
+        "air",
+        "formation of different types",
+        "appreciation",
+        "gradual condensation of water vapor",
+        "gradual condensation",
+        "to condense into water droplets",
+        "surface",
+        "warming",
+        "form in more uniform layer",
+        "greater appreciation",
+        "to mare 's tails",
+        "process of condensation",
+        "lifted",
+        "Earth",
+        "essay",
+        "role",
+        "cold",
+        "warm air rises",
+        "condensation into tiny droplets",
+        "ground",
+        "humidity",
+        "sun",
+        "role in cloud formation",
+        "condense into water droplets",
+        "water vapor transforms",
+        "formation of types",
+        "natural phenomenon",
+        "it",
+        "wispy clouds",
+        "temperature",
+        "As air rises",
+        "tiny water droplets",
+        "gray",
+        "water vapor transforms into visible clouds",
+        "phenomenon",
+        "saturated with water vapor",
+        "crucial",
+        "we",
+        "world",
+        "seen in sky on clear days",
+        "appreciation for beauty",
+        "mechanism",
+        "fascinating",
+        "condense into tiny water droplets",
+        "often gray",
+        "Cumulus clouds",
+        "moist air",
+        "seen in sky on days",
+        "natural world",
+        "significant role",
+        "condense",
+        "high altitudes",
+        "seen",
+        "warm air",
+        "varying temperatures",
+        "ice crystals",
+        "sometimes referred",
+        "composed",
+        "lying clouds",
+        "when lifted",
+        "form in more uniform layer across sky",
+        "to condense",
+        "different layers",
+        "lifted gently",
+        "warm moist air",
+        "form in uniform layer across sky",
+        "where very cold",
+        "Cloud formation",
+        "condensation of water vapor into droplets",
+        "Cirrus clouds",
+        "Clouds",
+        "condense into clouds",
+        "Stratus clouds",
+        "layers of air",
+        "as mechanism",
+        "formation of types of clouds",
+        "clouds",
+        "greater appreciation for beauty",
+        "form in layer across sky",
+        "days",
+        "water vapor in air transforms into visible clouds",
+        "air rises",
+        "visible clouds",
+        "moist air rises",
+        "clear days",
+        "water droplets",
+        "process"
+    ],
+    "relations": [
+        [
+            "Clouds",
+            "are",
+            "natural phenomenon"
+        ],
+        [
+            "Clouds",
+            "are",
+            "natural"
+        ],
+        [
+            "Clouds",
+            "are",
+            "phenomenon"
+        ],
+        [
+            "Clouds",
+            "are",
+            "fascinating natural phenomenon"
+        ],
+        [
+            "Clouds",
+            "are",
+            "fascinating"
+        ],
+        [
+            "Clouds",
+            "are",
+            "fascinating phenomenon"
+        ],
+        [
+            "They",
+            "are formed through",
+            "complex process"
+        ],
+        [
+            "They",
+            "are",
+            "formed"
+        ],
+        [
+            "They",
+            "are formed through",
+            "process"
+        ],
+        [
+            "we",
+            "will explore In",
+            "essay"
+        ],
+        [
+            "Cloud formation",
+            "begins with",
+            "warming of Earth 's surface"
+        ],
+        [
+            "Earth",
+            "of",
+            "surface"
+        ],
+        [
+            "Cloud formation",
+            "begins with",
+            "warming"
+        ],
+        [
+            "Cloud formation",
+            "begins by",
+            "sun"
+        ],
+        [
+            "sun",
+            "has",
+            "rays"
+        ],
+        [
+            "sun 's rays",
+            "heat",
+            "ground"
+        ],
+        [
+            "it",
+            "moves higher into",
+            "atmosphere"
+        ],
+        [
+            "it",
+            "moves into",
+            "atmosphere"
+        ],
+        [
+            "it",
+            "reaches",
+            "its dew point"
+        ],
+        [
+            "air",
+            "becomes",
+            "saturated"
+        ],
+        [
+            "air",
+            "becomes",
+            "saturated with water vapor"
+        ],
+        [
+            "water vapor",
+            "condense into",
+            "water droplets"
+        ],
+        [
+            "water vapor",
+            "begins",
+            "condense"
+        ],
+        [
+            "water vapor",
+            "is in",
+            "air"
+        ],
+        [
+            "water vapor",
+            "begins",
+            "condense into tiny water droplets"
+        ],
+        [
+            "water vapor",
+            "begins",
+            "condense into water droplets"
+        ],
+        [
+            "water vapor",
+            "begins",
+            "to condense into tiny water droplets"
+        ],
+        [
+            "water vapor",
+            "begins",
+            "to condense into water droplets"
+        ],
+        [
+            "water vapor",
+            "begins",
+            "to condense"
+        ],
+        [
+            "water vapor",
+            "condense into",
+            "tiny water droplets"
+        ],
+        [
+            "air",
+            "reaches",
+            "its dew point"
+        ],
+        [
+            "crystals",
+            "form",
+            "clouds"
+        ],
+        [
+            "process",
+            "is",
+            "crucial"
+        ],
+        [
+            "it",
+            "is mechanism",
+            "water vapor in air transforms into visible clouds"
+        ],
+        [
+            "it",
+            "is mechanism",
+            "water vapor transforms into clouds"
+        ],
+        [
+            "water vapor",
+            "transforms into",
+            "visible clouds"
+        ],
+        [
+            "process",
+            "is crucial",
+            "mechanism"
+        ],
+        [
+            "water vapor",
+            "transforms into",
+            "clouds"
+        ],
+        [
+            "process",
+            "is crucial",
+            "as mechanism"
+        ],
+        [
+            "it",
+            "is mechanism",
+            "water vapor transforms into visible clouds"
+        ],
+        [
+            "it",
+            "is mechanism",
+            "water vapor transforms"
+        ],
+        [
+            "water vapor",
+            "is in",
+            "air"
+        ],
+        [
+            "process",
+            "is crucial to",
+            "cloud formation"
+        ],
+        [
+            "it",
+            "is",
+            "as mechanism"
+        ],
+        [
+            "it",
+            "is mechanism",
+            "water vapor in air transforms"
+        ],
+        [
+            "it",
+            "is",
+            "mechanism"
+        ],
+        [
+            "it",
+            "is mechanism",
+            "water vapor in air transforms into clouds"
+        ],
+        [
+            "air currents",
+            "play",
+            "role in cloud formation"
+        ],
+        [
+            "air currents",
+            "also play",
+            "role"
+        ],
+        [
+            "air currents",
+            "also play",
+            "significant role in cloud formation"
+        ],
+        [
+            "air currents",
+            "play",
+            "significant role in cloud formation"
+        ],
+        [
+            "air currents",
+            "play role In",
+            "temperature"
+        ],
+        [
+            "air currents",
+            "also play role In",
+            "temperature"
+        ],
+        [
+            "air currents",
+            "also play",
+            "role in cloud formation"
+        ],
+        [
+            "air currents",
+            "play",
+            "role"
+        ],
+        [
+            "air currents",
+            "also play",
+            "significant role"
+        ],
+        [
+            "air currents",
+            "play",
+            "significant role"
+        ],
+        [
+            "significant role",
+            "is in",
+            "cloud formation"
+        ],
+        [
+            "it",
+            "can encounter layers with",
+            "varying temperatures"
+        ],
+        [
+            "it",
+            "can encounter layers",
+            "warm moist air rises"
+        ],
+        [
+            "it",
+            "can encounter layers",
+            "warm air rises"
+        ],
+        [
+            "it",
+            "can encounter",
+            "different layers of air"
+        ],
+        [
+            "it",
+            "can encounter layers",
+            "air rises"
+        ],
+        [
+            "it",
+            "can encounter",
+            "different layers"
+        ],
+        [
+            "it",
+            "can encounter layers",
+            "moist air rises"
+        ],
+        [
+            "it",
+            "can encounter layers",
+            "As moist air rises"
+        ],
+        [
+            "it",
+            "can encounter layers",
+            "As warm moist air rises"
+        ],
+        [
+            "it",
+            "can encounter layers with",
+            "temperatures"
+        ],
+        [
+            "it",
+            "can encounter layers",
+            "As warm air rises"
+        ],
+        [
+            "it",
+            "can encounter",
+            "layers"
+        ],
+        [
+            "it",
+            "can encounter layers",
+            "As air rises"
+        ],
+        [
+            "it",
+            "can encounter",
+            "layers of air"
+        ],
+        [
+            "differences",
+            "can lead to",
+            "formation of different types"
+        ],
+        [
+            "differences",
+            "can lead to",
+            "formation of types of clouds"
+        ],
+        [
+            "differences",
+            "can lead to",
+            "formation of different types of clouds"
+        ],
+        [
+            "differences",
+            "can lead to",
+            "formation of types"
+        ],
+        [
+            "differences",
+            "can lead to",
+            "formation"
+        ],
+        [
+            "differences",
+            "is in",
+            "temperature"
+        ],
+        [
+            "Cumulus clouds",
+            "are",
+            "fluffy"
+        ],
+        [
+            "warm air",
+            "causing water vapor to",
+            "condense"
+        ],
+        [
+            "warm air",
+            "causing",
+            "water vapor"
+        ],
+        [
+            "air",
+            "causing water vapor in",
+            "air"
+        ],
+        [
+            "warm air",
+            "causing water vapor in",
+            "air"
+        ],
+        [
+            "air",
+            "causing water vapor to",
+            "condense into cumulus clouds"
+        ],
+        [
+            "air",
+            "causing water vapor to",
+            "condense"
+        ],
+        [
+            "warm air",
+            "causing water vapor to",
+            "condense into cumulus clouds"
+        ],
+        [
+            "air",
+            "causing water vapor to",
+            "condense into clouds"
+        ],
+        [
+            "air",
+            "causing",
+            "water vapor"
+        ],
+        [
+            "warm air",
+            "causing water vapor to",
+            "condense into clouds"
+        ],
+        [
+            "Stratus clouds",
+            "are clouds",
+            "form in uniform layer"
+        ],
+        [
+            "Stratus clouds",
+            "are clouds",
+            "form in more uniform layer"
+        ],
+        [
+            "Stratus clouds",
+            "are lying clouds on",
+            "hand"
+        ],
+        [
+            "Stratus clouds",
+            "are clouds",
+            "form in uniform layer across sky"
+        ],
+        [
+            "Stratus clouds",
+            "are",
+            "clouds"
+        ],
+        [
+            "Stratus clouds",
+            "are lying clouds",
+            "form in more uniform layer across sky"
+        ],
+        [
+            "Stratus clouds",
+            "are lying clouds",
+            "form"
+        ],
+        [
+            "Stratus clouds",
+            "are lying clouds",
+            "form in more uniform layer"
+        ],
+        [
+            "Stratus clouds",
+            "are",
+            "lying clouds"
+        ],
+        [
+            "Stratus clouds",
+            "are clouds",
+            "form"
+        ],
+        [
+            "Stratus clouds",
+            "are clouds",
+            "form in layer"
+        ],
+        [
+            "Stratus clouds",
+            "are lying clouds",
+            "form in uniform layer across sky"
+        ],
+        [
+            "Stratus clouds",
+            "are lying clouds on",
+            "other hand"
+        ],
+        [
+            "Stratus clouds",
+            "are clouds",
+            "form in more uniform layer across sky"
+        ],
+        [
+            "Stratus clouds",
+            "are clouds",
+            "form in layer across sky"
+        ],
+        [
+            "Stratus clouds",
+            "are clouds on",
+            "hand"
+        ],
+        [
+            "Stratus clouds",
+            "are lying clouds",
+            "form in uniform layer"
+        ],
+        [
+            "Stratus clouds",
+            "are clouds on",
+            "other hand"
+        ],
+        [
+            "Stratus clouds",
+            "are lying clouds",
+            "form in layer"
+        ],
+        [
+            "Stratus clouds",
+            "are lying clouds",
+            "form in layer across sky"
+        ],
+        [
+            "clouds",
+            "bring",
+            "overcast skies"
+        ],
+        [
+            "clouds",
+            "are",
+            "often gray"
+        ],
+        [
+            "clouds",
+            "bring",
+            "skies"
+        ],
+        [
+            "clouds",
+            "are",
+            "gray"
+        ],
+        [
+            "warm air",
+            "leading into",
+            "stratus clouds"
+        ],
+        [
+            "air",
+            "leading to",
+            "condensation"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "condensation"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "gradual condensation of water vapor"
+        ],
+        [
+            "warm moist air",
+            "is",
+            "lifted gently"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "gradual condensation"
+        ],
+        [
+            "air",
+            "is",
+            "when lifted"
+        ],
+        [
+            "air",
+            "is",
+            "when lifted gently"
+        ],
+        [
+            "warm air",
+            "is",
+            "when lifted"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "condensation of water vapor"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "condensation"
+        ],
+        [
+            "warm moist air",
+            "leading into",
+            "stratus clouds"
+        ],
+        [
+            "air",
+            "is",
+            "lifted gently"
+        ],
+        [
+            "warm moist air",
+            "is",
+            "lifted"
+        ],
+        [
+            "air",
+            "is",
+            "lifted"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "condensation of water vapor"
+        ],
+        [
+            "warm moist air",
+            "is",
+            "when lifted gently"
+        ],
+        [
+            "air",
+            "leading to",
+            "condensation of water vapor"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "gradual condensation"
+        ],
+        [
+            "warm moist air",
+            "is",
+            "when lifted"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "condensation"
+        ],
+        [
+            "moist air",
+            "is",
+            "lifted gently"
+        ],
+        [
+            "warm air",
+            "is",
+            "when lifted gently"
+        ],
+        [
+            "moist air",
+            "is",
+            "when lifted gently"
+        ],
+        [
+            "air",
+            "leading to",
+            "gradual condensation"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "condensation of water vapor"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "gradual condensation of water vapor"
+        ],
+        [
+            "warm air",
+            "is",
+            "lifted gently"
+        ],
+        [
+            "moist air",
+            "leading into",
+            "stratus clouds"
+        ],
+        [
+            "warm air",
+            "is",
+            "lifted"
+        ],
+        [
+            "air",
+            "leading into",
+            "stratus clouds"
+        ],
+        [
+            "air",
+            "leading to",
+            "gradual condensation of water vapor"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "gradual condensation of water vapor"
+        ],
+        [
+            "moist air",
+            "is",
+            "lifted"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "gradual condensation"
+        ],
+        [
+            "moist air",
+            "is",
+            "when lifted"
+        ],
+        [
+            "Cirrus clouds",
+            "are high",
+            "wispy clouds"
+        ],
+        [
+            "Cirrus clouds",
+            "are high",
+            "clouds"
+        ],
+        [
+            "clouds",
+            "form at",
+            "altitudes"
+        ],
+        [
+            "air",
+            "is",
+            "cold"
+        ],
+        [
+            "air",
+            "is",
+            "where very cold"
+        ],
+        [
+            "air",
+            "is",
+            "where cold"
+        ],
+        [
+            "clouds",
+            "form at",
+            "high altitudes"
+        ],
+        [
+            "air",
+            "is",
+            "very cold"
+        ],
+        [
+            "Cirrus clouds",
+            "are",
+            "often seen"
+        ],
+        [
+            "Cirrus clouds",
+            "are",
+            "seen in sky on days"
+        ],
+        [
+            "Cirrus clouds",
+            "are often seen in",
+            "sky"
+        ],
+        [
+            "Cirrus clouds",
+            "are often seen on",
+            "days"
+        ],
+        [
+            "Cirrus clouds",
+            "are seen on",
+            "days"
+        ],
+        [
+            "Cirrus clouds",
+            "are",
+            "composed"
+        ],
+        [
+            "Cirrus clouds",
+            "are seen on",
+            "clear days"
+        ],
+        [
+            "Cirrus clouds",
+            "are",
+            "seen"
+        ],
+        [
+            "Cirrus clouds",
+            "are",
+            "seen in sky on clear days"
+        ],
+        [
+            "Cirrus clouds",
+            "are often seen on",
+            "clear days"
+        ],
+        [
+            "Cirrus clouds",
+            "are",
+            "often seen in sky on days"
+        ],
+        [
+            "Cirrus clouds",
+            "are composed of",
+            "ice crystals"
+        ],
+        [
+            "Cirrus clouds",
+            "are",
+            "often seen in sky on clear days"
+        ],
+        [
+            "Cirrus clouds",
+            "are seen in",
+            "sky"
+        ],
+        [
+            "They",
+            "are referred due",
+            "their appearance"
+        ],
+        [
+            "They",
+            "are",
+            "referred"
+        ],
+        [
+            "They",
+            "are",
+            "sometimes referred"
+        ],
+        [
+            "They",
+            "are referred due",
+            "their wispy appearance"
+        ],
+        [
+            "They",
+            "are sometimes referred to",
+            "to mare 's tails"
+        ],
+        [
+            "They",
+            "are sometimes referred due",
+            "their appearance"
+        ],
+        [
+            "They",
+            "are sometimes referred due",
+            "their wispy appearance"
+        ],
+        [
+            "They",
+            "are referred to",
+            "to mare 's tails"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "condensation"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "condensation of water vapor"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "condensation"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "condensation"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "condensation of water vapor"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "condensation of water vapor into droplets"
+        ],
+        [
+            "clouds",
+            "form through",
+            "process of condensation"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "condensation into tiny droplets"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "condensation of water vapor into tiny droplets"
+        ],
+        [
+            "air",
+            "leading to",
+            "condensation into tiny droplets"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "condensation of water vapor"
+        ],
+        [
+            "clouds",
+            "form In",
+            "conclusion"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "condensation into droplets"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "condensation of water vapor into droplets"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "condensation into tiny droplets"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "condensation into droplets"
+        ],
+        [
+            "warm air",
+            "leading to",
+            "condensation of water vapor into tiny droplets"
+        ],
+        [
+            "air",
+            "leading to",
+            "condensation of water vapor"
+        ],
+        [
+            "air",
+            "leading to",
+            "condensation of water vapor into droplets"
+        ],
+        [
+            "clouds",
+            "form through",
+            "process"
+        ],
+        [
+            "air",
+            "leading to",
+            "condensation of water vapor into tiny droplets"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "condensation into droplets"
+        ],
+        [
+            "air",
+            "leading to",
+            "condensation"
+        ],
+        [
+            "air",
+            "leading to",
+            "condensation into droplets"
+        ],
+        [
+            "moist air",
+            "leading to",
+            "condensation into tiny droplets"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "condensation of water vapor into tiny droplets"
+        ],
+        [
+            "warm moist air",
+            "leading to",
+            "condensation of water vapor into droplets"
+        ],
+        [
+            "Temperature",
+            "play",
+            "role"
+        ],
+        [
+            "humidity",
+            "play",
+            "role"
+        ],
+        [
+            "air currents",
+            "play role in",
+            "cloud formation"
+        ],
+        [
+            "humidity",
+            "play role in",
+            "cloud formation"
+        ],
+        [
+            "air currents",
+            "play",
+            "role"
+        ],
+        [
+            "Temperature",
+            "play role in",
+            "cloud formation"
+        ],
+        [
+            "we",
+            "can gain",
+            "appreciation for beauty"
+        ],
+        [
+            "we",
+            "can gain",
+            "greater appreciation for beauty"
+        ],
+        [
+            "we",
+            "can gain",
+            "greater appreciation"
+        ],
+        [
+            "we",
+            "can gain",
+            "appreciation"
+        ],
+        [
+            "we",
+            "greater appreciation for",
+            "beauty"
+        ],
+        [
+            "we",
+            "complexity of",
+            "natural world"
+        ],
+        [
+            "we",
+            "complexity of",
+            "world"
+        ],
+        [
+            "we",
+            "appreciation for",
+            "beauty"
+        ],
+        [
+            "we",
+            "complexity around",
+            "us"
+        ]
+    ],
+    "edges": [
+        "are",
+        "are",
+        "are",
+        "are",
+        "are",
+        "are",
+        "are formed through",
+        "are",
+        "are formed through",
+        "will explore In",
+        "begins with",
+        "of",
+        "begins with",
+        "begins by",
+        "has",
+        "heat",
+        "moves higher into",
+        "moves into",
+        "reaches",
+        "becomes",
+        "becomes",
+        "condense into",
+        "begins",
+        "is in",
+        "begins",
+        "begins",
+        "begins",
+        "begins",
+        "begins",
+        "condense into",
+        "reaches",
+        "form",
+        "is",
+        "is mechanism",
+        "is mechanism",
+        "transforms into",
+        "is crucial",
+        "transforms into",
+        "is crucial",
+        "is mechanism",
+        "is mechanism",
+        "is in",
+        "is crucial to",
+        "is",
+        "is mechanism",
+        "is",
+        "is mechanism",
+        "play",
+        "also play",
+        "also play",
+        "play",
+        "play role In",
+        "also play role In",
+        "also play",
+        "play",
+        "also play",
+        "play",
+        "is in",
+        "can encounter layers with",
+        "can encounter layers",
+        "can encounter layers",
+        "can encounter",
+        "can encounter layers",
+        "can encounter",
+        "can encounter layers",
+        "can encounter layers",
+        "can encounter layers",
+        "can encounter layers with",
+        "can encounter layers",
+        "can encounter",
+        "can encounter layers",
+        "can encounter",
+        "can lead to",
+        "can lead to",
+        "can lead to",
+        "can lead to",
+        "can lead to",
+        "is in",
+        "are",
+        "causing water vapor to",
+        "causing",
+        "causing water vapor in",
+        "causing water vapor in",
+        "causing water vapor to",
+        "causing water vapor to",
+        "causing water vapor to",
+        "causing water vapor to",
+        "causing",
+        "causing water vapor to",
+        "are clouds",
+        "are clouds",
+        "are lying clouds on",
+        "are clouds",
+        "are",
+        "are lying clouds",
+        "are lying clouds",
+        "are lying clouds",
+        "are",
+        "are clouds",
+        "are clouds",
+        "are lying clouds",
+        "are lying clouds on",
+        "are clouds",
+        "are clouds",
+        "are clouds on",
+        "are lying clouds",
+        "are clouds on",
+        "are lying clouds",
+        "are lying clouds",
+        "bring",
+        "are",
+        "bring",
+        "are",
+        "leading into",
+        "leading to",
+        "leading to",
+        "leading to",
+        "is",
+        "leading to",
+        "is",
+        "is",
+        "is",
+        "leading to",
+        "leading to",
+        "leading into",
+        "is",
+        "is",
+        "is",
+        "leading to",
+        "is",
+        "leading to",
+        "leading to",
+        "is",
+        "leading to",
+        "is",
+        "is",
+        "is",
+        "leading to",
+        "leading to",
+        "leading to",
+        "is",
+        "leading into",
+        "is",
+        "leading into",
+        "leading to",
+        "leading to",
+        "is",
+        "leading to",
+        "is",
+        "are high",
+        "are high",
+        "form at",
+        "is",
+        "is",
+        "is",
+        "form at",
+        "is",
+        "are",
+        "are",
+        "are often seen in",
+        "are often seen on",
+        "are seen on",
+        "are",
+        "are seen on",
+        "are",
+        "are",
+        "are often seen on",
+        "are",
+        "are composed of",
+        "are",
+        "are seen in",
+        "are referred due",
+        "are",
+        "are",
+        "are referred due",
+        "are sometimes referred to",
+        "are sometimes referred due",
+        "are sometimes referred due",
+        "are referred to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "form through",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "form In",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "form through",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "leading to",
+        "play",
+        "play",
+        "play role in",
+        "play role in",
+        "play",
+        "play role in",
+        "can gain",
+        "can gain",
+        "can gain",
+        "can gain",
+        "greater appreciation for",
+        "complexity of",
+        "complexity of",
+        "appreciation for",
+        "complexity around"
+    ]
+}

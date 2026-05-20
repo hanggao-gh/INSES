@@ -1,0 +1,492 @@
+{
+  "entities": [
+    "achievement",
+    "antibacterial properties",
+    "antibiotic drug",
+    "antibiotic-resistant bacteria",
+    "antibiotics",
+    "antimicrobial agents",
+    "bacterial infections",
+    "bacteriologist",
+    "board games",
+    "breakthrough",
+    "challenge",
+    "challenging",
+    "civilians",
+    "clear",
+    "colleagues",
+    "combat",
+    "conclusion",
+    "confirmed",
+    "contaminated",
+    "course",
+    "deadly diseases",
+    "decade",
+    "destroyed",
+    "development",
+    "discovery",
+    "effective",
+    "efficacy",
+    "enduring",
+    "era",
+    "ernst chain",
+    "essay",
+    "experimentation",
+    "extraction process",
+    "field",
+    "fortuitous",
+    "foundation",
+    "game-changer",
+    "global public health",
+    "groundbreaking",
+    "healthcare",
+    "history",
+    "howard florey",
+    "hypothesized",
+    "impact",
+    "improved",
+    "indispensable",
+    "inefficient",
+    "infectious disease management",
+    "infectious diseases",
+    "innovation",
+    "introduction",
+    "judicious",
+    "legacy",
+    "lives",
+    "london",
+    "medicine",
+    "milestone",
+    "minimal side effects",
+    "misuse",
+    "modern medicine",
+    "mold",
+    "mortality",
+    "mortality rates",
+    "myriad",
+    "novel",
+    "observation",
+    "ongoing",
+    "onset",
+    "overstated",
+    "overuse",
+    "pathogens",
+    "patient outcomes",
+    "paved the way",
+    "penicillin",
+    "penicillium genus",
+    "petri dish",
+    "pneumonia",
+    "potent",
+    "power",
+    "prevent",
+    "production",
+    "properties",
+    "purified",
+    "reduced",
+    "research",
+    "researching",
+    "resistance",
+    "resistant strains",
+    "responsible",
+    "revolutionize",
+    "rise",
+    "role",
+    "safe",
+    "saved",
+    "scientific mind",
+    "scientists",
+    "scottish",
+    "sepsis",
+    "serendipitous",
+    "serendipity",
+    "significance",
+    "significantly",
+    "sir alexander fleming",
+    "soldiers",
+    "spread",
+    "st. mary's hospital",
+    "staphylococcus bacteria",
+    "stewardship programs",
+    "story",
+    "strategies",
+    "streptococcal infections",
+    "substance",
+    "succumbed",
+    "surprise",
+    "team",
+    "testament",
+    "therapy",
+    "timing",
+    "tools",
+    "treating",
+    "treatment",
+    "treatment options",
+    "university of oxford",
+    "vacation",
+    "widespread",
+    "widespread use",
+    "world war ii"
+  ],
+  "relations": [
+    [
+      "antibiotics",
+      "become",
+      "indispensable"
+    ],
+    [
+      "antibiotics",
+      "prevent",
+      "spread"
+    ],
+    [
+      "bacterial infections",
+      "destroyed",
+      "clear"
+    ],
+    [
+      "bacterial infections",
+      "surrounding",
+      "mold"
+    ],
+    [
+      "bacterial infections",
+      "were",
+      "mortality"
+    ],
+    [
+      "development",
+      "paved the way",
+      "production"
+    ],
+    [
+      "discovery",
+      "coincided with",
+      "onset"
+    ],
+    [
+      "discovery",
+      "is",
+      "groundbreaking"
+    ],
+    [
+      "discovery",
+      "is",
+      "serendipitous"
+    ],
+    [
+      "discovery",
+      "laid",
+      "foundation"
+    ],
+    [
+      "discovery",
+      "marks",
+      "milestone"
+    ],
+    [
+      "discovery",
+      "played",
+      "role"
+    ],
+    [
+      "discovery",
+      "revolutionize",
+      "field"
+    ],
+    [
+      "discovery",
+      "revolutionizing",
+      "treatment"
+    ],
+    [
+      "discovery",
+      "saved",
+      "lives"
+    ],
+    [
+      "discovery",
+      "saving",
+      "lives"
+    ],
+    [
+      "discovery",
+      "significantly",
+      "improved"
+    ],
+    [
+      "discovery",
+      "stands as",
+      "enduring"
+    ],
+    [
+      "discovery",
+      "stands as",
+      "innovation"
+    ],
+    [
+      "discovery",
+      "stands as",
+      "power"
+    ],
+    [
+      "discovery",
+      "stands as",
+      "serendipity"
+    ],
+    [
+      "discovery",
+      "stands as",
+      "testament"
+    ],
+    [
+      "discovery",
+      "was",
+      "breakthrough"
+    ],
+    [
+      "essay",
+      "delves into",
+      "impact"
+    ],
+    [
+      "essay",
+      "delves into",
+      "legacy"
+    ],
+    [
+      "essay",
+      "delves into",
+      "story"
+    ],
+    [
+      "extraction process",
+      "proved to be",
+      "challenging"
+    ],
+    [
+      "extraction process",
+      "proved to be",
+      "inefficient"
+    ],
+    [
+      "impact",
+      "cannot be",
+      "overstated"
+    ],
+    [
+      "introduction",
+      "improved",
+      "patient outcomes"
+    ],
+    [
+      "introduction",
+      "offering",
+      "effective"
+    ],
+    [
+      "introduction",
+      "offering",
+      "safe"
+    ],
+    [
+      "introduction",
+      "reduced",
+      "mortality rates"
+    ],
+    [
+      "introduction",
+      "revolutionized",
+      "treatment options"
+    ],
+    [
+      "legacy",
+      "continues to shape",
+      "healthcare"
+    ],
+    [
+      "mold",
+      "identified as",
+      "penicillium genus"
+    ],
+    [
+      "observation",
+      "change",
+      "course"
+    ],
+    [
+      "overuse",
+      "led to",
+      "antibiotic-resistant bacteria"
+    ],
+    [
+      "penicillin",
+      "ability to",
+      "combat"
+    ],
+    [
+      "penicillin",
+      "made",
+      "game-changer"
+    ],
+    [
+      "petri dish",
+      "containing",
+      "staphylococcus bacteria"
+    ],
+    [
+      "petri dish",
+      "contaminated with",
+      "mold"
+    ],
+    [
+      "research",
+      "confirmed",
+      "antibacterial properties"
+    ],
+    [
+      "rise",
+      "underscores",
+      "judicious"
+    ],
+    [
+      "rise",
+      "underscores",
+      "novel"
+    ],
+    [
+      "rise",
+      "underscores",
+      "stewardship programs"
+    ],
+    [
+      "scientific mind",
+      "recognized",
+      "significance"
+    ],
+    [
+      "sir alexander fleming",
+      "credited with",
+      "discovery"
+    ],
+    [
+      "sir alexander fleming",
+      "hypothesized",
+      "substance"
+    ],
+    [
+      "sir alexander fleming",
+      "is",
+      "bacteriologist"
+    ],
+    [
+      "sir alexander fleming",
+      "is",
+      "scottish"
+    ],
+    [
+      "sir alexander fleming",
+      "made",
+      "observation"
+    ],
+    [
+      "sir alexander fleming",
+      "researching",
+      "properties"
+    ],
+    [
+      "sir alexander fleming",
+      "working at",
+      "st. mary's hospital"
+    ],
+    [
+      "soldiers",
+      "succumbed",
+      "combat"
+    ],
+    [
+      "st. mary's hospital",
+      "in",
+      "london"
+    ],
+    [
+      "substance",
+      "had",
+      "antibacterial properties"
+    ],
+    [
+      "team",
+      "at",
+      "university of oxford"
+    ],
+    [
+      "team",
+      "demonstrated",
+      "efficacy"
+    ],
+    [
+      "team",
+      "led by",
+      "ernst chain"
+    ],
+    [
+      "team",
+      "led by",
+      "howard florey"
+    ],
+    [
+      "team",
+      "purified",
+      "penicillin"
+    ]
+  ],
+  "edges": [
+    "ability to",
+    "at",
+    "become",
+    "cannot be",
+    "change",
+    "coincided with",
+    "confirmed",
+    "containing",
+    "contaminated with",
+    "continues to shape",
+    "credited with",
+    "delves into",
+    "demonstrated",
+    "destroyed",
+    "had",
+    "hypothesized",
+    "identified as",
+    "improved",
+    "in",
+    "is",
+    "laid",
+    "led by",
+    "led to",
+    "made",
+    "marks",
+    "offering",
+    "paved the way",
+    "played",
+    "prevent",
+    "proved to be",
+    "purified",
+    "recognized",
+    "reduced",
+    "researching",
+    "revolutionize",
+    "revolutionized",
+    "revolutionizing",
+    "saved",
+    "saving",
+    "significantly",
+    "stands as",
+    "succumbed",
+    "surrounding",
+    "underscores",
+    "was",
+    "were",
+    "working at"
+  ]
+}

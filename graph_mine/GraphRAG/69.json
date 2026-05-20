@@ -1,0 +1,107 @@
+{
+  "entities": [
+    "DELOREAN",
+    "BACK TO THE FUTURE",
+    "THE FLASH",
+    "TARDIS",
+    "FRINGE",
+    "J.K. ROWLING",
+    "DOCTOR WHO",
+    "PARALLEL UNIVERSES",
+    "THE BUTTERFLY EFFECT",
+    "H.G. WELLS",
+    "THE TIME MACHINE",
+    "TIME TRAVEL",
+    "TIME-TURNER",
+    "ALTERNATE TIMELINES",
+    "LOOPER"
+  ],
+  "relations": [
+    [
+      "TIME TRAVEL",
+      "The DeLorean is used as a time machine in \"Back to the Future\" to facilitate time travel",
+      "DELOREAN"
+    ],
+    [
+      "TIME TRAVEL",
+      "The TARDIS is a time machine in \"Doctor Who\" used for traveling through time and space",
+      "TARDIS"
+    ],
+    [
+      "TIME TRAVEL",
+      "Fringe includes time travel as part of its exploration of parallel universes and alternate timelines",
+      "FRINGE"
+    ],
+    [
+      "TIME TRAVEL",
+      "The Flash showcases time travel in its narrative of navigating multiple timelines",
+      "THE FLASH"
+    ],
+    [
+      "TIME TRAVEL",
+      "Looper is a movie that incorporates time travel to prevent a future catastrophe",
+      "LOOPER"
+    ],
+    [
+      "TIME TRAVEL",
+      "The Butterfly Effect deals with the unintended consequences of time travel to change the past",
+      "THE BUTTERFLY EFFECT"
+    ],
+    [
+      "H.G. WELLS",
+      "\"The Time Machine\" is a novel written by H.G. Wells that explores time travel",
+      "THE TIME MACHINE"
+    ],
+    [
+      "DELOREAN",
+      "The DeLorean is featured in \"Back to the Future\" as a time machine",
+      "BACK TO THE FUTURE"
+    ],
+    [
+      "TARDIS",
+      "The TARDIS is featured in \"Doctor Who\" as a time machine for space and time travel",
+      "DOCTOR WHO"
+    ],
+    [
+      "J.K. ROWLING",
+      "The Time-Turner, a magical time travel device, is introduced in the \"Harry Potter\" series by J.K. Rowling",
+      "TIME-TURNER"
+    ],
+    [
+      "FRINGE",
+      "Both shows explore the concept of parallel universes or alternate timelines",
+      "THE FLASH"
+    ],
+    [
+      "FRINGE",
+      "Fringe explores the concept of parallel universes as a part of its narrative",
+      "PARALLEL UNIVERSES"
+    ],
+    [
+      "THE FLASH",
+      "The Flash involves characters navigating alternate timelines to prevent catastrophic events",
+      "ALTERNATE TIMELINES"
+    ],
+    [
+      "LOOPER",
+      "Both movies deal with the theme of changing the past to alter the future",
+      "THE BUTTERFLY EFFECT"
+    ]
+  ],
+  "edges": [
+    "The DeLorean is used as a time machine in \"Back to the Future\" to facilitate time travel",
+    "The TARDIS is a time machine in \"Doctor Who\" used for traveling through time and space",
+    "Fringe includes time travel as part of its exploration of parallel universes and alternate timelines",
+    "The Flash showcases time travel in its narrative of navigating multiple timelines",
+    "Looper is a movie that incorporates time travel to prevent a future catastrophe",
+    "The Butterfly Effect deals with the unintended consequences of time travel to change the past",
+    "\"The Time Machine\" is a novel written by H.G. Wells that explores time travel",
+    "The DeLorean is featured in \"Back to the Future\" as a time machine",
+    "The TARDIS is featured in \"Doctor Who\" as a time machine for space and time travel",
+    "The Time-Turner, a magical time travel device, is introduced in the \"Harry Potter\" series by J.K. Rowling",
+    "Both shows explore the concept of parallel universes or alternate timelines",
+    "Fringe explores the concept of parallel universes as a part of its narrative",
+    "The Flash involves characters navigating alternate timelines to prevent catastrophic events",
+    "Both movies deal with the theme of changing the past to alter the future"
+  ]
+}

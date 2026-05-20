@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Old English was spoken in England from the 5th to the 11th century.",
+    "retrieved_context": "old english also known as anglo-saxon. old english was inflected. old english spoken in england. old english was humble beginnings. early modern english began in great vowel shift. great vowel shift altered pronunciation. anglo-saxons brought words. anglo-saxons in britain. words include house. words include mother. words include earth. middle english saw introduction of french words.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Norman Conquest of England led to the mixing of Old English and Old Norman.",
+    "retrieved_context": "norman conquest brought normans. normans became ruling class. normans spoke old norman. old norman was old french. old norman was old french. normans became ruling class. normans spoke old norman. anglo-saxons brought words. anglo-saxons in britain. words include house. words include mother. words include earth. early modern english began in great vowel shift. great vowel shift altered pronunciation. old english also known as anglo-saxon. old english was inflected. old english spoken in england. old english was humble beginnings. spread of unified language. spread of variations. british empire led to spread. spread of dialects.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Middle English was spoken from the 11th to the 15th century.",
+    "retrieved_context": "middle english saw introduction of french words. early modern english began in great vowel shift. great vowel shift altered pronunciation. anglo-saxons brought words. anglo-saxons in britain. words include house. words include mother. words include earth. old english also known as anglo-saxon. old english was inflected. old english spoken in england. old english was humble beginnings.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Geoffrey Chaucer's works are prime examples of Middle English literature.",
+    "retrieved_context": "the canterbury tales are examples of literature. geoffrey chaucer wrote the canterbury tales. middle english saw introduction of french words. early modern english began in great vowel shift. great vowel shift altered pronunciation. the canterbury tales are examples of literature. william shakespeare exemplifies early modern english. early modern english began in great vowel shift. anglo-saxons brought words. anglo-saxons in britain. words include house. words include mother. words include earth.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "William Caxton invented the printing press in the late 15th century.",
+    "retrieved_context": "printing press helped standardization. spread of dialects. printing press helped spread. spread of unified language. spread of variations. printing press helped standardization. printing press helped spread. william caxton invented printing press. printing press helped standardization. printing press helped spread. invention of printing press. early modern english began in great vowel shift. great vowel shift altered pronunciation. william shakespeare exemplifies early modern english. early modern english began in great vowel shift. global language became lingua franca. 20th century saw global language.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Caxton's printing press helped spread the use of English across England.",
+    "retrieved_context": "printing press helped standardization. spread of dialects. printing press helped spread. spread of unified language. spread of variations. early modern english began in great vowel shift. great vowel shift altered pronunciation. old english also known as anglo-saxon. old english was inflected. old english spoken in england. old english was humble beginnings. anglo-saxons brought words. anglo-saxons in britain. words include house. words include mother. words include earth. printing press helped standardization. printing press helped spread. william caxton invented printing press.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early Modern English period began in the late 15th century.",
+    "retrieved_context": "early modern english began in great vowel shift. great vowel shift altered pronunciation. anglo-saxons brought words. anglo-saxons in britain. words include house. words include mother. words include earth. middle english saw introduction of french words. old english also known as anglo-saxon. old english was inflected. old english spoken in england. old english was humble beginnings.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "William Shakespeare's works exemplify Early Modern English.",
+    "retrieved_context": "early modern english began in great vowel shift. great vowel shift altered pronunciation. william shakespeare exemplifies early modern english. early modern english began in great vowel shift. old english also known as anglo-saxon. old english was inflected. old english spoken in england. old english was humble beginnings. middle english saw introduction of french words. the canterbury tales are examples of literature.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The British Empire's rise led to the spread of English to various parts of the world.",
+    "retrieved_context": "spread of unified language. spread of variations. british empire led to spread. spread of dialects. anglo-saxons brought words. anglo-saxons in britain. words include house. words include mother. words include earth. early modern english began in great vowel shift. great vowel shift altered pronunciation.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The British Empire's global influence contributed to the development of different English dialects.",
+    "retrieved_context": "spread of unified language. spread of variations. british empire led to spread. spread of dialects. anglo-saxons brought words. anglo-saxons in britain. words include house. words include mother. words include earth. early modern english began in great vowel shift. great vowel shift altered pronunciation. lingua franca of diplomacy. lingua franca of business. global language became lingua franca. lingua franca of communication.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English solidified its status as a global language in the 20th century.",
+    "retrieved_context": "lingua franca of diplomacy. lingua franca of business. global language became lingua franca. lingua franca of communication. global language became lingua franca. 20th century saw global language. early modern english began in great vowel shift. great vowel shift altered pronunciation. global language became lingua franca. transformation in grammar. english is global language. english used in science. history shaped by cultural influences. english spoken by 1.5 billion people. english continues to evolve. english used in technology. english reflects peoples. english is communication. transformation in pronunciation. history testament to adaptability. evolve with technology. history is evolution. history shaped by historical events. history testament to resilience. english is modern world. english has history. evolve with globalization. english reflects cultures. transformation in vocabulary. english used in entertainment. english underwent transformation. history is development. history spans over language. history is transformation. old english also known as anglo-saxon. old english was inflected. old english spoken in england. old english was humble beginnings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English became the lingua franca of international communication, business, and diplomacy.",
+    "retrieved_context": "lingua franca of diplomacy. lingua franca of business. lingua franca of communication. lingua franca of diplomacy. lingua franca of business. global language became lingua franca. lingua franca of communication. global language became lingua franca. transformation in grammar. english is global language. english used in science. history shaped by cultural influences. english spoken by 1.5 billion people. english continues to evolve. english used in technology. english reflects peoples. english is communication. transformation in pronunciation. history testament to adaptability. evolve with technology. history is evolution. history shaped by historical events. history testament to resilience. english is modern world. english has history. evolve with globalization. english reflects cultures. transformation in vocabulary. english used in entertainment. english underwent transformation. history is development. history spans over language. history is transformation. early modern english began in great vowel shift. great vowel shift altered pronunciation. old english also known as anglo-saxon. old english was inflected. old english spoken in england. old english was humble beginnings.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English is spoken by over 1.5 billion people worldwide today.",
+    "retrieved_context": "lingua franca of diplomacy. lingua franca of business. global language became lingua franca. lingua franca of communication. global language became lingua franca. transformation in grammar. english is global language. english used in science. history shaped by cultural influences. english spoken by 1.5 billion people. english continues to evolve. english used in technology. english reflects peoples. english is communication. transformation in pronunciation. history testament to adaptability. evolve with technology. history is evolution. history shaped by historical events. history testament to resilience. english is modern world. english has history. evolve with globalization. english reflects cultures. transformation in vocabulary. english used in entertainment. english underwent transformation. history is development. history spans over language. history is transformation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "English continues to evolve with the influence of technology and globalization.",
+    "retrieved_context": "lingua franca of diplomacy. lingua franca of business. global language became lingua franca. lingua franca of communication. global language became lingua franca. transformation in grammar. english is global language. english used in science. history shaped by cultural influences. english spoken by 1.5 billion people. english continues to evolve. english used in technology. english reflects peoples. english is communication. transformation in pronunciation. history testament to adaptability. evolve with technology. history is evolution. history shaped by historical events. history testament to resilience. english is modern world. english has history. evolve with globalization. english reflects cultures. transformation in vocabulary. english used in entertainment. english underwent transformation. history is development. history spans over language. history is transformation. old english also known as anglo-saxon. old english was inflected. old english spoken in england. old english was humble beginnings. early modern english began in great vowel shift. great vowel shift altered pronunciation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The history of the English language reflects diverse cultures and peoples.",
+    "retrieved_context": "anglo-saxons brought words. anglo-saxons in britain. words include house. words include mother. words include earth. early modern english began in great vowel shift. great vowel shift altered pronunciation. lingua franca of diplomacy. lingua franca of business. global language became lingua franca. lingua franca of communication.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

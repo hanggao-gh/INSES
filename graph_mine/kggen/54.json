@@ -1,0 +1,510 @@
+{
+  "entities": [
+    "achievements",
+    "ancient civilizations",
+    "areas",
+    "athletes",
+    "attention",
+    "backgrounds",
+    "barriers",
+    "beliefs",
+    "belonging",
+    "boundaries",
+    "brands",
+    "bridges",
+    "camaraderie",
+    "celebration",
+    "communities",
+    "community",
+    "competition",
+    "conclusion",
+    "contagious",
+    "countries",
+    "creation",
+    "crucial role",
+    "cultures",
+    "discipline",
+    "discrimination",
+    "economic impact",
+    "endorsements",
+    "equality",
+    "essay",
+    "events",
+    "failure",
+    "fair play",
+    "fans",
+    "force",
+    "gender equality",
+    "gender norms",
+    "global economy",
+    "goal",
+    "host cities",
+    "impact",
+    "inclusion",
+    "inclusivity",
+    "individuals",
+    "industry",
+    "influence",
+    "injustice",
+    "inspiration",
+    "international tournaments",
+    "jobs",
+    "language barriers",
+    "laughter",
+    "lessons",
+    "life skills",
+    "local economies",
+    "local games",
+    "means",
+    "modern societies",
+    "obstacles",
+    "olympics",
+    "participation",
+    "passion",
+    "people",
+    "perseverance",
+    "personal lives",
+    "platforms",
+    "political divisions",
+    "positive change",
+    "power",
+    "pride",
+    "products",
+    "professional lives",
+    "resilience",
+    "revenue",
+    "role",
+    "sense",
+    "services",
+    "shared experiences",
+    "soccer",
+    "social change",
+    "social issues",
+    "social justice",
+    "society",
+    "sponsors",
+    "sporting events",
+    "sports",
+    "sports teams",
+    "stereotypes",
+    "success",
+    "teams",
+    "teamwork",
+    "thrill",
+    "tool",
+    "tourism",
+    "traditionally male-dominated sports",
+    "traditions",
+    "values",
+    "ways",
+    "women",
+    "world",
+    "world cup"
+  ],
+  "relations": [
+    [
+      "areas",
+      "include",
+      "personal lives"
+    ],
+    [
+      "areas",
+      "include",
+      "professional lives"
+    ],
+    [
+      "athletes",
+      "bring attention to",
+      "social issues"
+    ],
+    [
+      "athletes",
+      "deal with",
+      "failure"
+    ],
+    [
+      "athletes",
+      "deal with",
+      "success"
+    ],
+    [
+      "athletes",
+      "have",
+      "achievements"
+    ],
+    [
+      "athletes",
+      "overcome",
+      "obstacles"
+    ],
+    [
+      "athletes",
+      "provide",
+      "inspiration"
+    ],
+    [
+      "athletes",
+      "serve as",
+      "brands"
+    ],
+    [
+      "athletes",
+      "speak out against",
+      "discrimination"
+    ],
+    [
+      "athletes",
+      "speak out against",
+      "injustice"
+    ],
+    [
+      "athletes",
+      "use",
+      "platforms"
+    ],
+    [
+      "athletes",
+      "work together towards",
+      "goal"
+    ],
+    [
+      "brands",
+      "attract",
+      "endorsements"
+    ],
+    [
+      "brands",
+      "attract",
+      "sponsors"
+    ],
+    [
+      "bridges",
+      "connect",
+      "communities"
+    ],
+    [
+      "bridges",
+      "connect",
+      "individuals"
+    ],
+    [
+      "events",
+      "create a sense of",
+      "belonging"
+    ],
+    [
+      "events",
+      "create a sense of",
+      "pride"
+    ],
+    [
+      "events",
+      "transcend",
+      "language barriers"
+    ],
+    [
+      "events",
+      "transcend",
+      "political divisions"
+    ],
+    [
+      "fans",
+      "celebrate",
+      "achievements"
+    ],
+    [
+      "inclusion",
+      "challenges",
+      "gender norms"
+    ],
+    [
+      "inclusion",
+      "of",
+      "women"
+    ],
+    [
+      "inclusion",
+      "promotes",
+      "equality"
+    ],
+    [
+      "lessons",
+      "translate into",
+      "areas"
+    ],
+    [
+      "life skills",
+      "include",
+      "perseverance"
+    ],
+    [
+      "life skills",
+      "include",
+      "resilience"
+    ],
+    [
+      "life skills",
+      "include",
+      "teamwork"
+    ],
+    [
+      "olympics",
+      "is an example of",
+      "sporting events"
+    ],
+    [
+      "participation",
+      "teaches",
+      "life skills"
+    ],
+    [
+      "sporting events",
+      "benefit",
+      "countries"
+    ],
+    [
+      "sporting events",
+      "benefit",
+      "host cities"
+    ],
+    [
+      "sporting events",
+      "boost",
+      "tourism"
+    ],
+    [
+      "sporting events",
+      "create",
+      "jobs"
+    ],
+    [
+      "sporting events",
+      "generate",
+      "revenue"
+    ],
+    [
+      "sporting events",
+      "include",
+      "international tournaments"
+    ],
+    [
+      "sporting events",
+      "include",
+      "local games"
+    ],
+    [
+      "sporting events",
+      "stimulate",
+      "local economies"
+    ],
+    [
+      "sporting events",
+      "unite",
+      "people"
+    ],
+    [
+      "sports",
+      "advocate for",
+      "social justice"
+    ],
+    [
+      "sports",
+      "are a force for",
+      "inclusivity"
+    ],
+    [
+      "sports",
+      "are a force for",
+      "positive change"
+    ],
+    [
+      "sports",
+      "are a major player in",
+      "global economy"
+    ],
+    [
+      "sports",
+      "are a powerful tool for promoting",
+      "social change"
+    ],
+    [
+      "sports",
+      "break down",
+      "barriers"
+    ],
+    [
+      "sports",
+      "bring together",
+      "people"
+    ],
+    [
+      "sports",
+      "build",
+      "bridges"
+    ],
+    [
+      "sports",
+      "challenge",
+      "stereotypes"
+    ],
+    [
+      "sports",
+      "contribute to",
+      "economic impact"
+    ],
+    [
+      "sports",
+      "drive",
+      "social change"
+    ],
+    [
+      "sports",
+      "have a significant",
+      "economic impact"
+    ],
+    [
+      "sports",
+      "impact",
+      "society"
+    ],
+    [
+      "sports",
+      "influence through creation of",
+      "shared experiences"
+    ],
+    [
+      "sports",
+      "influence through creation of",
+      "traditions"
+    ],
+    [
+      "sports",
+      "involve",
+      "products"
+    ],
+    [
+      "sports",
+      "involve",
+      "services"
+    ],
+    [
+      "sports",
+      "play a crucial role in promoting",
+      "values"
+    ],
+    [
+      "sports",
+      "play a significant role in shaping",
+      "cultures"
+    ],
+    [
+      "sports",
+      "play a vital role in shaping",
+      "cultures"
+    ],
+    [
+      "sports",
+      "play a vital role in shaping",
+      "society"
+    ],
+    [
+      "sports",
+      "promote",
+      "gender equality"
+    ],
+    [
+      "sports",
+      "promote",
+      "values"
+    ],
+    [
+      "sports",
+      "served as a powerful means of bringing together",
+      "people"
+    ],
+    [
+      "sports",
+      "transcend",
+      "boundaries"
+    ],
+    [
+      "sports teams",
+      "serve as",
+      "brands"
+    ],
+    [
+      "values",
+      "include",
+      "discipline"
+    ],
+    [
+      "values",
+      "include",
+      "fair play"
+    ],
+    [
+      "values",
+      "include",
+      "teamwork"
+    ],
+    [
+      "women",
+      "are included in",
+      "traditionally male-dominated sports"
+    ],
+    [
+      "world cup",
+      "is an example of",
+      "sporting events"
+    ]
+  ],
+  "edges": [
+    "advocate for",
+    "are a force for",
+    "are a major player in",
+    "are a powerful tool for promoting",
+    "are included in",
+    "attract",
+    "benefit",
+    "boost",
+    "break down",
+    "bring attention to",
+    "bring together",
+    "build",
+    "celebrate",
+    "challenge",
+    "challenges",
+    "connect",
+    "contribute to",
+    "create",
+    "create a sense of",
+    "deal with",
+    "drive",
+    "generate",
+    "have",
+    "have a significant",
+    "impact",
+    "include",
+    "influence through creation of",
+    "involve",
+    "is an example of",
+    "of",
+    "overcome",
+    "play a crucial role in promoting",
+    "play a significant role in shaping",
+    "play a vital role in shaping",
+    "promote",
+    "promotes",
+    "provide",
+    "serve as",
+    "served as a powerful means of bringing together",
+    "speak out against",
+    "stimulate",
+    "teaches",
+    "transcend",
+    "translate into",
+    "unite",
+    "use",
+    "work together towards"
+  ]
+}

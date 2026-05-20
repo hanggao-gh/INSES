@@ -1,0 +1,1708 @@
+{
+    "entities": [
+        "our emotions",
+        "calming",
+        "heart rate",
+        "yellow",
+        "its unique effects",
+        "On hand associated with feelings",
+        "its own effects",
+        "our lives",
+        "associated",
+        "its effects",
+        "Whether calming blue bedroom",
+        "For example often associated with happiness",
+        "where desired",
+        "our reactions",
+        "emotions",
+        "why often used",
+        "calming effect",
+        "environments",
+        "bedroom",
+        "On hand associated with feelings of calmness",
+        "For example associated with feelings",
+        "For example often associated with feelings of energy",
+        "On hand often associated with feelings",
+        "its own unique effects",
+        "spaces",
+        "hand",
+        "its unique psychological effects",
+        "On hand often associated with feelings of calmness",
+        "feelings of energy",
+        "even our physical reactions",
+        "its own psychological effects on individuals",
+        "color yellow",
+        "our daily lives",
+        "desired",
+        "often used",
+        "important",
+        "conclusion",
+        "sense of excitement",
+        "other hand",
+        "universal associations",
+        "its own unique psychological effects",
+        "For example often associated with feelings",
+        "has shown",
+        "color red",
+        "cheerful yellow kitchen",
+        "On other hand often associated with feelings",
+        "profound ways",
+        "feelings",
+        "happiness",
+        "feelings of calmness",
+        "Whether bedroom",
+        "color",
+        "cheerful kitchen",
+        "our physical reactions",
+        "our mood",
+        "it versatile color",
+        "calming bedroom",
+        "For example associated with feelings of energy",
+        "human behavior",
+        "example",
+        "depending personal experiences",
+        "its own psychological effects",
+        "colors",
+        "Whether blue bedroom",
+        "blood pressure",
+        "Similarly has shown",
+        "depending experiences",
+        "kitchen",
+        "role",
+        "why used",
+        "why often used in advertising",
+        "Whether calming bedroom",
+        "where important",
+        "why used in advertising",
+        "energizing red workout space",
+        "they",
+        "its effects on individuals",
+        "it",
+        "workout space",
+        "color psychology",
+        "calming effect on mind",
+        "used",
+        "its psychological effects on individuals",
+        "For example associated with happiness",
+        "known",
+        "known associations",
+        "power",
+        "sense of urgency",
+        "feelings of excitement",
+        "effect",
+        "we",
+        "yellow kitchen",
+        "its own unique effects on individuals",
+        "blue bedroom",
+        "its psychological effects",
+        "blue",
+        "its unique psychological effects on individuals",
+        "duality",
+        "cool colors",
+        "red",
+        "can used",
+        "significant role",
+        "sense",
+        "shown",
+        "bedrooms",
+        "its own unique psychological effects on individuals",
+        "its unique effects on individuals",
+        "it color",
+        "them",
+        "even our reactions",
+        "color blue",
+        "On other hand associated with feelings of calmness",
+        "effect on mind",
+        "associations",
+        "warm colors",
+        "certain colors",
+        "It",
+        "concentration",
+        "calming blue bedroom",
+        "perception",
+        "advertising",
+        "often associated",
+        "On other hand often associated with feelings of calmness",
+        "On other hand associated with feelings",
+        "focus",
+        "red workout space",
+        "energizing workout space",
+        "perceptions",
+        "attention",
+        "meanings",
+        "impact",
+        "our behavior",
+        "behavior",
+        "its own effects on individuals"
+    ],
+    "relations": [
+        [
+            "emotions",
+            "is known as",
+            "color psychology"
+        ],
+        [
+            "colors",
+            "influence",
+            "human behavior"
+        ],
+        [
+            "emotions",
+            "is",
+            "known"
+        ],
+        [
+            "colors",
+            "influence",
+            "behavior"
+        ],
+        [
+            "colors",
+            "affect",
+            "our mood"
+        ],
+        [
+            "our mood",
+            "colors",
+            "behavior"
+        ],
+        [
+            "our mood",
+            "colors",
+            "even our physical reactions"
+        ],
+        [
+            "our mood",
+            "colors",
+            "our physical reactions"
+        ],
+        [
+            "our mood",
+            "colors",
+            "our reactions"
+        ],
+        [
+            "our mood",
+            "colors",
+            "even our reactions"
+        ],
+        [
+            "color",
+            "has",
+            "its own unique psychological effects"
+        ],
+        [
+            "color",
+            "has",
+            "its psychological effects"
+        ],
+        [
+            "color",
+            "has",
+            "its unique psychological effects"
+        ],
+        [
+            "color",
+            "has",
+            "its unique effects on individuals"
+        ],
+        [
+            "color",
+            "has",
+            "its own unique effects"
+        ],
+        [
+            "color",
+            "has",
+            "its own effects"
+        ],
+        [
+            "color",
+            "has",
+            "its effects"
+        ],
+        [
+            "color",
+            "has",
+            "its own psychological effects on individuals"
+        ],
+        [
+            "color",
+            "has",
+            "its psychological effects on individuals"
+        ],
+        [
+            "color",
+            "has",
+            "its own effects on individuals"
+        ],
+        [
+            "color",
+            "has",
+            "its effects on individuals"
+        ],
+        [
+            "color",
+            "has",
+            "its own unique effects on individuals"
+        ],
+        [
+            "color",
+            "has",
+            "its own psychological effects"
+        ],
+        [
+            "color",
+            "has",
+            "its own unique psychological effects on individuals"
+        ],
+        [
+            "color",
+            "has",
+            "its unique psychological effects on individuals"
+        ],
+        [
+            "color",
+            "has",
+            "its unique effects"
+        ],
+        [
+            "known associations",
+            "is with",
+            "colors"
+        ],
+        [
+            "they",
+            "influence",
+            "our emotions"
+        ],
+        [
+            "warm colors",
+            "are often associated with",
+            "feelings"
+        ],
+        [
+            "colors",
+            "are",
+            "For example associated with feelings of energy"
+        ],
+        [
+            "warm colors",
+            "are",
+            "For example often associated with feelings"
+        ],
+        [
+            "colors",
+            "are",
+            "associated"
+        ],
+        [
+            "colors",
+            "are associated For",
+            "example"
+        ],
+        [
+            "colors",
+            "are associated with",
+            "feelings"
+        ],
+        [
+            "colors",
+            "are",
+            "For example often associated with feelings of energy"
+        ],
+        [
+            "colors",
+            "are",
+            "For example often associated with feelings"
+        ],
+        [
+            "warm colors",
+            "are",
+            "For example often associated with feelings of energy"
+        ],
+        [
+            "warm colors",
+            "are",
+            "For example associated with feelings"
+        ],
+        [
+            "warm colors",
+            "are often associated with",
+            "feelings of energy"
+        ],
+        [
+            "colors",
+            "are",
+            "often associated"
+        ],
+        [
+            "warm colors",
+            "are",
+            "For example associated with feelings of energy"
+        ],
+        [
+            "colors",
+            "are often associated with",
+            "feelings"
+        ],
+        [
+            "warm colors",
+            "are associated with",
+            "feelings of energy"
+        ],
+        [
+            "warm colors",
+            "are associated with",
+            "feelings"
+        ],
+        [
+            "warm colors",
+            "are",
+            "often associated"
+        ],
+        [
+            "warm colors",
+            "are",
+            "associated"
+        ],
+        [
+            "colors",
+            "are often associated For",
+            "example"
+        ],
+        [
+            "colors",
+            "are often associated with",
+            "feelings of energy"
+        ],
+        [
+            "warm colors",
+            "are associated For",
+            "example"
+        ],
+        [
+            "colors",
+            "are associated with",
+            "feelings of energy"
+        ],
+        [
+            "colors",
+            "are",
+            "For example associated with feelings"
+        ],
+        [
+            "warm colors",
+            "are often associated For",
+            "example"
+        ],
+        [
+            "colors",
+            "can evoke",
+            "sense"
+        ],
+        [
+            "colors",
+            "can evoke",
+            "sense of excitement"
+        ],
+        [
+            "colors",
+            "are",
+            "On other hand often associated with feelings of calmness"
+        ],
+        [
+            "cool colors",
+            "are often associated On",
+            "hand"
+        ],
+        [
+            "cool colors",
+            "are associated with",
+            "feelings"
+        ],
+        [
+            "cool colors",
+            "are",
+            "On hand associated with feelings"
+        ],
+        [
+            "colors",
+            "are",
+            "associated"
+        ],
+        [
+            "cool colors",
+            "are",
+            "On hand associated with feelings of calmness"
+        ],
+        [
+            "colors",
+            "are often associated On",
+            "other hand"
+        ],
+        [
+            "cool colors",
+            "are",
+            "On other hand often associated with feelings of calmness"
+        ],
+        [
+            "colors",
+            "are associated with",
+            "feelings"
+        ],
+        [
+            "cool colors",
+            "are",
+            "On other hand often associated with feelings"
+        ],
+        [
+            "colors",
+            "are",
+            "On other hand often associated with feelings"
+        ],
+        [
+            "cool colors",
+            "are associated On",
+            "hand"
+        ],
+        [
+            "cool colors",
+            "are often associated with",
+            "feelings"
+        ],
+        [
+            "colors",
+            "are associated with",
+            "feelings of calmness"
+        ],
+        [
+            "colors",
+            "are",
+            "On other hand associated with feelings of calmness"
+        ],
+        [
+            "colors",
+            "are",
+            "On hand associated with feelings of calmness"
+        ],
+        [
+            "cool colors",
+            "are often associated On",
+            "other hand"
+        ],
+        [
+            "cool colors",
+            "are",
+            "On other hand associated with feelings"
+        ],
+        [
+            "colors",
+            "are",
+            "often associated"
+        ],
+        [
+            "cool colors",
+            "are associated On",
+            "other hand"
+        ],
+        [
+            "cool colors",
+            "are",
+            "On hand often associated with feelings"
+        ],
+        [
+            "cool colors",
+            "are",
+            "On other hand associated with feelings of calmness"
+        ],
+        [
+            "colors",
+            "are",
+            "On hand often associated with feelings"
+        ],
+        [
+            "colors",
+            "are often associated with",
+            "feelings"
+        ],
+        [
+            "colors",
+            "are",
+            "On other hand associated with feelings"
+        ],
+        [
+            "colors",
+            "are associated On",
+            "hand"
+        ],
+        [
+            "colors",
+            "are often associated with",
+            "feelings of calmness"
+        ],
+        [
+            "cool colors",
+            "are",
+            "often associated"
+        ],
+        [
+            "colors",
+            "are",
+            "On hand often associated with feelings of calmness"
+        ],
+        [
+            "colors",
+            "are",
+            "On hand associated with feelings"
+        ],
+        [
+            "colors",
+            "are associated On",
+            "other hand"
+        ],
+        [
+            "cool colors",
+            "are",
+            "On hand often associated with feelings of calmness"
+        ],
+        [
+            "cool colors",
+            "are often associated with",
+            "feelings of calmness"
+        ],
+        [
+            "colors",
+            "are often associated On",
+            "hand"
+        ],
+        [
+            "cool colors",
+            "are associated with",
+            "feelings of calmness"
+        ],
+        [
+            "cool colors",
+            "are",
+            "associated"
+        ],
+        [
+            "colors",
+            "are",
+            "used"
+        ],
+        [
+            "colors",
+            "are used in",
+            "spaces"
+        ],
+        [
+            "colors",
+            "are",
+            "often used"
+        ],
+        [
+            "sense",
+            "is desired such",
+            "bedrooms"
+        ],
+        [
+            "sense",
+            "is",
+            "desired"
+        ],
+        [
+            "colors",
+            "are often used in",
+            "spaces"
+        ],
+        [
+            "sense",
+            "is",
+            "where desired"
+        ],
+        [
+            "colors",
+            "can impact",
+            "our behavior"
+        ],
+        [
+            "our behavior",
+            "colors",
+            "perception"
+        ],
+        [
+            "colors",
+            "can impact In",
+            "emotions"
+        ],
+        [
+            "colors",
+            "can also impact In",
+            "emotions"
+        ],
+        [
+            "colors",
+            "can also impact",
+            "our behavior"
+        ],
+        [
+            "color red",
+            "increase",
+            "heart rate"
+        ],
+        [
+            "color red",
+            "leading to",
+            "feelings of excitement"
+        ],
+        [
+            "color red",
+            "leading to",
+            "feelings"
+        ],
+        [
+            "heart rate",
+            "red",
+            "blood pressure"
+        ],
+        [
+            "red",
+            "is",
+            "why often used"
+        ],
+        [
+            "red",
+            "is",
+            "why often used in advertising"
+        ],
+        [
+            "red",
+            "is",
+            "why used in advertising"
+        ],
+        [
+            "red",
+            "is often used in",
+            "advertising"
+        ],
+        [
+            "red",
+            "is",
+            "often used"
+        ],
+        [
+            "red",
+            "is",
+            "why used"
+        ],
+        [
+            "attention",
+            "create",
+            "sense of urgency"
+        ],
+        [
+            "red",
+            "grab",
+            "attention"
+        ],
+        [
+            "red",
+            "is",
+            "used"
+        ],
+        [
+            "attention",
+            "create",
+            "sense"
+        ],
+        [
+            "red",
+            "is used in",
+            "advertising"
+        ],
+        [
+            "focus",
+            "are",
+            "important"
+        ],
+        [
+            "concentration",
+            "are",
+            "where important"
+        ],
+        [
+            "it",
+            "popular choice for",
+            "bedrooms"
+        ],
+        [
+            "color blue",
+            "have",
+            "effect on mind"
+        ],
+        [
+            "color blue",
+            "has",
+            "has shown"
+        ],
+        [
+            "color blue",
+            "have",
+            "effect"
+        ],
+        [
+            "it",
+            "choice for",
+            "bedrooms"
+        ],
+        [
+            "focus",
+            "are",
+            "where important"
+        ],
+        [
+            "concentration",
+            "are",
+            "important"
+        ],
+        [
+            "color blue",
+            "have",
+            "calming effect"
+        ],
+        [
+            "color blue",
+            "has",
+            "Similarly has shown"
+        ],
+        [
+            "color blue",
+            "have",
+            "calming effect on mind"
+        ],
+        [
+            "our physical reactions",
+            "colors",
+            "perceptions"
+        ],
+        [
+            "colors",
+            "Furthermore can also influence",
+            "our reactions"
+        ],
+        [
+            "colors",
+            "Furthermore can also influence",
+            "our physical reactions"
+        ],
+        [
+            "colors",
+            "Furthermore can influence",
+            "our reactions"
+        ],
+        [
+            "colors",
+            "can also influence",
+            "our physical reactions"
+        ],
+        [
+            "colors",
+            "Furthermore can influence",
+            "our physical reactions"
+        ],
+        [
+            "colors",
+            "can also influence",
+            "our reactions"
+        ],
+        [
+            "colors",
+            "can influence",
+            "our physical reactions"
+        ],
+        [
+            "colors",
+            "can influence",
+            "our reactions"
+        ],
+        [
+            "our reactions",
+            "colors",
+            "perceptions"
+        ],
+        [
+            "color yellow",
+            "is",
+            "For example often associated with happiness"
+        ],
+        [
+            "color yellow",
+            "is",
+            "associated"
+        ],
+        [
+            "color yellow",
+            "is often associated For",
+            "example"
+        ],
+        [
+            "color yellow",
+            "been",
+            "shown"
+        ],
+        [
+            "color yellow",
+            "is associated For",
+            "example"
+        ],
+        [
+            "color yellow",
+            "is associated with",
+            "happiness"
+        ],
+        [
+            "color yellow",
+            "is",
+            "often associated"
+        ],
+        [
+            "color yellow",
+            "is",
+            "For example associated with happiness"
+        ],
+        [
+            "color yellow",
+            "is often associated with",
+            "happiness"
+        ],
+        [
+            "yellow",
+            "choice for",
+            "spaces"
+        ],
+        [
+            "yellow",
+            "choice",
+            "desired"
+        ],
+        [
+            "yellow",
+            "popular choice",
+            "desired"
+        ],
+        [
+            "sense",
+            "is",
+            "desired"
+        ],
+        [
+            "sense",
+            "is",
+            "where desired"
+        ],
+        [
+            "yellow",
+            "popular choice",
+            "where desired"
+        ],
+        [
+            "yellow",
+            "choice",
+            "where desired"
+        ],
+        [
+            "yellow",
+            "popular choice for",
+            "spaces"
+        ],
+        [
+            "it",
+            "versatile color",
+            "can used"
+        ],
+        [
+            "duality",
+            "makes",
+            "it versatile color"
+        ],
+        [
+            "duality",
+            "makes",
+            "it color"
+        ],
+        [
+            "it",
+            "color",
+            "can used"
+        ],
+        [
+            "we",
+            "react to",
+            "colors"
+        ],
+        [
+            "It",
+            "is",
+            "important"
+        ],
+        [
+            "certain colors",
+            "may have",
+            "associations"
+        ],
+        [
+            "certain colors",
+            "may have",
+            "universal associations"
+        ],
+        [
+            "meanings",
+            "can vary depending",
+            "depending experiences"
+        ],
+        [
+            "colors",
+            "may have",
+            "associations"
+        ],
+        [
+            "colors",
+            "may have",
+            "universal associations"
+        ],
+        [
+            "meanings",
+            "can vary depending",
+            "depending personal experiences"
+        ],
+        [
+            "meanings",
+            "can vary greatly depending",
+            "depending personal experiences"
+        ],
+        [
+            "meanings",
+            "can vary greatly depending",
+            "depending experiences"
+        ],
+        [
+            "colors",
+            "play role in",
+            "our daily lives"
+        ],
+        [
+            "colors",
+            "play",
+            "significant role"
+        ],
+        [
+            "colors",
+            "play",
+            "role"
+        ],
+        [
+            "colors",
+            "play role In",
+            "conclusion"
+        ],
+        [
+            "perceptions",
+            "is in",
+            "profound ways"
+        ],
+        [
+            "colors",
+            "play role in",
+            "our lives"
+        ],
+        [
+            "colors",
+            "have",
+            "power"
+        ],
+        [
+            "we",
+            "can use",
+            "them"
+        ],
+        [
+            "them",
+            "create",
+            "environments"
+        ],
+        [
+            "cheerful kitchen",
+            "can have impact",
+            "calming bedroom"
+        ],
+        [
+            "kitchen",
+            "can have impact",
+            "Whether calming blue bedroom"
+        ],
+        [
+            "energizing red workout space",
+            "can have impact",
+            "Whether blue bedroom"
+        ],
+        [
+            "red workout space",
+            "can have impact",
+            "bedroom"
+        ],
+        [
+            "cheerful yellow kitchen",
+            "can have impact",
+            "Whether calming bedroom"
+        ],
+        [
+            "cheerful yellow kitchen",
+            "can have impact",
+            "bedroom"
+        ],
+        [
+            "yellow kitchen",
+            "can have",
+            "impact"
+        ],
+        [
+            "energizing workout space",
+            "can have impact",
+            "Whether calming bedroom"
+        ],
+        [
+            "kitchen",
+            "can have impact",
+            "calming blue bedroom"
+        ],
+        [
+            "energizing red workout space",
+            "can have impact",
+            "blue bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "Whether calming blue bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "Whether calming bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "blue"
+        ],
+        [
+            "energizing red workout space",
+            "can have impact",
+            "bedroom"
+        ],
+        [
+            "cheerful yellow kitchen",
+            "can have impact",
+            "Whether blue bedroom"
+        ],
+        [
+            "cheerful yellow kitchen",
+            "can have",
+            "impact"
+        ],
+        [
+            "energizing red workout space",
+            "can have impact",
+            "Whether calming blue bedroom"
+        ],
+        [
+            "cheerful kitchen",
+            "can have impact",
+            "Whether blue bedroom"
+        ],
+        [
+            "yellow kitchen",
+            "can have impact",
+            "blue bedroom"
+        ],
+        [
+            "cheerful kitchen",
+            "can have impact",
+            "Whether bedroom"
+        ],
+        [
+            "cheerful kitchen",
+            "can have impact",
+            "calming blue bedroom"
+        ],
+        [
+            "cheerful yellow kitchen",
+            "can have impact",
+            "calming bedroom"
+        ],
+        [
+            "workout space",
+            "can have",
+            "impact"
+        ],
+        [
+            "energizing workout space",
+            "can have impact",
+            "bedroom"
+        ],
+        [
+            "red workout space",
+            "can have",
+            "impact"
+        ],
+        [
+            "yellow kitchen",
+            "can have impact",
+            "Whether blue bedroom"
+        ],
+        [
+            "workout space",
+            "can have impact",
+            "Whether calming bedroom"
+        ],
+        [
+            "energizing workout space",
+            "can have impact",
+            "Whether bedroom"
+        ],
+        [
+            "yellow kitchen",
+            "can have impact",
+            "Whether calming bedroom"
+        ],
+        [
+            "energizing workout space",
+            "can have impact",
+            "Whether calming blue bedroom"
+        ],
+        [
+            "yellow kitchen",
+            "can have impact",
+            "calming bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "calming bedroom"
+        ],
+        [
+            "energizing workout space",
+            "can have impact",
+            "Whether blue bedroom"
+        ],
+        [
+            "cheerful yellow kitchen",
+            "can have impact",
+            "calming blue bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "bedroom"
+        ],
+        [
+            "red workout space",
+            "can have impact",
+            "calming bedroom"
+        ],
+        [
+            "cheerful yellow kitchen",
+            "can have impact",
+            "Whether calming blue bedroom"
+        ],
+        [
+            "cheerful yellow kitchen",
+            "can have impact",
+            "Whether bedroom"
+        ],
+        [
+            "workout space",
+            "can have impact",
+            "Whether calming blue bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "calming blue bedroom"
+        ],
+        [
+            "red workout space",
+            "can have impact",
+            "Whether blue bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "Whether bedroom"
+        ],
+        [
+            "kitchen",
+            "can have impact",
+            "blue bedroom"
+        ],
+        [
+            "yellow kitchen",
+            "can have impact",
+            "Whether bedroom"
+        ],
+        [
+            "workout space",
+            "can have impact",
+            "Whether bedroom"
+        ],
+        [
+            "yellow kitchen",
+            "can have impact",
+            "bedroom"
+        ],
+        [
+            "cheerful yellow kitchen",
+            "can have impact",
+            "blue bedroom"
+        ],
+        [
+            "kitchen",
+            "can have impact",
+            "Whether bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "Whether blue bedroom"
+        ],
+        [
+            "cheerful kitchen",
+            "can have impact",
+            "blue bedroom"
+        ],
+        [
+            "yellow kitchen",
+            "can have impact",
+            "calming blue bedroom"
+        ],
+        [
+            "kitchen",
+            "can have impact",
+            "Whether calming bedroom"
+        ],
+        [
+            "red workout space",
+            "can have impact",
+            "Whether bedroom"
+        ],
+        [
+            "workout space",
+            "can have impact",
+            "calming bedroom"
+        ],
+        [
+            "kitchen",
+            "can have impact",
+            "bedroom"
+        ],
+        [
+            "kitchen",
+            "can have",
+            "impact"
+        ],
+        [
+            "cheerful kitchen",
+            "can have impact",
+            "bedroom"
+        ],
+        [
+            "red workout space",
+            "can have impact",
+            "Whether calming blue bedroom"
+        ],
+        [
+            "workout space",
+            "can have impact",
+            "blue bedroom"
+        ],
+        [
+            "kitchen",
+            "can have impact",
+            "calming bedroom"
+        ],
+        [
+            "cheerful kitchen",
+            "can have impact",
+            "Whether calming bedroom"
+        ],
+        [
+            "energizing workout space",
+            "can have",
+            "impact"
+        ],
+        [
+            "energizing red workout space",
+            "can have",
+            "impact"
+        ],
+        [
+            "red workout space",
+            "can have impact",
+            "calming blue bedroom"
+        ],
+        [
+            "energizing red workout space",
+            "can have impact",
+            "calming bedroom"
+        ],
+        [
+            "workout space",
+            "can have impact",
+            "Whether blue bedroom"
+        ],
+        [
+            "kitchen",
+            "can have impact",
+            "Whether blue bedroom"
+        ],
+        [
+            "red workout space",
+            "can have impact",
+            "blue bedroom"
+        ],
+        [
+            "yellow kitchen",
+            "can have impact",
+            "Whether calming blue bedroom"
+        ],
+        [
+            "workout space",
+            "can have impact",
+            "calming blue bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "blue bedroom"
+        ],
+        [
+            "cheerful kitchen",
+            "can have impact",
+            "Whether calming blue bedroom"
+        ],
+        [
+            "energizing workout space",
+            "can have impact",
+            "calming bedroom"
+        ],
+        [
+            "cheerful kitchen",
+            "can have",
+            "impact"
+        ],
+        [
+            "energizing workout space",
+            "can have impact",
+            "blue bedroom"
+        ],
+        [
+            "energizing workout space",
+            "can have impact",
+            "calming blue bedroom"
+        ],
+        [
+            "energizing red workout space",
+            "can have impact",
+            "calming blue bedroom"
+        ],
+        [
+            "workout space",
+            "can have impact",
+            "bedroom"
+        ],
+        [
+            "energizing red workout space",
+            "can have impact",
+            "Whether bedroom"
+        ],
+        [
+            "energizing red workout space",
+            "can have impact",
+            "Whether calming bedroom"
+        ],
+        [
+            "it",
+            "has",
+            "calming"
+        ],
+        [
+            "red workout space",
+            "can have impact",
+            "Whether calming bedroom"
+        ]
+    ],
+    "edges": [
+        "is known as",
+        "influence",
+        "is",
+        "influence",
+        "affect",
+        "colors",
+        "colors",
+        "colors",
+        "colors",
+        "colors",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "is with",
+        "influence",
+        "are often associated with",
+        "are",
+        "are",
+        "are",
+        "are associated For",
+        "are associated with",
+        "are",
+        "are",
+        "are",
+        "are",
+        "are often associated with",
+        "are",
+        "are",
+        "are often associated with",
+        "are associated with",
+        "are associated with",
+        "are",
+        "are",
+        "are often associated For",
+        "are often associated with",
+        "are associated For",
+        "are associated with",
+        "are",
+        "are often associated For",
+        "can evoke",
+        "can evoke",
+        "are",
+        "are often associated On",
+        "are associated with",
+        "are",
+        "are",
+        "are",
+        "are often associated On",
+        "are",
+        "are associated with",
+        "are",
+        "are",
+        "are associated On",
+        "are often associated with",
+        "are associated with",
+        "are",
+        "are",
+        "are often associated On",
+        "are",
+        "are",
+        "are associated On",
+        "are",
+        "are",
+        "are",
+        "are often associated with",
+        "are",
+        "are associated On",
+        "are often associated with",
+        "are",
+        "are",
+        "are",
+        "are associated On",
+        "are",
+        "are often associated with",
+        "are often associated On",
+        "are associated with",
+        "are",
+        "are",
+        "are used in",
+        "are",
+        "is desired such",
+        "is",
+        "are often used in",
+        "is",
+        "can impact",
+        "colors",
+        "can impact In",
+        "can also impact In",
+        "can also impact",
+        "increase",
+        "leading to",
+        "leading to",
+        "red",
+        "is",
+        "is",
+        "is",
+        "is often used in",
+        "is",
+        "is",
+        "create",
+        "grab",
+        "is",
+        "create",
+        "is used in",
+        "are",
+        "are",
+        "popular choice for",
+        "have",
+        "has",
+        "have",
+        "choice for",
+        "are",
+        "are",
+        "have",
+        "has",
+        "have",
+        "colors",
+        "Furthermore can also influence",
+        "Furthermore can also influence",
+        "Furthermore can influence",
+        "can also influence",
+        "Furthermore can influence",
+        "can also influence",
+        "can influence",
+        "can influence",
+        "colors",
+        "is",
+        "is",
+        "is often associated For",
+        "been",
+        "is associated For",
+        "is associated with",
+        "is",
+        "is",
+        "is often associated with",
+        "choice for",
+        "choice",
+        "popular choice",
+        "is",
+        "is",
+        "popular choice",
+        "choice",
+        "popular choice for",
+        "versatile color",
+        "makes",
+        "makes",
+        "color",
+        "react to",
+        "is",
+        "may have",
+        "may have",
+        "can vary depending",
+        "may have",
+        "may have",
+        "can vary depending",
+        "can vary greatly depending",
+        "can vary greatly depending",
+        "play role in",
+        "play",
+        "play",
+        "play role In",
+        "is in",
+        "play role in",
+        "have",
+        "can use",
+        "create",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "has",
+        "has",
+        "has",
+        "can have impact",
+        "can have impact",
+        "can have",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have",
+        "can have impact",
+        "can have",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "has",
+        "can have impact",
+        "can have impact",
+        "has",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "has",
+        "can have impact",
+        "has",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "has",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have",
+        "can have",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "has",
+        "can have impact",
+        "can have impact",
+        "can have",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "can have impact",
+        "has",
+        "can have impact"
+    ]
+}

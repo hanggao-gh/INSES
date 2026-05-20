@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Genetic engineering is a rapidly advancing field.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Genetic engineering has the potential to revolutionize medicine.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering has the potential to revolutionize agriculture.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering raises ethical concerns.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. ethical concerns must be considered. ethical concerns must be addressed. addressed individual rights. addressed social sustainability. debates about safety. genetically modified organisms have sparked debates. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering can alter the fundamental building blocks of life.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering manipulates genes to create organisms with specific traits.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. genetic makeup of living organisms.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Genetic engineering raises questions about human intervention in the natural world.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Genetic engineering involves deliberate changes to the genetic makeup of living organisms.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. genetic makeup of living organisms. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering interventions could have unforeseen consequences.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes. unforeseen consequences leading to harm. unforeseen consequences disrupting ecosystems. unforeseen consequences creating dilemmas.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetically modified organisms have sparked debates about safety for human consumption.",
+    "retrieved_context": "debates about safety. genetically modified organisms have sparked debates. ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. impact on environment. safety and well-being. safety for human consumption. well-being of environment. safety for impact. well-being of individuals. organisms leading to designer babies. organisms with characteristics. organisms leading to genetically engineered animals. designer babies raises commodification. organisms with traits. organisms leading to genetically modified crops.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering raises concerns about consent and autonomy.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. consent related to autonomy. ethical concerns must be considered. ethical concerns must be addressed. addressed individual rights. addressed social sustainability. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic engineering risks infringing on individuals' rights to make informed decisions.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Genetic engineering raises concerns about social justice and equity.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. ethical concerns must be considered. ethical concerns must be addressed. addressed individual rights. addressed social sustainability.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Genetic technologies could widen the gap between those who can afford enhancements.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. genetic makeup of living organisms.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Genetic engineering raises questions about the long-term implications of altering the genetic code.",
+    "retrieved_context": "ethical concerns must be addressed. genetic engineering raises equity. genetic engineering raises ethical concerns. altering of genetic code. genetic engineering to revolutionize industries. genetic engineering to revolutionize agriculture. altering of building blocks. genetic engineering has implications altering. genetic engineering raises social justice. ethical concerns must be considered. genetic engineering is advancing potential. genetic engineering to revolutionize medicine. debates about safety. genetically modified organisms have sparked debates. predictive purposes raises discrimination. predictive purposes raises privacy. genetic testing for predictive purposes.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

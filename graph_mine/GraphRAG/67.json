@@ -1,0 +1,107 @@
+{
+  "entities": [
+    "DIGITAL ECONOMY",
+    "MAGAZINES",
+    "ELECTRONIC DATABASES",
+    "COMMUNITY SERVICES",
+    "DIGITAL AGE",
+    "CULTURAL HERITAGE",
+    "DIGITAL COLLECTIONS",
+    "ONLINE RESOURCES",
+    "COMMUNITY ENGAGEMENT",
+    "NEWSPAPERS",
+    "DIGITAL LITERACY",
+    "INTELLECTUAL FREEDOM",
+    "BOOKS",
+    "LIBRARIES",
+    "EDUCATIONAL PROGRAMS"
+  ],
+  "relations": [
+    [
+      "LIBRARIES",
+      "Despite the digital age making information easily accessible, libraries maintain their crucial role in society",
+      "DIGITAL AGE"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries provide access to books as part of their resources",
+      "BOOKS"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries offer magazines to cater to the varied interests of their patrons",
+      "MAGAZINES"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries include newspapers in their resources for public access",
+      "NEWSPAPERS"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries provide electronic databases as part of their digital collections",
+      "ELECTRONIC DATABASES"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries have digital collections that include electronic books and databases",
+      "DIGITAL COLLECTIONS"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries make online resources available to the public, enhancing accessibility",
+      "ONLINE RESOURCES"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries support lifelong learning through educational programs",
+      "EDUCATIONAL PROGRAMS"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries offer community services, enriching the lives of individuals and fostering community",
+      "COMMUNITY SERVICES"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries enhance digital literacy skills by providing access to digital resources",
+      "DIGITAL LITERACY"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries enable participation in the digital economy through access to internet services and resources",
+      "DIGITAL ECONOMY"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries foster a sense of community and social connection through hosting events and workshops",
+      "COMMUNITY ENGAGEMENT"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries preserve and promote cultural heritage by collecting and preserving cultural artifacts",
+      "CULTURAL HERITAGE"
+    ],
+    [
+      "LIBRARIES",
+      "Libraries promote intellectual freedom and democracy by providing access to diverse viewpoints",
+      "INTELLECTUAL FREEDOM"
+    ]
+  ],
+  "edges": [
+    "Despite the digital age making information easily accessible, libraries maintain their crucial role in society",
+    "Libraries provide access to books as part of their resources",
+    "Libraries offer magazines to cater to the varied interests of their patrons",
+    "Libraries include newspapers in their resources for public access",
+    "Libraries provide electronic databases as part of their digital collections",
+    "Libraries have digital collections that include electronic books and databases",
+    "Libraries make online resources available to the public, enhancing accessibility",
+    "Libraries support lifelong learning through educational programs",
+    "Libraries offer community services, enriching the lives of individuals and fostering community",
+    "Libraries enhance digital literacy skills by providing access to digital resources",
+    "Libraries enable participation in the digital economy through access to internet services and resources",
+    "Libraries foster a sense of community and social connection through hosting events and workshops",
+    "Libraries preserve and promote cultural heritage by collecting and preserving cultural artifacts",
+    "Libraries promote intellectual freedom and democracy by providing access to diverse viewpoints"
+  ]
+}

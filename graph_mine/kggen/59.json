@@ -1,0 +1,624 @@
+{
+  "entities": [
+    "19th century",
+    "20th century",
+    "access",
+    "accessing",
+    "advanced medical technologies",
+    "advancements",
+    "affordable healthcare",
+    "alexander fleming",
+    "ancient civilizations",
+    "andreas vesalius",
+    "anesthesia",
+    "antibiotic era",
+    "antibiotics",
+    "artificial intelligence",
+    "bacterial infections",
+    "barriers",
+    "boundaries",
+    "burden",
+    "cancer",
+    "capabilities",
+    "care",
+    "challenges",
+    "chronic diseases",
+    "communication",
+    "concept",
+    "conclusion",
+    "conditions",
+    "contagious",
+    "continuity",
+    "coordination",
+    "ct scans",
+    "data-driven insights",
+    "decisions",
+    "diabetes",
+    "diagnose",
+    "diagnostic tools",
+    "discovery",
+    "diseases",
+    "disparities",
+    "dissections",
+    "distress",
+    "drugs",
+    "effort",
+    "electronic health records",
+    "equitable access",
+    "equity",
+    "evolution",
+    "foundation",
+    "fractures",
+    "fulfilling lives",
+    "future",
+    "genetic makeup",
+    "germ theory",
+    "germs",
+    "healthcare",
+    "healthcare delivery",
+    "healthcare practices",
+    "healthcare providers",
+    "healthcare quality",
+    "healthy",
+    "high-quality",
+    "history",
+    "human anatomy",
+    "human ingenuity",
+    "hypertension",
+    "identification",
+    "imaging techniques",
+    "inclusivity",
+    "individuals",
+    "infectious diseases",
+    "innovation",
+    "integration",
+    "internal structures",
+    "introduction",
+    "invention",
+    "knowledge",
+    "laparoscopy",
+    "laughter",
+    "lives",
+    "louis pasteur",
+    "marginalized communities",
+    "medical care",
+    "medical conditions",
+    "medical imaging",
+    "medical professionals",
+    "medical technology",
+    "microorganisms",
+    "milestone",
+    "minimally invasive procedures",
+    "modern medicine",
+    "monitoring",
+    "mortality rates",
+    "mri",
+    "operations",
+    "opportunity",
+    "outcomes",
+    "pain",
+    "patients",
+    "penicillin",
+    "personalized medicine",
+    "pharmaceutical companies",
+    "pharmaceutical industry",
+    "physicians",
+    "physiology",
+    "pneumonia",
+    "policymakers",
+    "practice",
+    "precision",
+    "progress",
+    "promise",
+    "public",
+    "quality of life",
+    "refinement",
+    "renaissance period",
+    "robert koch",
+    "role",
+    "scientific discoveries",
+    "services",
+    "society",
+    "sophisticated medical practices",
+    "structure",
+    "study",
+    "surgeons",
+    "surgery",
+    "surgical procedures",
+    "surgical techniques",
+    "technological innovations",
+    "technology",
+    "telemedicine",
+    "testament",
+    "therapies",
+    "traditional beliefs",
+    "transformations",
+    "treat",
+    "treatment",
+    "treatment methods",
+    "treatment modalities",
+    "treatments",
+    "tumors",
+    "understanding",
+    "vaccines",
+    "viral infections",
+    "visualize",
+    "wearable devices",
+    "wilhelm roentgen",
+    "william morton",
+    "x-ray"
+  ],
+  "relations": [
+    [
+      "19th century",
+      "marked",
+      "milestone"
+    ],
+    [
+      "access",
+      "to",
+      "affordable healthcare"
+    ],
+    [
+      "access",
+      "to",
+      "high-quality"
+    ],
+    [
+      "advanced medical technologies",
+      "transformed",
+      "practice"
+    ],
+    [
+      "advancements",
+      "improving",
+      "quality of life"
+    ],
+    [
+      "advancements",
+      "in",
+      "medical technology"
+    ],
+    [
+      "advancements",
+      "revolutionizing",
+      "healthcare practices"
+    ],
+    [
+      "alexander fleming",
+      "discovered",
+      "penicillin"
+    ],
+    [
+      "andreas vesalius",
+      "challenged",
+      "traditional beliefs"
+    ],
+    [
+      "andreas vesalius",
+      "conducted",
+      "dissections"
+    ],
+    [
+      "antibiotic era",
+      "revolutionizing",
+      "treatment"
+    ],
+    [
+      "antibiotics",
+      "combat",
+      "bacterial infections"
+    ],
+    [
+      "artificial intelligence",
+      "revolutionized",
+      "healthcare delivery"
+    ],
+    [
+      "barriers",
+      "to",
+      "accessing"
+    ],
+    [
+      "boundaries",
+      "of",
+      "knowledge"
+    ],
+    [
+      "boundaries",
+      "of",
+      "technology"
+    ],
+    [
+      "capabilities",
+      "of",
+      "medical professionals"
+    ],
+    [
+      "chronic diseases",
+      "such as",
+      "cancer"
+    ],
+    [
+      "chronic diseases",
+      "such as",
+      "diabetes"
+    ],
+    [
+      "chronic diseases",
+      "such as",
+      "hypertension"
+    ],
+    [
+      "conclusion",
+      "testament to",
+      "human ingenuity"
+    ],
+    [
+      "conclusion",
+      "testament to",
+      "innovation"
+    ],
+    [
+      "decisions",
+      "based on",
+      "data-driven insights"
+    ],
+    [
+      "diagnostic tools",
+      "emergence of",
+      "treatment modalities"
+    ],
+    [
+      "discovery",
+      "of",
+      "germs"
+    ],
+    [
+      "discovery",
+      "of",
+      "penicillin"
+    ],
+    [
+      "disparities",
+      "in",
+      "healthcare quality"
+    ],
+    [
+      "disparities",
+      "in",
+      "outcomes"
+    ],
+    [
+      "dissections",
+      "understand",
+      "structure"
+    ],
+    [
+      "effort",
+      "from",
+      "healthcare providers"
+    ],
+    [
+      "effort",
+      "from",
+      "policymakers"
+    ],
+    [
+      "effort",
+      "from",
+      "public"
+    ],
+    [
+      "electronic health records",
+      "improved",
+      "communication"
+    ],
+    [
+      "electronic health records",
+      "improved",
+      "coordination"
+    ],
+    [
+      "equitable access",
+      "for",
+      "individuals"
+    ],
+    [
+      "equity",
+      "in",
+      "healthcare delivery"
+    ],
+    [
+      "equity",
+      "in",
+      "inclusivity"
+    ],
+    [
+      "evolution",
+      "traced back to",
+      "ancient civilizations"
+    ],
+    [
+      "evolution",
+      "transformed",
+      "practice"
+    ],
+    [
+      "germ theory",
+      "by",
+      "louis pasteur"
+    ],
+    [
+      "germ theory",
+      "by",
+      "robert koch"
+    ],
+    [
+      "healthcare",
+      "improved",
+      "lives"
+    ],
+    [
+      "healthcare providers",
+      "leading to better",
+      "continuity"
+    ],
+    [
+      "identification",
+      "of",
+      "microorganisms"
+    ],
+    [
+      "imaging techniques",
+      "such as",
+      "ct scans"
+    ],
+    [
+      "imaging techniques",
+      "such as",
+      "mri"
+    ],
+    [
+      "integration",
+      "of",
+      "technology"
+    ],
+    [
+      "introduction",
+      "of",
+      "anesthesia"
+    ],
+    [
+      "invention",
+      "of",
+      "minimally invasive procedures"
+    ],
+    [
+      "invention",
+      "of",
+      "x-ray"
+    ],
+    [
+      "marginalized communities",
+      "facing",
+      "barriers"
+    ],
+    [
+      "medical conditions",
+      "including",
+      "chronic diseases"
+    ],
+    [
+      "medical imaging",
+      "allows",
+      "physicians"
+    ],
+    [
+      "minimally invasive procedures",
+      "such as",
+      "laparoscopy"
+    ],
+    [
+      "modern medicine",
+      "has made",
+      "advancements"
+    ],
+    [
+      "operations",
+      "without",
+      "distress"
+    ],
+    [
+      "operations",
+      "without",
+      "pain"
+    ],
+    [
+      "opportunity",
+      "to lead",
+      "fulfilling lives"
+    ],
+    [
+      "opportunity",
+      "to lead",
+      "healthy"
+    ],
+    [
+      "patients",
+      "access",
+      "medical care"
+    ],
+    [
+      "personalized medicine",
+      "tailor",
+      "treatments"
+    ],
+    [
+      "pharmaceutical companies",
+      "develop",
+      "drugs"
+    ],
+    [
+      "pharmaceutical companies",
+      "develop",
+      "therapies"
+    ],
+    [
+      "pharmaceutical industry",
+      "role in",
+      "discovery"
+    ],
+    [
+      "physicians",
+      "diagnose",
+      "diseases"
+    ],
+    [
+      "physicians",
+      "make",
+      "decisions"
+    ],
+    [
+      "physicians",
+      "treat",
+      "diseases"
+    ],
+    [
+      "physicians",
+      "visualize",
+      "internal structures"
+    ],
+    [
+      "progress",
+      "in",
+      "challenges"
+    ],
+    [
+      "promise",
+      "for",
+      "future"
+    ],
+    [
+      "refinement",
+      "of",
+      "surgical techniques"
+    ],
+    [
+      "renaissance period",
+      "began",
+      "study"
+    ],
+    [
+      "scientific discoveries",
+      "paved the way for",
+      "sophisticated medical practices"
+    ],
+    [
+      "structure",
+      "laid",
+      "foundation"
+    ],
+    [
+      "surgeons",
+      "perform",
+      "operations"
+    ],
+    [
+      "surgery",
+      "leading to better",
+      "outcomes"
+    ],
+    [
+      "surgical procedures",
+      "revolutionized by",
+      "anesthesia"
+    ],
+    [
+      "technological innovations",
+      "paved the way for",
+      "sophisticated medical practices"
+    ],
+    [
+      "telemedicine",
+      "revolutionized",
+      "healthcare delivery"
+    ],
+    [
+      "treatments",
+      "based on",
+      "genetic makeup"
+    ],
+    [
+      "understanding",
+      "of",
+      "human anatomy"
+    ],
+    [
+      "vaccines",
+      "combat",
+      "viral infections"
+    ],
+    [
+      "wearable devices",
+      "revolutionized",
+      "healthcare delivery"
+    ],
+    [
+      "wilhelm roentgen",
+      "invented",
+      "x-ray"
+    ],
+    [
+      "william morton",
+      "introduced",
+      "anesthesia"
+    ]
+  ],
+  "edges": [
+    "access",
+    "allows",
+    "based on",
+    "began",
+    "by",
+    "challenged",
+    "combat",
+    "conducted",
+    "develop",
+    "diagnose",
+    "discovered",
+    "emergence of",
+    "facing",
+    "for",
+    "from",
+    "has made",
+    "improved",
+    "improving",
+    "in",
+    "including",
+    "introduced",
+    "invented",
+    "laid",
+    "leading to better",
+    "make",
+    "marked",
+    "of",
+    "paved the way for",
+    "perform",
+    "revolutionized",
+    "revolutionized by",
+    "revolutionizing",
+    "role in",
+    "such as",
+    "tailor",
+    "testament to",
+    "to",
+    "to lead",
+    "traced back to",
+    "transformed",
+    "treat",
+    "understand",
+    "visualize",
+    "without"
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "entities": [
+    "academic",
+    "access",
+    "adult education classes",
+    "advancement",
+    "archives",
+    "backbone",
+    "backgrounds",
+    "bastions",
+    "beacons",
+    "book clubs",
+    "books",
+    "bridging",
+    "censorship",
+    "children",
+    "collective memory",
+    "community",
+    "community engagement",
+    "community events",
+    "community hubs",
+    "community services",
+    "computers",
+    "critical thinking",
+    "cultural",
+    "cultural activities",
+    "cultural artifacts",
+    "cultural heritage",
+    "cultural identity",
+    "cultural institutions",
+    "culture",
+    "democracy",
+    "democratic discourse",
+    "detect",
+    "digital age",
+    "digital collections",
+    "digital divide",
+    "digital economy",
+    "digital literacy skills",
+    "discussions",
+    "early literacy programs",
+    "educational institutions",
+    "educational programs",
+    "empower",
+    "enriching",
+    "essential institutions",
+    "events",
+    "exhibitions",
+    "functions",
+    "gathering spaces",
+    "heritage",
+    "horizons",
+    "ideas",
+    "individuals",
+    "information",
+    "information literacy",
+    "informed citizenship",
+    "intellectual fabric",
+    "intellectual freedom",
+    "internet",
+    "internet services",
+    "knowledge",
+    "lectures",
+    "libraries",
+    "lifelong learning",
+    "literacy initiatives",
+    "lives",
+    "love of learning",
+    "manuscripts",
+    "materials",
+    "multifaceted role",
+    "online resources",
+    "patrons",
+    "personal growth",
+    "physical resources",
+    "potential",
+    "prey",
+    "privacy",
+    "professional",
+    "programs",
+    "public",
+    "range",
+    "repositories",
+    "resources",
+    "sense",
+    "services",
+    "sharks",
+    "social",
+    "society",
+    "support",
+    "technology",
+    "viewpoints",
+    "workshops"
+  ],
+  "relations": [
+    [
+      "community hubs",
+      "access",
+      "computers"
+    ],
+    [
+      "community hubs",
+      "access",
+      "internet services"
+    ],
+    [
+      "community hubs",
+      "enhance",
+      "digital literacy skills"
+    ],
+    [
+      "community hubs",
+      "participate in",
+      "digital economy"
+    ],
+    [
+      "cultural institutions",
+      "collecting",
+      "archives"
+    ],
+    [
+      "cultural institutions",
+      "collecting",
+      "books"
+    ],
+    [
+      "cultural institutions",
+      "collecting",
+      "cultural artifacts"
+    ],
+    [
+      "cultural institutions",
+      "collecting",
+      "manuscripts"
+    ],
+    [
+      "cultural institutions",
+      "explore",
+      "cultural identity"
+    ],
+    [
+      "cultural institutions",
+      "preserve",
+      "cultural heritage"
+    ],
+    [
+      "cultural institutions",
+      "provide",
+      "exhibitions"
+    ],
+    [
+      "cultural institutions",
+      "provide",
+      "lectures"
+    ],
+    [
+      "cultural institutions",
+      "safeguard",
+      "collective memory"
+    ],
+    [
+      "cultural institutions",
+      "safeguard",
+      "heritage"
+    ],
+    [
+      "gathering spaces",
+      "attend",
+      "events"
+    ],
+    [
+      "gathering spaces",
+      "engage in",
+      "discussions"
+    ],
+    [
+      "gathering spaces",
+      "participate in",
+      "cultural activities"
+    ],
+    [
+      "libraries",
+      "accessible to",
+      "public"
+    ],
+    [
+      "libraries",
+      "bastions of",
+      "intellectual freedom"
+    ],
+    [
+      "libraries",
+      "bridging",
+      "digital divide"
+    ],
+    [
+      "libraries",
+      "cater to",
+      "patrons"
+    ],
+    [
+      "libraries",
+      "considered as",
+      "backbone"
+    ],
+    [
+      "libraries",
+      "contribute to",
+      "advancement"
+    ],
+    [
+      "libraries",
+      "contribute to",
+      "cultural"
+    ],
+    [
+      "libraries",
+      "contribute to",
+      "intellectual fabric"
+    ],
+    [
+      "libraries",
+      "contribute to",
+      "social"
+    ],
+    [
+      "libraries",
+      "creating opportunities for",
+      "community engagement"
+    ],
+    [
+      "libraries",
+      "empower",
+      "individuals"
+    ],
+    [
+      "libraries",
+      "engage in",
+      "democratic discourse"
+    ],
+    [
+      "libraries",
+      "enrich",
+      "lives"
+    ],
+    [
+      "libraries",
+      "enriching",
+      "lives"
+    ],
+    [
+      "libraries",
+      "fostering",
+      "love of learning"
+    ],
+    [
+      "libraries",
+      "fostering",
+      "sense"
+    ],
+    [
+      "libraries",
+      "hosting",
+      "book clubs"
+    ],
+    [
+      "libraries",
+      "hosting",
+      "community events"
+    ],
+    [
+      "libraries",
+      "hosting",
+      "programs"
+    ],
+    [
+      "libraries",
+      "offer",
+      "digital collections"
+    ],
+    [
+      "libraries",
+      "offer",
+      "online resources"
+    ],
+    [
+      "libraries",
+      "offering",
+      "community services"
+    ],
+    [
+      "libraries",
+      "offering",
+      "educational programs"
+    ],
+    [
+      "libraries",
+      "play",
+      "multifaceted role"
+    ],
+    [
+      "libraries",
+      "play a role in",
+      "society"
+    ],
+    [
+      "libraries",
+      "promoting",
+      "critical thinking"
+    ],
+    [
+      "libraries",
+      "promoting",
+      "democracy"
+    ],
+    [
+      "libraries",
+      "promoting",
+      "information literacy"
+    ],
+    [
+      "libraries",
+      "promoting",
+      "informed citizenship"
+    ],
+    [
+      "libraries",
+      "promoting",
+      "intellectual freedom"
+    ],
+    [
+      "libraries",
+      "provide",
+      "adult education classes"
+    ],
+    [
+      "libraries",
+      "provide",
+      "early literacy programs"
+    ],
+    [
+      "libraries",
+      "provide",
+      "services"
+    ],
+    [
+      "libraries",
+      "provide",
+      "support"
+    ],
+    [
+      "libraries",
+      "provide",
+      "workshops"
+    ],
+    [
+      "libraries",
+      "provide access to",
+      "range"
+    ],
+    [
+      "libraries",
+      "providing access to",
+      "books"
+    ],
+    [
+      "libraries",
+      "providing access to",
+      "ideas"
+    ],
+    [
+      "libraries",
+      "providing access to",
+      "internet"
+    ],
+    [
+      "libraries",
+      "providing access to",
+      "resources"
+    ],
+    [
+      "libraries",
+      "providing access to",
+      "technology"
+    ],
+    [
+      "libraries",
+      "providing access to",
+      "viewpoints"
+    ],
+    [
+      "libraries",
+      "serve as",
+      "beacons"
+    ],
+    [
+      "libraries",
+      "serve as",
+      "community hubs"
+    ],
+    [
+      "libraries",
+      "serve as",
+      "cultural institutions"
+    ],
+    [
+      "libraries",
+      "serve as",
+      "educational institutions"
+    ],
+    [
+      "libraries",
+      "serve as",
+      "essential institutions"
+    ],
+    [
+      "libraries",
+      "serve as",
+      "gathering spaces"
+    ],
+    [
+      "libraries",
+      "serve as",
+      "repositories"
+    ],
+    [
+      "libraries",
+      "support",
+      "lifelong learning"
+    ],
+    [
+      "libraries",
+      "support",
+      "literacy initiatives"
+    ],
+    [
+      "libraries",
+      "uphold",
+      "censorship"
+    ],
+    [
+      "libraries",
+      "uphold",
+      "privacy"
+    ],
+    [
+      "patrons",
+      "broaden",
+      "horizons"
+    ],
+    [
+      "patrons",
+      "explore",
+      "ideas"
+    ],
+    [
+      "range",
+      "of",
+      "materials"
+    ],
+    [
+      "repositories",
+      "of",
+      "culture"
+    ],
+    [
+      "repositories",
+      "of",
+      "information"
+    ],
+    [
+      "repositories",
+      "of",
+      "knowledge"
+    ]
+  ],
+  "edges": [
+    "access",
+    "accessible to",
+    "attend",
+    "bastions of",
+    "bridging",
+    "broaden",
+    "cater to",
+    "collecting",
+    "considered as",
+    "contribute to",
+    "creating opportunities for",
+    "empower",
+    "engage in",
+    "enhance",
+    "enrich",
+    "enriching",
+    "explore",
+    "fostering",
+    "hosting",
+    "of",
+    "offer",
+    "offering",
+    "participate in",
+    "play",
+    "play a role in",
+    "preserve",
+    "promoting",
+    "provide",
+    "provide access to",
+    "providing access to",
+    "safeguard",
+    "serve as",
+    "support",
+    "uphold"
+  ]
+}

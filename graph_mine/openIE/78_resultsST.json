@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Leonardo da Vinci painted the Mona Lisa in the early 16th century.",
+    "retrieved_context": "Leonardo da Vinci known for his iconic painting. Leonardo da Vinci known for his painting. Mona Lisa Painted in 16th century. Mona Lisa is masterpiece. Mona Lisa Painted in early century. Mona Lisa is masterpiece of Renaissance period. masterpiece showcasing da Vinci 's technical skill to detail. masterpiece showcasing da Vinci 's skill. masterpiece showcasing da Vinci 's skill to detail. masterpiece showcasing da Vinci 's technical skill. Mona Lisa Painted in century. Mona Lisa Painted in early 16th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Mona Lisa is considered a masterpiece of the Renaissance period.",
+    "retrieved_context": "Mona Lisa Painted in 16th century. Mona Lisa is masterpiece. Mona Lisa Painted in early century. Mona Lisa is masterpiece of Renaissance period. masterpiece showcasing da Vinci 's technical skill to detail. masterpiece showcasing da Vinci 's skill. masterpiece showcasing da Vinci 's skill to detail. masterpiece showcasing da Vinci 's technical skill. Mona Lisa Painted in century. Mona Lisa Painted in early 16th century.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Michelangelo painted the frescoes on the ceiling of the Sistine Chapel between 1508 and 1512.",
+    "retrieved_context": "Michelangelo has mastery of anatomy. whose frescoes are considered.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The frescoes on the Sistine Chapel ceiling feature scenes from the Bible.",
+    "retrieved_context": "whose frescoes are considered. ceiling features scenes. chapel has ceiling. ceiling features scenes from Bible including Creation of Adam. ceiling features scenes including Creation of Adam. ceiling features intricate scenes from Bible including Creation of Adam. ceiling features intricate scenes from Bible. ceiling features scenes from Bible including Creation. ceiling features intricate scenes including Creation. ceiling features intricate scenes from Bible including Creation. ceiling features intricate scenes including Creation of Adam. ceiling features intricate scenes. ceiling features scenes from Bible. ceiling features scenes including Creation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Caravaggio was known for his dramatic use of light and shadow in his paintings.",
+    "retrieved_context": "Caravaggio 's paintings are characterized by their realism with subjects. Caravaggio 's paintings are characterized by their intense realism. their intense realism is with subjects. Caravaggio 's paintings are characterized by their realism. Caravaggio 's paintings are characterized by their intense realism with subjects.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "One of Caravaggio's famous works is 'The Calling of Saint Matthew'.",
+    "retrieved_context": "Caravaggio has paintings. Caravaggio of style. Caravaggio 's paintings are characterized by their realism with subjects. Caravaggio 's paintings are characterized by their intense realism. their intense realism is with subjects. Caravaggio 's paintings are characterized by their realism. Caravaggio 's paintings are characterized by their intense realism with subjects.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Claude Monet is famous for his series of paintings of water lilies and gardens at Giverny.",
+    "retrieved_context": "Claude Monet known for his series paintings his home Giverny. Claude Monet known for his series his home. Claude Monet known for his series paintings water lilies his home Giverny. Claude Monet known for his series paintings water lilies his home. Claude Monet known for his series. Claude Monet known for his series paintings his home. Claude Monet known for his series paintings water lilies. Claude Monet known for his series paintings. Claude Monet known for his series his home Giverny. Monet 's use created sense of movement. Monet 's use breaking away more rigid traditions. Monet 's use breaking away more rigid traditions of time. Monet 's use breaking away academic traditions of time. Monet 's use breaking away traditions of time. Monet 's use breaking away rigid traditions of time. Monet 's use breaking away rigid academic traditions of time. sense contrast between light. sense contrast between light in painting. Monet 's use breaking away more rigid academic traditions. Monet 's use created sense. Monet 's use breaking away traditions. Monet 's use created sense in his paintings. Monet 's use breaking away academic traditions. Monet 's use breaking away more rigid academic traditions of time. Monet 's use breaking away rigid academic traditions. Monet 's use breaking away rigid traditions.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Monet's paintings are known for their loose brushwork and vibrant colors.",
+    "retrieved_context": "Monet 's use created sense of movement. Monet 's use breaking away more rigid traditions. Monet 's use breaking away more rigid traditions of time. Monet 's use breaking away academic traditions of time. Monet 's use breaking away traditions of time. Monet 's use breaking away rigid traditions of time. Monet 's use breaking away rigid academic traditions of time. sense contrast between light. sense contrast between light in painting. Monet 's use breaking away more rigid academic traditions. Monet 's use created sense. Monet 's use breaking away traditions. Monet 's use created sense in his paintings. Monet 's use breaking away academic traditions. Monet 's use breaking away more rigid academic traditions of time. Monet 's use breaking away rigid academic traditions. Monet 's use breaking away rigid traditions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pablo Picasso was a pioneer of Cubism in the 20th century.",
+    "retrieved_context": "Pablo Picasso artists of modern era. Picasso was pioneer. Picasso was pioneer of art movement. Picasso was pioneer of revolutionary art movement. Picasso has bold experimentation with form. Picasso was pioneer of Cubism. Picasso 's experimentation paved way for abstract art generations to come. Picasso 's experimentation paved way for abstract art generations come. Picasso 's experimentation paved way for art generations come. Picasso 's experimentation paved way for art generations to come. Picasso 's experimentation paved way. Picasso 's experimentation paved way for abstract art generations of artists to come. Picasso 's experimentation paved way for abstract art generations of artists come. Picasso 's experimentation paved way for art generations of artists to come. Picasso 's experimentation paved way for art generations of artists come. Picasso 's bold experimentation paved way for abstract art generations come. Picasso 's bold experimentation paved way for art generations come. Picasso 's bold experimentation is with form. Picasso 's bold experimentation paved way for art generations of artists come. Picasso 's bold experimentation paved way for abstract art generations to come. Picasso 's bold experimentation paved way for abstract art generations of artists come. Picasso 's bold experimentation paved way. Picasso 's bold experimentation paved way for art generations of artists to come. Picasso 's bold experimentation paved way for art generations to come. Picasso 's bold experimentation paved way for abstract art generations of artists to come.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Picasso's painting 'Les Demoiselles d'Avignon' shattered traditional notions of perspective.",
+    "retrieved_context": "Picasso 's experimentation paved way for abstract art generations to come. Picasso 's experimentation paved way for abstract art generations come. Picasso 's experimentation paved way for art generations come. Picasso 's experimentation paved way for art generations to come. Picasso 's experimentation paved way. Picasso 's experimentation paved way for abstract art generations of artists to come. Picasso 's experimentation paved way for abstract art generations of artists come. Picasso 's experimentation paved way for art generations of artists to come. Picasso 's experimentation paved way for art generations of artists come. Picasso 's bold experimentation paved way for abstract art generations come. Picasso 's bold experimentation paved way for art generations come. Picasso 's bold experimentation is with form. Picasso 's bold experimentation paved way for art generations of artists come. Picasso 's bold experimentation paved way for abstract art generations to come. Picasso 's bold experimentation paved way for abstract art generations of artists come. Picasso 's bold experimentation paved way. Picasso 's bold experimentation paved way for art generations of artists to come. Picasso 's bold experimentation paved way for art generations to come. Picasso 's bold experimentation paved way for abstract art generations of artists to come. Picasso was pioneer. Picasso was pioneer of art movement. Picasso was pioneer of revolutionary art movement. Picasso has bold experimentation with form. Picasso was pioneer of Cubism.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Vincent van Gogh created emotionally charged landscapes in his artworks.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Frida Kahlo is known for her powerful self-portraits.",
+    "retrieved_context": "Frida Kahlo to powerful self portraits.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Artists like Leonardo da Vinci embodied the Renaissance ideal of the 'Renaissance man'.",
+    "retrieved_context": "Leonardo da Vinci known for his iconic painting. Leonardo da Vinci known for his painting.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Michelangelo's work on the Sistine Chapel ceiling continues to inspire artists.",
+    "retrieved_context": "Michelangelo has mastery of anatomy. Michelangelo 's mastery is evident in figures. Michelangelo 's mastery is evident in lifelike figures. Michelangelo 's mastery is evident.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Impressionists aimed to capture the effects of light and color in their paintings.",
+    "retrieved_context": "artists have pushed boundaries From intricate paintings of Renaissance. artists have pushed boundaries From paintings to bold works. artists have pushed boundaries From paintings to works of modern art. artists have pushed boundaries From paintings of Renaissance to works of modern art. artists have pushed boundaries From paintings to bold works of art. artists have pushed boundaries From intricate paintings to bold works of art. artists have pushed boundaries From paintings to works. artists have pushed boundaries. artists have pushed boundaries From intricate paintings. artists have pushed boundaries of creativity. artists have pushed boundaries From intricate paintings of Renaissance to works of modern art. Impressionists group of artists. artists have pushed boundaries From paintings to works of art. artists have pushed boundaries From paintings of Renaissance to bold works of art. artists have pushed boundaries From intricate paintings to works of art. artists have pushed boundaries From paintings of Renaissance to bold works of modern art. artists have pushed boundaries From intricate paintings of Renaissance to works. artists have pushed boundaries From intricate paintings of Renaissance to bold works. artists have pushed boundaries From intricate paintings to bold works. artists inspired generations. artists have pushed boundaries From paintings of Renaissance. artists have pushed boundaries From intricate paintings of Renaissance to bold works of modern art. artists have pushed boundaries From paintings of Renaissance to bold works. artists have played role. artists have played role In conclusion. artists have pushed boundaries From paintings of Renaissance to works. artists have pushed boundaries From paintings. artists have pushed boundaries From intricate paintings of Renaissance to works of art. artists have pushed boundaries From paintings to bold works of modern art. artists have pushed boundaries From paintings of Renaissance to works of art. artists have pushed boundaries From intricate paintings to bold works of modern art. artists have pushed boundaries From intricate paintings of Renaissance to bold works of art. artists have played vital role. artists have pushed boundaries From intricate paintings to works. artists have pushed boundaries From intricate paintings to works of modern art.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

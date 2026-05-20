@@ -1,0 +1,89 @@
+{
+  "entities": [
+    "PHYSICS",
+    "FRICTION",
+    "ROLLER COASTERS",
+    "CENTRIPETAL FORCE",
+    "ENERGY CONSERVATION",
+    "ACCELERATION",
+    "GRAVITATIONAL FORCE",
+    "GRAVITY",
+    "VELOCITY"
+  ],
+  "relations": [
+    [
+      "ROLLER COASTERS",
+      "Gravitational force is a key component in the motion and experience of roller coasters, especially noted during drops",
+      "GRAVITATIONAL FORCE"
+    ],
+    [
+      "ROLLER COASTERS",
+      "Centripetal force is crucial for the motion of roller coasters around curves and loops, ensuring the cars stay on the track",
+      "CENTRIPETAL FORCE"
+    ],
+    [
+      "ROLLER COASTERS",
+      "Roller coasters are a practical application of physics, utilizing principles such as forces, energy conservation, acceleration, and velocity to operate and provide thrilling experiences",
+      "PHYSICS"
+    ],
+    [
+      "ROLLER COASTERS",
+      "The principle of energy conservation is utilized in roller coasters to convert potential energy into kinetic energy and vice versa, contributing to the dynamics of the ride",
+      "ENERGY CONSERVATION"
+    ],
+    [
+      "ROLLER COASTERS",
+      "Acceleration is a key aspect of the roller coaster experience, especially noted during drops and ascents, governed by physics principles",
+      "ACCELERATION"
+    ],
+    [
+      "ROLLER COASTERS",
+      "Roller coasters are renowned for reaching high velocities during drops and loops, providing riders with excitement. The velocity of roller coasters significantly affects the sensations experienced by riders, making it a crucial element in the design and operation of these rides. This interplay between velocity and the design of roller coasters ensures that the thrill and enjoyment of the ride are maximized for all who dare to experience it.",
+      "VELOCITY"
+    ],
+    [
+      "CENTRIPETAL FORCE",
+      "Centripetal force contributes to the acceleration of a roller coaster during its motion",
+      "ACCELERATION"
+    ],
+    [
+      "ENERGY CONSERVATION",
+      "Friction affects the energy conservation process by either reducing kinetic energy through resistance or aiding in the conversion of potential energy into kinetic energy",
+      "FRICTION"
+    ],
+    [
+      "ENERGY CONSERVATION",
+      "The process of energy conservation directly influences the acceleration of the roller coaster as potential energy is converted into kinetic energy",
+      "ACCELERATION"
+    ],
+    [
+      "ACCELERATION",
+      "Gravity is one of the forces that contribute to the acceleration of a roller coaster",
+      "GRAVITY"
+    ],
+    [
+      "ACCELERATION",
+      "Friction affects the acceleration of a roller coaster by opposing its motion",
+      "FRICTION"
+    ],
+    [
+      "ACCELERATION",
+      "Acceleration affects the velocity of a roller coaster by changing its speed and direction",
+      "VELOCITY"
+    ]
+  ],
+  "edges": [
+    "Gravitational force is a key component in the motion and experience of roller coasters, especially noted during drops",
+    "Centripetal force is crucial for the motion of roller coasters around curves and loops, ensuring the cars stay on the track",
+    "Roller coasters are a practical application of physics, utilizing principles such as forces, energy conservation, acceleration, and velocity to operate and provide thrilling experiences",
+    "The principle of energy conservation is utilized in roller coasters to convert potential energy into kinetic energy and vice versa, contributing to the dynamics of the ride",
+    "Acceleration is a key aspect of the roller coaster experience, especially noted during drops and ascents, governed by physics principles",
+    "Roller coasters are renowned for reaching high velocities during drops and loops, providing riders with excitement. The velocity of roller coasters significantly affects the sensations experienced by riders, making it a crucial element in the design and operation of these rides. This interplay between velocity and the design of roller coasters ensures that the thrill and enjoyment of the ride are maximized for all who dare to experience it.",
+    "Centripetal force contributes to the acceleration of a roller coaster during its motion",
+    "Friction affects the energy conservation process by either reducing kinetic energy through resistance or aiding in the conversion of potential energy into kinetic energy",
+    "The process of energy conservation directly influences the acceleration of the roller coaster as potential energy is converted into kinetic energy",
+    "Gravity is one of the forces that contribute to the acceleration of a roller coaster",
+    "Friction affects the acceleration of a roller coaster by opposing its motion",
+    "Acceleration affects the velocity of a roller coaster by changing its speed and direction"
+  ]
+}

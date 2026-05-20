@@ -1,0 +1,132 @@
+{
+  "entities": [
+    "YURI GAGARIN",
+    "SPUTNIK 1",
+    "APOLLO 11",
+    "NASA",
+    "SPACE SHUTTLE PROGRAM",
+    "SPACE RACE",
+    "BLUE ORIGIN",
+    "RUSSIA",
+    "VOSTOK 1",
+    "INTERNATIONAL SPACE STATION (ISS)",
+    "SOVIET UNION",
+    "NEIL ARMSTRONG",
+    "ELON MUSK",
+    "UNITED STATES",
+    "BUZZ ALDRIN",
+    "SPACEX"
+  ],
+  "relations": [
+    [
+      "SPUTNIK 1",
+      "Sputnik 1 was launched by the Soviet Union, marking the start of the space age",
+      "SOVIET UNION"
+    ],
+    [
+      "SOVIET UNION",
+      "Yuri Gagarin was launched into space by the Soviet Union aboard Vostok 1",
+      "YURI GAGARIN"
+    ],
+    [
+      "SOVIET UNION",
+      "Russia continued the Soviet Union's space exploration efforts after its dissolution",
+      "RUSSIA"
+    ],
+    [
+      "SOVIET UNION",
+      "The Soviet Union was a major competitor in the original space race against the United States",
+      "SPACE RACE"
+    ],
+    [
+      "UNITED STATES",
+      "Apollo 11, a mission by NASA, marked the first time humans landed on the moon and was a significant achievement for the United States",
+      "APOLLO 11"
+    ],
+    [
+      "UNITED STATES",
+      "NASA, the space agency of the United States, is responsible for the country's space exploration efforts. This includes notable missions such as Apollo 11, which marked a significant milestone in space exploration history.",
+      "NASA"
+    ],
+    [
+      "UNITED STATES",
+      "The United States was a major competitor in the original space race and continues to be involved through both NASA and private companies",
+      "SPACE RACE"
+    ],
+    [
+      "YURI GAGARIN",
+      "Yuri Gagarin's historic spaceflight was aboard Vostok 1",
+      "VOSTOK 1"
+    ],
+    [
+      "NASA",
+      "NASA initiated the Space Shuttle Program in the 1980s",
+      "SPACE SHUTTLE PROGRAM"
+    ],
+    [
+      "NASA",
+      "NASA contributed to the construction and operation of the ISS",
+      "INTERNATIONAL SPACE STATION (ISS)"
+    ],
+    [
+      "APOLLO 11",
+      "Neil Armstrong was an astronaut on the Apollo 11 mission and the first human to set foot on the moon",
+      "NEIL ARMSTRONG"
+    ],
+    [
+      "APOLLO 11",
+      "Buzz Aldrin was an astronaut on the Apollo 11 mission and walked on the moon",
+      "BUZZ ALDRIN"
+    ],
+    [
+      "RUSSIA",
+      "Russia, following the Soviet Union's dissolution, continues its involvement in space exploration and the modern space race",
+      "SPACE RACE"
+    ],
+    [
+      "SPACE SHUTTLE PROGRAM",
+      "The Space Shuttle Program enabled the construction of the ISS",
+      "INTERNATIONAL SPACE STATION (ISS)"
+    ],
+    [
+      "INTERNATIONAL SPACE STATION (ISS)",
+      "SpaceX has launched multiple crewed missions to the ISS",
+      "SPACEX"
+    ],
+    [
+      "SPACEX",
+      "Elon Musk founded SpaceX and leads its space exploration efforts",
+      "ELON MUSK"
+    ],
+    [
+      "SPACEX",
+      "SpaceX, as a private company, has entered the modern space race with significant advancements and plans for Mars",
+      "SPACE RACE"
+    ],
+    [
+      "BLUE ORIGIN",
+      "Blue Origin has entered the modern space race with its plans to commercialize space travel",
+      "SPACE RACE"
+    ]
+  ],
+  "edges": [
+    "Sputnik 1 was launched by the Soviet Union, marking the start of the space age",
+    "Yuri Gagarin was launched into space by the Soviet Union aboard Vostok 1",
+    "Russia continued the Soviet Union's space exploration efforts after its dissolution",
+    "The Soviet Union was a major competitor in the original space race against the United States",
+    "Apollo 11, a mission by NASA, marked the first time humans landed on the moon and was a significant achievement for the United States",
+    "NASA, the space agency of the United States, is responsible for the country's space exploration efforts. This includes notable missions such as Apollo 11, which marked a significant milestone in space exploration history.",
+    "The United States was a major competitor in the original space race and continues to be involved through both NASA and private companies",
+    "Yuri Gagarin's historic spaceflight was aboard Vostok 1",
+    "NASA initiated the Space Shuttle Program in the 1980s",
+    "NASA contributed to the construction and operation of the ISS",
+    "Neil Armstrong was an astronaut on the Apollo 11 mission and the first human to set foot on the moon",
+    "Buzz Aldrin was an astronaut on the Apollo 11 mission and walked on the moon",
+    "Russia, following the Soviet Union's dissolution, continues its involvement in space exploration and the modern space race",
+    "The Space Shuttle Program enabled the construction of the ISS",
+    "SpaceX has launched multiple crewed missions to the ISS",
+    "Elon Musk founded SpaceX and leads its space exploration efforts",
+    "SpaceX, as a private company, has entered the modern space race with significant advancements and plans for Mars",
+    "Blue Origin has entered the modern space race with its plans to commercialize space travel"
+  ]
+}

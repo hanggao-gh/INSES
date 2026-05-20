@@ -1,0 +1,420 @@
+{
+  "entities": [
+    "abdomen",
+    "ability",
+    "adaptability",
+    "adaptive",
+    "adhesive substance",
+    "adjustments",
+    "anchor line",
+    "bite",
+    "branch",
+    "consumption",
+    "contagious",
+    "creatures",
+    "egg sacs",
+    "elastic",
+    "food",
+    "framework",
+    "glands",
+    "guide",
+    "homes",
+    "hunting grounds",
+    "ingenuity",
+    "instinct",
+    "intervals",
+    "knowledge",
+    "laughter",
+    "location",
+    "material",
+    "mating rituals",
+    "pattern",
+    "phenomenon",
+    "precision",
+    "presence",
+    "prey",
+    "process",
+    "properties",
+    "protein molecules",
+    "purposes",
+    "radial lines",
+    "resourceful",
+    "sense",
+    "shape",
+    "signal line",
+    "silk",
+    "skill",
+    "sources",
+    "space",
+    "spiders",
+    "spinnerets",
+    "spiral lines",
+    "step",
+    "strand",
+    "strength",
+    "strong",
+    "structure",
+    "sturdy",
+    "surface",
+    "tension",
+    "trap",
+    "trap line",
+    "types",
+    "vibrations",
+    "wall",
+    "web-building",
+    "webs"
+  ],
+  "relations": [
+    [
+      "ability",
+      "to build",
+      "webs"
+    ],
+    [
+      "adhesive substance",
+      "helps",
+      "trap"
+    ],
+    [
+      "anchor line",
+      "is",
+      "guide"
+    ],
+    [
+      "glands",
+      "located at",
+      "abdomen"
+    ],
+    [
+      "location",
+      "has",
+      "sources"
+    ],
+    [
+      "location",
+      "has",
+      "space"
+    ],
+    [
+      "material",
+      "composed of",
+      "protein molecules"
+    ],
+    [
+      "material",
+      "is",
+      "elastic"
+    ],
+    [
+      "material",
+      "is",
+      "strong"
+    ],
+    [
+      "presence",
+      "of",
+      "food"
+    ],
+    [
+      "prey",
+      "for",
+      "consumption"
+    ],
+    [
+      "process",
+      "is",
+      "instinct"
+    ],
+    [
+      "process",
+      "is",
+      "phenomenon"
+    ],
+    [
+      "process",
+      "is",
+      "precision"
+    ],
+    [
+      "process",
+      "is",
+      "skill"
+    ],
+    [
+      "protein molecules",
+      "give",
+      "properties"
+    ],
+    [
+      "purposes",
+      "include",
+      "egg sacs"
+    ],
+    [
+      "purposes",
+      "include",
+      "mating rituals"
+    ],
+    [
+      "radial lines",
+      "are",
+      "framework"
+    ],
+    [
+      "radial lines",
+      "form",
+      "shape"
+    ],
+    [
+      "radial lines",
+      "form",
+      "structure"
+    ],
+    [
+      "radial lines",
+      "spaced at",
+      "intervals"
+    ],
+    [
+      "signal line",
+      "transmits",
+      "vibrations"
+    ],
+    [
+      "silk",
+      "from",
+      "spinnerets"
+    ],
+    [
+      "silk",
+      "is",
+      "material"
+    ],
+    [
+      "sources",
+      "of",
+      "food"
+    ],
+    [
+      "spiders",
+      "anchor",
+      "strand"
+    ],
+    [
+      "spiders",
+      "are",
+      "adaptive"
+    ],
+    [
+      "spiders",
+      "are",
+      "creatures"
+    ],
+    [
+      "spiders",
+      "are",
+      "resourceful"
+    ],
+    [
+      "spiders",
+      "choose",
+      "location"
+    ],
+    [
+      "spiders",
+      "construct",
+      "radial lines"
+    ],
+    [
+      "spiders",
+      "demonstrate",
+      "precision"
+    ],
+    [
+      "spiders",
+      "demonstrate",
+      "skill"
+    ],
+    [
+      "spiders",
+      "have",
+      "adaptability"
+    ],
+    [
+      "spiders",
+      "have",
+      "ingenuity"
+    ],
+    [
+      "spiders",
+      "have",
+      "knowledge"
+    ],
+    [
+      "spiders",
+      "have",
+      "sense"
+    ],
+    [
+      "spiders",
+      "immobilize",
+      "prey"
+    ],
+    [
+      "spiders",
+      "known for",
+      "ability"
+    ],
+    [
+      "spiders",
+      "lay down",
+      "spiral lines"
+    ],
+    [
+      "spiders",
+      "make",
+      "adjustments"
+    ],
+    [
+      "spiders",
+      "produce",
+      "silk"
+    ],
+    [
+      "spiders",
+      "produce",
+      "types"
+    ],
+    [
+      "spiders",
+      "test",
+      "strength"
+    ],
+    [
+      "spiders",
+      "test",
+      "tension"
+    ],
+    [
+      "spiders",
+      "use",
+      "bite"
+    ],
+    [
+      "spiders",
+      "wrap",
+      "prey"
+    ],
+    [
+      "spinnerets",
+      "are",
+      "glands"
+    ],
+    [
+      "spiral lines",
+      "are",
+      "adhesive substance"
+    ],
+    [
+      "spiral lines",
+      "are",
+      "pattern"
+    ],
+    [
+      "step",
+      "in",
+      "web-building"
+    ],
+    [
+      "strand",
+      "is",
+      "anchor line"
+    ],
+    [
+      "strand",
+      "to",
+      "surface"
+    ],
+    [
+      "surface",
+      "is",
+      "branch"
+    ],
+    [
+      "surface",
+      "is",
+      "wall"
+    ],
+    [
+      "trap line",
+      "is",
+      "signal line"
+    ],
+    [
+      "types",
+      "for",
+      "purposes"
+    ],
+    [
+      "vibrations",
+      "alert",
+      "presence"
+    ],
+    [
+      "webs",
+      "allow",
+      "prey"
+    ],
+    [
+      "webs",
+      "are",
+      "sturdy"
+    ],
+    [
+      "webs",
+      "serve as",
+      "homes"
+    ],
+    [
+      "webs",
+      "serve as",
+      "hunting grounds"
+    ]
+  ],
+  "edges": [
+    "alert",
+    "allow",
+    "anchor",
+    "are",
+    "choose",
+    "composed of",
+    "construct",
+    "demonstrate",
+    "for",
+    "form",
+    "from",
+    "give",
+    "has",
+    "have",
+    "helps",
+    "immobilize",
+    "in",
+    "include",
+    "is",
+    "known for",
+    "lay down",
+    "located at",
+    "make",
+    "of",
+    "produce",
+    "serve as",
+    "spaced at",
+    "test",
+    "to",
+    "to build",
+    "transmits",
+    "use",
+    "wrap"
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "entities": [
+    "abuses of power",
+    "advancements",
+    "alert",
+    "analyze",
+    "buildings",
+    "capabilities",
+    "challenges",
+    "citizens",
+    "collaboration",
+    "communicate",
+    "communication",
+    "community engagement",
+    "contributions",
+    "coordination",
+    "crime prevention",
+    "criminal activities",
+    "criminal behavior",
+    "criminal records",
+    "data",
+    "data mining",
+    "detect",
+    "deterrent",
+    "digital platforms",
+    "effectiveness",
+    "ethical considerations",
+    "ethically",
+    "evidence",
+    "guidelines",
+    "high-risk areas",
+    "incident reports",
+    "indispensable tool",
+    "information sharing",
+    "innovation",
+    "investigations",
+    "law enforcement agencies",
+    "loitering",
+    "mobile applications",
+    "mobile devices",
+    "modern world",
+    "monitor",
+    "movements",
+    "online reporting systems",
+    "patterns",
+    "personnel",
+    "predictive analytics",
+    "prevent",
+    "preventive measures",
+    "prey",
+    "privacy rights",
+    "proactive approach",
+    "public areas",
+    "public participation",
+    "public safety",
+    "public spaces",
+    "real-time",
+    "regulations",
+    "report",
+    "resources",
+    "response times",
+    "responsibility",
+    "responsibly",
+    "role",
+    "safer communities",
+    "safer environment",
+    "secure communication channels",
+    "security",
+    "share",
+    "sharks",
+    "social media activity",
+    "social media platforms",
+    "solutions",
+    "strategies",
+    "streets",
+    "sudden movements",
+    "surveillance cameras",
+    "suspects",
+    "suspicious behaviors",
+    "technology",
+    "threats",
+    "transportation hubs",
+    "trends",
+    "trespassing",
+    "video analytics"
+  ],
+  "relations": [
+    [
+      "citizens",
+      "communicate",
+      "law enforcement agencies"
+    ],
+    [
+      "citizens",
+      "report",
+      "criminal activities"
+    ],
+    [
+      "citizens",
+      "share",
+      "information sharing"
+    ],
+    [
+      "digital platforms",
+      "enable",
+      "information sharing"
+    ],
+    [
+      "guidelines",
+      "ensure",
+      "ethically"
+    ],
+    [
+      "guidelines",
+      "ensure",
+      "responsibly"
+    ],
+    [
+      "law enforcement agencies",
+      "allocate",
+      "resources"
+    ],
+    [
+      "law enforcement agencies",
+      "analyze",
+      "criminal records"
+    ],
+    [
+      "law enforcement agencies",
+      "analyze",
+      "data"
+    ],
+    [
+      "law enforcement agencies",
+      "analyze",
+      "incident reports"
+    ],
+    [
+      "law enforcement agencies",
+      "analyze",
+      "social media activity"
+    ],
+    [
+      "law enforcement agencies",
+      "deploy",
+      "preventive measures"
+    ],
+    [
+      "law enforcement agencies",
+      "identify",
+      "patterns"
+    ],
+    [
+      "law enforcement agencies",
+      "identify",
+      "trends"
+    ],
+    [
+      "law enforcement agencies",
+      "target",
+      "high-risk areas"
+    ],
+    [
+      "law enforcement agencies",
+      "use",
+      "data mining"
+    ],
+    [
+      "law enforcement agencies",
+      "use",
+      "predictive analytics"
+    ],
+    [
+      "law enforcement agencies",
+      "use",
+      "surveillance cameras"
+    ],
+    [
+      "mobile applications",
+      "allow",
+      "citizens"
+    ],
+    [
+      "mobile devices",
+      "enable",
+      "information sharing"
+    ],
+    [
+      "online reporting systems",
+      "allow",
+      "citizens"
+    ],
+    [
+      "secure communication channels",
+      "enable",
+      "information sharing"
+    ],
+    [
+      "social media platforms",
+      "allow",
+      "citizens"
+    ],
+    [
+      "surveillance cameras",
+      "act as",
+      "deterrent"
+    ],
+    [
+      "surveillance cameras",
+      "monitor",
+      "buildings"
+    ],
+    [
+      "surveillance cameras",
+      "monitor",
+      "public areas"
+    ],
+    [
+      "surveillance cameras",
+      "monitor",
+      "streets"
+    ],
+    [
+      "surveillance cameras",
+      "monitor",
+      "transportation hubs"
+    ],
+    [
+      "surveillance cameras",
+      "provide",
+      "evidence"
+    ],
+    [
+      "surveillance cameras",
+      "raise concerns about",
+      "abuses of power"
+    ],
+    [
+      "surveillance cameras",
+      "raise concerns about",
+      "privacy rights"
+    ],
+    [
+      "technology",
+      "creates",
+      "safer communities"
+    ],
+    [
+      "technology",
+      "enhances",
+      "collaboration"
+    ],
+    [
+      "technology",
+      "enhances",
+      "communication"
+    ],
+    [
+      "technology",
+      "enhances",
+      "community engagement"
+    ],
+    [
+      "technology",
+      "enhances",
+      "crime prevention"
+    ],
+    [
+      "technology",
+      "enhances",
+      "effectiveness"
+    ],
+    [
+      "technology",
+      "enhances",
+      "public participation"
+    ],
+    [
+      "technology",
+      "has become",
+      "indispensable tool"
+    ],
+    [
+      "technology",
+      "improves",
+      "public safety"
+    ],
+    [
+      "technology",
+      "improves",
+      "security"
+    ],
+    [
+      "technology",
+      "offers",
+      "solutions"
+    ],
+    [
+      "technology",
+      "presents",
+      "challenges"
+    ],
+    [
+      "technology",
+      "presents",
+      "ethical considerations"
+    ],
+    [
+      "video analytics",
+      "alert",
+      "personnel"
+    ],
+    [
+      "video analytics",
+      "detect",
+      "loitering"
+    ],
+    [
+      "video analytics",
+      "detect",
+      "sudden movements"
+    ],
+    [
+      "video analytics",
+      "detect",
+      "suspicious behaviors"
+    ],
+    [
+      "video analytics",
+      "detect",
+      "trespassing"
+    ],
+    [
+      "video analytics",
+      "enhance",
+      "capabilities"
+    ]
+  ],
+  "edges": [
+    "act as",
+    "alert",
+    "allocate",
+    "allow",
+    "analyze",
+    "communicate",
+    "creates",
+    "deploy",
+    "detect",
+    "enable",
+    "enhance",
+    "enhances",
+    "ensure",
+    "has become",
+    "identify",
+    "improves",
+    "monitor",
+    "offers",
+    "presents",
+    "provide",
+    "raise concerns about",
+    "report",
+    "share",
+    "target",
+    "use"
+  ]
+}

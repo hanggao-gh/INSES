@@ -1,0 +1,255 @@
+{
+  "entities": [
+    "acceleration",
+    "airtime",
+    "amusement park",
+    "balance",
+    "butterfly",
+    "centripetal force",
+    "change",
+    "concepts",
+    "curves",
+    "designers",
+    "direction",
+    "drops",
+    "energy conservation",
+    "engineering",
+    "example",
+    "excitement",
+    "experience",
+    "fear",
+    "forces",
+    "friction",
+    "gravitational force",
+    "gravity",
+    "kinetic energy",
+    "life cycle",
+    "loops",
+    "mechanical energy",
+    "motion",
+    "physics",
+    "potential energy",
+    "principles",
+    "rate",
+    "riders",
+    "roller coasters",
+    "setting",
+    "speed",
+    "stability",
+    "system",
+    "track",
+    "traction",
+    "turns",
+    "twists",
+    "velocity",
+    "weightlessness"
+  ],
+  "relations": [
+    [
+      "acceleration",
+      "affects",
+      "riders"
+    ],
+    [
+      "acceleration",
+      "is",
+      "rate"
+    ],
+    [
+      "centripetal force",
+      "is directed",
+      "curves"
+    ],
+    [
+      "centripetal force",
+      "keeps",
+      "track"
+    ],
+    [
+      "designers",
+      "consider",
+      "balance"
+    ],
+    [
+      "energy conservation",
+      "involves",
+      "mechanical energy"
+    ],
+    [
+      "example",
+      "of",
+      "physics"
+    ],
+    [
+      "experience",
+      "showcases",
+      "principles"
+    ],
+    [
+      "forces",
+      "include",
+      "centripetal force"
+    ],
+    [
+      "forces",
+      "include",
+      "friction"
+    ],
+    [
+      "forces",
+      "include",
+      "gravitational force"
+    ],
+    [
+      "friction",
+      "affects",
+      "excitement"
+    ],
+    [
+      "friction",
+      "affects",
+      "speed"
+    ],
+    [
+      "friction",
+      "provides",
+      "stability"
+    ],
+    [
+      "friction",
+      "provides",
+      "traction"
+    ],
+    [
+      "gravitational force",
+      "affects",
+      "motion"
+    ],
+    [
+      "gravitational force",
+      "causes",
+      "weightlessness"
+    ],
+    [
+      "mechanical energy",
+      "includes",
+      "kinetic energy"
+    ],
+    [
+      "mechanical energy",
+      "includes",
+      "potential energy"
+    ],
+    [
+      "physics",
+      "includes",
+      "acceleration"
+    ],
+    [
+      "physics",
+      "includes",
+      "forces"
+    ],
+    [
+      "physics",
+      "includes",
+      "principles"
+    ],
+    [
+      "physics",
+      "includes",
+      "velocity"
+    ],
+    [
+      "potential energy",
+      "is converted into",
+      "kinetic energy"
+    ],
+    [
+      "principles",
+      "are in",
+      "setting"
+    ],
+    [
+      "principles",
+      "include",
+      "energy conservation"
+    ],
+    [
+      "riders",
+      "experience",
+      "excitement"
+    ],
+    [
+      "riders",
+      "experience",
+      "fear"
+    ],
+    [
+      "roller coasters",
+      "are",
+      "amusement park"
+    ],
+    [
+      "roller coasters",
+      "are",
+      "example"
+    ],
+    [
+      "roller coasters",
+      "provide",
+      "experience"
+    ],
+    [
+      "roller coasters",
+      "provide",
+      "riders"
+    ],
+    [
+      "roller coasters",
+      "reach",
+      "speed"
+    ],
+    [
+      "system",
+      "has constant",
+      "mechanical energy"
+    ],
+    [
+      "velocity",
+      "is",
+      "direction"
+    ],
+    [
+      "velocity",
+      "is",
+      "speed"
+    ],
+    [
+      "weightlessness",
+      "is",
+      "airtime"
+    ]
+  ],
+  "edges": [
+    "affects",
+    "are",
+    "are in",
+    "causes",
+    "consider",
+    "experience",
+    "has constant",
+    "include",
+    "includes",
+    "involves",
+    "is",
+    "is converted into",
+    "is directed",
+    "keeps",
+    "of",
+    "provide",
+    "provides",
+    "reach",
+    "showcases"
+  ]
+}

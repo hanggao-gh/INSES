@@ -1,0 +1,100 @@
+{
+  "entities": [
+    "ZOMBIES",
+    "SURVIVAL KIT",
+    "FOOD",
+    "TEAMWORK",
+    "MENTAL RESILIENCE",
+    "MEDICAL SUPPLIES",
+    "SAFE LOCATION",
+    "WATER",
+    "PHYSICAL AND MENTAL HEALTH",
+    "ADAPTABILITY",
+    "ZOMBIE APOCALYPSE",
+    "KNOWLEDGE",
+    "PHYSICAL FITNESS",
+    "WEAPONS"
+  ],
+  "relations": [
+    [
+      "ZOMBIE APOCALYPSE",
+      "A survival kit is essential for preparing and surviving a zombie apocalypse",
+      "SURVIVAL KIT"
+    ],
+    [
+      "ZOMBIE APOCALYPSE",
+      "Identifying and fortifying a safe location is crucial for survival during a zombie apocalypse",
+      "SAFE LOCATION"
+    ],
+    [
+      "ZOMBIE APOCALYPSE",
+      "Stocking up on food is crucial for survival in a zombie apocalypse",
+      "FOOD"
+    ],
+    [
+      "ZOMBIE APOCALYPSE",
+      "Having a reliable source of clean water is essential for survival in a zombie apocalypse",
+      "WATER"
+    ],
+    [
+      "ZOMBIE APOCALYPSE",
+      "Medical supplies are crucial for dealing with injuries during a zombie apocalypse",
+      "MEDICAL SUPPLIES"
+    ],
+    [
+      "ZOMBIE APOCALYPSE",
+      "Weapons are necessary for defense against zombies",
+      "WEAPONS"
+    ],
+    [
+      "ZOMBIE APOCALYPSE",
+      "Surviving a zombie apocalypse requires effective teamwork to overcome obstacles",
+      "TEAMWORK"
+    ],
+    [
+      "ZOMBIE APOCALYPSE",
+      "Knowledge is crucial for survival to understand zombie behavior and survival strategies",
+      "KNOWLEDGE"
+    ],
+    [
+      "ZOMBIE APOCALYPSE",
+      "Maintaining physical and mental health is essential for survival in a zombie apocalypse",
+      "PHYSICAL AND MENTAL HEALTH"
+    ],
+    [
+      "ZOMBIE APOCALYPSE",
+      "Adaptability to quickly changing situations is key to surviving a zombie apocalypse",
+      "ADAPTABILITY"
+    ],
+    [
+      "ZOMBIES",
+      "Maintaining physical fitness is crucial for survival and defense in a zombie apocalypse",
+      "PHYSICAL FITNESS"
+    ],
+    [
+      "ZOMBIES",
+      "Mental resilience helps in coping with the stress and fear associated with a zombie apocalypse",
+      "MENTAL RESILIENCE"
+    ],
+    [
+      "ZOMBIES",
+      "Adaptability is essential for survival, requiring quick decision-making and readiness to change strategies during a zombie apocalypse",
+      "ADAPTABILITY"
+    ]
+  ],
+  "edges": [
+    "A survival kit is essential for preparing and surviving a zombie apocalypse",
+    "Identifying and fortifying a safe location is crucial for survival during a zombie apocalypse",
+    "Stocking up on food is crucial for survival in a zombie apocalypse",
+    "Having a reliable source of clean water is essential for survival in a zombie apocalypse",
+    "Medical supplies are crucial for dealing with injuries during a zombie apocalypse",
+    "Weapons are necessary for defense against zombies",
+    "Surviving a zombie apocalypse requires effective teamwork to overcome obstacles",
+    "Knowledge is crucial for survival to understand zombie behavior and survival strategies",
+    "Maintaining physical and mental health is essential for survival in a zombie apocalypse",
+    "Adaptability to quickly changing situations is key to surviving a zombie apocalypse",
+    "Maintaining physical fitness is crucial for survival and defense in a zombie apocalypse",
+    "Mental resilience helps in coping with the stress and fear associated with a zombie apocalypse",
+    "Adaptability is essential for survival, requiring quick decision-making and readiness to change strategies during a zombie apocalypse"
+  ]
+}

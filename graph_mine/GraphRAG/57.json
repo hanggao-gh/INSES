@@ -1,0 +1,125 @@
+{
+  "entities": [
+    "CARBON FIBER",
+    "VELOCIPEDE",
+    "HIGH-WHEEL BICYCLE",
+    "TITANIUM",
+    "STEEL",
+    "DRAISINE",
+    "CYCLISTS",
+    "BICYCLE MANUFACTURING",
+    "BARON KARL VON DRAIS",
+    "BICYCLE",
+    "RACING BIKES",
+    "SAFETY BICYCLE",
+    "ELECTRIC BIKES",
+    "TOUR DE FRANCE",
+    "ALUMINUM"
+  ],
+  "relations": [
+    [
+      "BICYCLE",
+      "The draisine is considered an early prototype of modern bicycles",
+      "DRAISINE"
+    ],
+    [
+      "BICYCLE",
+      "The velocipede represents a significant stage in the bicycle's evolution, improving upon earlier designs like the draisine",
+      "VELOCIPEDE"
+    ],
+    [
+      "BICYCLE",
+      "Modern bicycles use carbon fiber to enhance their strength and reduce weight, showcasing the evolution in materials used",
+      "CARBON FIBER"
+    ],
+    [
+      "BARON KARL VON DRAIS",
+      "Baron Karl von Drais invented the draisine, marking a significant step in the evolution of the bicycle",
+      "DRAISINE"
+    ],
+    [
+      "DRAISINE",
+      "The velocipede was a major evolution from the draisine, introducing pedals for propulsion",
+      "VELOCIPEDE"
+    ],
+    [
+      "CARBON FIBER",
+      "Carbon fiber revolutionized the construction of bicycle frames, including safety bicycles, for competitive racing",
+      "SAFETY BICYCLE"
+    ],
+    [
+      "CARBON FIBER",
+      "Both carbon fiber and electric bikes represent significant advancements in bicycle technology",
+      "ELECTRIC BIKES"
+    ],
+    [
+      "CARBON FIBER",
+      "The Tour de France showcases advanced racing bikes, likely made with carbon fiber, highlighting the material's impact on competitive cycling",
+      "TOUR DE FRANCE"
+    ],
+    [
+      "CARBON FIBER",
+      "The use of carbon fiber in bicycle manufacturing has led to significant advancements in the industry",
+      "BICYCLE MANUFACTURING"
+    ],
+    [
+      "HIGH-WHEEL BICYCLE",
+      "The safety bicycle was invented as a response to the dangers and impracticalities of the high-wheel bicycle",
+      "SAFETY BICYCLE"
+    ],
+    [
+      "SAFETY BICYCLE",
+      "Steel became the primary material used in the frames of safety bicycles in the early 1900s",
+      "STEEL"
+    ],
+    [
+      "SAFETY BICYCLE",
+      "Aluminum emerged as an alternative material for bicycle frames, including safety bicycles, in the mid-20th century",
+      "ALUMINUM"
+    ],
+    [
+      "SAFETY BICYCLE",
+      "Titanium was used as an alternative material for bicycle frames, including safety bicycles, for improved performance",
+      "TITANIUM"
+    ],
+    [
+      "ELECTRIC BIKES",
+      "Cyclists use electric bikes for easier riding and longer distances, expanding the options for different types of riders",
+      "CYCLISTS"
+    ],
+    [
+      "TOUR DE FRANCE",
+      "Elite cyclists compete in the Tour de France, showcasing their speed, skill, and endurance",
+      "CYCLISTS"
+    ],
+    [
+      "RACING BIKES",
+      "Racing bikes are a product of the bicycle manufacturing industry, benefiting from technological advancements like carbon fiber",
+      "BICYCLE MANUFACTURING"
+    ],
+    [
+      "RACING BIKES",
+      "Competitive racers and enthusiasts among cyclists often prefer racing bikes for their speed and agility",
+      "CYCLISTS"
+    ]
+  ],
+  "edges": [
+    "The draisine is considered an early prototype of modern bicycles",
+    "The velocipede represents a significant stage in the bicycle's evolution, improving upon earlier designs like the draisine",
+    "Modern bicycles use carbon fiber to enhance their strength and reduce weight, showcasing the evolution in materials used",
+    "Baron Karl von Drais invented the draisine, marking a significant step in the evolution of the bicycle",
+    "The velocipede was a major evolution from the draisine, introducing pedals for propulsion",
+    "Carbon fiber revolutionized the construction of bicycle frames, including safety bicycles, for competitive racing",
+    "Both carbon fiber and electric bikes represent significant advancements in bicycle technology",
+    "The Tour de France showcases advanced racing bikes, likely made with carbon fiber, highlighting the material's impact on competitive cycling",
+    "The use of carbon fiber in bicycle manufacturing has led to significant advancements in the industry",
+    "The safety bicycle was invented as a response to the dangers and impracticalities of the high-wheel bicycle",
+    "Steel became the primary material used in the frames of safety bicycles in the early 1900s",
+    "Aluminum emerged as an alternative material for bicycle frames, including safety bicycles, in the mid-20th century",
+    "Titanium was used as an alternative material for bicycle frames, including safety bicycles, for improved performance",
+    "Cyclists use electric bikes for easier riding and longer distances, expanding the options for different types of riders",
+    "Elite cyclists compete in the Tour de France, showcasing their speed, skill, and endurance",
+    "Racing bikes are a product of the bicycle manufacturing industry, benefiting from technological advancements like carbon fiber",
+    "Competitive racers and enthusiasts among cyclists often prefer racing bikes for their speed and agility"
+  ]
+}

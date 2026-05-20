@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Comedy provides entertainment to audiences.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Laughter has health benefits like reducing stress.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy helps people relax and escape daily pressures.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy uplifts spirits and brings joy to people.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedy is a tool for social commentary and criticism.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comedians use humor to challenge societal norms.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy highlights absurdities and injustices in society.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy fosters a sense of community and unity.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Shared laughter creates bonds among individuals.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy events bring people together to connect through humor.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedy can promote change and challenge the status quo.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians use humor to inspire action and drive social progress.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Humor is subjective and can be offensive to some.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians must balance pushing boundaries with respecting sensitivities.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comedians must use humor responsibly and ethically.",
+    "retrieved_context": "COMEDY Sitcoms are a television-based form of comedy, providing entertainment through humorous scenarios SITCOMS. COMEDY Comedy serves both as a source of entertainment and a vehicle for social commentary, highlighting its dual role in society COMEDY. COMEDY Movies include comedy as a genre, aiming to entertain and bring joy to viewers MOVIES. COMEDY Comedy is a primary source of laughter, contributing to various health benefits LAUGHTER. COMEDY Stand-up comedy is a direct form of comedy, engaging audiences through live performances STAND-UP COMEDY.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "20.00%"
+  }
+]

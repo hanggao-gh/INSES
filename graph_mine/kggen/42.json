@@ -1,0 +1,625 @@
+{
+  "entities": [
+    "advancements",
+    "anxiety",
+    "art",
+    "awareness",
+    "behavior",
+    "brain",
+    "breakthroughs",
+    "conflicts",
+    "contagious",
+    "content",
+    "control",
+    "creative ideas",
+    "creative potential",
+    "creativity",
+    "cultures",
+    "day",
+    "deeper understanding",
+    "divine",
+    "dream content",
+    "dreamer",
+    "dreams",
+    "emotional centers",
+    "emotional content",
+    "emotional experiences",
+    "emotional state",
+    "emotions",
+    "enhancing",
+    "essay",
+    "fears",
+    "field",
+    "fields",
+    "founder",
+    "glimpse",
+    "happy",
+    "harnessed",
+    "hidden aspects",
+    "human mind",
+    "humans",
+    "information",
+    "insightful ideas",
+    "insights",
+    "interest",
+    "key roles",
+    "knowledge networks",
+    "laughter",
+    "learning process",
+    "literature",
+    "lucid dreaming",
+    "mechanisms",
+    "memories",
+    "memory consolidation",
+    "memory formation",
+    "memory performance",
+    "messages",
+    "motivations",
+    "multifaceted role",
+    "nature",
+    "nightmares",
+    "personal growth",
+    "phenomenon",
+    "pleasant dreams",
+    "problem-solving",
+    "processing",
+    "professional growth",
+    "psyche",
+    "psychoanalysis",
+    "psychological understanding",
+    "psychologists",
+    "psychology",
+    "random firings",
+    "repressed desires",
+    "research",
+    "retrieval",
+    "role",
+    "royal road",
+    "science",
+    "self-reflection",
+    "sigmund freud",
+    "significance",
+    "skills",
+    "sleep",
+    "strengthening",
+    "stress",
+    "study",
+    "subconscious mind",
+    "subject of study",
+    "symbolic expressions",
+    "tool",
+    "unconscious desires",
+    "unconscious mind",
+    "understanding",
+    "unresolved issues",
+    "waking experiences",
+    "well-being",
+    "windows",
+    "workings"
+  ],
+  "relations": [
+    [
+      "advancements",
+      "in",
+      "psychology"
+    ],
+    [
+      "brain",
+      "processes",
+      "information"
+    ],
+    [
+      "breakthroughs",
+      "in",
+      "fields"
+    ],
+    [
+      "content",
+      "of",
+      "dreams"
+    ],
+    [
+      "content",
+      "relates to",
+      "waking experiences"
+    ],
+    [
+      "control",
+      "over",
+      "dream content"
+    ],
+    [
+      "creative ideas",
+      "lead to",
+      "breakthroughs"
+    ],
+    [
+      "creative potential",
+      "of",
+      "dreams"
+    ],
+    [
+      "creativity",
+      "harnessed for",
+      "personal growth"
+    ],
+    [
+      "creativity",
+      "harnessed for",
+      "professional growth"
+    ],
+    [
+      "cultures",
+      "interpreting",
+      "messages"
+    ],
+    [
+      "deeper understanding",
+      "of",
+      "behavior"
+    ],
+    [
+      "deeper understanding",
+      "of",
+      "motivations"
+    ],
+    [
+      "dreams",
+      "are",
+      "royal road"
+    ],
+    [
+      "dreams",
+      "are",
+      "symbolic expressions"
+    ],
+    [
+      "dreams",
+      "associated with",
+      "memory performance"
+    ],
+    [
+      "dreams",
+      "fascinated",
+      "humans"
+    ],
+    [
+      "dreams",
+      "in",
+      "psychology"
+    ],
+    [
+      "dreams",
+      "lead to",
+      "insightful ideas"
+    ],
+    [
+      "dreams",
+      "linked to",
+      "emotional centers"
+    ],
+    [
+      "dreams",
+      "offering",
+      "insights"
+    ],
+    [
+      "dreams",
+      "play",
+      "multifaceted role"
+    ],
+    [
+      "dreams",
+      "provide",
+      "glimpse"
+    ],
+    [
+      "dreams",
+      "reflect",
+      "emotional experiences"
+    ],
+    [
+      "dreams",
+      "role in",
+      "creativity"
+    ],
+    [
+      "dreams",
+      "role in",
+      "memory consolidation"
+    ],
+    [
+      "dreams",
+      "role in",
+      "problem-solving"
+    ],
+    [
+      "dreams",
+      "role in",
+      "processing"
+    ],
+    [
+      "dreams",
+      "role in",
+      "understanding"
+    ],
+    [
+      "dreams",
+      "subject of",
+      "interest"
+    ],
+    [
+      "dreams",
+      "subject of",
+      "study"
+    ],
+    [
+      "dreams",
+      "tool for",
+      "personal growth"
+    ],
+    [
+      "dreams",
+      "tool for",
+      "psychological understanding"
+    ],
+    [
+      "dreams",
+      "tool for",
+      "self-reflection"
+    ],
+    [
+      "emotional content",
+      "of",
+      "dreams"
+    ],
+    [
+      "emotional experiences",
+      "of",
+      "dreamer"
+    ],
+    [
+      "enhancing",
+      "creativity",
+      "skills"
+    ],
+    [
+      "essay",
+      "explore",
+      "significance"
+    ],
+    [
+      "field",
+      "of",
+      "psychology"
+    ],
+    [
+      "fields",
+      "such as",
+      "art"
+    ],
+    [
+      "fields",
+      "such as",
+      "literature"
+    ],
+    [
+      "fields",
+      "such as",
+      "science"
+    ],
+    [
+      "glimpse",
+      "into",
+      "unconscious mind"
+    ],
+    [
+      "happy",
+      "and",
+      "content"
+    ],
+    [
+      "happy",
+      "lead to",
+      "pleasant dreams"
+    ],
+    [
+      "hidden aspects",
+      "of",
+      "psyche"
+    ],
+    [
+      "information",
+      "from",
+      "day"
+    ],
+    [
+      "insightful ideas",
+      "or",
+      "creative ideas"
+    ],
+    [
+      "insights",
+      "into",
+      "human mind"
+    ],
+    [
+      "insights",
+      "into",
+      "workings"
+    ],
+    [
+      "insights",
+      "lead to",
+      "advancements"
+    ],
+    [
+      "key roles",
+      "of",
+      "dreams"
+    ],
+    [
+      "lucid dreaming",
+      "as",
+      "tool"
+    ],
+    [
+      "lucid dreaming",
+      "where",
+      "awareness"
+    ],
+    [
+      "lucid dreaming",
+      "where",
+      "control"
+    ],
+    [
+      "mechanisms",
+      "underlying",
+      "memory formation"
+    ],
+    [
+      "mechanisms",
+      "underlying",
+      "retrieval"
+    ],
+    [
+      "memories",
+      "into",
+      "knowledge networks"
+    ],
+    [
+      "memory consolidation",
+      "and",
+      "processing"
+    ],
+    [
+      "memory performance",
+      "in",
+      "learning process"
+    ],
+    [
+      "messages",
+      "from",
+      "divine"
+    ],
+    [
+      "messages",
+      "into",
+      "windows"
+    ],
+    [
+      "messages",
+      "or",
+      "random firings"
+    ],
+    [
+      "nature",
+      "of",
+      "creativity"
+    ],
+    [
+      "phenomenon",
+      "of",
+      "lucid dreaming"
+    ],
+    [
+      "processing",
+      "during",
+      "sleep"
+    ],
+    [
+      "processing",
+      "of",
+      "emotions"
+    ],
+    [
+      "psychologists",
+      "analyzing",
+      "content"
+    ],
+    [
+      "psychologists",
+      "explore",
+      "creative potential"
+    ],
+    [
+      "psychologists",
+      "gain",
+      "deeper understanding"
+    ],
+    [
+      "psychologists",
+      "gain",
+      "insights"
+    ],
+    [
+      "psychologists",
+      "gain insights into",
+      "emotional state"
+    ],
+    [
+      "psychologists",
+      "gain insights into",
+      "nature"
+    ],
+    [
+      "psychologists",
+      "identify",
+      "unresolved issues"
+    ],
+    [
+      "psychologists",
+      "study",
+      "content"
+    ],
+    [
+      "psychologists",
+      "study",
+      "emotional content"
+    ],
+    [
+      "psychologists",
+      "uncover",
+      "hidden aspects"
+    ],
+    [
+      "psychologists",
+      "understand",
+      "mechanisms"
+    ],
+    [
+      "random firings",
+      "of",
+      "brain"
+    ],
+    [
+      "royal road",
+      "to",
+      "unconscious mind"
+    ],
+    [
+      "sigmund freud",
+      "founder",
+      "psychoanalysis"
+    ],
+    [
+      "significance",
+      "of",
+      "dreams"
+    ],
+    [
+      "strengthening",
+      "of",
+      "memories"
+    ],
+    [
+      "stress",
+      "lead to",
+      "nightmares"
+    ],
+    [
+      "stress",
+      "or",
+      "anxiety"
+    ],
+    [
+      "study",
+      "in",
+      "field"
+    ],
+    [
+      "symbolic expressions",
+      "of",
+      "conflicts"
+    ],
+    [
+      "symbolic expressions",
+      "of",
+      "fears"
+    ],
+    [
+      "symbolic expressions",
+      "of",
+      "repressed desires"
+    ],
+    [
+      "tool",
+      "for",
+      "enhancing"
+    ],
+    [
+      "understanding",
+      "of",
+      "emotions"
+    ],
+    [
+      "understanding",
+      "of",
+      "memories"
+    ],
+    [
+      "understanding",
+      "of",
+      "unconscious desires"
+    ],
+    [
+      "unresolved issues",
+      "affecting",
+      "well-being"
+    ],
+    [
+      "windows",
+      "into",
+      "subconscious mind"
+    ],
+    [
+      "workings",
+      "of",
+      "human mind"
+    ]
+  ],
+  "edges": [
+    "affecting",
+    "analyzing",
+    "and",
+    "are",
+    "as",
+    "associated with",
+    "creativity",
+    "during",
+    "explore",
+    "fascinated",
+    "for",
+    "founder",
+    "from",
+    "gain",
+    "gain insights into",
+    "harnessed for",
+    "identify",
+    "in",
+    "interpreting",
+    "into",
+    "lead to",
+    "linked to",
+    "of",
+    "offering",
+    "or",
+    "over",
+    "play",
+    "processes",
+    "provide",
+    "reflect",
+    "relates to",
+    "role in",
+    "study",
+    "subject of",
+    "such as",
+    "to",
+    "tool for",
+    "uncover",
+    "underlying",
+    "understand",
+    "where"
+  ]
+}

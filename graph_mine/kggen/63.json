@@ -1,0 +1,540 @@
+{
+  "entities": [
+    "access",
+    "accessible",
+    "adequately compensated",
+    "advent",
+    "analytics",
+    "apple music",
+    "artist compensation",
+    "artists",
+    "audience",
+    "audiences",
+    "available",
+    "benefited",
+    "business model",
+    "cds",
+    "challenges",
+    "compensated",
+    "concerns",
+    "connect",
+    "consume",
+    "consumed",
+    "consumption",
+    "contagious",
+    "create",
+    "criticisms",
+    "critics",
+    "debates",
+    "decline",
+    "democratized",
+    "discover",
+    "distributed",
+    "diverse music landscape",
+    "dominant form",
+    "dominated",
+    "embraced",
+    "emerging artists",
+    "enjoy",
+    "entire album",
+    "essay",
+    "established artists",
+    "evolve",
+    "expand",
+    "explore",
+    "extensive library",
+    "fair compensation",
+    "fingertips",
+    "fraction of a cent",
+    "future",
+    "genres",
+    "global audience",
+    "impact",
+    "independent",
+    "individual tracks",
+    "integral part",
+    "laughter",
+    "leveled",
+    "listener's perspective",
+    "listeners",
+    "low royalty rates",
+    "major label backing",
+    "market",
+    "millions",
+    "modern era",
+    "music discovery",
+    "music industry",
+    "music lovers",
+    "music streaming services",
+    "one-time payment",
+    "online platforms",
+    "opportunities",
+    "pandora",
+    "personalized playlists",
+    "physical music formats",
+    "physical music retailers",
+    "physical music sales",
+    "platforms",
+    "playing field",
+    "playlists",
+    "preferences",
+    "primary source of income",
+    "profound impact",
+    "promote",
+    "purchase",
+    "reach",
+    "recommendations algorithms",
+    "record labels",
+    "revenue stream",
+    "revolutionized",
+    "rise",
+    "royalties",
+    "shape",
+    "share",
+    "sharing",
+    "shift",
+    "showcase",
+    "significant impacts",
+    "smaller fan base",
+    "social media",
+    "songs",
+    "spotify",
+    "stakeholders",
+    "streamed",
+    "styles",
+    "sustainability",
+    "tailor",
+    "tailored listening experience",
+    "tastes",
+    "technology",
+    "traditional music industry",
+    "traditional record sales",
+    "understand",
+    "unfair",
+    "valuable data",
+    "vinyl records",
+    "well-known",
+    "wider audience"
+  ],
+  "relations": [
+    [
+      "advent",
+      "led to",
+      "decline"
+    ],
+    [
+      "advent",
+      "of",
+      "online platforms"
+    ],
+    [
+      "analytics",
+      "help",
+      "understand"
+    ],
+    [
+      "artist compensation",
+      "not",
+      "adequately compensated"
+    ],
+    [
+      "artists",
+      "are",
+      "compensated"
+    ],
+    [
+      "artists",
+      "have embraced",
+      "platforms"
+    ],
+    [
+      "artists",
+      "to connect",
+      "music lovers"
+    ],
+    [
+      "artists",
+      "to share",
+      "music lovers"
+    ],
+    [
+      "artists",
+      "without",
+      "major label backing"
+    ],
+    [
+      "challenges",
+      "and",
+      "criticisms"
+    ],
+    [
+      "concerns",
+      "impact on",
+      "traditional music industry"
+    ],
+    [
+      "create",
+      "playlists",
+      "music discovery"
+    ],
+    [
+      "criticisms",
+      "associated with",
+      "platforms"
+    ],
+    [
+      "critics",
+      "argue",
+      "unfair"
+    ],
+    [
+      "debates",
+      "about",
+      "fair compensation"
+    ],
+    [
+      "decline",
+      "in",
+      "physical music sales"
+    ],
+    [
+      "diverse music landscape",
+      "with",
+      "genres"
+    ],
+    [
+      "diverse music landscape",
+      "with",
+      "styles"
+    ],
+    [
+      "dominant form",
+      "of",
+      "consumption"
+    ],
+    [
+      "emerging artists",
+      "to",
+      "showcase"
+    ],
+    [
+      "essay",
+      "will explore",
+      "impact"
+    ],
+    [
+      "established artists",
+      "with",
+      "revenue stream"
+    ],
+    [
+      "evolve",
+      "shape",
+      "future"
+    ],
+    [
+      "extensive library",
+      "of",
+      "songs"
+    ],
+    [
+      "genres",
+      "available to",
+      "audiences"
+    ],
+    [
+      "impact",
+      "on",
+      "artists"
+    ],
+    [
+      "impact",
+      "on",
+      "listeners"
+    ],
+    [
+      "impact",
+      "on",
+      "music industry"
+    ],
+    [
+      "independent",
+      "and",
+      "emerging artists"
+    ],
+    [
+      "integral part",
+      "of",
+      "technology"
+    ],
+    [
+      "listener's perspective",
+      "discover",
+      "enjoy"
+    ],
+    [
+      "low royalty rates",
+      "led to",
+      "debates"
+    ],
+    [
+      "millions",
+      "of",
+      "songs"
+    ],
+    [
+      "music lovers",
+      "have access to",
+      "extensive library"
+    ],
+    [
+      "music streaming services",
+      "have benefited",
+      "established artists"
+    ],
+    [
+      "music streaming services",
+      "have democratized",
+      "music industry"
+    ],
+    [
+      "music streaming services",
+      "have had",
+      "profound impact"
+    ],
+    [
+      "music streaming services",
+      "have revolutionized",
+      "consume"
+    ],
+    [
+      "music streaming services",
+      "have revolutionized",
+      "modern era"
+    ],
+    [
+      "opportunities",
+      "for",
+      "global audience"
+    ],
+    [
+      "personalized playlists",
+      "and",
+      "recommendations algorithms"
+    ],
+    [
+      "physical music formats",
+      "dominated",
+      "market"
+    ],
+    [
+      "physical music formats",
+      "like",
+      "cds"
+    ],
+    [
+      "physical music formats",
+      "like",
+      "vinyl records"
+    ],
+    [
+      "platforms",
+      "have leveled",
+      "playing field"
+    ],
+    [
+      "platforms",
+      "such as",
+      "apple music"
+    ],
+    [
+      "platforms",
+      "such as",
+      "pandora"
+    ],
+    [
+      "platforms",
+      "such as",
+      "spotify"
+    ],
+    [
+      "primary source of income",
+      "for",
+      "artists"
+    ],
+    [
+      "profound impact",
+      "on",
+      "artists"
+    ],
+    [
+      "profound impact",
+      "on",
+      "listeners"
+    ],
+    [
+      "profound impact",
+      "on",
+      "music industry"
+    ],
+    [
+      "purchase",
+      "entire album",
+      "individual tracks"
+    ],
+    [
+      "recommendations algorithms",
+      "aligns with",
+      "tastes"
+    ],
+    [
+      "rise",
+      "of",
+      "platforms"
+    ],
+    [
+      "sharing",
+      "through",
+      "social media"
+    ],
+    [
+      "shift",
+      "in how",
+      "consumed"
+    ],
+    [
+      "shift",
+      "in how",
+      "distributed"
+    ],
+    [
+      "significant impacts",
+      "is",
+      "shift"
+    ],
+    [
+      "social media",
+      "expand",
+      "reach"
+    ],
+    [
+      "songs",
+      "at",
+      "fingertips"
+    ],
+    [
+      "stakeholders",
+      "concerns about",
+      "sustainability"
+    ],
+    [
+      "streamed",
+      "earn",
+      "fraction of a cent"
+    ],
+    [
+      "styles",
+      "available to",
+      "audiences"
+    ],
+    [
+      "sustainability",
+      "of",
+      "business model"
+    ],
+    [
+      "tailored listening experience",
+      "accessible to",
+      "wider audience"
+    ],
+    [
+      "technology",
+      "continues to",
+      "evolve"
+    ],
+    [
+      "traditional music industry",
+      "particularly on",
+      "physical music retailers"
+    ],
+    [
+      "traditional music industry",
+      "particularly on",
+      "record labels"
+    ],
+    [
+      "traditional record sales",
+      "provided",
+      "one-time payment"
+    ],
+    [
+      "understand",
+      "audience",
+      "preferences"
+    ],
+    [
+      "unfair",
+      "to",
+      "smaller fan base"
+    ],
+    [
+      "unfair",
+      "to",
+      "well-known"
+    ],
+    [
+      "valuable data",
+      "and",
+      "analytics"
+    ]
+  ],
+  "edges": [
+    "about",
+    "accessible to",
+    "aligns with",
+    "and",
+    "are",
+    "argue",
+    "associated with",
+    "at",
+    "audience",
+    "available to",
+    "concerns about",
+    "continues to",
+    "discover",
+    "dominated",
+    "earn",
+    "entire album",
+    "expand",
+    "for",
+    "have access to",
+    "have benefited",
+    "have democratized",
+    "have embraced",
+    "have had",
+    "have leveled",
+    "have revolutionized",
+    "help",
+    "impact on",
+    "in",
+    "in how",
+    "is",
+    "led to",
+    "like",
+    "not",
+    "of",
+    "on",
+    "particularly on",
+    "playlists",
+    "provided",
+    "shape",
+    "such as",
+    "through",
+    "to",
+    "to connect",
+    "to share",
+    "will explore",
+    "with",
+    "without"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "entities": [
+    "HUMAN CULTURE",
+    "NARRATIVE",
+    "STORYTELLING",
+    "EMOTIONAL RESPONSE"
+  ],
+  "relations": [
+    [
+      "STORYTELLING",
+      "Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response.",
+      "HUMAN CULTURE"
+    ],
+    [
+      "STORYTELLING",
+      "Storytelling utilizes narratives to convey its messages and engage the audience.",
+      "NARRATIVE"
+    ],
+    [
+      "STORYTELLING",
+      "One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable.",
+      "EMOTIONAL RESPONSE"
+    ]
+  ],
+  "edges": [
+    "Storytelling is a fundamental aspect of human culture, shaping our understanding of the world through narrative engagement and emotional response.",
+    "Storytelling utilizes narratives to convey its messages and engage the audience.",
+    "One of the goals of storytelling is to evoke an emotional response from the audience, making the narrative more impactful and memorable."
+  ]
+}

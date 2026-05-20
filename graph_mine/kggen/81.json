@@ -1,0 +1,510 @@
+{
+  "entities": [
+    "abilities",
+    "activities",
+    "adaptability",
+    "adversity",
+    "ants",
+    "backbone",
+    "behavior",
+    "brood",
+    "building",
+    "carrying",
+    "chambers",
+    "changes",
+    "colonies",
+    "communication",
+    "communities",
+    "community",
+    "construction",
+    "cooperation",
+    "coordination",
+    "creatures",
+    "cultivating",
+    "cutting",
+    "defending",
+    "detect",
+    "disasters",
+    "effort",
+    "engineering",
+    "environment",
+    "example",
+    "excavating",
+    "flooding",
+    "food",
+    "foraging",
+    "functions",
+    "fungus gardens",
+    "harmony",
+    "heart",
+    "human societies",
+    "improvise",
+    "ingenuity",
+    "insights",
+    "intruders",
+    "leafcutter ants",
+    "leaves",
+    "lessons",
+    "male ants",
+    "materials",
+    "mobilize",
+    "mounds",
+    "nature",
+    "needs",
+    "nest",
+    "organization",
+    "passageways",
+    "pebbles",
+    "pheromones",
+    "population",
+    "prey",
+    "principles",
+    "process",
+    "prosperity",
+    "protection",
+    "queen",
+    "relocate",
+    "repairing",
+    "resilience",
+    "resources",
+    "responding",
+    "responsibilities",
+    "roles",
+    "sharks",
+    "signals",
+    "site",
+    "society",
+    "soil",
+    "soldier ants",
+    "species",
+    "storing",
+    "strategies",
+    "structures",
+    "substrate",
+    "survival",
+    "sustainable",
+    "symbiotic relationship",
+    "tasks",
+    "teamwork",
+    "techniques",
+    "threats",
+    "towers",
+    "tunnels",
+    "twigs",
+    "types",
+    "worker ants",
+    "young"
+  ],
+  "relations": [
+    [
+      "ants",
+      "are",
+      "creatures"
+    ],
+    [
+      "ants",
+      "are",
+      "example"
+    ],
+    [
+      "ants",
+      "are",
+      "species"
+    ],
+    [
+      "ants",
+      "are involved in",
+      "cultivating"
+    ],
+    [
+      "ants",
+      "build",
+      "colonies"
+    ],
+    [
+      "ants",
+      "build",
+      "communities"
+    ],
+    [
+      "ants",
+      "build",
+      "mounds"
+    ],
+    [
+      "ants",
+      "build",
+      "sustainable"
+    ],
+    [
+      "ants",
+      "build",
+      "towers"
+    ],
+    [
+      "ants",
+      "demonstrate",
+      "adaptability"
+    ],
+    [
+      "ants",
+      "demonstrate",
+      "ingenuity"
+    ],
+    [
+      "ants",
+      "have",
+      "symbiotic relationship"
+    ],
+    [
+      "ants",
+      "highlight",
+      "resilience"
+    ],
+    [
+      "ants",
+      "improvise in",
+      "adversity"
+    ],
+    [
+      "ants",
+      "live in",
+      "colonies"
+    ],
+    [
+      "ants",
+      "mobilize to",
+      "relocate"
+    ],
+    [
+      "ants",
+      "offer",
+      "lessons"
+    ],
+    [
+      "ants",
+      "provide",
+      "insights"
+    ],
+    [
+      "ants",
+      "relocate to",
+      "site"
+    ],
+    [
+      "ants",
+      "respond to",
+      "changes"
+    ],
+    [
+      "ants",
+      "thrive in",
+      "colonies"
+    ],
+    [
+      "ants",
+      "use",
+      "materials"
+    ],
+    [
+      "ants",
+      "use",
+      "techniques"
+    ],
+    [
+      "ants",
+      "utilize",
+      "resources"
+    ],
+    [
+      "ants",
+      "work in",
+      "colonies"
+    ],
+    [
+      "chambers",
+      "are used for",
+      "brood"
+    ],
+    [
+      "chambers",
+      "are used for",
+      "storing"
+    ],
+    [
+      "changes",
+      "include",
+      "disasters"
+    ],
+    [
+      "changes",
+      "include",
+      "flooding"
+    ],
+    [
+      "colonies",
+      "are",
+      "society"
+    ],
+    [
+      "colonies",
+      "are built by",
+      "ants"
+    ],
+    [
+      "colonies",
+      "consist of",
+      "male ants"
+    ],
+    [
+      "colonies",
+      "consist of",
+      "queen"
+    ],
+    [
+      "colonies",
+      "consist of",
+      "soldier ants"
+    ],
+    [
+      "colonies",
+      "consist of",
+      "worker ants"
+    ],
+    [
+      "colonies",
+      "serve as",
+      "community"
+    ],
+    [
+      "communication",
+      "involves",
+      "signals"
+    ],
+    [
+      "creatures",
+      "have mastered",
+      "cooperation"
+    ],
+    [
+      "creatures",
+      "have mastered",
+      "organization"
+    ],
+    [
+      "example",
+      "is of",
+      "nature"
+    ],
+    [
+      "excavating",
+      "creates",
+      "chambers"
+    ],
+    [
+      "excavating",
+      "creates",
+      "tunnels"
+    ],
+    [
+      "insights",
+      "are into",
+      "principles"
+    ],
+    [
+      "leafcutter ants",
+      "are involved in",
+      "carrying"
+    ],
+    [
+      "leafcutter ants",
+      "are involved in",
+      "cutting"
+    ],
+    [
+      "leafcutter ants",
+      "create",
+      "fungus gardens"
+    ],
+    [
+      "leaves",
+      "are used as",
+      "substrate"
+    ],
+    [
+      "lessons",
+      "are for",
+      "human societies"
+    ],
+    [
+      "materials",
+      "include",
+      "leaves"
+    ],
+    [
+      "materials",
+      "include",
+      "pebbles"
+    ],
+    [
+      "materials",
+      "include",
+      "soil"
+    ],
+    [
+      "materials",
+      "include",
+      "twigs"
+    ],
+    [
+      "queen",
+      "is",
+      "heart"
+    ],
+    [
+      "queen",
+      "is responsible for",
+      "population"
+    ],
+    [
+      "resources",
+      "meet",
+      "needs"
+    ],
+    [
+      "signals",
+      "are",
+      "pheromones"
+    ],
+    [
+      "society",
+      "ensures",
+      "prosperity"
+    ],
+    [
+      "society",
+      "ensures",
+      "survival"
+    ],
+    [
+      "society",
+      "is",
+      "organization"
+    ],
+    [
+      "soldier ants",
+      "are tasked with",
+      "defending"
+    ],
+    [
+      "soldier ants",
+      "defend against",
+      "intruders"
+    ],
+    [
+      "soldier ants",
+      "defend against",
+      "threats"
+    ],
+    [
+      "tasks",
+      "include",
+      "building"
+    ],
+    [
+      "tasks",
+      "include",
+      "foraging"
+    ],
+    [
+      "tasks",
+      "include",
+      "repairing"
+    ],
+    [
+      "tunnels",
+      "serve as",
+      "passageways"
+    ],
+    [
+      "worker ants",
+      "are",
+      "backbone"
+    ],
+    [
+      "worker ants",
+      "are involved in",
+      "excavating"
+    ],
+    [
+      "worker ants",
+      "demonstrate",
+      "abilities"
+    ],
+    [
+      "worker ants",
+      "demonstrate",
+      "engineering"
+    ],
+    [
+      "worker ants",
+      "exhibit",
+      "coordination"
+    ],
+    [
+      "worker ants",
+      "exhibit",
+      "teamwork"
+    ],
+    [
+      "worker ants",
+      "perform",
+      "tasks"
+    ],
+    [
+      "worker ants",
+      "use",
+      "communication"
+    ]
+  ],
+  "edges": [
+    "are",
+    "are built by",
+    "are for",
+    "are into",
+    "are involved in",
+    "are tasked with",
+    "are used as",
+    "are used for",
+    "build",
+    "consist of",
+    "create",
+    "creates",
+    "defend against",
+    "demonstrate",
+    "ensures",
+    "exhibit",
+    "have",
+    "have mastered",
+    "highlight",
+    "improvise in",
+    "include",
+    "involves",
+    "is",
+    "is of",
+    "is responsible for",
+    "live in",
+    "meet",
+    "mobilize to",
+    "offer",
+    "perform",
+    "provide",
+    "relocate to",
+    "respond to",
+    "serve as",
+    "thrive in",
+    "use",
+    "utilize",
+    "work in"
+  ]
+}

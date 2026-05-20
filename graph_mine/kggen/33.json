@@ -1,0 +1,798 @@
+{
+  "entities": [
+    "17th century",
+    "act",
+    "adapt",
+    "ancient times",
+    "arabian peninsula",
+    "baristas",
+    "beverage",
+    "biodiversity loss",
+    "boost",
+    "build relationships",
+    "business transactions",
+    "cafe culture",
+    "central hubs",
+    "challenges",
+    "changing trends",
+    "cities",
+    "coffee",
+    "coffee beans",
+    "coffee breaks",
+    "coffee chains",
+    "coffee culture",
+    "coffee date",
+    "coffee houses",
+    "coffee tasting party",
+    "cognitive functions",
+    "colleagues",
+    "commodities",
+    "communicate",
+    "community",
+    "conclusion",
+    "connect",
+    "conscious",
+    "constant presence",
+    "consume",
+    "consumers",
+    "cultivated",
+    "cultivation",
+    "cultural",
+    "cultural phenomenon",
+    "culture",
+    "cultures",
+    "day",
+    "debates",
+    "deforestation",
+    "diverse impact",
+    "economic",
+    "economic impact",
+    "economic implications",
+    "employment opportunities",
+    "energetic",
+    "energy",
+    "enlightenment period",
+    "environmental dimensions",
+    "environmental footprint",
+    "environmental implications",
+    "essay",
+    "ethical sourcing",
+    "ethically sourced",
+    "ethiopian plateau",
+    "europe",
+    "evolve",
+    "exchange ideas",
+    "experience",
+    "exporters",
+    "extensively",
+    "family",
+    "farmers",
+    "focus",
+    "friend",
+    "friendship",
+    "global coffee trade",
+    "global levels",
+    "global phenomenon",
+    "global popularity",
+    "goat herder",
+    "goats",
+    "growing demand",
+    "history",
+    "hospitality",
+    "impact",
+    "industry",
+    "integral",
+    "intellectual discussions",
+    "interact",
+    "issues",
+    "kaldi",
+    "kickstart",
+    "knowledge",
+    "legend",
+    "lifestyle",
+    "local",
+    "london",
+    "middle east",
+    "millions",
+    "modern era",
+    "moments",
+    "morning cup",
+    "morning rituals",
+    "multi-billion dollar industry",
+    "multifaceted",
+    "multifaceted role",
+    "opportunities",
+    "origins",
+    "paris",
+    "penny universities",
+    "people",
+    "people's daily lives",
+    "perceive",
+    "personal identity",
+    "personal level",
+    "pivotal",
+    "political discourse",
+    "popularity",
+    "preferences",
+    "producers",
+    "production",
+    "productivity",
+    "qahveh khaneh",
+    "quality",
+    "reasons",
+    "refuel",
+    "rich history",
+    "rise",
+    "rituals",
+    "role",
+    "rousseau",
+    "sense of community",
+    "shaping",
+    "sharing",
+    "significant",
+    "significant role",
+    "social",
+    "social fabric",
+    "social gatherings",
+    "social interaction",
+    "social spaces",
+    "social status",
+    "socialize",
+    "society",
+    "soil quality",
+    "specific climate conditions",
+    "starbucks",
+    "stimulating effects",
+    "supply chain",
+    "sustainability",
+    "sustainable farming practices",
+    "sustainably produced",
+    "symbol",
+    "symbol of connection",
+    "thinkers",
+    "traded",
+    "transformed",
+    "vital industry",
+    "voltaire",
+    "warmth",
+    "water usage",
+    "workplace",
+    "world",
+    "worldwide",
+    "writers"
+  ],
+  "relations": [
+    [
+      "17th century",
+      "coffee had made",
+      "europe"
+    ],
+    [
+      "act",
+      "of",
+      "friendship"
+    ],
+    [
+      "act",
+      "of",
+      "hospitality"
+    ],
+    [
+      "act",
+      "of",
+      "sharing"
+    ],
+    [
+      "act",
+      "of",
+      "warmth"
+    ],
+    [
+      "cafe culture",
+      "of",
+      "paris"
+    ],
+    [
+      "central hubs",
+      "for",
+      "business transactions"
+    ],
+    [
+      "central hubs",
+      "for",
+      "political discourse"
+    ],
+    [
+      "central hubs",
+      "for",
+      "social interaction"
+    ],
+    [
+      "challenges",
+      "that",
+      "industry"
+    ],
+    [
+      "coffee",
+      "continues to",
+      "adapt"
+    ],
+    [
+      "coffee",
+      "continues to",
+      "changing trends"
+    ],
+    [
+      "coffee",
+      "continues to",
+      "evolve"
+    ],
+    [
+      "coffee",
+      "continues to",
+      "preferences"
+    ],
+    [
+      "coffee",
+      "has",
+      "diverse impact"
+    ],
+    [
+      "coffee",
+      "has",
+      "global popularity"
+    ],
+    [
+      "coffee",
+      "has",
+      "rich history"
+    ],
+    [
+      "coffee",
+      "has become",
+      "integral"
+    ],
+    [
+      "coffee",
+      "has become",
+      "symbol"
+    ],
+    [
+      "coffee",
+      "is",
+      "community"
+    ],
+    [
+      "coffee",
+      "is",
+      "cultural phenomenon"
+    ],
+    [
+      "coffee",
+      "is",
+      "culture"
+    ],
+    [
+      "coffee",
+      "is",
+      "symbol of connection"
+    ],
+    [
+      "coffee",
+      "is more than",
+      "beverage"
+    ],
+    [
+      "coffee",
+      "played",
+      "pivotal"
+    ],
+    [
+      "coffee",
+      "plays",
+      "significant role"
+    ],
+    [
+      "coffee",
+      "role in",
+      "society"
+    ],
+    [
+      "coffee",
+      "shaping",
+      "communicate"
+    ],
+    [
+      "coffee",
+      "shaping",
+      "experience"
+    ],
+    [
+      "coffee",
+      "shaping",
+      "interact"
+    ],
+    [
+      "coffee",
+      "shaping",
+      "world"
+    ],
+    [
+      "coffee beans",
+      "made",
+      "goats"
+    ],
+    [
+      "coffee breaks",
+      "are",
+      "moments"
+    ],
+    [
+      "coffee breaks",
+      "are",
+      "opportunities"
+    ],
+    [
+      "coffee chains",
+      "such as",
+      "starbucks"
+    ],
+    [
+      "coffee culture",
+      "emphasizes",
+      "ethical sourcing"
+    ],
+    [
+      "coffee culture",
+      "emphasizes",
+      "quality"
+    ],
+    [
+      "coffee culture",
+      "emphasizes",
+      "sustainability"
+    ],
+    [
+      "coffee houses",
+      "became",
+      "central hubs"
+    ],
+    [
+      "coffee houses",
+      "known as",
+      "qahveh khaneh"
+    ],
+    [
+      "coffee houses",
+      "shaping",
+      "social fabric"
+    ],
+    [
+      "coffee tasting party",
+      "fosters",
+      "sense of community"
+    ],
+    [
+      "conclusion",
+      "coffee plays",
+      "multifaceted role"
+    ],
+    [
+      "conscious",
+      "of",
+      "environmental footprint"
+    ],
+    [
+      "consumers",
+      "become",
+      "conscious"
+    ],
+    [
+      "cultivation",
+      "requires",
+      "soil quality"
+    ],
+    [
+      "cultivation",
+      "requires",
+      "specific climate conditions"
+    ],
+    [
+      "cultivation",
+      "requires",
+      "sustainable farming practices"
+    ],
+    [
+      "cultural phenomenon",
+      "plays",
+      "significant"
+    ],
+    [
+      "economic impact",
+      "extends",
+      "exporters"
+    ],
+    [
+      "economic impact",
+      "extends",
+      "producers"
+    ],
+    [
+      "economic impact",
+      "extends",
+      "supply chain"
+    ],
+    [
+      "economic implications",
+      "at",
+      "global levels"
+    ],
+    [
+      "economic implications",
+      "at",
+      "local"
+    ],
+    [
+      "employment opportunities",
+      "for",
+      "millions"
+    ],
+    [
+      "environmental implications",
+      "of",
+      "cultivation"
+    ],
+    [
+      "family",
+      "over",
+      "coffee tasting party"
+    ],
+    [
+      "friend",
+      "for",
+      "coffee date"
+    ],
+    [
+      "global coffee trade",
+      "is",
+      "multi-billion dollar industry"
+    ],
+    [
+      "global phenomenon",
+      "with",
+      "millions"
+    ],
+    [
+      "goat herder",
+      "named",
+      "kaldi"
+    ],
+    [
+      "goats",
+      "became",
+      "energetic"
+    ],
+    [
+      "growing demand",
+      "for",
+      "ethically sourced"
+    ],
+    [
+      "growing demand",
+      "for",
+      "sustainably produced"
+    ],
+    [
+      "history",
+      "of",
+      "coffee beans"
+    ],
+    [
+      "impact",
+      "is",
+      "multifaceted"
+    ],
+    [
+      "impact",
+      "of",
+      "coffee beans"
+    ],
+    [
+      "integral",
+      "of",
+      "people's daily lives"
+    ],
+    [
+      "issues",
+      "such as",
+      "biodiversity loss"
+    ],
+    [
+      "issues",
+      "such as",
+      "deforestation"
+    ],
+    [
+      "issues",
+      "such as",
+      "water usage"
+    ],
+    [
+      "kaldi",
+      "discovered",
+      "stimulating effects"
+    ],
+    [
+      "knowledge",
+      "spread to",
+      "arabian peninsula"
+    ],
+    [
+      "middle east",
+      "as",
+      "social spaces"
+    ],
+    [
+      "modern era",
+      "coffee has become",
+      "global phenomenon"
+    ],
+    [
+      "morning cup",
+      "to",
+      "boost"
+    ],
+    [
+      "morning cup",
+      "to",
+      "cognitive functions"
+    ],
+    [
+      "morning cup",
+      "to",
+      "day"
+    ],
+    [
+      "morning cup",
+      "to",
+      "kickstart"
+    ],
+    [
+      "multi-billion dollar industry",
+      "with",
+      "commodities"
+    ],
+    [
+      "multifaceted role",
+      "encompassing",
+      "cultural"
+    ],
+    [
+      "multifaceted role",
+      "encompassing",
+      "economic"
+    ],
+    [
+      "multifaceted role",
+      "encompassing",
+      "environmental dimensions"
+    ],
+    [
+      "multifaceted role",
+      "encompassing",
+      "social"
+    ],
+    [
+      "opportunities",
+      "to",
+      "build relationships"
+    ],
+    [
+      "opportunities",
+      "to",
+      "colleagues"
+    ],
+    [
+      "opportunities",
+      "to",
+      "connect"
+    ],
+    [
+      "opportunities",
+      "to",
+      "workplace"
+    ],
+    [
+      "origins",
+      "traced to",
+      "ethiopian plateau"
+    ],
+    [
+      "penny universities",
+      "of",
+      "london"
+    ],
+    [
+      "people",
+      "engage in",
+      "intellectual discussions"
+    ],
+    [
+      "people",
+      "gathered to",
+      "socialize"
+    ],
+    [
+      "personal level",
+      "coffee is associated",
+      "energy"
+    ],
+    [
+      "personal level",
+      "coffee is associated",
+      "focus"
+    ],
+    [
+      "personal level",
+      "coffee is associated",
+      "productivity"
+    ],
+    [
+      "pivotal",
+      "in",
+      "enlightenment period"
+    ],
+    [
+      "production",
+      "is",
+      "vital industry"
+    ],
+    [
+      "qahveh khaneh",
+      "emerge in",
+      "middle east"
+    ],
+    [
+      "rise",
+      "of",
+      "coffee chains"
+    ],
+    [
+      "significant",
+      "in",
+      "society"
+    ],
+    [
+      "significant role",
+      "in",
+      "rituals"
+    ],
+    [
+      "significant role",
+      "in",
+      "social gatherings"
+    ],
+    [
+      "social fabric",
+      "of",
+      "cities"
+    ],
+    [
+      "society",
+      "around",
+      "world"
+    ],
+    [
+      "starbucks",
+      "transformed",
+      "consume"
+    ],
+    [
+      "starbucks",
+      "transformed",
+      "perceive"
+    ],
+    [
+      "stimulating effects",
+      "of",
+      "coffee beans"
+    ],
+    [
+      "supply chain",
+      "from",
+      "baristas"
+    ],
+    [
+      "supply chain",
+      "from",
+      "consumers"
+    ],
+    [
+      "supply chain",
+      "from",
+      "farmers"
+    ],
+    [
+      "symbol",
+      "of",
+      "lifestyle"
+    ],
+    [
+      "symbol",
+      "of",
+      "personal identity"
+    ],
+    [
+      "symbol",
+      "of",
+      "social status"
+    ],
+    [
+      "thinkers",
+      "exchange",
+      "debates"
+    ],
+    [
+      "thinkers",
+      "such as",
+      "rousseau"
+    ],
+    [
+      "thinkers",
+      "such as",
+      "voltaire"
+    ],
+    [
+      "vital industry",
+      "providing",
+      "employment opportunities"
+    ]
+  ],
+  "edges": [
+    "are",
+    "around",
+    "as",
+    "at",
+    "became",
+    "become",
+    "coffee had made",
+    "coffee has become",
+    "coffee is associated",
+    "coffee plays",
+    "continues to",
+    "discovered",
+    "emerge in",
+    "emphasizes",
+    "encompassing",
+    "engage in",
+    "exchange",
+    "extends",
+    "for",
+    "fosters",
+    "from",
+    "gathered to",
+    "has",
+    "has become",
+    "in",
+    "is",
+    "is more than",
+    "known as",
+    "made",
+    "named",
+    "of",
+    "over",
+    "played",
+    "plays",
+    "providing",
+    "requires",
+    "role in",
+    "shaping",
+    "spread to",
+    "such as",
+    "that",
+    "to",
+    "traced to",
+    "transformed",
+    "with"
+  ]
+}

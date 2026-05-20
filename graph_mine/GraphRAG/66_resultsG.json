@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Sharks are efficient predators in the marine ecosystem.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks have evolved over millions of years.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sharks can detect prey efficiently.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks have a keen sense of smell.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks can detect minute traces of blood in the water.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks have a highly developed olfactory system.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks can detect a single drop of blood in an Olympic-sized swimming pool.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sharks have large and well-developed olfactory bulbs.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sharks rely on their sense of hearing to detect prey.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sharks have a lateral line system to detect vibrations and movements in the water.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks can sense the movements of nearby fish and marine animals.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks can detect electrical signals given off by other organisms.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks have specialized cells called the ampullae of Lorenzini.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks can detect weak electrical fields produced by other animals.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Sharks have well-developed eyes adapted to low light conditions.",
+    "retrieved_context": "SHARKS The tapetum lucidum is a structure found in sharks like the great white shark, improving their night vision TAPETUM LUCIDUM. SHARKS Sharks have ampullae of Lorenzini to detect electrical signals from other organisms AMPULLAE OF LORENZINI. SHARKS Sharks use the lateral line system to detect prey through changes in water pressure and movement LATERAL LINE. SHARKS Sharks use their olfactory system to detect traces of blood and chemicals in the water, aiding in their hunting OLFACTORY SYSTEM. SHARKS Sharks rely on their lateral line system to detect vibrations and movements in the water LATERAL LINE SYSTEM. SHARKS Great White Shark is a specific example of sharks, sharing the common sensory adaptations that make sharks successful predators GREAT WHITE SHARK.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "73.33%"
+  }
+]

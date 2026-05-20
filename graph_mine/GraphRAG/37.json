@@ -1,0 +1,127 @@
+{
+  "entities": [
+    "EMOTIONAL CONTAGION",
+    "SOCIAL BONDING TOOL",
+    "RESEARCH",
+    "BLOOD PRESSURE",
+    "PSYCHOLOGISTS",
+    "HUMANS",
+    "CARDIOVASCULAR HEALTH",
+    "LUNG CAPACITY",
+    "SOCIAL NATURE",
+    "BRAIN IMAGING TECHNIQUES",
+    "SCIENCE BEHIND THE PHENOMENON",
+    "SOCIAL RELATIONSHIPS",
+    "SOCIAL COGNITION",
+    "ENDORPHINS",
+    "FUNCTIONAL MAGNETIC RESONANCE IMAGING",
+    "MIRROR NEURONS",
+    "LAUGHTER"
+  ],
+  "relations": [
+    [
+      "LAUGHTER",
+      "Laughter serves as a social bonding tool among humans, indicating a safe and enjoyable environment",
+      "HUMANS"
+    ],
+    [
+      "LAUGHTER",
+      "Mirror neurons are activated when humans hear laughter, causing them to mirror the laughter and experience similar feelings of joy",
+      "MIRROR NEURONS"
+    ],
+    [
+      "LAUGHTER",
+      "Laughter is a manifestation of humans' social nature, facilitating communication and connection",
+      "SOCIAL NATURE"
+    ],
+    [
+      "LAUGHTER",
+      "Laughter acts as a social bonding tool, indicating its role in strengthening relationships and building trust",
+      "SOCIAL BONDING TOOL"
+    ],
+    [
+      "LAUGHTER",
+      "Laughter is a form of emotional contagion, transferring joy and amusement through nonverbal cues",
+      "EMOTIONAL CONTAGION"
+    ],
+    [
+      "LAUGHTER",
+      "Research into laughter explores its psychological, physiological, and cognitive aspects",
+      "RESEARCH"
+    ],
+    [
+      "LAUGHTER",
+      "Laughter leads to the release of endorphins, contributing to mood elevation and pain relief",
+      "ENDORPHINS"
+    ],
+    [
+      "LAUGHTER",
+      "Laughter has been shown to lower blood pressure, contributing to cardiovascular health",
+      "BLOOD PRESSURE"
+    ],
+    [
+      "LAUGHTER",
+      "Laughter, through deep breathing exercises, increases lung capacity",
+      "LUNG CAPACITY"
+    ],
+    [
+      "LAUGHTER",
+      "Laughter activates areas of the brain associated with social cognition, enhancing our ability to connect with others",
+      "SOCIAL COGNITION"
+    ],
+    [
+      "LAUGHTER",
+      "The contagious nature of laughter strengthens social relationships and fosters a sense of community",
+      "SOCIAL RELATIONSHIPS"
+    ],
+    [
+      "PSYCHOLOGISTS",
+      "Psychologists and scientists conduct research to understand the phenomenon of contagious laughter",
+      "SCIENCE BEHIND THE PHENOMENON"
+    ],
+    [
+      "RESEARCH",
+      "Brain imaging techniques like fMRI are used in research to study how laughter affects the brain",
+      "BRAIN IMAGING TECHNIQUES"
+    ],
+    [
+      "FUNCTIONAL MAGNETIC RESONANCE IMAGING",
+      "The use of fMRI has helped in understanding how laughter triggers the release of endorphins",
+      "ENDORPHINS"
+    ],
+    [
+      "ENDORPHINS",
+      "The release of endorphins during laughter contributes to the lowering of blood pressure",
+      "BLOOD PRESSURE"
+    ],
+    [
+      "BLOOD PRESSURE",
+      "Lowering blood pressure through laughter contributes to improved cardiovascular health",
+      "CARDIOVASCULAR HEALTH"
+    ],
+    [
+      "CARDIOVASCULAR HEALTH",
+      "Increased lung capacity from laughter contributes to overall cardiovascular health",
+      "LUNG CAPACITY"
+    ]
+  ],
+  "edges": [
+    "Laughter serves as a social bonding tool among humans, indicating a safe and enjoyable environment",
+    "Mirror neurons are activated when humans hear laughter, causing them to mirror the laughter and experience similar feelings of joy",
+    "Laughter is a manifestation of humans' social nature, facilitating communication and connection",
+    "Laughter acts as a social bonding tool, indicating its role in strengthening relationships and building trust",
+    "Laughter is a form of emotional contagion, transferring joy and amusement through nonverbal cues",
+    "Research into laughter explores its psychological, physiological, and cognitive aspects",
+    "Laughter leads to the release of endorphins, contributing to mood elevation and pain relief",
+    "Laughter has been shown to lower blood pressure, contributing to cardiovascular health",
+    "Laughter, through deep breathing exercises, increases lung capacity",
+    "Laughter activates areas of the brain associated with social cognition, enhancing our ability to connect with others",
+    "The contagious nature of laughter strengthens social relationships and fosters a sense of community",
+    "Psychologists and scientists conduct research to understand the phenomenon of contagious laughter",
+    "Brain imaging techniques like fMRI are used in research to study how laughter affects the brain",
+    "The use of fMRI has helped in understanding how laughter triggers the release of endorphins",
+    "The release of endorphins during laughter contributes to the lowering of blood pressure",
+    "Lowering blood pressure through laughter contributes to improved cardiovascular health",
+    "Increased lung capacity from laughter contributes to overall cardiovascular health"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Fast fashion is driven by the desire for quick turnover of trendy clothing at affordable prices.",
+    "retrieved_context": "excessive consumption of non-renewable resources. fast fashion has carbon footprint. massive quantities end up in landfills. cheap labor in developing countries. fast fashion revolutionized consume clothing. fast fashion relies on cheap labor. fast fashion has negative effects. fast fashion causes textile waste. desire for quick turnover. fast fashion produces massive quantities. fast fashion has become dominant force. negative effects on environment. fast fashion driven by desire. fast fashion causes excessive consumption. trendy clothing at affordable prices. fashion industry responsible for global carbon emissions. sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste. designing clothing for longevity. synthetic materials include polyester. garments relies on synthetic materials. synthetic materials derived from petrochemicals. synthetic materials include nylon. discard clothing after wears.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion brands have revolutionized the way we consume clothing.",
+    "retrieved_context": "excessive consumption of non-renewable resources. fast fashion has carbon footprint. massive quantities end up in landfills. cheap labor in developing countries. fast fashion revolutionized consume clothing. fast fashion relies on cheap labor. fast fashion has negative effects. fast fashion causes textile waste. desire for quick turnover. fast fashion produces massive quantities. fast fashion has become dominant force. negative effects on environment. fast fashion driven by desire. fast fashion causes excessive consumption. trendy clothing at affordable prices. sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste. fashion industry responsible for global carbon emissions. designing clothing for longevity. synthetic materials include polyester. garments relies on synthetic materials. synthetic materials derived from petrochemicals. synthetic materials include nylon.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The environmental impact of fast fashion is significant and alarming.",
+    "retrieved_context": "excessive consumption of non-renewable resources. fast fashion has carbon footprint. massive quantities end up in landfills. cheap labor in developing countries. fast fashion revolutionized consume clothing. fast fashion relies on cheap labor. fast fashion has negative effects. fast fashion causes textile waste. desire for quick turnover. fast fashion produces massive quantities. fast fashion has become dominant force. negative effects on environment. fast fashion driven by desire. fast fashion causes excessive consumption. sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste. fashion industry responsible for global carbon emissions. trendy clothing at affordable prices.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion garments rely heavily on synthetic materials like polyester and nylon.",
+    "retrieved_context": "synthetic materials include polyester. garments relies on synthetic materials. synthetic materials derived from petrochemicals. synthetic materials include nylon. excessive consumption of non-renewable resources. fast fashion has carbon footprint. massive quantities end up in landfills. cheap labor in developing countries. fast fashion revolutionized consume clothing. fast fashion relies on cheap labor. fast fashion has negative effects. fast fashion causes textile waste. desire for quick turnover. fast fashion produces massive quantities. fast fashion has become dominant force. negative effects on environment. fast fashion driven by desire. fast fashion causes excessive consumption. garment production involves unsafe working conditions. garment production involves long hours. designing clothing for longevity. landfill space in united states. textiles account for landfill space. fashion industry responsible for global carbon emissions. trendy clothing at affordable prices.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Synthetic materials used in fast fashion contribute to air and water pollution.",
+    "retrieved_context": "synthetic materials include polyester. synthetic materials derived from petrochemicals. synthetic materials include nylon. synthetic fibers take decompose. synthetic fibers contribute to pollution.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The production of cotton in fast fashion has been linked to deforestation and water scarcity.",
+    "retrieved_context": "garment production involves unsafe working conditions. garment production involves long hours. cotton linked to water scarcity. cotton linked to fertilizers. cotton linked to pesticides. cotton linked to deforestation. landfill space in united states. textiles account for landfill space. discard clothing after wears. sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Fast fashion brands produce massive quantities of clothing, leading to high levels of textile waste.",
+    "retrieved_context": "fashion industry responsible for global carbon emissions. garment production involves unsafe working conditions. garment production involves long hours. excessive consumption of non-renewable resources. fast fashion has carbon footprint. massive quantities end up in landfills. cheap labor in developing countries. fast fashion revolutionized consume clothing. fast fashion relies on cheap labor. fast fashion has negative effects. fast fashion causes textile waste. desire for quick turnover. fast fashion produces massive quantities. fast fashion has become dominant force. negative effects on environment. fast fashion driven by desire. fast fashion causes excessive consumption. sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste. trendy clothing at affordable prices. designing clothing for longevity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Textiles account for 5% of all landfill space in the United States.",
+    "retrieved_context": "landfill space in united states. landfill space in united states. textiles account for landfill space. environmental footprint of fashion industry. environmental footprint is significant. fast fashion produces massive quantities. fast fashion has become dominant force. fashion industry responsible for global carbon emissions. fast fashion has carbon footprint. fast fashion revolutionized consume clothing. environmental footprint of fast fashion. environmental footprint encompasses textile waste. fast fashion relies on cheap labor. fast fashion causes textile waste. environmental footprint encompasses resource depletion. environmental footprint is alarming. fast fashion driven by desire. environmental footprint encompasses carbon emissions. environmental footprint creates ethical clothing ecosystem. fast fashion has negative effects. environmental footprint is multifaceted. fast fashion causes excessive consumption. discard clothing after wears.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fast fashion trends encourage consumers to discard clothing after only a few wears.",
+    "retrieved_context": "discard clothing after wears. excessive consumption of non-renewable resources. fast fashion has carbon footprint. massive quantities end up in landfills. cheap labor in developing countries. fast fashion revolutionized consume clothing. fast fashion relies on cheap labor. fast fashion has negative effects. fast fashion causes textile waste. desire for quick turnover. fast fashion produces massive quantities. fast fashion has become dominant force. negative effects on environment. fast fashion driven by desire. fast fashion causes excessive consumption. trendy clothing at affordable prices. sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste. fashion industry responsible for global carbon emissions. designing clothing for longevity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Synthetic fibers in fast fashion garments can take hundreds of years to decompose.",
+    "retrieved_context": "synthetic fibers take decompose. synthetic fibers contribute to pollution. garment production involves unsafe working conditions. garment production involves long hours. landfill space in united states. textiles account for landfill space. discard clothing after wears. synthetic materials include polyester. synthetic materials derived from petrochemicals. synthetic materials include nylon. sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The fashion industry is responsible for 10% of global carbon emissions.",
+    "retrieved_context": "sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste. fashion industry responsible for global carbon emissions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fast fashion contributes significantly to the fashion industry's carbon footprint.",
+    "retrieved_context": "excessive consumption of non-renewable resources. fast fashion has carbon footprint. massive quantities end up in landfills. cheap labor in developing countries. fast fashion revolutionized consume clothing. fast fashion relies on cheap labor. fast fashion has negative effects. fast fashion causes textile waste. desire for quick turnover. fast fashion produces massive quantities. fast fashion has become dominant force. negative effects on environment. fast fashion driven by desire. fast fashion causes excessive consumption. sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste. fashion industry responsible for global carbon emissions. trendy clothing at affordable prices. designing clothing for longevity.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The transportation of raw materials and finished products in fast fashion results in high greenhouse gas emissions.",
+    "retrieved_context": "garment production involves unsafe working conditions. garment production involves long hours.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "One strategy to address the environmental impact of fast fashion is promoting sustainable fashion practices.",
+    "retrieved_context": "sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste. excessive consumption of non-renewable resources. fast fashion has carbon footprint. massive quantities end up in landfills. cheap labor in developing countries. fast fashion revolutionized consume clothing. fast fashion relies on cheap labor. fast fashion has negative effects. fast fashion causes textile waste. desire for quick turnover. fast fashion produces massive quantities. fast fashion has become dominant force. negative effects on environment. fast fashion driven by desire. fast fashion causes excessive consumption. fashion industry responsible for global carbon emissions. designing clothing for longevity. trendy clothing at affordable prices.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Consumers can play a crucial role in driving change by supporting ethical and sustainable fashion brands.",
+    "retrieved_context": "sustainable fashion practices through efficient production processes. sustainable fashion practices use recycled materials. sustainable fashion practices use organic materials. sustainable fashion practices reduce waste. environmental footprint of fashion industry. environmental footprint encompasses carbon emissions. environmental footprint creates ethical clothing ecosystem. environmental footprint is significant. environmental footprint is multifaceted. conscious consumer behavior reduces environmental footprint. environmental footprint encompasses resource depletion. environmental footprint of fast fashion. environmental footprint encompasses textile waste. environmental footprint is alarming. consumers extend repairs. consumers extend alterations. discard clothing after wears. consumers practice mindful consumption. consumers support ethical fashion brands. consumers to discard clothing. fashion industry responsible for global carbon emissions. trendy clothing at affordable prices.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "66.67%"
+  }
+]

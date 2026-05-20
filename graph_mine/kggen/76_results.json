@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "The concept of home has evolved significantly over the centuries.",
+    "retrieved_context": "dwellings provided refuge. dwellings provided rest. dwellings were functionality. home reflects identity. home reflects generations. home reflects innovation. home reflects technological advancements. home reflects challenges. home reflects cultural influences. home reflects societal norms. homeowners can control appliances. homeowners can control lighting. homeowners can control security cameras. homeowners can control thermostats. housing became middle class. manor house symbolized power. manor house symbolized authority. manor house was estate. suburban home epitomized american dream. concept has evolved centuries. concept promotes green roofs. concept promotes rainwater harvesting. concept promotes passive solar design.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The modern home has undergone a remarkable transformation.",
+    "retrieved_context": "dwellings provided refuge. dwellings provided rest. dwellings were functionality. housing became middle class. manor house symbolized power. manor house symbolized authority. manor house was estate. suburban home epitomized american dream. modern has undergone transformation. home reflects identity. home reflects generations. home reflects innovation. home reflects technological advancements. home reflects challenges. home reflects cultural influences. home reflects societal norms.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Early humans lived in caves, tents, and rudimentary structures.",
+    "retrieved_context": "dwellings provided refuge. dwellings provided rest. dwellings were functionality. ancient times centered around protection. ancient times centered around shelter. structures made from materials. humans lived in caves. humans lived in tents. humans lived in structures. structures include apartment buildings. structures include suburban communities.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Homes in ancient civilizations served as centers of social, political, and religious life.",
+    "retrieved_context": "civilizations include egypt. civilizations include mesopotamia. civilizations include greece. dwellings provided refuge. dwellings provided rest. dwellings were functionality. ancient times centered around protection. ancient times centered around shelter. societies became organization. housing became middle class. buildings create living environments. buildings create occupants. home reflects identity. home reflects generations. home reflects innovation. home reflects technological advancements. home reflects challenges. home reflects cultural influences. home reflects societal norms.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The manor house in the Middle Ages was a symbol of power and authority.",
+    "retrieved_context": "manor house symbolized power. manor house symbolized authority. manor house was estate. manor house symbolized power. middle ages saw emergence manor house. manor house symbolized authority. manor house was estate. dwellings provided refuge. dwellings provided rest. dwellings were functionality. housing became middle class. ancient times centered around protection. ancient times centered around shelter.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The Industrial Revolution led to standardized and affordable housing for the middle class.",
+    "retrieved_context": "industrial revolution brought about mass production. industrial revolution brought about urbanization. suburban home epitomized american dream. housing became middle class. manor house symbolized power. middle ages saw emergence manor house. manor house symbolized authority. manor house was estate. revolution influenced architecture. revolution influenced design. architecture reflected status. design included prices. design included amenities. revolution driven by technology. revolution driven by lifestyle. architecture reflected wealth.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "New building materials like steel and concrete allowed for larger structures.",
+    "retrieved_context": "building materials include concrete. building materials include steel. buildings create living environments. buildings create occupants. materials include wood. materials include mud. materials include stone. structures made from materials. materials include stone. materials include wood. materials include mud. structures include apartment buildings. structures include suburban communities.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The modernist movement influenced home design with simplicity and functionality.",
+    "retrieved_context": "modernist movement emphasized efficiency. modernist movement emphasized simplicity. design included prices. amenities include electrical appliances. design included amenities. amenities include indoor plumbing. amenities include central heating. sustainable design important in construction. architecture reflected wealth. architecture reflected status. architects include ludwig mies van der rohe. architects include frank lloyd wright. architects include le corbusier. buildings create living environments. buildings create occupants. modern has undergone transformation.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The post-World War II period saw the rise of suburban homes.",
+    "retrieved_context": "suburban home epitomized american dream. dwellings provided refuge. dwellings provided rest. dwellings were functionality. housing became middle class. post-world war ii saw rise suburban home. suburban home epitomized american dream. manor house symbolized power. manor house symbolized authority. manor house was estate.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Suburban homes featured modern amenities like central heating and indoor plumbing.",
+    "retrieved_context": "suburban home epitomized american dream. amenities include indoor plumbing. amenities include electrical appliances. amenities include central heating. housing became middle class. dwellings provided refuge. dwellings provided rest. dwellings were functionality.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Smart homes have interconnected devices for remote control and monitoring.",
+    "retrieved_context": "home reflects identity. home reflects generations. home reflects innovation. home reflects technological advancements. home reflects challenges. home reflects cultural influences. home reflects societal norms. dwellings provided refuge. dwellings provided rest. dwellings were functionality.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Sustainable design practices aim to reduce the environmental impact of modern homes.",
+    "retrieved_context": "sustainable design important in construction. sustainability promotes resilience. dwellings provided refuge. dwellings provided rest. dwellings were functionality. design included prices. amenities include electrical appliances. design included amenities. amenities include indoor plumbing. amenities include central heating. building materials include concrete. building materials include steel.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Energy-efficient materials are being used in modern home construction.",
+    "retrieved_context": "energy-efficient materials reduce environmental impact. building materials include concrete. building materials include steel. materials include wood. materials include mud. materials include stone. buildings create living environments. buildings create occupants.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Modern homes incorporate concepts like passive solar design and green roofs.",
+    "retrieved_context": "dwellings provided refuge. dwellings provided rest. dwellings were functionality. sustainable design important in construction. buildings create living environments. buildings create occupants.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The evolution of the modern home reflects changing societal norms and cultural influences.",
+    "retrieved_context": "societies became organization. homeowners can control appliances. homeowners can control lighting. homeowners can control security cameras. homeowners can control thermostats. modern has undergone transformation. dwellings provided refuge. dwellings provided rest. dwellings were functionality.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

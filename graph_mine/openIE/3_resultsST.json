@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "AI has rapidly advanced in recent years.",
+    "retrieved_context": "AI technologies are developed in responsible manner. AI technologies are developed. AI technologies have potential. AI technologies are developed in manner.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "AI has revolutionized various industries and aspects of daily lives.",
+    "retrieved_context": "AI technologies are developed in responsible manner. AI technologies are developed. AI technologies have potential. AI technologies are developed in manner.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ethical dilemmas need to be addressed in the development and deployment of AI technologies.",
+    "retrieved_context": "ethical dilemmas is in AI development. ethical dilemmas are complex. ethical dilemmas stem from concerns. ethical dilemmas are complex In conclusion. ethical dilemmas stem from concerns about privacy. Ethical Dilemmas is in AI Development. key ethical dilemmas is in AI development. ethical dilemma is in AI development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Ethical dilemmas stem from concerns about privacy, bias, accountability, transparency, and societal impact.",
+    "retrieved_context": "ethical dilemmas is in AI development. ethical dilemmas are complex. ethical dilemmas stem from concerns. ethical dilemmas are complex In conclusion. ethical dilemmas stem from concerns about privacy. Ethical Dilemmas is in AI Development. key ethical dilemmas is in AI development. significant ethical dilemma is in AI development. ethical dilemma is in AI development.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Privacy is a key ethical dilemma in AI development.",
+    "retrieved_context": "key ethical dilemmas is in AI development. ethical dilemmas is in AI development. ethical dilemmas are complex. ethical dilemmas stem from concerns. ethical dilemmas are complex In conclusion. ethical dilemmas stem from concerns about privacy. Ethical Dilemmas is in AI Development. ethical dilemma is in AI development.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Concerns arise about the use of data and potential privacy violations.",
+    "retrieved_context": "data is if biased. data is biased. Addressing issues related is essential. Addressing issues is essential. issues related is essential.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Facial recognition technology raises questions about privacy and abuse of power.",
+    "retrieved_context": "facial recognition technology can can used. facial recognition technology can can used for surveillance purposes. facial recognition technology can For example can used for surveillance purposes. facial recognition technology can For example can used. recognition technology can For example can used for surveillance purposes. recognition technology can can used for surveillance purposes. recognition technology can For example can used. recognition technology can can used.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Bias is another ethical dilemma in AI development.",
+    "retrieved_context": "ethical dilemmas is in AI development. ethical dilemmas are complex. ethical dilemmas stem from concerns. ethical dilemmas are complex In conclusion. ethical dilemmas stem from concerns about privacy. Ethical Dilemmas is in AI Development. AI systems become autonomous. Addressing bias is crucial to ensuring fairness in processes. AI systems collect amounts. Addressing bias is crucial to ensuring fairness in decision making processes. AI systems massive amounts of data. AI systems make decisions. AI systems are as good. AI systems are only as good. AI systems become complex. Addressing bias is crucial in decision making processes. AI systems collect massive amounts of data. Addressing bias is crucial to fairness. AI systems become more complex. Addressing bias is crucial in processes. Addressing bias is crucial to fairness in processes. AI systems are good. Addressing bias is crucial in making processes. AI systems become more autonomous. Addressing bias is crucial. Addressing bias is crucial to fairness in making processes. Addressing bias is crucial to ensuring fairness. AI systems collect massive amounts. Addressing bias is crucial to ensuring fairness in making processes. AI systems collect amounts of data. AI systems are only good. Addressing bias is crucial to fairness in decision making processes. Addressing bias is in AI systems. key ethical dilemmas is in AI development.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Biased data can lead to discriminatory outcomes in AI systems.",
+    "retrieved_context": "discrimination biased algorithms in processes. discrimination biased algorithms in hiring processes. biased algorithms can perpetuate discrimination For example. biased algorithms is in hiring processes. biased algorithms can perpetuate discrimination. AI systems become autonomous. Addressing bias is crucial to ensuring fairness in processes. AI systems collect amounts. Addressing bias is crucial to ensuring fairness in decision making processes. AI systems massive amounts of data. AI systems make decisions. AI systems are as good. AI systems are only as good. AI systems become complex. Addressing bias is crucial in decision making processes. AI systems collect massive amounts of data. Addressing bias is crucial to fairness. AI systems become more complex. Addressing bias is crucial in processes. Addressing bias is crucial to fairness in processes. AI systems are good. Addressing bias is crucial in making processes. AI systems become more autonomous. Addressing bias is crucial. Addressing bias is crucial to fairness in making processes. Addressing bias is crucial to ensuring fairness. AI systems collect massive amounts. Addressing bias is crucial to ensuring fairness in making processes. AI systems collect amounts of data. AI systems are only good. Addressing bias is crucial to fairness in decision making processes. Addressing bias is in AI systems. bias is crucial to fairness in processes. bias is crucial to fairness in making processes. bias is crucial to ensuring fairness. bias is crucial. bias is crucial to ensuring fairness in processes. bias is crucial in processes. bias is crucial to ensuring fairness in making processes. bias is crucial in decision making processes. bias is crucial in making processes. bias is crucial to fairness in decision making processes. bias is crucial to fairness. bias is crucial to ensuring fairness in decision making processes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Addressing bias is crucial for fairness and equity in decision-making.",
+    "retrieved_context": "AI systems become autonomous. Addressing bias is crucial to ensuring fairness in processes. AI systems collect amounts. Addressing bias is crucial to ensuring fairness in decision making processes. AI systems massive amounts of data. AI systems make decisions. AI systems are as good. AI systems are only as good. AI systems become complex. Addressing bias is crucial in decision making processes. AI systems collect massive amounts of data. Addressing bias is crucial to fairness. AI systems become more complex. Addressing bias is crucial in processes. Addressing bias is crucial to fairness in processes. AI systems are good. Addressing bias is crucial in making processes. AI systems become more autonomous. Addressing bias is crucial. Addressing bias is crucial to fairness in making processes. Addressing bias is crucial to ensuring fairness. AI systems collect massive amounts. Addressing bias is crucial to ensuring fairness in making processes. AI systems collect amounts of data. AI systems are only good. Addressing bias is crucial to fairness in decision making processes. Addressing bias is in AI systems. bias is crucial to fairness in processes. bias is crucial to fairness in making processes. bias is crucial to ensuring fairness. bias is crucial. bias is crucial to ensuring fairness in processes. bias is crucial in processes. bias is crucial to ensuring fairness in making processes. bias is crucial in decision making processes. bias is crucial in making processes. bias is crucial to fairness in decision making processes. bias is crucial to fairness. bias is crucial to ensuring fairness in decision making processes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Accountability is an ethical dilemma in AI development.",
+    "retrieved_context": "accountability is properly assigned. accountability is assigned. accountability is properly assigned in development. accountability is properly assigned in development of AI technologies. ethical dilemmas is in AI development. ethical dilemmas are complex. ethical dilemmas stem from concerns. ethical dilemmas are complex In conclusion. ethical dilemmas stem from concerns about privacy. Ethical Dilemmas is in AI Development. key ethical dilemmas is in AI development.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Establishing clear lines of accountability is crucial as AI systems become more autonomous.",
+    "retrieved_context": "accountability is properly assigned. accountability is assigned. accountability is properly assigned in development. accountability is properly assigned in development of AI technologies. AI system causes harm. AI system makes mistake.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Transparency is a significant ethical dilemma in AI development.",
+    "retrieved_context": "AI systems make decisions. AI systems are good. AI systems are as good. AI systems become more autonomous. Ensuring transparency is in AI systems. AI systems collect amounts of data. AI systems are only as good. AI systems are only good. AI systems become complex. Ensuring transparency is essential to trust. AI systems collect massive amounts of data. Ensuring transparency is essential. AI systems become autonomous. AI systems become more complex. AI systems collect amounts. AI systems collect massive amounts. AI systems massive amounts of data. Ensuring transparency is essential to building trust.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Lack of transparency can lead to distrust in AI systems.",
+    "retrieved_context": "data is if biased. AI systems are good. AI systems make decisions. AI systems are as good. AI systems become more autonomous. AI systems collect amounts of data. AI systems are only as good. AI systems are only good. AI systems become complex. data is biased. AI systems collect massive amounts of data. AI systems become autonomous. AI systems become more complex. AI systems collect amounts. AI systems collect massive amounts. AI systems massive amounts of data.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ensuring transparency is essential for building trust and accountability.",
+    "retrieved_context": "AI systems make decisions. AI systems are good. AI systems are as good. AI systems become more autonomous. Ensuring transparency is in AI systems. AI systems collect amounts of data. AI systems are only as good. AI systems are only good. AI systems become complex. Ensuring transparency is essential to trust. AI systems collect massive amounts of data. Ensuring transparency is essential. AI systems become autonomous. AI systems become more complex. AI systems collect amounts. AI systems collect massive amounts. AI systems massive amounts of data. Ensuring transparency is essential to building trust. accountability is properly assigned. accountability is assigned. accountability is properly assigned in development. accountability is properly assigned in development of AI technologies. Transparency is also significant ethical dilemma. Transparency is significant ethical dilemma. Transparency is dilemma. Transparency is also ethical dilemma. Transparency is also significant dilemma in AI development. Transparency is ethical dilemma. Transparency is significant dilemma. Transparency is significant. significant ethical dilemma is in AI development. Transparency is also significant dilemma. Transparency is ethical. ethical dilemma is in AI development. Transparency is also dilemma. transparency is essential to building trust. transparency is essential to trust. transparency is essential.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

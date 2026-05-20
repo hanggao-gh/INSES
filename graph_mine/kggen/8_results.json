@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Space exploration is a fascinating and groundbreaking endeavor.",
+    "retrieved_context": "space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. exploration of solar system. space tourism gaining traction. future space missions potential to find extraterrestrial life. perseverance rover landed on mars. perseverance rover landed in february 2021. perseverance rover searching for signs. nasa landed perseverance rover. space probes study planets. space race led to advancements. advancements in space technology. space race was between soviet union. soviet union launched artificial satellite. space race was between united states.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Humans have constantly pushed the boundaries of what is possible in space.",
+    "retrieved_context": "space race led to advancements. advancements in space technology. space race was between soviet union. soviet union launched artificial satellite. space race was between united states. space accessible for scientific research. space accessible for commercial ventures. space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. astronauts from different countries. perseverance rover landed on mars. perseverance rover landed in february 2021. perseverance rover searching for signs. nasa landed perseverance rover. suborbital spaceflights to private individuals. space probes study planets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The Soviet Union launched the first artificial satellite, Sputnik 1, in 1957.",
+    "retrieved_context": "space race led to advancements. sputnik 1 was launched orbit. space race was between soviet union. sputnik 1 marked space race. space race was between united states. sputnik 1 marked space race. sputnik 1 was launched orbit. artificial satellite was sputnik 1. artificial satellite was sputnik 1. soviet union launched artificial satellite. milestone in international cooperation. platform for conducting experiments. international space station serves as platform. international space station marked milestone. spacecraft travel fascinating. suborbital spaceflights to private individuals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The space race began between the United States and the Soviet Union.",
+    "retrieved_context": "space race led to advancements. advancements in space technology. space race was between soviet union. soviet union launched artificial satellite. space race was between united states. artificial satellite was sputnik 1. soviet union launched artificial satellite. milestone in international cooperation. platform for conducting experiments. international space station serves as platform. international space station marked milestone. space accessible for scientific research. space accessible for commercial ventures. astronauts from different countries. space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. space tourism gaining traction.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Yuri Gagarin became the first human to orbit the Earth in 1961.",
+    "retrieved_context": "yuri gagarin orbited earth. yuri gagarin became human. astronauts from different countries. neil armstrong walked on moon. neil armstrong was part of apollo 11 mission. milestone in international cooperation. platform for conducting experiments. international space station serves as platform. international space station marked milestone. space tourism gaining traction. space race led to advancements. sputnik 1 was launched orbit. space race was between soviet union. sputnik 1 marked space race. space race was between united states. space race led to advancements. advancements in space technology. space race was between soviet union. soviet union launched artificial satellite. space race was between united states.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Neil Armstrong and Buzz Aldrin were the first humans to walk on the moon in 1969.",
+    "retrieved_context": "neil armstrong walked on moon. neil armstrong was part of apollo 11 mission. astronauts from different countries. buzz aldrin was part of apollo 11 mission. buzz aldrin walked on moon. perseverance rover landed on mars. perseverance rover landed in february 2021. perseverance rover searching for signs. nasa landed perseverance rover. space tourism gaining traction.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Space probes were launched to study other planets in our solar system.",
+    "retrieved_context": "space probes study planets. outer planets such as saturn. outer planets such as jupiter. spacecraft travel fascinating. space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. perseverance rover landed on mars. perseverance rover landed in february 2021. perseverance rover searching for signs. nasa landed perseverance rover. future space missions potential to find extraterrestrial life.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The International Space Station (ISS) was constructed in the late 1990s.",
+    "retrieved_context": "milestone in international cooperation. platform for conducting experiments. international space station serves as platform. international space station marked milestone. humans to mars. humans to moon. spacex plans to send humans. humans pushed boundaries. astronauts from different countries. space tourism gaining traction. spacecraft travel fascinating. space race led to advancements. sputnik 1 was launched orbit. space race was between soviet union. sputnik 1 marked space race. space race was between united states. space race led to advancements. advancements in space technology. space race was between soviet union. soviet union launched artificial satellite. space race was between united states.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "SpaceX developed reusable rockets, reducing the cost of launching payloads into space.",
+    "retrieved_context": "reusable rockets developed by spacex. cost of launching payloads. reusable rockets reduced cost. spacex plans to send humans. humans to mars. humans to moon. spacex plans to send humans. humans pushed boundaries. spacecraft travel fascinating. space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. suborbital spaceflights to private individuals. future space missions potential to find extraterrestrial life. space accessible for commercial ventures. space accessible for scientific research. launching payloads into space.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "NASA's Perseverance rover landed on Mars in February 2021.",
+    "retrieved_context": "perseverance rover landed on mars. signs of past life. mars is exciting. perseverance rover searching for signs. perseverance rover landed in february 2021. mars is red planet. mars rovers are space probes. space probes study planets. mars is exciting. mars is red planet. perseverance rover landed on mars. perseverance rover landed in february 2021. perseverance rover searching for signs. nasa landed perseverance rover. future space missions potential to find extraterrestrial life. neil armstrong walked on moon. neil armstrong was part of apollo 11 mission. spacecraft travel fascinating.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "SpaceX plans to send humans to Mars in the coming years.",
+    "retrieved_context": "future space missions potential to find extraterrestrial life. humans to mars. humans to moon. spacex plans to send humans. humans pushed boundaries. mars is exciting. mars is red planet. astronauts from different countries. space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. perseverance rover landed on mars. perseverance rover landed in february 2021. perseverance rover searching for signs. nasa landed perseverance rover. space race led to advancements. advancements in space technology. space race was between soviet union. soviet union launched artificial satellite. space race was between united states. space tourism gaining traction.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Missions to explore the outer planets of our solar system are being planned.",
+    "retrieved_context": "future space missions potential to find extraterrestrial life. outer planets such as saturn. outer planets such as jupiter. secrets of distant worlds. missions study moons. outer planets such as jupiter. outer planets such as saturn. missions to explore outer planets. missions uncover secrets. space probes study planets. voyager missions are space probes. space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. perseverance rover landed on mars. perseverance rover landed in february 2021. perseverance rover searching for signs. nasa landed perseverance rover. space probes study planets.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Advancements in space technology include the development of ion propulsion systems.",
+    "retrieved_context": "ion propulsion systems are advancements. advancements in space technology. spacecraft travel fascinating. space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. future space missions potential to find extraterrestrial life. space probes study planets. advancements in space technology. suborbital spaceflights to private individuals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Space tourism is gaining traction with companies offering suborbital spaceflights.",
+    "retrieved_context": "space tourism gaining traction. suborbital spaceflights to private individuals. space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. future space missions potential to find extraterrestrial life. spacecraft travel fascinating. astronauts from different countries.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The future of space exploration holds the promise of further discovery and innovation.",
+    "retrieved_context": "space exploration has always been groundbreaking. space exploration has always been fascinating. space exploration captured imagination. future space missions potential to find extraterrestrial life. space probes study planets. exploration of solar system. space tourism gaining traction. perseverance rover landed on mars. perseverance rover landed in february 2021. perseverance rover searching for signs. nasa landed perseverance rover.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

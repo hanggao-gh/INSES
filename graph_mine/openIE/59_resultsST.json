@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Modern medicine has made significant advancements over the past few centuries.",
+    "retrieved_context": "modern medicine development of been has testament to ingenuity. has testament is In conclusion. modern medicine development of been In conclusion has testament. modern medicine development of been In conclusion has testament to ingenuity. modern medicine development of been has testament to human ingenuity. modern medicine development of been has testament. modern medicine development of been In conclusion has testament to human ingenuity. Modern medicine improving quality of life. Modern medicine improving quality. Modern medicine improving quality for individuals worldwide. Modern medicine revolutionizing healthcare practices. Modern medicine improving quality for individuals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Modern medicine has revolutionized healthcare practices.",
+    "retrieved_context": "modern medicine development of been has testament to ingenuity. has testament is In conclusion. modern medicine development of been In conclusion has testament. modern medicine development of been In conclusion has testament to ingenuity. modern medicine development of been has testament to human ingenuity. modern medicine development of been has testament. modern medicine development of been In conclusion has testament to human ingenuity. Modern medicine improving quality of life. Modern medicine improving quality. Modern medicine improving quality for individuals worldwide. Modern medicine revolutionizing healthcare practices. Modern medicine improving quality for individuals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Modern medicine has improved the quality of life for individuals worldwide.",
+    "retrieved_context": "modern medicine development of been has testament to ingenuity. has testament is In conclusion. modern medicine development of been In conclusion has testament. modern medicine development of been In conclusion has testament to ingenuity. modern medicine development of been has testament to human ingenuity. modern medicine development of been has testament. modern medicine development of been In conclusion has testament to human ingenuity. Modern medicine improving quality of life. Modern medicine improving quality. Modern medicine improving quality for individuals worldwide. Modern medicine revolutionizing healthcare practices. Modern medicine improving quality for individuals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The evolution of medicine can be traced back to ancient civilizations.",
+    "retrieved_context": "modern medicine development of been has testament to ingenuity. has testament is In conclusion. modern medicine development of been In conclusion has testament. modern medicine development of been In conclusion has testament to ingenuity. modern medicine development of been has testament to human ingenuity. modern medicine development of been has testament. modern medicine development of been In conclusion has testament to human ingenuity. Modern medicine improving quality of life. Modern medicine improving quality. Modern medicine improving quality for individuals worldwide. Modern medicine revolutionizing healthcare practices. Modern medicine improving quality for individuals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Primitive forms of medical treatment were practiced in ancient civilizations.",
+    "retrieved_context": "modern medicine development of been has testament to ingenuity. has testament is In conclusion. modern medicine development of been In conclusion has testament. modern medicine development of been In conclusion has testament to ingenuity. modern medicine development of been has testament to human ingenuity. modern medicine development of been has testament. modern medicine development of been In conclusion has testament to human ingenuity. Modern medicine improving quality of life. Modern medicine improving quality. Modern medicine improving quality for individuals worldwide. Modern medicine revolutionizing healthcare practices. Modern medicine improving quality for individuals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Scientific discoveries and technological innovations have paved the way for sophisticated medical practices.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "One key development in modern medicine is the understanding of human anatomy and physiology.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The study of anatomy began to take shape during the Renaissance period.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Andreas Vesalius challenged traditional beliefs and conducted detailed dissections to understand the human body.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The discovery of germs and the development of germ theory by Louis Pasteur and Robert Koch marked a milestone in medicine.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The identification of specific microorganisms as the cause of diseases revolutionized medicine.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 20th century witnessed rapid advancements in medical technology.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The invention of the X-ray by Wilhelm Roentgen revolutionized medical imaging.",
+    "retrieved_context": "medical imaging invention by Wilhelm Roentgen. medical imaging invention of X-ray. medical imaging invention in 1895. imaging invention in 1895. imaging invention by Wilhelm Roentgen. imaging invention of X-ray.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The pharmaceutical industry has played a crucial role in the development of modern medicine.",
+    "retrieved_context": "pharmaceutical industry has also played role in development. pharmaceutical industry has played crucial role in development. pharmaceutical industry has also played crucial role. pharmaceutical industry has also played crucial role in development of modern medicine. pharmaceutical industry has played role in development of medicine. pharmaceutical industry has also played role in development of modern medicine. pharmaceutical industry has played role. crucial role is in development of modern medicine. pharmaceutical industry has played crucial role in development of medicine.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The discovery of penicillin by Alexander Fleming revolutionized the treatment of bacterial infections.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

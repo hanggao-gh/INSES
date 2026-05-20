@@ -1,0 +1,495 @@
+{
+  "entities": [
+    "accomplishment",
+    "achievement",
+    "acquiring",
+    "act",
+    "activity",
+    "adventure",
+    "antique furniture",
+    "appreciation",
+    "artists",
+    "artwork",
+    "assets",
+    "authenticity",
+    "behavior",
+    "behaviors",
+    "centuries",
+    "closure",
+    "coins",
+    "collectors",
+    "completion",
+    "complexity",
+    "concert memorabilia",
+    "conclusion",
+    "connecting",
+    "connection",
+    "connections",
+    "control",
+    "craftsmanship",
+    "detect",
+    "discovering",
+    "displaying",
+    "emotional connection",
+    "emotions",
+    "endeavor",
+    "environment",
+    "essay",
+    "experience",
+    "experiences",
+    "exploration",
+    "explore",
+    "financial security",
+    "fulfillment",
+    "future",
+    "gathering",
+    "goal",
+    "historical",
+    "history",
+    "hobbies",
+    "home",
+    "horizons",
+    "human nature",
+    "identity",
+    "individuality",
+    "individuals",
+    "inspiration",
+    "interests",
+    "investment",
+    "items",
+    "joy",
+    "like-minded individuals",
+    "lives",
+    "love",
+    "market trends",
+    "means",
+    "memories",
+    "milestone",
+    "moments",
+    "motivation",
+    "motivations",
+    "music",
+    "music enthusiast",
+    "nostalgia",
+    "novelty",
+    "objects",
+    "order",
+    "organizing",
+    "passions",
+    "past",
+    "people",
+    "personality",
+    "perspectives",
+    "places",
+    "predictability",
+    "preservation methods",
+    "preserving",
+    "prey",
+    "pride",
+    "process",
+    "psychological",
+    "psychological fulfillment",
+    "psychological perspective",
+    "psychologists",
+    "purpose",
+    "pursuit",
+    "rare books",
+    "rare coins",
+    "reasons",
+    "reflection",
+    "satisfaction",
+    "searching",
+    "self-esteem",
+    "self-expression",
+    "set",
+    "sharks",
+    "stability",
+    "stamps",
+    "stimulation",
+    "structure",
+    "tangible reminders",
+    "thrill",
+    "understand",
+    "unique piece",
+    "unity",
+    "value",
+    "values",
+    "variety",
+    "vintage cars",
+    "vintage memorabilia",
+    "vinyl records",
+    "wholeness",
+    "worth"
+  ],
+  "relations": [
+    [
+      "accomplishment",
+      "and",
+      "fulfillment"
+    ],
+    [
+      "act",
+      "reflection of",
+      "human nature"
+    ],
+    [
+      "antique furniture",
+      "appreciation for",
+      "craftsmanship"
+    ],
+    [
+      "antique furniture",
+      "appreciation for",
+      "history"
+    ],
+    [
+      "assets",
+      "worth",
+      "financial security"
+    ],
+    [
+      "collectors",
+      "amassing",
+      "variety"
+    ],
+    [
+      "collectors",
+      "have been",
+      "centuries"
+    ],
+    [
+      "completion",
+      "and",
+      "novelty"
+    ],
+    [
+      "complexity",
+      "of",
+      "activity"
+    ],
+    [
+      "connecting",
+      "with",
+      "like-minded individuals"
+    ],
+    [
+      "connection",
+      "to",
+      "past"
+    ],
+    [
+      "displaying",
+      "in",
+      "home"
+    ],
+    [
+      "emotional connection",
+      "form with",
+      "objects"
+    ],
+    [
+      "environment",
+      "predictability",
+      "stability"
+    ],
+    [
+      "essay",
+      "will explore",
+      "reasons"
+    ],
+    [
+      "experience",
+      "giving",
+      "achievement"
+    ],
+    [
+      "experience",
+      "giving",
+      "purpose"
+    ],
+    [
+      "experiences",
+      "adventure",
+      "exploration"
+    ],
+    [
+      "financial security",
+      "in",
+      "future"
+    ],
+    [
+      "historical",
+      "and",
+      "psychological"
+    ],
+    [
+      "hobbies",
+      "or",
+      "passions"
+    ],
+    [
+      "hobbies",
+      "or",
+      "values"
+    ],
+    [
+      "horizons",
+      "conclusion",
+      "connections"
+    ],
+    [
+      "identity",
+      "and",
+      "interests"
+    ],
+    [
+      "individuals",
+      "finding",
+      "joy"
+    ],
+    [
+      "individuals",
+      "finding",
+      "purpose"
+    ],
+    [
+      "individuals",
+      "finding",
+      "satisfaction"
+    ],
+    [
+      "investment",
+      "for",
+      "artwork"
+    ],
+    [
+      "investment",
+      "for",
+      "rare books"
+    ],
+    [
+      "investment",
+      "for",
+      "vintage cars"
+    ],
+    [
+      "items",
+      "hold",
+      "value"
+    ],
+    [
+      "love",
+      "for",
+      "music"
+    ],
+    [
+      "market trends",
+      "authenticity",
+      "preservation methods"
+    ],
+    [
+      "milestone",
+      "thrill",
+      "discovering"
+    ],
+    [
+      "motivation",
+      "and",
+      "inspiration"
+    ],
+    [
+      "music enthusiast",
+      "collect",
+      "concert memorabilia"
+    ],
+    [
+      "music enthusiast",
+      "collect",
+      "vinyl records"
+    ],
+    [
+      "nostalgia",
+      "and",
+      "connection"
+    ],
+    [
+      "nostalgia",
+      "self-expression",
+      "investment"
+    ],
+    [
+      "past",
+      "identity",
+      "passions"
+    ],
+    [
+      "personality",
+      "and",
+      "individuality"
+    ],
+    [
+      "perspectives",
+      "understand",
+      "motivations"
+    ],
+    [
+      "preserving",
+      "and",
+      "displaying"
+    ],
+    [
+      "pride",
+      "and",
+      "self-esteem"
+    ],
+    [
+      "process",
+      "satisfaction",
+      "wholeness"
+    ],
+    [
+      "psychological fulfillment",
+      "pursuit",
+      "pursuit"
+    ],
+    [
+      "psychological perspective",
+      "motivations",
+      "behaviors"
+    ],
+    [
+      "psychologists",
+      "have identified",
+      "control"
+    ],
+    [
+      "pursuit",
+      "in",
+      "gathering"
+    ],
+    [
+      "pursuit",
+      "in",
+      "organizing"
+    ],
+    [
+      "searching",
+      "for",
+      "acquiring"
+    ],
+    [
+      "self-expression",
+      "investment",
+      "fulfillment"
+    ],
+    [
+      "self-expression",
+      "means of",
+      "connecting"
+    ],
+    [
+      "set",
+      "of",
+      "rare coins"
+    ],
+    [
+      "stamps",
+      "such as",
+      "coins"
+    ],
+    [
+      "stamps",
+      "such as",
+      "vintage memorabilia"
+    ],
+    [
+      "stimulation",
+      "order",
+      "structure"
+    ],
+    [
+      "tangible reminders",
+      "of",
+      "emotions"
+    ],
+    [
+      "tangible reminders",
+      "of",
+      "lives"
+    ],
+    [
+      "tangible reminders",
+      "of",
+      "memories"
+    ],
+    [
+      "tangible reminders",
+      "of",
+      "moments"
+    ],
+    [
+      "tangible reminders",
+      "of",
+      "people"
+    ],
+    [
+      "tangible reminders",
+      "of",
+      "places"
+    ],
+    [
+      "unique piece",
+      "add to",
+      "pride"
+    ],
+    [
+      "unity",
+      "closure",
+      "goal"
+    ],
+    [
+      "value",
+      "endeavor",
+      "assets"
+    ]
+  ],
+  "edges": [
+    "add to",
+    "adventure",
+    "amassing",
+    "and",
+    "appreciation for",
+    "authenticity",
+    "closure",
+    "collect",
+    "conclusion",
+    "endeavor",
+    "finding",
+    "for",
+    "form with",
+    "giving",
+    "have been",
+    "have identified",
+    "hold",
+    "identity",
+    "in",
+    "investment",
+    "means of",
+    "motivations",
+    "of",
+    "or",
+    "order",
+    "predictability",
+    "pursuit",
+    "reflection of",
+    "satisfaction",
+    "self-expression",
+    "such as",
+    "thrill",
+    "to",
+    "understand",
+    "will explore",
+    "with",
+    "worth"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "entities": [
+    "RESISTANCE MACHINES",
+    "ASTRONAUTS",
+    "TREADMILLS",
+    "MAINTENANCE WORK",
+    "MICROGRAVITY",
+    "SPACE STATION",
+    "ASTRONAUT",
+    "SCIENTIFIC EXPERIMENTS",
+    "MISSION CONTROL",
+    "EARTH"
+  ],
+  "relations": [
+    [
+      "ASTRONAUT",
+      "Astronauts live and work on the space station, conducting daily tasks and experiments",
+      "SPACE STATION"
+    ],
+    [
+      "ASTRONAUT",
+      "Mission Control provides astronauts with daily instructions, coordinates their activities, and addresses any issues that arise",
+      "MISSION CONTROL"
+    ],
+    [
+      "ASTRONAUT",
+      "Astronauts conduct scientific experiments as part of their daily tasks on the space station",
+      "SCIENTIFIC EXPERIMENTS"
+    ],
+    [
+      "ASTRONAUT",
+      "Astronauts perform maintenance work on the space station's systems and equipment as part of their daily tasks",
+      "MAINTENANCE WORK"
+    ],
+    [
+      "ASTRONAUT",
+      "Astronauts marvel at the beauty of Earth from space, highlighting a unique relationship between them and the planet",
+      "EARTH"
+    ],
+    [
+      "SPACE STATION",
+      "Scientific experiments are conducted on the space station to take advantage of the microgravity conditions",
+      "SCIENTIFIC EXPERIMENTS"
+    ],
+    [
+      "SPACE STATION",
+      "Maintenance work is essential for the smooth operation and safety of the space station",
+      "MAINTENANCE WORK"
+    ],
+    [
+      "SPACE STATION",
+      "Astronauts perform their duties and live on the space station",
+      "ASTRONAUTS"
+    ],
+    [
+      "SPACE STATION",
+      "The space station orbits Earth, allowing astronauts to view it from space",
+      "EARTH"
+    ],
+    [
+      "SPACE STATION",
+      "Mission Control oversees the operations and well-being of the space station and its crew",
+      "MISSION CONTROL"
+    ],
+    [
+      "MISSION CONTROL",
+      "Astronauts have a final check-in with Mission Control before going to sleep",
+      "ASTRONAUTS"
+    ],
+    [
+      "MICROGRAVITY",
+      "Astronauts exercise to counteract the effects of microgravity",
+      "ASTRONAUTS"
+    ],
+    [
+      "ASTRONAUTS",
+      "Astronauts use treadmills as part of their daily exercise regimen",
+      "TREADMILLS"
+    ],
+    [
+      "ASTRONAUTS",
+      "Astronauts use resistance machines alongside treadmills for exercise",
+      "RESISTANCE MACHINES"
+    ]
+  ],
+  "edges": [
+    "Astronauts live and work on the space station, conducting daily tasks and experiments",
+    "Mission Control provides astronauts with daily instructions, coordinates their activities, and addresses any issues that arise",
+    "Astronauts conduct scientific experiments as part of their daily tasks on the space station",
+    "Astronauts perform maintenance work on the space station's systems and equipment as part of their daily tasks",
+    "Astronauts marvel at the beauty of Earth from space, highlighting a unique relationship between them and the planet",
+    "Scientific experiments are conducted on the space station to take advantage of the microgravity conditions",
+    "Maintenance work is essential for the smooth operation and safety of the space station",
+    "Astronauts perform their duties and live on the space station",
+    "The space station orbits Earth, allowing astronauts to view it from space",
+    "Mission Control oversees the operations and well-being of the space station and its crew",
+    "Astronauts have a final check-in with Mission Control before going to sleep",
+    "Astronauts exercise to counteract the effects of microgravity",
+    "Astronauts use treadmills as part of their daily exercise regimen",
+    "Astronauts use resistance machines alongside treadmills for exercise"
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "entities": [
+    "achievements",
+    "adult",
+    "appreciation",
+    "backgrounds",
+    "behaviors",
+    "beliefs",
+    "catalyst",
+    "celebrated",
+    "celebrates",
+    "challenge",
+    "change",
+    "classes",
+    "conclusion",
+    "connection",
+    "creating",
+    "critical",
+    "critics",
+    "cultural",
+    "culture",
+    "customs",
+    "detect",
+    "differences",
+    "diverse",
+    "diversity",
+    "dominant",
+    "drive",
+    "driving",
+    "dynamics",
+    "education",
+    "empathy",
+    "empowering",
+    "environment",
+    "equality",
+    "equitable",
+    "erasure",
+    "events",
+    "evolve",
+    "evolving",
+    "experiences",
+    "feared",
+    "foster",
+    "gender",
+    "generations",
+    "globalized",
+    "group",
+    "harmonious",
+    "hegemony",
+    "heritage",
+    "history",
+    "human",
+    "identity",
+    "imposed",
+    "inclusive",
+    "individuals",
+    "inequalities",
+    "influencing",
+    "innovation",
+    "institutions",
+    "just",
+    "knowledge",
+    "lives",
+    "marginalized",
+    "minority",
+    "multifaceted",
+    "narratives",
+    "norms",
+    "pave",
+    "people",
+    "perpetuate",
+    "perspectives",
+    "power",
+    "practices",
+    "preserving",
+    "prey",
+    "pride",
+    "prioritize",
+    "progress",
+    "question",
+    "recognizing",
+    "reinforce",
+    "representative",
+    "respect",
+    "rethink",
+    "richness",
+    "role",
+    "roles",
+    "roots",
+    "schools",
+    "shaping",
+    "shared",
+    "sharks",
+    "skills",
+    "social",
+    "society",
+    "students",
+    "systems",
+    "teachings",
+    "thinking",
+    "tolerance",
+    "tool",
+    "traditions",
+    "transforming",
+    "transmission",
+    "transmitting",
+    "understanding",
+    "values",
+    "voices",
+    "world",
+    "young"
+  ],
+  "relations": [
+    [
+      "critics",
+      "argue",
+      "hegemony"
+    ],
+    [
+      "cultural",
+      "values and norms are taught to",
+      "young"
+    ],
+    [
+      "culture",
+      "is constantly",
+      "evolving"
+    ],
+    [
+      "culture",
+      "is defined as",
+      "customs"
+    ],
+    [
+      "culture",
+      "is defined as",
+      "shared"
+    ],
+    [
+      "culture",
+      "is defined as",
+      "traditions"
+    ],
+    [
+      "culture",
+      "is passed down through",
+      "generations"
+    ],
+    [
+      "differences",
+      "are",
+      "celebrated"
+    ],
+    [
+      "differences",
+      "are not",
+      "feared"
+    ],
+    [
+      "dominant",
+      "values are",
+      "imposed"
+    ],
+    [
+      "education",
+      "acts as a tool in",
+      "preserving"
+    ],
+    [
+      "education",
+      "acts as a tool in",
+      "transforming"
+    ],
+    [
+      "education",
+      "advances",
+      "gender"
+    ],
+    [
+      "education",
+      "celebrates",
+      "diversity"
+    ],
+    [
+      "education",
+      "celebrates",
+      "richness"
+    ],
+    [
+      "education",
+      "challenges",
+      "norms"
+    ],
+    [
+      "education",
+      "challenges",
+      "roles"
+    ],
+    [
+      "education",
+      "contributes to",
+      "harmonious"
+    ],
+    [
+      "education",
+      "contributes to",
+      "inclusive"
+    ],
+    [
+      "education",
+      "drives",
+      "social"
+    ],
+    [
+      "education",
+      "empowers",
+      "question"
+    ],
+    [
+      "education",
+      "empowers",
+      "rethink"
+    ],
+    [
+      "education",
+      "encourages",
+      "empathy"
+    ],
+    [
+      "education",
+      "encourages",
+      "tolerance"
+    ],
+    [
+      "education",
+      "equips with",
+      "critical"
+    ],
+    [
+      "education",
+      "equips with",
+      "skills"
+    ],
+    [
+      "education",
+      "fosters",
+      "appreciation"
+    ],
+    [
+      "education",
+      "fosters",
+      "diverse"
+    ],
+    [
+      "education",
+      "fosters",
+      "equitable"
+    ],
+    [
+      "education",
+      "fosters",
+      "just"
+    ],
+    [
+      "education",
+      "fosters",
+      "respect"
+    ],
+    [
+      "education",
+      "influences",
+      "behaviors"
+    ],
+    [
+      "education",
+      "influences",
+      "beliefs"
+    ],
+    [
+      "education",
+      "influences",
+      "values"
+    ],
+    [
+      "education",
+      "is a catalyst for",
+      "change"
+    ],
+    [
+      "education",
+      "is a catalyst for",
+      "innovation"
+    ],
+    [
+      "education",
+      "paves the way for",
+      "equitable"
+    ],
+    [
+      "education",
+      "plays a crucial role in",
+      "shaping"
+    ],
+    [
+      "education",
+      "promotes",
+      "diversity"
+    ],
+    [
+      "education",
+      "provides",
+      "knowledge"
+    ],
+    [
+      "education",
+      "provides",
+      "understanding"
+    ],
+    [
+      "education",
+      "pushes for",
+      "progress"
+    ],
+    [
+      "education",
+      "shapes",
+      "transmission"
+    ],
+    [
+      "education",
+      "should be",
+      "empowering"
+    ],
+    [
+      "education",
+      "should be",
+      "inclusive"
+    ],
+    [
+      "education",
+      "should be",
+      "representative"
+    ],
+    [
+      "erasure",
+      "affects",
+      "minority"
+    ],
+    [
+      "erasure",
+      "affects",
+      "perspectives"
+    ],
+    [
+      "erasure",
+      "affects",
+      "voices"
+    ],
+    [
+      "erasure",
+      "perpetuates",
+      "inequalities"
+    ],
+    [
+      "erasure",
+      "reinforces",
+      "power"
+    ],
+    [
+      "history",
+      "covers",
+      "achievements"
+    ],
+    [
+      "history",
+      "covers",
+      "events"
+    ],
+    [
+      "history",
+      "instills",
+      "identity"
+    ],
+    [
+      "history",
+      "instills",
+      "pride"
+    ],
+    [
+      "individuals",
+      "develop a connection to",
+      "roots"
+    ],
+    [
+      "narratives",
+      "lead to",
+      "erasure"
+    ],
+    [
+      "schools",
+      "serve as",
+      "institutions"
+    ],
+    [
+      "students",
+      "learn about",
+      "heritage"
+    ],
+    [
+      "systems",
+      "prioritize",
+      "narratives"
+    ],
+    [
+      "young",
+      "carry teachings into",
+      "adult"
+    ]
+  ],
+  "edges": [
+    "acts as a tool in",
+    "advances",
+    "affects",
+    "are",
+    "are not",
+    "argue",
+    "carry teachings into",
+    "celebrates",
+    "challenges",
+    "contributes to",
+    "covers",
+    "develop a connection to",
+    "drives",
+    "empowers",
+    "encourages",
+    "equips with",
+    "fosters",
+    "influences",
+    "instills",
+    "is a catalyst for",
+    "is constantly",
+    "is defined as",
+    "is passed down through",
+    "lead to",
+    "learn about",
+    "paves the way for",
+    "perpetuates",
+    "plays a crucial role in",
+    "prioritize",
+    "promotes",
+    "provides",
+    "pushes for",
+    "reinforces",
+    "serve as",
+    "shapes",
+    "should be",
+    "values and norms are taught to",
+    "values are"
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "entities": [
+    "air",
+    "air currents",
+    "altitudes",
+    "appearance",
+    "appreciation",
+    "beauty",
+    "cirrus",
+    "clear",
+    "clouds",
+    "cold",
+    "complexity",
+    "composed",
+    "conclusion",
+    "condense",
+    "cumulonimbus",
+    "cumulus",
+    "delicate",
+    "detect",
+    "developed",
+    "dew point",
+    "differences",
+    "droplets",
+    "dry",
+    "earth's surface",
+    "essay",
+    "explore",
+    "factors",
+    "fair",
+    "fluffy",
+    "formation",
+    "gently",
+    "gradual",
+    "gray",
+    "ground",
+    "heavy rain",
+    "high",
+    "humidity",
+    "ice crystals",
+    "interaction",
+    "layers",
+    "light rain",
+    "low-lying",
+    "mare's tails",
+    "mechanism",
+    "natural world",
+    "overcast",
+    "phenomenon",
+    "prey",
+    "process",
+    "quickly",
+    "rapidly",
+    "rays",
+    "saturation",
+    "sharks",
+    "significant",
+    "sky",
+    "slowly",
+    "stratus",
+    "sun",
+    "sunny",
+    "surface",
+    "temperature",
+    "thin",
+    "thunderstorms",
+    "transforms",
+    "uniform",
+    "vertically",
+    "visible",
+    "warming",
+    "water vapor",
+    "weather",
+    "white",
+    "wispy"
+  ],
+  "relations": [
+    [
+      "air",
+      "becomes saturated with",
+      "water vapor"
+    ],
+    [
+      "air",
+      "encounter",
+      "layers"
+    ],
+    [
+      "air",
+      "is",
+      "cold"
+    ],
+    [
+      "air",
+      "is",
+      "dry"
+    ],
+    [
+      "air",
+      "near",
+      "surface"
+    ],
+    [
+      "air",
+      "rises and cools",
+      "condense"
+    ],
+    [
+      "air",
+      "rises and cools",
+      "dew point"
+    ],
+    [
+      "air currents",
+      "play",
+      "significant"
+    ],
+    [
+      "air currents",
+      "play a role in",
+      "formation"
+    ],
+    [
+      "appreciation",
+      "for",
+      "beauty"
+    ],
+    [
+      "appreciation",
+      "for",
+      "complexity"
+    ],
+    [
+      "appreciation",
+      "of",
+      "natural world"
+    ],
+    [
+      "cirrus",
+      "are",
+      "delicate"
+    ],
+    [
+      "cirrus",
+      "are",
+      "high"
+    ],
+    [
+      "cirrus",
+      "are",
+      "thin"
+    ],
+    [
+      "cirrus",
+      "are",
+      "wispy"
+    ],
+    [
+      "cirrus",
+      "composed of",
+      "ice crystals"
+    ],
+    [
+      "cirrus",
+      "form at",
+      "altitudes"
+    ],
+    [
+      "cirrus",
+      "referred to as",
+      "mare's tails"
+    ],
+    [
+      "cirrus",
+      "seen in",
+      "clear"
+    ],
+    [
+      "clouds",
+      "are",
+      "phenomenon"
+    ],
+    [
+      "clouds",
+      "are formed through",
+      "process"
+    ],
+    [
+      "clouds",
+      "can be observed in",
+      "sky"
+    ],
+    [
+      "clouds",
+      "form through",
+      "process"
+    ],
+    [
+      "clouds",
+      "observed in",
+      "sky"
+    ],
+    [
+      "condense",
+      "of",
+      "water vapor"
+    ],
+    [
+      "cumulonimbus",
+      "bring",
+      "heavy rain"
+    ],
+    [
+      "cumulonimbus",
+      "bring",
+      "thunderstorms"
+    ],
+    [
+      "cumulus",
+      "are",
+      "fluffy"
+    ],
+    [
+      "cumulus",
+      "are",
+      "white"
+    ],
+    [
+      "cumulus",
+      "associated with",
+      "fair"
+    ],
+    [
+      "cumulus",
+      "develop into",
+      "vertically"
+    ],
+    [
+      "cumulus",
+      "form when",
+      "quickly"
+    ],
+    [
+      "cumulus",
+      "form when",
+      "rapidly"
+    ],
+    [
+      "cumulus",
+      "seen on",
+      "sunny"
+    ],
+    [
+      "dew point",
+      "is",
+      "temperature"
+    ],
+    [
+      "differences",
+      "in",
+      "humidity"
+    ],
+    [
+      "differences",
+      "in",
+      "temperature"
+    ],
+    [
+      "differences",
+      "lead to",
+      "formation"
+    ],
+    [
+      "essay",
+      "explore",
+      "formation"
+    ],
+    [
+      "factors",
+      "such as",
+      "air currents"
+    ],
+    [
+      "factors",
+      "such as",
+      "humidity"
+    ],
+    [
+      "factors",
+      "such as",
+      "temperature"
+    ],
+    [
+      "formation",
+      "influencing",
+      "clouds"
+    ],
+    [
+      "formation",
+      "of",
+      "cirrus"
+    ],
+    [
+      "formation",
+      "of",
+      "cumulus"
+    ],
+    [
+      "formation",
+      "of",
+      "stratus"
+    ],
+    [
+      "ground",
+      "warms up",
+      "air"
+    ],
+    [
+      "humidity",
+      "play a role in",
+      "formation"
+    ],
+    [
+      "interaction",
+      "of",
+      "factors"
+    ],
+    [
+      "layers",
+      "with",
+      "differences"
+    ],
+    [
+      "mare's tails",
+      "due to",
+      "appearance"
+    ],
+    [
+      "mechanism",
+      "transforms",
+      "water vapor"
+    ],
+    [
+      "process",
+      "involving",
+      "interaction"
+    ],
+    [
+      "process",
+      "is",
+      "mechanism"
+    ],
+    [
+      "process",
+      "occurs when",
+      "air"
+    ],
+    [
+      "stratus",
+      "are",
+      "low-lying"
+    ],
+    [
+      "stratus",
+      "are often",
+      "gray"
+    ],
+    [
+      "stratus",
+      "bring",
+      "light rain"
+    ],
+    [
+      "stratus",
+      "bring",
+      "overcast"
+    ],
+    [
+      "stratus",
+      "cools",
+      "slowly"
+    ],
+    [
+      "stratus",
+      "form in",
+      "uniform"
+    ],
+    [
+      "stratus",
+      "leading to",
+      "gradual"
+    ],
+    [
+      "stratus",
+      "lifted",
+      "gently"
+    ],
+    [
+      "sun",
+      "heats",
+      "ground"
+    ],
+    [
+      "temperature",
+      "play a role in",
+      "formation"
+    ],
+    [
+      "warming",
+      "of",
+      "earth's surface"
+    ],
+    [
+      "water vapor",
+      "condense into",
+      "droplets"
+    ],
+    [
+      "water vapor",
+      "condense into",
+      "ice crystals"
+    ],
+    [
+      "water vapor",
+      "into",
+      "droplets"
+    ],
+    [
+      "water vapor",
+      "transforms into",
+      "visible"
+    ]
+  ],
+  "edges": [
+    "are",
+    "are formed through",
+    "are often",
+    "associated with",
+    "becomes saturated with",
+    "bring",
+    "can be observed in",
+    "composed of",
+    "condense into",
+    "cools",
+    "develop into",
+    "due to",
+    "encounter",
+    "explore",
+    "for",
+    "form at",
+    "form in",
+    "form through",
+    "form when",
+    "heats",
+    "in",
+    "influencing",
+    "into",
+    "involving",
+    "is",
+    "lead to",
+    "leading to",
+    "lifted",
+    "near",
+    "observed in",
+    "occurs when",
+    "of",
+    "play",
+    "play a role in",
+    "referred to as",
+    "rises and cools",
+    "seen in",
+    "seen on",
+    "such as",
+    "transforms",
+    "transforms into",
+    "warms up",
+    "with"
+  ]
+}

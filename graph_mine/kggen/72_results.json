@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Climate change impacts animals' habitats.",
+    "retrieved_context": "extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Animals are forced to adapt or migrate due to changing ecosystems.",
+    "retrieved_context": "extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Polar bears are losing sea ice in the Arctic due to warming temperatures.",
+    "retrieved_context": "distances leading to reproductive success. polar bears facing loss. distances leading to stress. polar bears travel distances. sea ice melts warming temperatures. extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals. winters allow fungus. coral bleaching reduces fish. ocean temperatures causing coral bleaching. weather patterns become challenges. global temperatures rise weather patterns.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Warmer ocean temperatures cause coral bleaching, affecting fish populations.",
+    "retrieved_context": "fish rely on coral reefs. coral bleaching reduces fish. coral bleaching reduces fish. ocean temperatures causing coral bleaching. coral reefs provide shelter. coral reefs provide food. fish rely on coral reefs. coral reefs provide shelter. coral reefs provide food. extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals. weather patterns become challenges. global temperatures rise weather patterns.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Extreme weather events like wildfires can destroy animal habitats.",
+    "retrieved_context": "wildfires ravaged australia. wildfires decimated koalas. koalas pushed brink. wildfires decimated wildlife. extreme weather events have devastating effects. extreme weather events include droughts. extreme weather events include hurricanes. devastating effects impact animal populations. wildfires ravaged australia. devastating effects displace animals. wildfires decimated wildlife. extreme weather events include wildfires. wildfires decimated koalas. devastating effects impact habitats. devastating effects reduce access. devastating effects impact animal populations. devastating effects displace animals. devastating effects impact habitats. devastating effects reduce access.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wildfires in Australia have decimated koala populations.",
+    "retrieved_context": "koalas pushed brink. wildfires ravaged australia. wildfires decimated koalas. koalas pushed brink. wildfires decimated wildlife.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Climate change can lead to the spread of diseases among animals.",
+    "retrieved_context": "extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "White-nose syndrome in bats is linked to climate change.",
+    "retrieved_context": "white-nose syndrome affects bats. extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals. winters allow fungus.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Animals are shifting their ranges due to climate change.",
+    "retrieved_context": "extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals. breeding seasons alter environmental conditions. winters allow fungus. weather patterns become challenges. challenges pushing extinction.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some species are altering their breeding seasons in response to environmental changes.",
+    "retrieved_context": "breeding seasons alter environmental conditions. extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals. winters allow fungus. weather patterns become challenges. challenges pushing extinction.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change threatens the survival of many animal species.",
+    "retrieved_context": "extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Urgent action is needed to protect biodiversity from climate change.",
+    "retrieved_context": "extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals. conservation organizations reduce greenhouse gas emissions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Governments, conservation organizations, and individuals all have a role in addressing climate change impacts on animals.",
+    "retrieved_context": "extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals. conservation organizations reduce greenhouse gas emissions.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Climate change puts pressure on animal populations worldwide.",
+    "retrieved_context": "extreme weather events have devastating effects. spread linked to parasites. climate change impacts well-being. extreme weather events include wildfires. climate change impacts habitats. climate change affects reproductive patterns. extreme weather events include hurricanes. climate change leading to extreme weather events. climate change threatens survival. climate change causes loss. climate change poses threat. climate change disrupting natural cycles. climate change affects behavior. extreme weather events include droughts. climate change causes food. spread linked to diseases. climate change impacts food sources. climate change causes spread. climate change impacts animals. weather patterns become challenges. global temperatures rise weather patterns.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Action is necessary to ensure a sustainable future for all living creatures on Earth.",
+    "retrieved_context": "organisms cause outbreaks.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "53.33%"
+  }
+]

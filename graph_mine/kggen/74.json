@@ -1,0 +1,472 @@
+{
+  "entities": [
+    "aircraft",
+    "allure",
+    "area",
+    "bermuda",
+    "bermuda triangle",
+    "boundaries",
+    "bubbles",
+    "buoyancy",
+    "circumstances",
+    "compass malfunctions",
+    "crew members",
+    "decades",
+    "december 1945",
+    "detect",
+    "devil's triangle",
+    "disappearances",
+    "disappeared",
+    "disorientation",
+    "distress call",
+    "enigma",
+    "enthusiasts",
+    "events",
+    "evidence",
+    "existence",
+    "extraterrestrial involvement",
+    "flight 19",
+    "human error",
+    "imagination",
+    "incident",
+    "incidents",
+    "infamous",
+    "intrigue",
+    "investigations",
+    "load",
+    "magnetic anomalies",
+    "manganese ore",
+    "march 1918",
+    "methane gas",
+    "methane hydrate destabilization",
+    "miami",
+    "modern era",
+    "mysteries",
+    "mysterious",
+    "mystery",
+    "natural phenomena",
+    "navigation systems",
+    "north atlantic ocean",
+    "otherworldly",
+    "people",
+    "phenomena",
+    "pilots",
+    "prey",
+    "puerto rico",
+    "region",
+    "rescue missions",
+    "rescue plane",
+    "researchers",
+    "rogue waves",
+    "sailors",
+    "scientific explanations",
+    "scientists",
+    "seafloor",
+    "search",
+    "secrets",
+    "sharks",
+    "ships",
+    "sink",
+    "sources",
+    "squadron",
+    "storms",
+    "supernatural forces",
+    "theories",
+    "trace",
+    "tragedy",
+    "training flight",
+    "truth",
+    "u.s. navy bombers",
+    "u.s. navy cargo ship",
+    "underwater alien bases",
+    "unpredictable weather patterns",
+    "unsolved",
+    "uss cyclops",
+    "weather conditions",
+    "wreckage"
+  ],
+  "relations": [
+    [
+      "aircraft",
+      "and their",
+      "crew members"
+    ],
+    [
+      "aircraft",
+      "are said to have",
+      "disappeared"
+    ],
+    [
+      "bermuda triangle",
+      "also known as",
+      "devil's triangle"
+    ],
+    [
+      "bermuda triangle",
+      "believed to be between",
+      "bermuda"
+    ],
+    [
+      "bermuda triangle",
+      "believed to be between",
+      "miami"
+    ],
+    [
+      "bermuda triangle",
+      "believed to be between",
+      "puerto rico"
+    ],
+    [
+      "bermuda triangle",
+      "boundaries vary depending on",
+      "sources"
+    ],
+    [
+      "bermuda triangle",
+      "boundaries vary depending on",
+      "theories"
+    ],
+    [
+      "bermuda triangle",
+      "continues to be a source of",
+      "intrigue"
+    ],
+    [
+      "bermuda triangle",
+      "continues to be a source of",
+      "mystery"
+    ],
+    [
+      "bermuda triangle",
+      "continues to captivate",
+      "secrets"
+    ],
+    [
+      "bermuda triangle",
+      "is a",
+      "region"
+    ],
+    [
+      "bermuda triangle",
+      "is an",
+      "area"
+    ],
+    [
+      "bermuda triangle",
+      "is an",
+      "infamous"
+    ],
+    [
+      "bermuda triangle",
+      "remains one of the",
+      "mysteries"
+    ],
+    [
+      "bubbles",
+      "causing ships to lose",
+      "buoyancy"
+    ],
+    [
+      "buoyancy",
+      "and",
+      "sink"
+    ],
+    [
+      "compass malfunctions",
+      "and",
+      "disorientation"
+    ],
+    [
+      "crew members",
+      "were never",
+      "trace"
+    ],
+    [
+      "disappeared",
+      "under",
+      "mysterious"
+    ],
+    [
+      "disorientation",
+      "among",
+      "pilots"
+    ],
+    [
+      "disorientation",
+      "among",
+      "sailors"
+    ],
+    [
+      "enigma",
+      "adding to the",
+      "allure"
+    ],
+    [
+      "enigma",
+      "adding to the",
+      "intrigue"
+    ],
+    [
+      "enigma",
+      "remains",
+      "unsolved"
+    ],
+    [
+      "evidence",
+      "lack of",
+      "incidents"
+    ],
+    [
+      "flight 19",
+      "is a",
+      "squadron"
+    ],
+    [
+      "load",
+      "of",
+      "manganese ore"
+    ],
+    [
+      "magnetic anomalies",
+      "interfere with",
+      "navigation systems"
+    ],
+    [
+      "magnetic anomalies",
+      "leading to",
+      "compass malfunctions"
+    ],
+    [
+      "methane gas",
+      "released in",
+      "bubbles"
+    ],
+    [
+      "methane gas",
+      "trapped beneath the",
+      "seafloor"
+    ],
+    [
+      "methane hydrate destabilization",
+      "is a",
+      "phenomena"
+    ],
+    [
+      "methane hydrate destabilization",
+      "suggested as",
+      "existence"
+    ],
+    [
+      "mysteries",
+      "of the",
+      "modern era"
+    ],
+    [
+      "mystery",
+      "captured the",
+      "imagination"
+    ],
+    [
+      "mystery",
+      "captured the imagination for",
+      "decades"
+    ],
+    [
+      "mystery",
+      "captured the imagination of",
+      "people"
+    ],
+    [
+      "phenomena",
+      "in the",
+      "bermuda triangle"
+    ],
+    [
+      "region",
+      "in the",
+      "north atlantic ocean"
+    ],
+    [
+      "region",
+      "known for",
+      "unpredictable weather patterns"
+    ],
+    [
+      "rescue missions",
+      "ended in",
+      "tragedy"
+    ],
+    [
+      "rescue plane",
+      "disappearing without a",
+      "trace"
+    ],
+    [
+      "researchers",
+      "and",
+      "enthusiasts"
+    ],
+    [
+      "researchers",
+      "and",
+      "scientists"
+    ],
+    [
+      "scientific explanations",
+      "for the",
+      "phenomena"
+    ],
+    [
+      "search",
+      "and",
+      "rescue missions"
+    ],
+    [
+      "ships",
+      "are said to have",
+      "disappeared"
+    ],
+    [
+      "squadron",
+      "of",
+      "u.s. navy bombers"
+    ],
+    [
+      "squadron",
+      "vanished during",
+      "training flight"
+    ],
+    [
+      "theories",
+      "about the",
+      "bermuda triangle"
+    ],
+    [
+      "theories",
+      "suggesting",
+      "extraterrestrial involvement"
+    ],
+    [
+      "theories",
+      "suggesting",
+      "supernatural forces"
+    ],
+    [
+      "theories",
+      "suggesting",
+      "underwater alien bases"
+    ],
+    [
+      "training flight",
+      "in",
+      "december 1945"
+    ],
+    [
+      "truth",
+      "lies in",
+      "human error"
+    ],
+    [
+      "truth",
+      "lies in",
+      "natural phenomena"
+    ],
+    [
+      "truth",
+      "lies in",
+      "otherworldly"
+    ],
+    [
+      "u.s. navy cargo ship",
+      "carrying a full",
+      "load"
+    ],
+    [
+      "u.s. navy cargo ship",
+      "presumed to have sunk due to",
+      "weather conditions"
+    ],
+    [
+      "u.s. navy cargo ship",
+      "went missing in",
+      "march 1918"
+    ],
+    [
+      "u.s. navy cargo ship",
+      "with",
+      "people"
+    ],
+    [
+      "unpredictable weather patterns",
+      "including",
+      "rogue waves"
+    ],
+    [
+      "unpredictable weather patterns",
+      "including",
+      "storms"
+    ],
+    [
+      "uss cyclops",
+      "is a",
+      "u.s. navy cargo ship"
+    ],
+    [
+      "wreckage",
+      "or",
+      "distress call"
+    ],
+    [
+      "wreckage",
+      "was ever",
+      "trace"
+    ]
+  ],
+  "edges": [
+    "about the",
+    "adding to the",
+    "also known as",
+    "among",
+    "and",
+    "and their",
+    "are said to have",
+    "believed to be between",
+    "boundaries vary depending on",
+    "captured the",
+    "captured the imagination for",
+    "captured the imagination of",
+    "carrying a full",
+    "causing ships to lose",
+    "continues to be a source of",
+    "continues to captivate",
+    "disappearing without a",
+    "ended in",
+    "for the",
+    "in",
+    "in the",
+    "including",
+    "interfere with",
+    "is a",
+    "is an",
+    "known for",
+    "lack of",
+    "leading to",
+    "lies in",
+    "of",
+    "of the",
+    "or",
+    "presumed to have sunk due to",
+    "released in",
+    "remains",
+    "remains one of the",
+    "suggested as",
+    "suggesting",
+    "trapped beneath the",
+    "under",
+    "vanished during",
+    "was ever",
+    "went missing in",
+    "were never",
+    "with"
+  ]
+}

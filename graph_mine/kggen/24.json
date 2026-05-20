@@ -1,0 +1,479 @@
+{
+  "entities": [
+    "activities",
+    "astronaut",
+    "ballet",
+    "beauty",
+    "bed",
+    "board games",
+    "bone loss",
+    "books",
+    "boundaries",
+    "breakfast",
+    "breaks",
+    "challenges",
+    "challenging",
+    "check-in",
+    "checks",
+    "chores",
+    "cleaning",
+    "conclusion",
+    "condition",
+    "crew",
+    "crewmates",
+    "day",
+    "dedication",
+    "discovery",
+    "downtime",
+    "dream",
+    "earth",
+    "effects",
+    "encounter",
+    "equipment",
+    "essay",
+    "evening",
+    "exciting",
+    "exercise",
+    "exertion",
+    "experiences",
+    "experiments",
+    "exploration",
+    "functioning",
+    "hardships",
+    "health",
+    "history",
+    "human body",
+    "individuals",
+    "instructions",
+    "intelligence",
+    "issues",
+    "knowledge",
+    "life",
+    "living",
+    "living quarters",
+    "maintenance",
+    "maintenance work",
+    "meals",
+    "mental well-being",
+    "microgravity",
+    "mission control",
+    "mission objectives",
+    "missions",
+    "morale",
+    "morning briefing",
+    "movies",
+    "muscle",
+    "mysteries",
+    "operation",
+    "opportunity",
+    "passion",
+    "perspective",
+    "physical fitness",
+    "profession",
+    "reflection",
+    "regimen",
+    "relaxation",
+    "report",
+    "research",
+    "resilience",
+    "routine",
+    "sacrifices",
+    "schedule",
+    "scientific experiments",
+    "skills",
+    "sleeping bags",
+    "sleeping quarters",
+    "socialize",
+    "space exploration",
+    "space station",
+    "systems",
+    "tasks",
+    "universe",
+    "views",
+    "walls",
+    "well-being",
+    "wonders",
+    "work assignments",
+    "working"
+  ],
+  "relations": [
+    [
+      "astronaut",
+      "has",
+      "breaks"
+    ],
+    [
+      "astronaut",
+      "is a dream for",
+      "individuals"
+    ],
+    [
+      "astronaut",
+      "maintains",
+      "regimen"
+    ],
+    [
+      "astronaut",
+      "performs",
+      "chores"
+    ],
+    [
+      "astronaut",
+      "reads",
+      "books"
+    ],
+    [
+      "astronaut",
+      "socializes with",
+      "crewmates"
+    ],
+    [
+      "astronaut",
+      "views",
+      "earth"
+    ],
+    [
+      "astronaut",
+      "watches",
+      "movies"
+    ],
+    [
+      "breaks",
+      "are for",
+      "relaxation"
+    ],
+    [
+      "chores",
+      "ensure",
+      "functioning"
+    ],
+    [
+      "chores",
+      "ensure",
+      "health"
+    ],
+    [
+      "chores",
+      "ensure",
+      "well-being"
+    ],
+    [
+      "chores",
+      "include",
+      "checks"
+    ],
+    [
+      "chores",
+      "include",
+      "cleaning"
+    ],
+    [
+      "chores",
+      "include",
+      "meals"
+    ],
+    [
+      "crew",
+      "addresses",
+      "issues"
+    ],
+    [
+      "crew",
+      "has",
+      "breakfast"
+    ],
+    [
+      "crew",
+      "receives",
+      "instructions"
+    ],
+    [
+      "crew",
+      "starts",
+      "work assignments"
+    ],
+    [
+      "day",
+      "begins with",
+      "morning briefing"
+    ],
+    [
+      "day",
+      "involves",
+      "discovery"
+    ],
+    [
+      "day",
+      "involves",
+      "exertion"
+    ],
+    [
+      "day",
+      "involves",
+      "reflection"
+    ],
+    [
+      "day",
+      "is a",
+      "ballet"
+    ],
+    [
+      "day",
+      "is a",
+      "profession"
+    ],
+    [
+      "day",
+      "is filled with",
+      "tasks"
+    ],
+    [
+      "day",
+      "offers",
+      "perspective"
+    ],
+    [
+      "day",
+      "reveals",
+      "wonders"
+    ],
+    [
+      "day",
+      "tests",
+      "resilience"
+    ],
+    [
+      "day",
+      "tests",
+      "skills"
+    ],
+    [
+      "downtime",
+      "maintains",
+      "mental well-being"
+    ],
+    [
+      "downtime",
+      "maintains",
+      "morale"
+    ],
+    [
+      "effects",
+      "are on the",
+      "human body"
+    ],
+    [
+      "effects",
+      "include",
+      "bone loss"
+    ],
+    [
+      "effects",
+      "include",
+      "muscle"
+    ],
+    [
+      "exercise",
+      "counteracts",
+      "effects"
+    ],
+    [
+      "exercise",
+      "is important for",
+      "astronaut"
+    ],
+    [
+      "individuals",
+      "are fascinated by",
+      "space exploration"
+    ],
+    [
+      "life",
+      "is",
+      "challenging"
+    ],
+    [
+      "life",
+      "is",
+      "exciting"
+    ],
+    [
+      "life",
+      "of an",
+      "astronaut"
+    ],
+    [
+      "life",
+      "requires",
+      "dedication"
+    ],
+    [
+      "life",
+      "requires",
+      "intelligence"
+    ],
+    [
+      "life",
+      "requires",
+      "physical fitness"
+    ],
+    [
+      "maintenance work",
+      "is on the",
+      "space station"
+    ],
+    [
+      "missions",
+      "are",
+      "challenging"
+    ],
+    [
+      "missions",
+      "expand",
+      "knowledge"
+    ],
+    [
+      "missions",
+      "involve",
+      "beauty"
+    ],
+    [
+      "missions",
+      "involve",
+      "hardships"
+    ],
+    [
+      "missions",
+      "involve",
+      "research"
+    ],
+    [
+      "missions",
+      "involve",
+      "sacrifices"
+    ],
+    [
+      "missions",
+      "offer",
+      "experiences"
+    ],
+    [
+      "missions",
+      "offer",
+      "opportunity"
+    ],
+    [
+      "missions",
+      "push",
+      "boundaries"
+    ],
+    [
+      "missions",
+      "require",
+      "exploration"
+    ],
+    [
+      "missions",
+      "require",
+      "passion"
+    ],
+    [
+      "morning briefing",
+      "addresses",
+      "issues"
+    ],
+    [
+      "morning briefing",
+      "discusses",
+      "activities"
+    ],
+    [
+      "morning briefing",
+      "is with",
+      "crew"
+    ],
+    [
+      "morning briefing",
+      "reviews",
+      "instructions"
+    ],
+    [
+      "mysteries",
+      "are of the",
+      "universe"
+    ],
+    [
+      "space exploration",
+      "involves",
+      "mysteries"
+    ],
+    [
+      "tasks",
+      "include",
+      "maintenance work"
+    ],
+    [
+      "tasks",
+      "range from",
+      "scientific experiments"
+    ],
+    [
+      "work assignments",
+      "depend on",
+      "mission objectives"
+    ],
+    [
+      "work assignments",
+      "include",
+      "experiments"
+    ],
+    [
+      "work assignments",
+      "include",
+      "maintenance"
+    ]
+  ],
+  "edges": [
+    "addresses",
+    "are",
+    "are fascinated by",
+    "are for",
+    "are of the",
+    "are on the",
+    "begins with",
+    "counteracts",
+    "depend on",
+    "discusses",
+    "ensure",
+    "expand",
+    "has",
+    "include",
+    "involve",
+    "involves",
+    "is",
+    "is a",
+    "is a dream for",
+    "is filled with",
+    "is important for",
+    "is on the",
+    "is with",
+    "maintains",
+    "of an",
+    "offer",
+    "offers",
+    "performs",
+    "push",
+    "range from",
+    "reads",
+    "receives",
+    "require",
+    "requires",
+    "reveals",
+    "reviews",
+    "socializes with",
+    "starts",
+    "tests",
+    "views",
+    "watches"
+  ]
+}

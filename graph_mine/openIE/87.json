@@ -1,0 +1,1352 @@
+{
+    "entities": [
+        "businesses",
+        "growing fear",
+        "vehicles",
+        "technological advancements",
+        "datasets",
+        "advance",
+        "tools",
+        "valuable insights",
+        "increasingly capable of tasks",
+        "legal research",
+        "large datasets",
+        "virtual assistants",
+        "abilities",
+        "pace",
+        "repetitive jobs",
+        "advance at pace",
+        "various industries",
+        "job insecurity",
+        "significant changes",
+        "increasingly capable of performing tasks",
+        "new job opportunities",
+        "essential",
+        "addition",
+        "Artificial intelligence",
+        "automation of tasks resulting in creation",
+        "human capabilities",
+        "designing complex systems",
+        "automation of tasks",
+        "autonomous vehicles",
+        "problem solving abilities",
+        "As AI technologies continue",
+        "employment",
+        "stakeholders collaborate",
+        "research",
+        "to advance",
+        "workers",
+        "automation of tasks resulting",
+        "strategies",
+        "way",
+        "issue",
+        "human skills",
+        "important",
+        "conclusion",
+        "stakeholders",
+        "diseases",
+        "its potential",
+        "skills needed",
+        "its impact",
+        "sectors such manufacturing",
+        "complex issue",
+        "solving abilities",
+        "their productivity",
+        "equipped",
+        "tasks",
+        "automation resulting in creation of industries",
+        "concerns",
+        "history",
+        "potential",
+        "potential benefits",
+        "advance at rapid pace",
+        "machines",
+        "capable of tasks",
+        "automation resulting in creation",
+        "capacity",
+        "job opportunities",
+        "productivity",
+        "legitimate concerns",
+        "automation of various tasks resulting",
+        "AI technologies continue",
+        "integration",
+        "example",
+        "certain jobs",
+        "performing tasks",
+        "for stakeholders collaborate",
+        "automation resulting",
+        "expertise",
+        "benefits",
+        "their productivity leading to outcomes",
+        "robots",
+        "their productivity leading to outcomes for businesses",
+        "shared equitably",
+        "growth",
+        "powered machines",
+        "automation of various tasks resulting in creation",
+        "truck drivers",
+        "policymakers",
+        "widespread",
+        "safety",
+        "potential benefits of AI",
+        "In conclusion complex issue",
+        "chatbots",
+        "decisions",
+        "for stakeholders to collaborate",
+        "automation",
+        "capable of performing tasks",
+        "shared equitably among workers as whole",
+        "informed decisions",
+        "their productivity leading to better outcomes",
+        "potential benefits of AI in workforce",
+        "it",
+        "capable",
+        "automation of tasks resulting in creation of industries",
+        "help lawyers",
+        "support engineers",
+        "jobs",
+        "powered tools",
+        "economic growth",
+        "to advance at rapid pace",
+        "workforce",
+        "creativity",
+        "increasingly capable",
+        "displacement",
+        "automation of various tasks resulting in creation of new industries",
+        "crucial",
+        "processes",
+        "we",
+        "rapid pace",
+        "artificial intelligence",
+        "workplace safety",
+        "However important",
+        "potential benefits in workforce",
+        "human workers",
+        "shared among workers as whole",
+        "more widespread",
+        "diagnosing diseases",
+        "automation of tasks resulting in creation of new industries",
+        "job displacement",
+        "their productivity leading",
+        "stakeholders to collaborate",
+        "insights",
+        "widespread job displacement",
+        "shared",
+        "skills",
+        "doctors",
+        "to advance at pace",
+        "advancements",
+        "challenges",
+        "future",
+        "complex",
+        "job market",
+        "customer service representatives",
+        "It",
+        "its full impact",
+        "capabilities",
+        "fear",
+        "AI technologies",
+        "whole",
+        "automation learning",
+        "automation of various tasks resulting in creation of industries",
+        "automation of various tasks",
+        "their jobs",
+        "In conclusion issue",
+        "impact",
+        "AI",
+        "their productivity leading to better outcomes for businesses",
+        "automation resulting in creation of new industries"
+    ],
+    "relations": [
+        [
+            "significant changes",
+            "is in",
+            "various industries"
+        ],
+        [
+            "Artificial intelligence",
+            "has revolutionized",
+            "way"
+        ],
+        [
+            "automation learning",
+            "replace",
+            "workers"
+        ],
+        [
+            "AI technologies",
+            "continue",
+            "advance at rapid pace"
+        ],
+        [
+            "AI technologies",
+            "continue",
+            "to advance at pace"
+        ],
+        [
+            "automation learning",
+            "replace",
+            "human workers"
+        ],
+        [
+            "automation learning",
+            "leading to",
+            "widespread job displacement"
+        ],
+        [
+            "AI technologies",
+            "continue",
+            "advance"
+        ],
+        [
+            "fear",
+            "is",
+            "AI technologies continue"
+        ],
+        [
+            "AI technologies",
+            "advance at",
+            "pace"
+        ],
+        [
+            "AI technologies",
+            "advance at",
+            "rapid pace"
+        ],
+        [
+            "AI technologies",
+            "continue",
+            "advance at pace"
+        ],
+        [
+            "automation learning",
+            "leading to",
+            "job displacement"
+        ],
+        [
+            "AI technologies",
+            "continue",
+            "to advance at rapid pace"
+        ],
+        [
+            "AI technologies",
+            "continue",
+            "to advance"
+        ],
+        [
+            "fear",
+            "is",
+            "As AI technologies continue"
+        ],
+        [
+            "growing fear",
+            "is",
+            "AI technologies continue"
+        ],
+        [
+            "growing fear",
+            "is",
+            "As AI technologies continue"
+        ],
+        [
+            "integration",
+            "is in",
+            "workforce"
+        ],
+        [
+            "job market",
+            "integration of",
+            "AI"
+        ],
+        [
+            "job market",
+            "integration in",
+            "workforce"
+        ],
+        [
+            "its impact",
+            "is",
+            "complex"
+        ],
+        [
+            "its full impact",
+            "is",
+            "complex"
+        ],
+        [
+            "integration",
+            "has undeniably transformed",
+            "job market"
+        ],
+        [
+            "integration",
+            "has transformed",
+            "job market"
+        ],
+        [
+            "AI",
+            "is affecting",
+            "employment"
+        ],
+        [
+            "powered machines",
+            "are",
+            "capable of tasks"
+        ],
+        [
+            "machines",
+            "are",
+            "capable"
+        ],
+        [
+            "powered machines",
+            "are",
+            "capable of performing tasks"
+        ],
+        [
+            "powered machines",
+            "are increasingly capable of",
+            "tasks"
+        ],
+        [
+            "machines",
+            "are",
+            "capable of performing tasks"
+        ],
+        [
+            "machines",
+            "are capable of",
+            "tasks"
+        ],
+        [
+            "powered machines",
+            "are",
+            "increasingly capable of tasks"
+        ],
+        [
+            "robots",
+            "are",
+            "increasingly capable"
+        ],
+        [
+            "powered machines",
+            "are increasingly capable of",
+            "performing tasks"
+        ],
+        [
+            "machines",
+            "are increasingly capable of",
+            "performing tasks"
+        ],
+        [
+            "robots",
+            "are increasingly capable of",
+            "performing tasks"
+        ],
+        [
+            "robots",
+            "are",
+            "capable"
+        ],
+        [
+            "powered machines",
+            "are",
+            "increasingly capable"
+        ],
+        [
+            "machines",
+            "are capable of",
+            "performing tasks"
+        ],
+        [
+            "robots",
+            "are capable of",
+            "performing tasks"
+        ],
+        [
+            "machines",
+            "are",
+            "increasingly capable of tasks"
+        ],
+        [
+            "powered machines",
+            "are",
+            "increasingly capable of performing tasks"
+        ],
+        [
+            "robots",
+            "are increasingly capable of",
+            "tasks"
+        ],
+        [
+            "machines",
+            "are increasingly capable of",
+            "tasks"
+        ],
+        [
+            "machines",
+            "are",
+            "increasingly capable"
+        ],
+        [
+            "powered machines",
+            "are capable of",
+            "tasks"
+        ],
+        [
+            "machines",
+            "are",
+            "capable of tasks"
+        ],
+        [
+            "powered machines",
+            "are capable of",
+            "performing tasks"
+        ],
+        [
+            "machines",
+            "are",
+            "increasingly capable of performing tasks"
+        ],
+        [
+            "robots",
+            "are capable of",
+            "tasks"
+        ],
+        [
+            "powered machines",
+            "are",
+            "capable"
+        ],
+        [
+            "repetitive jobs",
+            "is in",
+            "sectors such manufacturing"
+        ],
+        [
+            "vehicles",
+            "threaten For",
+            "example"
+        ],
+        [
+            "vehicles",
+            "replace",
+            "truck drivers"
+        ],
+        [
+            "autonomous vehicles",
+            "threaten For",
+            "example"
+        ],
+        [
+            "chatbots",
+            "are replacing",
+            "customer service representatives"
+        ],
+        [
+            "virtual assistants",
+            "are replacing",
+            "customer service representatives"
+        ],
+        [
+            "autonomous vehicles",
+            "replace",
+            "truck drivers"
+        ],
+        [
+            "it",
+            "is",
+            "However important"
+        ],
+        [
+            "it",
+            "is",
+            "important"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of tasks resulting in creation of new industries"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation resulting"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of various tasks resulting in creation of industries"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation resulting in creation of new industries"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation resulting in creation of industries"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of tasks resulting in creation of industries"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of various tasks"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of various tasks resulting in creation"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of various tasks resulting in creation of industries"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of various tasks resulting in creation of new industries"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation resulting in creation of new industries"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of tasks resulting in creation of new industries"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of tasks resulting in creation"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of tasks resulting in creation of industries"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of tasks"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation resulting in creation"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of various tasks resulting in creation of new industries"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of tasks resulting in creation"
+        ],
+        [
+            "technological advancements",
+            "have led Throughout",
+            "history"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of tasks"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of tasks resulting"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation resulting in creation"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of various tasks"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation"
+        ],
+        [
+            "advancements",
+            "have led Throughout",
+            "history"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation resulting in creation of industries"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of various tasks resulting"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of various tasks resulting in creation"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation of tasks resulting"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation of various tasks resulting"
+        ],
+        [
+            "technological advancements",
+            "have led to",
+            "automation resulting"
+        ],
+        [
+            "advancements",
+            "have led to",
+            "automation"
+        ],
+        [
+            "it",
+            "has",
+            "potential"
+        ],
+        [
+            "it",
+            "also has",
+            "potential"
+        ],
+        [
+            "AI",
+            "may displace",
+            "jobs"
+        ],
+        [
+            "AI",
+            "may displace",
+            "certain jobs"
+        ],
+        [
+            "AI technologies",
+            "become",
+            "widespread"
+        ],
+        [
+            "workers",
+            "is with",
+            "skills"
+        ],
+        [
+            "AI technologies",
+            "become",
+            "more widespread"
+        ],
+        [
+            "AI",
+            "Moreover has",
+            "potential"
+        ],
+        [
+            "AI",
+            "has",
+            "potential"
+        ],
+        [
+            "processes",
+            "analyze",
+            "datasets"
+        ],
+        [
+            "processes",
+            "provide",
+            "insights"
+        ],
+        [
+            "processes",
+            "provide",
+            "valuable insights"
+        ],
+        [
+            "processes",
+            "analyze",
+            "large datasets"
+        ],
+        [
+            "businesses",
+            "make",
+            "decisions"
+        ],
+        [
+            "businesses",
+            "make",
+            "informed decisions"
+        ],
+        [
+            "AI",
+            "can improve",
+            "safety"
+        ],
+        [
+            "AI",
+            "can improve",
+            "workplace safety"
+        ],
+        [
+            "AI",
+            "can improve safety In",
+            "addition"
+        ],
+        [
+            "AI",
+            "is impacting",
+            "employment"
+        ],
+        [
+            "workers",
+            "perform effectively and efficiently",
+            "their jobs"
+        ],
+        [
+            "workers",
+            "perform effectively",
+            "their jobs"
+        ],
+        [
+            "AI technologies",
+            "can complement",
+            "human skills"
+        ],
+        [
+            "workers",
+            "perform more effectively",
+            "their jobs"
+        ],
+        [
+            "AI technologies",
+            "can complement",
+            "skills"
+        ],
+        [
+            "workers",
+            "perform",
+            "their jobs"
+        ],
+        [
+            "human skills",
+            "technologies",
+            "expertise"
+        ],
+        [
+            "workers",
+            "perform more effectively and efficiently",
+            "their jobs"
+        ],
+        [
+            "skills",
+            "technologies",
+            "expertise"
+        ],
+        [
+            "tools",
+            "can assist doctors For",
+            "example"
+        ],
+        [
+            "support engineers",
+            "is in",
+            "designing complex systems"
+        ],
+        [
+            "tools",
+            "can assist",
+            "doctors"
+        ],
+        [
+            "powered tools",
+            "can assist doctors in",
+            "diagnosing diseases"
+        ],
+        [
+            "powered tools",
+            "can assist",
+            "doctors"
+        ],
+        [
+            "powered tools",
+            "can assist doctors For",
+            "example"
+        ],
+        [
+            "tools",
+            "can assist doctors in",
+            "diagnosing diseases"
+        ],
+        [
+            "tools",
+            "can assist doctors in",
+            "diseases"
+        ],
+        [
+            "help lawyers",
+            "conduct",
+            "legal research"
+        ],
+        [
+            "help lawyers",
+            "conduct",
+            "research"
+        ],
+        [
+            "powered tools",
+            "can assist doctors in",
+            "diseases"
+        ],
+        [
+            "workers",
+            "can enhance",
+            "their productivity leading"
+        ],
+        [
+            "workers",
+            "can enhance",
+            "their productivity leading to better outcomes"
+        ],
+        [
+            "workers",
+            "can enhance",
+            "their productivity leading to better outcomes for businesses"
+        ],
+        [
+            "workers",
+            "can enhance",
+            "their productivity leading to outcomes for businesses"
+        ],
+        [
+            "their productivity",
+            "workers",
+            "abilities"
+        ],
+        [
+            "their productivity",
+            "workers",
+            "solving abilities"
+        ],
+        [
+            "their productivity",
+            "workers",
+            "creativity"
+        ],
+        [
+            "their productivity",
+            "workers",
+            "problem solving abilities"
+        ],
+        [
+            "workers",
+            "can enhance",
+            "their productivity"
+        ],
+        [
+            "workers",
+            "can enhance",
+            "their productivity leading to outcomes"
+        ],
+        [
+            "concerns",
+            "are Despite",
+            "potential benefits"
+        ],
+        [
+            "concerns",
+            "are Despite",
+            "potential benefits in workforce"
+        ],
+        [
+            "legitimate concerns",
+            "are Despite",
+            "potential benefits of AI"
+        ],
+        [
+            "concerns",
+            "are Despite",
+            "potential benefits of AI"
+        ],
+        [
+            "legitimate concerns",
+            "are Despite",
+            "potential benefits of AI in workforce"
+        ],
+        [
+            "potential benefits",
+            "is in",
+            "workforce"
+        ],
+        [
+            "concerns",
+            "are Despite",
+            "potential benefits of AI in workforce"
+        ],
+        [
+            "legitimate concerns",
+            "are Despite",
+            "potential benefits"
+        ],
+        [
+            "legitimate concerns",
+            "are Despite",
+            "potential benefits in workforce"
+        ],
+        [
+            "displacement",
+            "can lead to",
+            "job insecurity"
+        ],
+        [
+            "workers",
+            "are",
+            "equipped"
+        ],
+        [
+            "workers",
+            "are equipped with",
+            "skills"
+        ],
+        [
+            "It",
+            "is",
+            "crucial"
+        ],
+        [
+            "It",
+            "is crucial for",
+            "policymakers"
+        ],
+        [
+            "workers",
+            "are equipped with",
+            "skills needed"
+        ],
+        [
+            "It",
+            "address",
+            "challenges"
+        ],
+        [
+            "complex issue",
+            "is In",
+            "conclusion"
+        ],
+        [
+            "artificial intelligence",
+            "impact of is",
+            "complex issue"
+        ],
+        [
+            "artificial intelligence",
+            "impact of is",
+            "In conclusion complex issue"
+        ],
+        [
+            "artificial intelligence",
+            "impact of is",
+            "In conclusion issue"
+        ],
+        [
+            "artificial intelligence",
+            "impact of is",
+            "issue"
+        ],
+        [
+            "impact",
+            "is issue In",
+            "conclusion"
+        ],
+        [
+            "impact",
+            "is",
+            "issue"
+        ],
+        [
+            "impact",
+            "is complex issue In",
+            "conclusion"
+        ],
+        [
+            "impact",
+            "is",
+            "complex"
+        ],
+        [
+            "impact",
+            "is",
+            "complex issue"
+        ],
+        [
+            "impact",
+            "is complex and nuanced issue In",
+            "conclusion"
+        ],
+        [
+            "jobs",
+            "displace",
+            "workers"
+        ],
+        [
+            "new job opportunities",
+            "augment",
+            "human capabilities"
+        ],
+        [
+            "AI",
+            "has",
+            "potential"
+        ],
+        [
+            "job opportunities",
+            "augment",
+            "human capabilities"
+        ],
+        [
+            "it",
+            "has",
+            "capacity"
+        ],
+        [
+            "certain jobs",
+            "displace",
+            "workers"
+        ],
+        [
+            "it",
+            "also has",
+            "capacity"
+        ],
+        [
+            "new job opportunities",
+            "enhance",
+            "productivity"
+        ],
+        [
+            "job opportunities",
+            "augment",
+            "capabilities"
+        ],
+        [
+            "new job opportunities",
+            "augment",
+            "capabilities"
+        ],
+        [
+            "job opportunities",
+            "enhance",
+            "productivity"
+        ],
+        [
+            "benefits",
+            "are",
+            "shared"
+        ],
+        [
+            "benefits",
+            "are",
+            "shared equitably"
+        ],
+        [
+            "benefits",
+            "are shared equitably as",
+            "whole"
+        ],
+        [
+            "It",
+            "is essential",
+            "stakeholders to collaborate"
+        ],
+        [
+            "benefits",
+            "are shared equitably among",
+            "workers"
+        ],
+        [
+            "benefits",
+            "are",
+            "shared among workers as whole"
+        ],
+        [
+            "It",
+            "is",
+            "essential"
+        ],
+        [
+            "benefits",
+            "are shared among",
+            "workers"
+        ],
+        [
+            "benefits",
+            "are shared as",
+            "whole"
+        ],
+        [
+            "benefits",
+            "are",
+            "shared equitably among workers as whole"
+        ],
+        [
+            "It",
+            "is essential",
+            "stakeholders collaborate"
+        ],
+        [
+            "It",
+            "is essential",
+            "for stakeholders to collaborate"
+        ],
+        [
+            "It",
+            "is essential",
+            "for stakeholders collaborate"
+        ],
+        [
+            "stakeholders",
+            "collaborate",
+            "strategies"
+        ],
+        [
+            "its potential",
+            "drive",
+            "growth"
+        ],
+        [
+            "its potential",
+            "drive",
+            "economic growth"
+        ],
+        [
+            "we",
+            "can harness",
+            "its potential"
+        ],
+        [
+            "its potential",
+            "drive growth in",
+            "future"
+        ]
+    ],
+    "edges": [
+        "is in",
+        "has revolutionized",
+        "replace",
+        "continue",
+        "continue",
+        "replace",
+        "leading to",
+        "continue",
+        "is",
+        "advance at",
+        "advance at",
+        "continue",
+        "leading to",
+        "continue",
+        "continue",
+        "is",
+        "is",
+        "is",
+        "is in",
+        "integration of",
+        "integration in",
+        "is",
+        "is",
+        "has undeniably transformed",
+        "has transformed",
+        "is affecting",
+        "are",
+        "are",
+        "are",
+        "are increasingly capable of",
+        "are",
+        "are capable of",
+        "are",
+        "are",
+        "are increasingly capable of",
+        "are increasingly capable of",
+        "are increasingly capable of",
+        "are",
+        "are",
+        "are capable of",
+        "are capable of",
+        "are",
+        "are",
+        "are increasingly capable of",
+        "are increasingly capable of",
+        "are",
+        "are capable of",
+        "are",
+        "are capable of",
+        "are",
+        "are capable of",
+        "are",
+        "is in",
+        "threaten For",
+        "replace",
+        "threaten For",
+        "are replacing",
+        "are replacing",
+        "replace",
+        "is",
+        "is",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led Throughout",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led Throughout",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "have led to",
+        "has",
+        "also has",
+        "may displace",
+        "may displace",
+        "become",
+        "is with",
+        "become",
+        "Moreover has",
+        "has",
+        "analyze",
+        "provide",
+        "provide",
+        "analyze",
+        "make",
+        "make",
+        "can improve",
+        "can improve",
+        "can improve safety In",
+        "is impacting",
+        "perform effectively and efficiently",
+        "perform effectively",
+        "can complement",
+        "perform more effectively",
+        "can complement",
+        "perform",
+        "technologies",
+        "perform more effectively and efficiently",
+        "technologies",
+        "can assist doctors For",
+        "is in",
+        "can assist",
+        "can assist doctors in",
+        "can assist",
+        "can assist doctors For",
+        "can assist doctors in",
+        "can assist doctors in",
+        "conduct",
+        "conduct",
+        "can assist doctors in",
+        "can enhance",
+        "can enhance",
+        "can enhance",
+        "can enhance",
+        "workers",
+        "workers",
+        "workers",
+        "workers",
+        "can enhance",
+        "can enhance",
+        "are Despite",
+        "are Despite",
+        "are Despite",
+        "are Despite",
+        "are Despite",
+        "is in",
+        "are Despite",
+        "are Despite",
+        "are Despite",
+        "can lead to",
+        "are",
+        "are equipped with",
+        "is",
+        "is crucial for",
+        "are equipped with",
+        "address",
+        "is In",
+        "impact of is",
+        "impact of is",
+        "impact of is",
+        "impact of is",
+        "is issue In",
+        "is",
+        "is complex issue In",
+        "is",
+        "is",
+        "is complex and nuanced issue In",
+        "displace",
+        "augment",
+        "has",
+        "augment",
+        "has",
+        "displace",
+        "also has",
+        "enhance",
+        "augment",
+        "augment",
+        "enhance",
+        "are",
+        "are",
+        "are shared equitably as",
+        "is essential",
+        "are shared equitably among",
+        "are",
+        "is",
+        "are shared among",
+        "are shared as",
+        "are",
+        "is essential",
+        "is essential",
+        "is essential",
+        "collaborate",
+        "drive",
+        "drive",
+        "can harness",
+        "drive growth in"
+    ]
+}

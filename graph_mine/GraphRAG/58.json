@@ -1,0 +1,72 @@
+{
+  "entities": [
+    "CULTURAL BELIEFS",
+    "PERSONAL ENCOUNTERS",
+    "POPULAR CULTURE",
+    "PERSONAL EXPERIENCES",
+    "GHOST STORIES",
+    "UNEXPLAINED PHENOMENA",
+    "GHOSTS",
+    "HUMAN PSYCHOLOGY",
+    "PSYCHOLOGICAL FACTORS",
+    "BELIEF IN GHOSTS",
+    "CULTURAL STORIES"
+  ],
+  "relations": [
+    [
+      "GHOSTS",
+      "The belief in ghosts is reinforced by ghost stories and legends prevalent in various cultures",
+      "CULTURAL STORIES"
+    ],
+    [
+      "GHOSTS",
+      "The portrayal of ghosts in movies, TV shows, and books further reinforces their perceived reality",
+      "POPULAR CULTURE"
+    ],
+    [
+      "GHOSTS",
+      "The human tendency to seek explanations for unexplained phenomena often leads to belief in ghosts",
+      "HUMAN PSYCHOLOGY"
+    ],
+    [
+      "GHOSTS",
+      "Individual claims of encounters with spirits or paranormal entities strengthen belief in ghosts",
+      "PERSONAL EXPERIENCES"
+    ],
+    [
+      "GHOSTS",
+      "The belief in ghosts is influenced by psychological factors such as fear of the unknown and the desire for immortality",
+      "PSYCHOLOGICAL FACTORS"
+    ],
+    [
+      "GHOSTS",
+      "Cultural and religious beliefs significantly shape people's beliefs in ghosts, with traditions and folklore reinforcing the idea of supernatural presence",
+      "CULTURAL BELIEFS"
+    ],
+    [
+      "POPULAR CULTURE",
+      "Ghost stories are a significant part of popular culture, influencing the collective belief in ghosts",
+      "GHOST STORIES"
+    ],
+    [
+      "HUMAN PSYCHOLOGY",
+      "The human tendency to seek explanations for unexplained phenomena often leads to belief in ghosts",
+      "UNEXPLAINED PHENOMENA"
+    ],
+    [
+      "PERSONAL ENCOUNTERS",
+      "Personal encounters with what are believed to be spirits or paranormal entities contribute significantly to the belief in ghosts",
+      "BELIEF IN GHOSTS"
+    ]
+  ],
+  "edges": [
+    "The belief in ghosts is reinforced by ghost stories and legends prevalent in various cultures",
+    "The portrayal of ghosts in movies, TV shows, and books further reinforces their perceived reality",
+    "The human tendency to seek explanations for unexplained phenomena often leads to belief in ghosts",
+    "Individual claims of encounters with spirits or paranormal entities strengthen belief in ghosts",
+    "The belief in ghosts is influenced by psychological factors such as fear of the unknown and the desire for immortality",
+    "Cultural and religious beliefs significantly shape people's beliefs in ghosts, with traditions and folklore reinforcing the idea of supernatural presence",
+    "Ghost stories are a significant part of popular culture, influencing the collective belief in ghosts",
+    "Personal encounters with what are believed to be spirits or paranormal entities contribute significantly to the belief in ghosts"
+  ]
+}

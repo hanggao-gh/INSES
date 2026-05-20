@@ -1,0 +1,107 @@
+{
+  "entities": [
+    "BREAD",
+    "MAILLARD REACTION",
+    "FERMENTATION OF YEAST",
+    "DEVELOPMENT OF GLUTEN STRUCTURE",
+    "YEAST",
+    "BAKING",
+    "GLUTEN",
+    "KNEADING",
+    "HOT OVEN",
+    "WATER",
+    "CHEMICAL REACTIONS",
+    "FLOUR",
+    "FERMENTATION",
+    "SALT",
+    "HUMIDITY"
+  ],
+  "relations": [
+    [
+      "BREAD",
+      "Fermentation is a key process in developing the flavor and texture of bread",
+      "FERMENTATION"
+    ],
+    [
+      "BREAD",
+      "Flour provides the gluten proteins necessary for bread's structure and elasticity",
+      "FLOUR"
+    ],
+    [
+      "YEAST",
+      "Yeast plays a crucial role in the fermentation process, particularly in bread baking. During fermentation, yeast is responsible for producing carbon dioxide gas and alcohol. This production of carbon dioxide gas is what causes the dough to rise, leading to the light and airy texture of bread. Both entities, yeast and fermentation, are intimately connected in this process, with yeast being the active agent that drives fermentation, resulting in the transformation of dough into a risen bread product.",
+      "FERMENTATION"
+    ],
+    [
+      "YEAST",
+      "Water activates yeast, starting the fermentation process in bread baking",
+      "WATER"
+    ],
+    [
+      "YEAST",
+      "Gluten forms a network that traps the carbon dioxide produced by yeast, allowing bread to rise",
+      "GLUTEN"
+    ],
+    [
+      "YEAST",
+      "The Maillard Reaction contributes to the flavor development in bread, a process that begins with yeast fermentation",
+      "MAILLARD REACTION"
+    ],
+    [
+      "FERMENTATION",
+      "Baking finalizes the fermentation process by using heat to cause the dough to rise further and set the structure of the bread",
+      "BAKING"
+    ],
+    [
+      "FLOUR",
+      "Salt strengthens the gluten network formed by flour, affecting the texture of bread",
+      "SALT"
+    ],
+    [
+      "FLOUR",
+      "Water combines with flour to form gluten, a crucial step in developing bread's structure",
+      "WATER"
+    ],
+    [
+      "GLUTEN",
+      "Kneading is important for developing the gluten in the dough, which is essential for the bread's structure",
+      "KNEADING"
+    ],
+    [
+      "MAILLARD REACTION",
+      "During baking, the Maillard Reaction occurs, responsible for the browning of the bread's crust and flavor development",
+      "BAKING"
+    ],
+    [
+      "HOT OVEN",
+      "A hot oven supports the fermentation of yeast by providing the optimal temperature for yeast activity",
+      "FERMENTATION OF YEAST"
+    ],
+    [
+      "HUMIDITY",
+      "Humidity affects the chemical reactions in bread baking, particularly in forming a crisp crust",
+      "CHEMICAL REACTIONS"
+    ],
+    [
+      "DEVELOPMENT OF GLUTEN STRUCTURE",
+      "The development of gluten structure is a result of chemical reactions during kneading and baking",
+      "CHEMICAL REACTIONS"
+    ]
+  ],
+  "edges": [
+    "Fermentation is a key process in developing the flavor and texture of bread",
+    "Flour provides the gluten proteins necessary for bread's structure and elasticity",
+    "Yeast plays a crucial role in the fermentation process, particularly in bread baking. During fermentation, yeast is responsible for producing carbon dioxide gas and alcohol. This production of carbon dioxide gas is what causes the dough to rise, leading to the light and airy texture of bread. Both entities, yeast and fermentation, are intimately connected in this process, with yeast being the active agent that drives fermentation, resulting in the transformation of dough into a risen bread product.",
+    "Water activates yeast, starting the fermentation process in bread baking",
+    "Gluten forms a network that traps the carbon dioxide produced by yeast, allowing bread to rise",
+    "The Maillard Reaction contributes to the flavor development in bread, a process that begins with yeast fermentation",
+    "Baking finalizes the fermentation process by using heat to cause the dough to rise further and set the structure of the bread",
+    "Salt strengthens the gluten network formed by flour, affecting the texture of bread",
+    "Water combines with flour to form gluten, a crucial step in developing bread's structure",
+    "Kneading is important for developing the gluten in the dough, which is essential for the bread's structure",
+    "During baking, the Maillard Reaction occurs, responsible for the browning of the bread's crust and flavor development",
+    "A hot oven supports the fermentation of yeast by providing the optimal temperature for yeast activity",
+    "Humidity affects the chemical reactions in bread baking, particularly in forming a crisp crust",
+    "The development of gluten structure is a result of chemical reactions during kneading and baking"
+  ]
+}

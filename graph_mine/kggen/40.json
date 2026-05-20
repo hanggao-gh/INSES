@@ -1,0 +1,759 @@
+{
+  "entities": [
+    "aboard",
+    "activity",
+    "adventure",
+    "adventures",
+    "ancient times",
+    "anti-piracy laws",
+    "atlantic ocean",
+    "attacks",
+    "audiences",
+    "barbary pirates",
+    "behavior",
+    "blackbeard",
+    "books",
+    "britain",
+    "bronze age",
+    "buccaneers",
+    "calico jack",
+    "captain kidd",
+    "captivating",
+    "caribbean",
+    "coastal communities",
+    "coastal towns",
+    "code of conduct",
+    "colonialism",
+    "colorful",
+    "common people",
+    "complex",
+    "contagious",
+    "continents",
+    "cracked down",
+    "crews",
+    "cultures",
+    "cunning",
+    "decline",
+    "defiance",
+    "demise",
+    "destruction",
+    "discipline",
+    "disputes",
+    "division",
+    "efforts",
+    "endure",
+    "enemies",
+    "eradicate",
+    "escapades",
+    "established order",
+    "european powers",
+    "european ships",
+    "flamboyant",
+    "folklore",
+    "france",
+    "free-for-all",
+    "freedom",
+    "gold",
+    "golden age of piracy",
+    "governments",
+    "harsh punishments",
+    "heroes",
+    "history",
+    "imagination",
+    "immortalized",
+    "imperialism",
+    "impunity",
+    "income",
+    "indelible",
+    "infamous",
+    "key factors",
+    "laughter",
+    "lawless",
+    "legacy",
+    "legendary",
+    "lucrative",
+    "lure",
+    "maritime trade",
+    "mediterranean",
+    "merchant ships",
+    "middle ages",
+    "movies",
+    "multifaceted",
+    "nassau",
+    "naval forces",
+    "naval patrols",
+    "north africa",
+    "notorious",
+    "offenses",
+    "oppressive",
+    "order",
+    "origins",
+    "passed down",
+    "personalities",
+    "pirate code",
+    "pirate life",
+    "pirates",
+    "plundering",
+    "popular culture",
+    "power vacuum",
+    "prevalence",
+    "preying",
+    "raiders",
+    "raids",
+    "rebels",
+    "records",
+    "regions",
+    "resolution",
+    "rich",
+    "rulers",
+    "rules",
+    "ruthless",
+    "scourge",
+    "sea peoples",
+    "seafaring",
+    "settlements",
+    "silver",
+    "spanish empire",
+    "spoils",
+    "sponsored",
+    "strongholds",
+    "swashbuckling",
+    "swift",
+    "symbols",
+    "tactics",
+    "tales",
+    "tapestry",
+    "television shows",
+    "terrorized",
+    "time periods",
+    "tortuga",
+    "treasure",
+    "treasure ships",
+    "valuable goods",
+    "waters",
+    "weaken"
+  ],
+  "relations": [
+    [
+      "adventures",
+      "captivated",
+      "audiences"
+    ],
+    [
+      "adventures",
+      "were",
+      "captivating"
+    ],
+    [
+      "attacks",
+      "left",
+      "destruction"
+    ],
+    [
+      "attacks",
+      "were on",
+      "coastal communities"
+    ],
+    [
+      "attacks",
+      "were on",
+      "merchant ships"
+    ],
+    [
+      "barbary pirates",
+      "conducted",
+      "raids"
+    ],
+    [
+      "barbary pirates",
+      "were",
+      "notorious"
+    ],
+    [
+      "barbary pirates",
+      "were",
+      "sponsored"
+    ],
+    [
+      "barbary pirates",
+      "were from",
+      "north africa"
+    ],
+    [
+      "code of conduct",
+      "was",
+      "pirate code"
+    ],
+    [
+      "decline",
+      "began with",
+      "european powers"
+    ],
+    [
+      "decline",
+      "created",
+      "power vacuum"
+    ],
+    [
+      "decline",
+      "was of",
+      "spanish empire"
+    ],
+    [
+      "efforts",
+      "were to",
+      "eradicate"
+    ],
+    [
+      "european powers",
+      "cracked down on",
+      "pirates"
+    ],
+    [
+      "european powers",
+      "included",
+      "britain"
+    ],
+    [
+      "european powers",
+      "included",
+      "france"
+    ],
+    [
+      "european powers",
+      "introduced",
+      "anti-piracy laws"
+    ],
+    [
+      "european powers",
+      "introduced",
+      "harsh punishments"
+    ],
+    [
+      "european powers",
+      "introduced",
+      "naval patrols"
+    ],
+    [
+      "golden age of piracy",
+      "included",
+      "blackbeard"
+    ],
+    [
+      "golden age of piracy",
+      "included",
+      "calico jack"
+    ],
+    [
+      "golden age of piracy",
+      "included",
+      "captain kidd"
+    ],
+    [
+      "golden age of piracy",
+      "is",
+      "legendary"
+    ],
+    [
+      "golden age of piracy",
+      "terrorized",
+      "waters"
+    ],
+    [
+      "harsh punishments",
+      "curbed",
+      "scourge"
+    ],
+    [
+      "harsh punishments",
+      "led to",
+      "demise"
+    ],
+    [
+      "harsh punishments",
+      "were for",
+      "offenses"
+    ],
+    [
+      "history",
+      "is",
+      "colorful"
+    ],
+    [
+      "history",
+      "is",
+      "complex"
+    ],
+    [
+      "history",
+      "is",
+      "multifaceted"
+    ],
+    [
+      "history",
+      "is",
+      "rich"
+    ],
+    [
+      "history",
+      "is",
+      "tapestry"
+    ],
+    [
+      "history",
+      "spans",
+      "continents"
+    ],
+    [
+      "history",
+      "spans",
+      "cultures"
+    ],
+    [
+      "history",
+      "spans",
+      "regions"
+    ],
+    [
+      "history",
+      "spans",
+      "time periods"
+    ],
+    [
+      "immortalized",
+      "in",
+      "books"
+    ],
+    [
+      "immortalized",
+      "in",
+      "movies"
+    ],
+    [
+      "immortalized",
+      "in",
+      "television shows"
+    ],
+    [
+      "key factors",
+      "contributed to",
+      "decline"
+    ],
+    [
+      "legacy",
+      "continues to",
+      "endure"
+    ],
+    [
+      "legacy",
+      "is",
+      "indelible"
+    ],
+    [
+      "legacy",
+      "is in",
+      "folklore"
+    ],
+    [
+      "legacy",
+      "is in",
+      "popular culture"
+    ],
+    [
+      "lure",
+      "attracted",
+      "pirate life"
+    ],
+    [
+      "lure",
+      "was of",
+      "gold"
+    ],
+    [
+      "lure",
+      "was of",
+      "silver"
+    ],
+    [
+      "lure",
+      "was of",
+      "valuable goods"
+    ],
+    [
+      "maritime trade",
+      "expanded during",
+      "middle ages"
+    ],
+    [
+      "maritime trade",
+      "increased",
+      "prevalence"
+    ],
+    [
+      "naval forces",
+      "were",
+      "weaken"
+    ],
+    [
+      "oppressive",
+      "was of",
+      "colonialism"
+    ],
+    [
+      "oppressive",
+      "was of",
+      "imperialism"
+    ],
+    [
+      "origins",
+      "can be traced to",
+      "ancient times"
+    ],
+    [
+      "pirate code",
+      "governed",
+      "disputes"
+    ],
+    [
+      "pirate code",
+      "governed",
+      "division"
+    ],
+    [
+      "pirate code",
+      "governed",
+      "resolution"
+    ],
+    [
+      "pirate code",
+      "governed",
+      "spoils"
+    ],
+    [
+      "pirate code",
+      "maintained",
+      "discipline"
+    ],
+    [
+      "pirate code",
+      "maintained",
+      "order"
+    ],
+    [
+      "pirate code",
+      "was",
+      "aboard"
+    ],
+    [
+      "pirate life",
+      "established",
+      "strongholds"
+    ],
+    [
+      "pirate life",
+      "formed",
+      "crews"
+    ],
+    [
+      "pirate life",
+      "had",
+      "code of conduct"
+    ],
+    [
+      "pirate life",
+      "was",
+      "free-for-all"
+    ],
+    [
+      "pirate life",
+      "was",
+      "lawless"
+    ],
+    [
+      "pirates",
+      "captured",
+      "imagination"
+    ],
+    [
+      "pirates",
+      "fought against",
+      "oppressive"
+    ],
+    [
+      "pirates",
+      "had",
+      "adventures"
+    ],
+    [
+      "pirates",
+      "had",
+      "behavior"
+    ],
+    [
+      "pirates",
+      "had",
+      "cunning"
+    ],
+    [
+      "pirates",
+      "had",
+      "flamboyant"
+    ],
+    [
+      "pirates",
+      "had",
+      "personalities"
+    ],
+    [
+      "pirates",
+      "had",
+      "ruthless"
+    ],
+    [
+      "pirates",
+      "had",
+      "swashbuckling"
+    ],
+    [
+      "pirates",
+      "had",
+      "tactics"
+    ],
+    [
+      "pirates",
+      "had",
+      "tales"
+    ],
+    [
+      "pirates",
+      "have",
+      "history"
+    ],
+    [
+      "pirates",
+      "have",
+      "legacy"
+    ],
+    [
+      "pirates",
+      "lived by",
+      "rules"
+    ],
+    [
+      "pirates",
+      "operated with",
+      "impunity"
+    ],
+    [
+      "pirates",
+      "were",
+      "buccaneers"
+    ],
+    [
+      "pirates",
+      "were",
+      "immortalized"
+    ],
+    [
+      "pirates",
+      "were",
+      "preying"
+    ],
+    [
+      "pirates",
+      "were",
+      "symbols"
+    ],
+    [
+      "pirates",
+      "were seen as",
+      "heroes"
+    ],
+    [
+      "pirates",
+      "were seen as",
+      "rebels"
+    ],
+    [
+      "plundering",
+      "was of",
+      "settlements"
+    ],
+    [
+      "power vacuum",
+      "was in",
+      "caribbean"
+    ],
+    [
+      "preying",
+      "was on",
+      "plundering"
+    ],
+    [
+      "preying",
+      "was on",
+      "treasure ships"
+    ],
+    [
+      "raids",
+      "were on",
+      "coastal towns"
+    ],
+    [
+      "raids",
+      "were on",
+      "european ships"
+    ],
+    [
+      "records",
+      "date back to",
+      "activity"
+    ],
+    [
+      "sea peoples",
+      "terrorized",
+      "mediterranean"
+    ],
+    [
+      "sea peoples",
+      "were",
+      "bronze age"
+    ],
+    [
+      "sea peoples",
+      "were",
+      "raiders"
+    ],
+    [
+      "sea peoples",
+      "were known for",
+      "swift"
+    ],
+    [
+      "sponsored",
+      "by",
+      "governments"
+    ],
+    [
+      "sponsored",
+      "by",
+      "rulers"
+    ],
+    [
+      "sponsored",
+      "helped",
+      "weaken"
+    ],
+    [
+      "sponsored",
+      "provided",
+      "income"
+    ],
+    [
+      "sponsored",
+      "was",
+      "lucrative"
+    ],
+    [
+      "strongholds",
+      "were in",
+      "nassau"
+    ],
+    [
+      "strongholds",
+      "were in",
+      "tortuga"
+    ],
+    [
+      "swift",
+      "were",
+      "attacks"
+    ],
+    [
+      "symbols",
+      "challenged",
+      "established order"
+    ],
+    [
+      "symbols",
+      "were of",
+      "defiance"
+    ],
+    [
+      "symbols",
+      "were of",
+      "freedom"
+    ],
+    [
+      "tales",
+      "were",
+      "passed down"
+    ],
+    [
+      "waters",
+      "were in",
+      "atlantic ocean"
+    ],
+    [
+      "waters",
+      "were in",
+      "caribbean"
+    ],
+    [
+      "weaken",
+      "was of",
+      "enemies"
+    ]
+  ],
+  "edges": [
+    "attracted",
+    "began with",
+    "by",
+    "can be traced to",
+    "captivated",
+    "captured",
+    "challenged",
+    "conducted",
+    "continues to",
+    "contributed to",
+    "cracked down on",
+    "created",
+    "curbed",
+    "date back to",
+    "established",
+    "expanded during",
+    "formed",
+    "fought against",
+    "governed",
+    "had",
+    "have",
+    "helped",
+    "in",
+    "included",
+    "increased",
+    "introduced",
+    "is",
+    "is in",
+    "led to",
+    "left",
+    "lived by",
+    "maintained",
+    "operated with",
+    "provided",
+    "spans",
+    "terrorized",
+    "was",
+    "was in",
+    "was of",
+    "was on",
+    "were",
+    "were for",
+    "were from",
+    "were in",
+    "were known for",
+    "were of",
+    "were on",
+    "were seen as",
+    "were to"
+  ]
+}

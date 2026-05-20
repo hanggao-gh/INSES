@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Video games have evolved since the mid-20th century.",
+    "retrieved_context": "inception in mid-20th century. video games have come a long way since inception. arcade gaming became cultural phenomena. groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom. pc gaming titles like starcraft. pc gaming titles like diablo. pc gaming titles like half-life. diablo became instant classics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Pong and Space Invaders were simple, pixelated games.",
+    "retrieved_context": "groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom. spacewar! laid foundation. spacewar! considered milestone. massachusetts institute of technology abbreviated as mit. spacewar! developed in 1962. spacewar! developed at massachusetts institute of technology. foundation for future. iconic games like the legend of zelda. iconic games like super mario bros.. iconic games like tetris. inception in mid-20th century. video games have come a long way since inception. virtual worlds immersed players. players of ages. pixelated evolved into lifelike.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Red Dead Redemption and Fortnite offer lifelike worlds.",
+    "retrieved_context": "game worlds enhancing immersive experience. virtual worlds immersed players. players of ages. world of warcraft became synonymous.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Spacewar! was developed in 1962 at MIT.",
+    "retrieved_context": "spacewar! laid foundation. spacewar! considered milestone. massachusetts institute of technology abbreviated as mit. spacewar! developed in 1962. spacewar! developed at massachusetts institute of technology. foundation for future. massachusetts institute of technology abbreviated as mit. world of warcraft became synonymous. groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Spacewar! introduced multiplayer gameplay.",
+    "retrieved_context": "spacewar! laid foundation. spacewar! considered milestone. massachusetts institute of technology abbreviated as mit. spacewar! developed in 1962. spacewar! developed at massachusetts institute of technology. foundation for future. world of warcraft became synonymous. opportunities for collaboration. online multiplayer gaming creating opportunities. opportunities for social interaction. groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom. call of duty became synonymous.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Arcade gaming rose in the 1970s.",
+    "retrieved_context": "arcade gaming became cultural phenomena. 1970s saw arcade gaming. arcade gaming became cultural phenomena. inception in mid-20th century. video games have come a long way since inception. groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom. iconic games like the legend of zelda. iconic games like super mario bros.. iconic games like tetris. pc gaming titles like starcraft. pc gaming titles like diablo. pc gaming titles like half-life. diablo became instant classics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Atari 2600 brought arcade experience to homes.",
+    "retrieved_context": "atari 2600 brought living rooms. arcade gaming became cultural phenomena. inception in mid-20th century. video games have come a long way since inception. groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom. pc gaming titles like starcraft. pc gaming titles like diablo. pc gaming titles like half-life. diablo became instant classics.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Super Mario Bros. and The Legend of Zelda were iconic games in the 1980s.",
+    "retrieved_context": "iconic games like the legend of zelda. iconic games like super mario bros.. iconic games like tetris. groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom. arcade gaming became cultural phenomena. inception in mid-20th century. video games have come a long way since inception. golden age of iconic games. 1980s marked golden age.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "8-bit and 16-bit graphics enhanced game worlds.",
+    "retrieved_context": "8-bit and 16-bit graphics. virtual worlds immersed players. players of ages. game worlds enhancing immersive experience. pc gaming titles like starcraft. pc gaming titles like diablo. pc gaming titles like half-life. diablo became instant classics. world of warcraft became synonymous.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Doom and Quake pushed boundaries in the 1990s.",
+    "retrieved_context": "1990s saw emergence. emergence of cd-rom technology. emergence of 3d graphics. golden age of iconic games. 1980s marked golden age. early 2000s saw online gaming. boundaries pushed storytelling. boundaries pushed graphics. boundaries pushed gameplay. groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Online gaming rose in the early 2000s.",
+    "retrieved_context": "opportunities for collaboration. online multiplayer gaming creating opportunities. opportunities for social interaction. early 2000s saw online gaming. pc gaming titles like starcraft. pc gaming titles like diablo. pc gaming titles like half-life. diablo became instant classics.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "VR and AR technologies have advanced gaming experiences.",
+    "retrieved_context": "vr headsets like playstation vr. vr headsets like oculus rift. pok\u00e9mon go blurred line. ar games like pok\u00e9mon go.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "AI, machine learning, and blockchain are revolutionizing the gaming industry.",
+    "retrieved_context": "revolutionize the industry. blockchain technology poised to revolutionize. arcade gaming became cultural phenomena. inception in mid-20th century. video games have come a long way since inception.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Video games have responded to technological advancements and consumer preferences.",
+    "retrieved_context": "inception in mid-20th century. video games have come a long way since inception. groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom. arcade gaming became cultural phenomena.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The future of video games promises new and exciting experiences.",
+    "retrieved_context": "inception in mid-20th century. video games have come a long way since inception. groundbreaking games like quake. groundbreaking games like final fantasy vii. groundbreaking games like doom. arcade gaming became cultural phenomena. pc gaming titles like starcraft. pc gaming titles like diablo. pc gaming titles like half-life. diablo became instant classics. iconic games like the legend of zelda. iconic games like super mario bros.. iconic games like tetris.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "46.67%"
+  }
+]

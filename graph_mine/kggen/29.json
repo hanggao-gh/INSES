@@ -1,0 +1,456 @@
+{
+  "entities": [
+    "1.5 billion people",
+    "18th century",
+    "19th century",
+    "20th century",
+    "adaptability",
+    "american english",
+    "anglo-saxon",
+    "anglo-saxons",
+    "arrival",
+    "australian english",
+    "board games",
+    "britain",
+    "british empire",
+    "business",
+    "communication",
+    "cultural influences",
+    "cultures",
+    "development",
+    "dialects",
+    "diplomacy",
+    "early modern english",
+    "earth",
+    "england",
+    "english",
+    "entertainment",
+    "evolution",
+    "evolve",
+    "french words",
+    "geoffrey chaucer",
+    "germanic languages",
+    "germanic tribes",
+    "global language",
+    "globalization",
+    "grammar",
+    "great vowel shift",
+    "historical events",
+    "history",
+    "house",
+    "humble beginnings",
+    "importance",
+    "indian english",
+    "inflected",
+    "invention",
+    "language",
+    "lingua franca",
+    "literature",
+    "middle english",
+    "mixing",
+    "modern world",
+    "mother",
+    "norman conquest",
+    "normans",
+    "old english",
+    "old french",
+    "old norman",
+    "peoples",
+    "printing press",
+    "pronunciation",
+    "resilience",
+    "ruling class",
+    "science",
+    "spread",
+    "standardization",
+    "system",
+    "technology",
+    "the canterbury tales",
+    "transformation",
+    "unified language",
+    "variations",
+    "vocabulary",
+    "william caxton",
+    "william shakespeare",
+    "words",
+    "world stage",
+    "writers"
+  ],
+  "relations": [
+    [
+      "20th century",
+      "saw",
+      "global language"
+    ],
+    [
+      "anglo-saxons",
+      "brought",
+      "words"
+    ],
+    [
+      "anglo-saxons",
+      "in",
+      "britain"
+    ],
+    [
+      "arrival",
+      "of",
+      "anglo-saxons"
+    ],
+    [
+      "british empire",
+      "led to",
+      "spread"
+    ],
+    [
+      "early modern english",
+      "began in",
+      "great vowel shift"
+    ],
+    [
+      "english",
+      "continues to",
+      "evolve"
+    ],
+    [
+      "english",
+      "has",
+      "history"
+    ],
+    [
+      "english",
+      "is",
+      "communication"
+    ],
+    [
+      "english",
+      "is",
+      "global language"
+    ],
+    [
+      "english",
+      "is",
+      "modern world"
+    ],
+    [
+      "english",
+      "reflects",
+      "cultures"
+    ],
+    [
+      "english",
+      "reflects",
+      "peoples"
+    ],
+    [
+      "english",
+      "spoken by",
+      "1.5 billion people"
+    ],
+    [
+      "english",
+      "underwent",
+      "transformation"
+    ],
+    [
+      "english",
+      "used in",
+      "entertainment"
+    ],
+    [
+      "english",
+      "used in",
+      "science"
+    ],
+    [
+      "english",
+      "used in",
+      "technology"
+    ],
+    [
+      "evolve",
+      "with",
+      "globalization"
+    ],
+    [
+      "evolve",
+      "with",
+      "technology"
+    ],
+    [
+      "geoffrey chaucer",
+      "wrote",
+      "the canterbury tales"
+    ],
+    [
+      "germanic tribes",
+      "brought",
+      "old english"
+    ],
+    [
+      "global language",
+      "became",
+      "lingua franca"
+    ],
+    [
+      "grammar",
+      "was",
+      "system"
+    ],
+    [
+      "great vowel shift",
+      "altered",
+      "pronunciation"
+    ],
+    [
+      "history",
+      "is",
+      "development"
+    ],
+    [
+      "history",
+      "is",
+      "evolution"
+    ],
+    [
+      "history",
+      "is",
+      "transformation"
+    ],
+    [
+      "history",
+      "shaped by",
+      "cultural influences"
+    ],
+    [
+      "history",
+      "shaped by",
+      "historical events"
+    ],
+    [
+      "history",
+      "spans over",
+      "language"
+    ],
+    [
+      "history",
+      "testament to",
+      "adaptability"
+    ],
+    [
+      "history",
+      "testament to",
+      "resilience"
+    ],
+    [
+      "importance",
+      "on",
+      "world stage"
+    ],
+    [
+      "invention",
+      "of",
+      "printing press"
+    ],
+    [
+      "lingua franca",
+      "of",
+      "business"
+    ],
+    [
+      "lingua franca",
+      "of",
+      "communication"
+    ],
+    [
+      "lingua franca",
+      "of",
+      "diplomacy"
+    ],
+    [
+      "middle english",
+      "saw introduction of",
+      "french words"
+    ],
+    [
+      "mixing",
+      "gave rise to",
+      "middle english"
+    ],
+    [
+      "mixing",
+      "of",
+      "old english"
+    ],
+    [
+      "mixing",
+      "of",
+      "old norman"
+    ],
+    [
+      "norman conquest",
+      "brought",
+      "normans"
+    ],
+    [
+      "normans",
+      "became",
+      "ruling class"
+    ],
+    [
+      "normans",
+      "spoke",
+      "old norman"
+    ],
+    [
+      "old english",
+      "also known as",
+      "anglo-saxon"
+    ],
+    [
+      "old english",
+      "spoken in",
+      "england"
+    ],
+    [
+      "old english",
+      "was",
+      "humble beginnings"
+    ],
+    [
+      "old english",
+      "was",
+      "inflected"
+    ],
+    [
+      "old norman",
+      "was",
+      "old french"
+    ],
+    [
+      "printing press",
+      "helped",
+      "spread"
+    ],
+    [
+      "printing press",
+      "helped",
+      "standardization"
+    ],
+    [
+      "spread",
+      "of",
+      "dialects"
+    ],
+    [
+      "spread",
+      "of",
+      "unified language"
+    ],
+    [
+      "spread",
+      "of",
+      "variations"
+    ],
+    [
+      "the canterbury tales",
+      "are examples of",
+      "literature"
+    ],
+    [
+      "transformation",
+      "in",
+      "grammar"
+    ],
+    [
+      "transformation",
+      "in",
+      "pronunciation"
+    ],
+    [
+      "transformation",
+      "in",
+      "vocabulary"
+    ],
+    [
+      "variations",
+      "include",
+      "american english"
+    ],
+    [
+      "variations",
+      "include",
+      "australian english"
+    ],
+    [
+      "variations",
+      "include",
+      "indian english"
+    ],
+    [
+      "vocabulary",
+      "influenced by",
+      "germanic languages"
+    ],
+    [
+      "william caxton",
+      "invented",
+      "printing press"
+    ],
+    [
+      "william shakespeare",
+      "exemplifies",
+      "early modern english"
+    ],
+    [
+      "words",
+      "include",
+      "earth"
+    ],
+    [
+      "words",
+      "include",
+      "house"
+    ],
+    [
+      "words",
+      "include",
+      "mother"
+    ]
+  ],
+  "edges": [
+    "also known as",
+    "altered",
+    "are examples of",
+    "became",
+    "began in",
+    "brought",
+    "continues to",
+    "exemplifies",
+    "gave rise to",
+    "has",
+    "helped",
+    "in",
+    "include",
+    "influenced by",
+    "invented",
+    "is",
+    "led to",
+    "of",
+    "on",
+    "reflects",
+    "saw",
+    "saw introduction of",
+    "shaped by",
+    "spans over",
+    "spoke",
+    "spoken by",
+    "spoken in",
+    "testament to",
+    "underwent",
+    "used in",
+    "was",
+    "with",
+    "wrote"
+  ]
+}

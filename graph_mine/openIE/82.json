@@ -1,0 +1,1301 @@
+{
+    "entities": [
+        "defining",
+        "carbon footprint of built environment",
+        "economy",
+        "narrow sidewalks",
+        "interaction",
+        "profound impact on quality",
+        "local economy",
+        "Dubai",
+        "Burj Khalifa",
+        "sustainable",
+        "sense of authority",
+        "social isolation",
+        "significant impact",
+        "Architecture",
+        "impact on quality of life of residents",
+        "government building",
+        "openness",
+        "modernist library",
+        "designed park",
+        "well designed with high quality materials",
+        "force",
+        "dilapidated housing",
+        "urban heat islands",
+        "depending style chosen",
+        "habitat",
+        "social interaction",
+        "infrastructure",
+        "depending style",
+        "barriers",
+        "powerful force",
+        "their surroundings",
+        "architects",
+        "effects",
+        "economic development of society",
+        "profound impact",
+        "spaces",
+        "economic development",
+        "large portion",
+        "has recognized",
+        "revenue",
+        "portion",
+        "conclusion",
+        "impact on environment",
+        "wildlife",
+        "individuals",
+        "seating",
+        "planned street",
+        "public spaces",
+        "Public buildings",
+        "residents",
+        "development",
+        "economically sustainable",
+        "has long recognized as powerful force",
+        "construction",
+        "iconic buildings",
+        "potential",
+        "ancient civilizations to cities",
+        "profound impact on quality of life",
+        "architecture",
+        "civilizations",
+        "sense of pride",
+        "profound impact on quality of life of residents",
+        "designed with quality materials",
+        "ancient civilizations",
+        "housing",
+        "public buildings",
+        "has recognized as powerful force",
+        "depending architectural style chosen",
+        "isolation",
+        "just their value",
+        "sleek lines",
+        "air quality",
+        "grand columns",
+        "innovation",
+        "example",
+        "designed",
+        "values",
+        "ancient civilizations to modern cities",
+        "aspect of society",
+        "way people",
+        "portion of global energy consumption",
+        "Australia",
+        "role",
+        "essay",
+        "shapes",
+        "investment",
+        "barriers to connectivity",
+        "symbols of society 's values",
+        "carbon footprint of environment",
+        "well designed",
+        "their symbolic value",
+        "houses",
+        "homes",
+        "depending architectural style",
+        "society",
+        "their value",
+        "connectivity",
+        "designed with high quality materials",
+        "carbon footprint",
+        "it",
+        "major tourist attractions",
+        "ways",
+        "development of society",
+        "has long recognized as force",
+        "impact on quality",
+        "tourism",
+        "civilizations to cities",
+        "visitors",
+        "jobs",
+        "designed buildings",
+        "large portion of energy consumption",
+        "revenue for their cities",
+        "we",
+        "civilizations to modern cities",
+        "heat islands",
+        "buildings",
+        "has recognized as force",
+        "urban spaces",
+        "large portion of global energy consumption",
+        "community engagement",
+        "people",
+        "design",
+        "well designed with quality materials",
+        "sense",
+        "portion of energy consumption",
+        "significant impact on environment",
+        "crucial role",
+        "revenue for their respective cities",
+        "Sydney Opera House",
+        "symbols",
+        "street",
+        "character",
+        "tourist attractions",
+        "effects of climate change",
+        "various ways",
+        "has long recognized",
+        "impact on quality of life",
+        "its development",
+        "impact",
+        "just their symbolic value",
+        "sense of power"
+    ],
+    "relations": [
+        [
+            "Architecture",
+            "has",
+            "has long recognized"
+        ],
+        [
+            "Architecture",
+            "has",
+            "has recognized as powerful force"
+        ],
+        [
+            "Architecture",
+            "has",
+            "has long recognized as powerful force"
+        ],
+        [
+            "Architecture",
+            "has",
+            "has long recognized as force"
+        ],
+        [
+            "Architecture",
+            "has",
+            "has recognized"
+        ],
+        [
+            "Architecture",
+            "has",
+            "has recognized as force"
+        ],
+        [
+            "architecture",
+            "has played role From",
+            "ancient civilizations to cities"
+        ],
+        [
+            "architecture",
+            "has played role From",
+            "civilizations to modern cities"
+        ],
+        [
+            "architecture",
+            "has played role From",
+            "civilizations"
+        ],
+        [
+            "crucial role",
+            "is in",
+            "defining"
+        ],
+        [
+            "architecture",
+            "has played",
+            "crucial role"
+        ],
+        [
+            "character",
+            "influencing",
+            "its development"
+        ],
+        [
+            "architecture",
+            "has played",
+            "role"
+        ],
+        [
+            "architecture",
+            "has played role From",
+            "ancient civilizations to modern cities"
+        ],
+        [
+            "architecture",
+            "has played role From",
+            "ancient civilizations"
+        ],
+        [
+            "architecture",
+            "has played role From",
+            "civilizations to cities"
+        ],
+        [
+            "we",
+            "will explore",
+            "various ways"
+        ],
+        [
+            "it",
+            "has on",
+            "individuals"
+        ],
+        [
+            "we",
+            "will explore ways In",
+            "essay"
+        ],
+        [
+            "society",
+            "architecture",
+            "impact"
+        ],
+        [
+            "we",
+            "will explore",
+            "ways"
+        ],
+        [
+            "architecture",
+            "influences",
+            "society"
+        ],
+        [
+            "architecture",
+            "influences",
+            "society"
+        ],
+        [
+            "Public buildings",
+            "serve as",
+            "symbols of society 's values"
+        ],
+        [
+            "society",
+            "of",
+            "values"
+        ],
+        [
+            "buildings",
+            "serve as",
+            "symbols of society 's values"
+        ],
+        [
+            "buildings",
+            "serve as",
+            "symbols"
+        ],
+        [
+            "Public buildings",
+            "serve as",
+            "symbols"
+        ],
+        [
+            "design",
+            "can convey sense depending",
+            "depending style"
+        ],
+        [
+            "design",
+            "can convey sense depending",
+            "depending architectural style chosen"
+        ],
+        [
+            "sense",
+            "design of",
+            "buildings"
+        ],
+        [
+            "design",
+            "can convey sense depending",
+            "depending architectural style"
+        ],
+        [
+            "design",
+            "can convey sense depending",
+            "depending style chosen"
+        ],
+        [
+            "design",
+            "can convey",
+            "sense"
+        ],
+        [
+            "design",
+            "can convey",
+            "sense of authority"
+        ],
+        [
+            "modernist library",
+            "is with",
+            "sleek lines"
+        ],
+        [
+            "modernist library",
+            "may signal",
+            "innovation"
+        ],
+        [
+            "government building",
+            "may project",
+            "sense of power"
+        ],
+        [
+            "government building",
+            "is with",
+            "grand columns"
+        ],
+        [
+            "innovation",
+            "library",
+            "openness"
+        ],
+        [
+            "government building",
+            "may project",
+            "sense"
+        ],
+        [
+            "government building",
+            "may project sense For",
+            "example"
+        ],
+        [
+            "buildings",
+            "shape Beyond",
+            "their symbolic value"
+        ],
+        [
+            "buildings",
+            "shape Beyond",
+            "their value"
+        ],
+        [
+            "buildings",
+            "also shape Beyond",
+            "just their symbolic value"
+        ],
+        [
+            "public buildings",
+            "shape Beyond",
+            "their symbolic value"
+        ],
+        [
+            "buildings",
+            "also shape Beyond",
+            "their value"
+        ],
+        [
+            "public buildings",
+            "also shape Beyond",
+            "their symbolic value"
+        ],
+        [
+            "public buildings",
+            "also shape Beyond",
+            "just their symbolic value"
+        ],
+        [
+            "way people",
+            "interact with",
+            "their surroundings"
+        ],
+        [
+            "buildings",
+            "also shape Beyond",
+            "just their value"
+        ],
+        [
+            "public buildings",
+            "also shape Beyond",
+            "their value"
+        ],
+        [
+            "buildings",
+            "shape Beyond",
+            "just their symbolic value"
+        ],
+        [
+            "public buildings",
+            "shape Beyond",
+            "their value"
+        ],
+        [
+            "public buildings",
+            "shape Beyond",
+            "just their value"
+        ],
+        [
+            "buildings",
+            "also shape Beyond",
+            "their symbolic value"
+        ],
+        [
+            "public buildings",
+            "also shape Beyond",
+            "just their value"
+        ],
+        [
+            "public buildings",
+            "shape Beyond",
+            "just their symbolic value"
+        ],
+        [
+            "buildings",
+            "shape Beyond",
+            "just their value"
+        ],
+        [
+            "people",
+            "experience",
+            "spaces"
+        ],
+        [
+            "people",
+            "experience",
+            "urban spaces"
+        ],
+        [
+            "interaction",
+            "park",
+            "community engagement"
+        ],
+        [
+            "street",
+            "barriers to",
+            "connectivity"
+        ],
+        [
+            "planned street",
+            "can create",
+            "barriers"
+        ],
+        [
+            "planned street",
+            "is with",
+            "narrow sidewalks"
+        ],
+        [
+            "social interaction",
+            "park",
+            "community engagement"
+        ],
+        [
+            "designed park",
+            "is with",
+            "seating"
+        ],
+        [
+            "street",
+            "can create",
+            "barriers to connectivity"
+        ],
+        [
+            "interaction",
+            "designed park",
+            "community engagement"
+        ],
+        [
+            "social interaction",
+            "designed park",
+            "community engagement"
+        ],
+        [
+            "planned street",
+            "can create",
+            "barriers to connectivity"
+        ],
+        [
+            "interaction",
+            "well designed park",
+            "community engagement"
+        ],
+        [
+            "social interaction",
+            "well designed park",
+            "community engagement"
+        ],
+        [
+            "street",
+            "can create",
+            "barriers"
+        ],
+        [
+            "planned street",
+            "barriers to",
+            "connectivity"
+        ],
+        [
+            "architecture",
+            "also plays role In",
+            "public spaces"
+        ],
+        [
+            "architecture",
+            "plays role In",
+            "spaces"
+        ],
+        [
+            "architecture",
+            "plays",
+            "crucial role"
+        ],
+        [
+            "architecture",
+            "also plays",
+            "role"
+        ],
+        [
+            "architecture",
+            "plays role In",
+            "public spaces"
+        ],
+        [
+            "architecture",
+            "also plays",
+            "crucial role"
+        ],
+        [
+            "architecture",
+            "plays",
+            "role"
+        ],
+        [
+            "architecture",
+            "also plays role In",
+            "spaces"
+        ],
+        [
+            "design",
+            "can have",
+            "impact on quality of life of residents"
+        ],
+        [
+            "design",
+            "can have",
+            "profound impact on quality of life"
+        ],
+        [
+            "profound impact",
+            "design of",
+            "homes"
+        ],
+        [
+            "design",
+            "can have",
+            "profound impact on quality"
+        ],
+        [
+            "design",
+            "can have",
+            "impact on quality"
+        ],
+        [
+            "design",
+            "can have",
+            "impact"
+        ],
+        [
+            "design",
+            "can have",
+            "profound impact on quality of life of residents"
+        ],
+        [
+            "design",
+            "can have",
+            "impact on quality of life"
+        ],
+        [
+            "design",
+            "can have",
+            "profound impact"
+        ],
+        [
+            "impact",
+            "design of",
+            "homes"
+        ],
+        [
+            "sense",
+            "houses",
+            "designed with quality materials"
+        ],
+        [
+            "houses",
+            "can promote sense among",
+            "residents"
+        ],
+        [
+            "sense",
+            "houses",
+            "designed"
+        ],
+        [
+            "houses",
+            "can promote sense For",
+            "example"
+        ],
+        [
+            "sense",
+            "houses",
+            "designed with high quality materials"
+        ],
+        [
+            "sense",
+            "houses",
+            "well designed with quality materials"
+        ],
+        [
+            "houses",
+            "can promote",
+            "sense"
+        ],
+        [
+            "sense",
+            "houses",
+            "well designed"
+        ],
+        [
+            "houses",
+            "can promote",
+            "sense of pride"
+        ],
+        [
+            "sense",
+            "houses",
+            "well designed with high quality materials"
+        ],
+        [
+            "housing",
+            "can contribute to",
+            "isolation"
+        ],
+        [
+            "dilapidated housing",
+            "can contribute to",
+            "isolation"
+        ],
+        [
+            "dilapidated housing",
+            "can contribute to",
+            "social isolation"
+        ],
+        [
+            "housing",
+            "can contribute to",
+            "social isolation"
+        ],
+        [
+            "architecture",
+            "Furthermore can also influence",
+            "development"
+        ],
+        [
+            "architecture",
+            "can also influence",
+            "economic development of society"
+        ],
+        [
+            "architecture",
+            "Furthermore can influence",
+            "development"
+        ],
+        [
+            "architecture",
+            "Furthermore can also influence",
+            "economic development"
+        ],
+        [
+            "architecture",
+            "Furthermore can also influence",
+            "development of society"
+        ],
+        [
+            "architecture",
+            "Furthermore can influence",
+            "economic development of society"
+        ],
+        [
+            "architecture",
+            "can also influence",
+            "development"
+        ],
+        [
+            "architecture",
+            "can influence",
+            "economic development of society"
+        ],
+        [
+            "architecture",
+            "can influence",
+            "development of society"
+        ],
+        [
+            "architecture",
+            "Furthermore can also influence",
+            "economic development of society"
+        ],
+        [
+            "architecture",
+            "can influence",
+            "economic development"
+        ],
+        [
+            "architecture",
+            "Furthermore can influence",
+            "economic development"
+        ],
+        [
+            "architecture",
+            "can influence",
+            "development"
+        ],
+        [
+            "architecture",
+            "can also influence",
+            "economic development"
+        ],
+        [
+            "architecture",
+            "can also influence",
+            "development of society"
+        ],
+        [
+            "architecture",
+            "Furthermore can influence",
+            "development of society"
+        ],
+        [
+            "buildings",
+            "can attract",
+            "investment"
+        ],
+        [
+            "infrastructure",
+            "boosting",
+            "local economy"
+        ],
+        [
+            "infrastructure",
+            "can attract",
+            "investment"
+        ],
+        [
+            "investment",
+            "Well designed buildings",
+            "tourism"
+        ],
+        [
+            "investment",
+            "infrastructure",
+            "tourism"
+        ],
+        [
+            "investment",
+            "designed buildings",
+            "tourism"
+        ],
+        [
+            "infrastructure",
+            "boosting",
+            "economy"
+        ],
+        [
+            "infrastructure",
+            "creating",
+            "jobs"
+        ],
+        [
+            "investment",
+            "buildings",
+            "tourism"
+        ],
+        [
+            "designed buildings",
+            "can attract",
+            "investment"
+        ],
+        [
+            "Burj Khalifa",
+            "is in",
+            "Dubai"
+        ],
+        [
+            "buildings",
+            "have become For",
+            "example"
+        ],
+        [
+            "iconic buildings",
+            "have become For",
+            "example"
+        ],
+        [
+            "Sydney Opera House",
+            "is in",
+            "Australia"
+        ],
+        [
+            "visitors",
+            "generating",
+            "revenue for their cities"
+        ],
+        [
+            "iconic buildings",
+            "have become",
+            "tourist attractions"
+        ],
+        [
+            "buildings",
+            "have become",
+            "major tourist attractions"
+        ],
+        [
+            "visitors",
+            "generating",
+            "revenue for their respective cities"
+        ],
+        [
+            "buildings",
+            "have become",
+            "tourist attractions"
+        ],
+        [
+            "iconic buildings",
+            "have become",
+            "major tourist attractions"
+        ],
+        [
+            "visitors",
+            "generating",
+            "revenue"
+        ],
+        [
+            "architecture",
+            "can have",
+            "significant impact"
+        ],
+        [
+            "architecture",
+            "can also have",
+            "impact"
+        ],
+        [
+            "architecture",
+            "can have",
+            "impact on environment"
+        ],
+        [
+            "architecture",
+            "Moreover can also have",
+            "significant impact"
+        ],
+        [
+            "architecture",
+            "Moreover can also have",
+            "significant impact on environment"
+        ],
+        [
+            "architecture",
+            "Moreover can have",
+            "significant impact"
+        ],
+        [
+            "architecture",
+            "Moreover can have",
+            "significant impact on environment"
+        ],
+        [
+            "architecture",
+            "Moreover can have",
+            "impact on environment"
+        ],
+        [
+            "architecture",
+            "Moreover can also have",
+            "impact on environment"
+        ],
+        [
+            "architecture",
+            "Moreover can have",
+            "impact"
+        ],
+        [
+            "architecture",
+            "can also have",
+            "impact on environment"
+        ],
+        [
+            "architecture",
+            "can also have",
+            "significant impact on environment"
+        ],
+        [
+            "architecture",
+            "can have",
+            "significant impact on environment"
+        ],
+        [
+            "architecture",
+            "can have",
+            "impact"
+        ],
+        [
+            "architecture",
+            "Moreover can also have",
+            "impact"
+        ],
+        [
+            "architecture",
+            "can also have",
+            "significant impact"
+        ],
+        [
+            "construction",
+            "account for",
+            "portion of global energy consumption"
+        ],
+        [
+            "construction",
+            "account for",
+            "portion"
+        ],
+        [
+            "design",
+            "account for",
+            "portion"
+        ],
+        [
+            "design",
+            "account for",
+            "large portion"
+        ],
+        [
+            "construction",
+            "account for",
+            "portion of energy consumption"
+        ],
+        [
+            "design",
+            "account for",
+            "portion of energy consumption"
+        ],
+        [
+            "construction",
+            "account for",
+            "large portion of energy consumption"
+        ],
+        [
+            "design",
+            "account for",
+            "portion of global energy consumption"
+        ],
+        [
+            "design",
+            "account for",
+            "large portion of global energy consumption"
+        ],
+        [
+            "construction",
+            "account for",
+            "large portion of global energy consumption"
+        ],
+        [
+            "construction",
+            "account for",
+            "large portion"
+        ],
+        [
+            "design",
+            "account for",
+            "large portion of energy consumption"
+        ],
+        [
+            "architects",
+            "reduce",
+            "carbon footprint of built environment"
+        ],
+        [
+            "architects",
+            "reduce",
+            "carbon footprint"
+        ],
+        [
+            "architects",
+            "reduce",
+            "carbon footprint of environment"
+        ],
+        [
+            "carbon footprint",
+            "mitigate",
+            "effects of climate change"
+        ],
+        [
+            "carbon footprint",
+            "mitigate",
+            "effects"
+        ],
+        [
+            "air quality",
+            "reduce",
+            "urban heat islands"
+        ],
+        [
+            "air quality",
+            "provide",
+            "habitat"
+        ],
+        [
+            "air quality",
+            "reduce",
+            "heat islands"
+        ],
+        [
+            "air quality",
+            "provide habitat for",
+            "wildlife"
+        ],
+        [
+            "architecture",
+            "is",
+            "force"
+        ],
+        [
+            "powerful force",
+            "is In",
+            "conclusion"
+        ],
+        [
+            "architecture",
+            "is powerful force In",
+            "conclusion"
+        ],
+        [
+            "architecture",
+            "is",
+            "powerful force"
+        ],
+        [
+            "architecture",
+            "is force In",
+            "conclusion"
+        ],
+        [
+            "architecture",
+            "is powerful",
+            "shapes"
+        ],
+        [
+            "architecture",
+            "influences",
+            "aspect of society"
+        ],
+        [
+            "we",
+            "can work",
+            "sustainable"
+        ],
+        [
+            "we",
+            "can work",
+            "economically sustainable"
+        ],
+        [
+            "architecture",
+            "Ultimately has",
+            "potential"
+        ],
+        [
+            "architecture",
+            "has",
+            "potential"
+        ]
+    ],
+    "edges": [
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has played role From",
+        "has played role From",
+        "has played role From",
+        "is in",
+        "has played",
+        "influencing",
+        "has played",
+        "has played role From",
+        "has played role From",
+        "has played role From",
+        "will explore",
+        "has on",
+        "will explore ways In",
+        "architecture",
+        "will explore",
+        "influences",
+        "influences",
+        "serve as",
+        "of",
+        "serve as",
+        "serve as",
+        "serve as",
+        "can convey sense depending",
+        "can convey sense depending",
+        "design of",
+        "can convey sense depending",
+        "can convey sense depending",
+        "can convey",
+        "can convey",
+        "is with",
+        "may signal",
+        "may project",
+        "is with",
+        "library",
+        "may project",
+        "may project sense For",
+        "shape Beyond",
+        "shape Beyond",
+        "also shape Beyond",
+        "shape Beyond",
+        "also shape Beyond",
+        "also shape Beyond",
+        "also shape Beyond",
+        "interact with",
+        "also shape Beyond",
+        "also shape Beyond",
+        "shape Beyond",
+        "shape Beyond",
+        "shape Beyond",
+        "also shape Beyond",
+        "also shape Beyond",
+        "shape Beyond",
+        "shape Beyond",
+        "experience",
+        "experience",
+        "park",
+        "barriers to",
+        "can create",
+        "is with",
+        "park",
+        "is with",
+        "can create",
+        "designed park",
+        "designed park",
+        "can create",
+        "well designed park",
+        "well designed park",
+        "can create",
+        "barriers to",
+        "also plays role In",
+        "plays role In",
+        "plays",
+        "also plays",
+        "plays role In",
+        "also plays",
+        "plays",
+        "also plays role In",
+        "can have",
+        "can have",
+        "design of",
+        "can have",
+        "can have",
+        "can have",
+        "can have",
+        "can have",
+        "can have",
+        "design of",
+        "houses",
+        "can promote sense among",
+        "houses",
+        "can promote sense For",
+        "houses",
+        "houses",
+        "can promote",
+        "houses",
+        "can promote",
+        "houses",
+        "can contribute to",
+        "can contribute to",
+        "can contribute to",
+        "can contribute to",
+        "Furthermore can also influence",
+        "can also influence",
+        "Furthermore can influence",
+        "Furthermore can also influence",
+        "Furthermore can also influence",
+        "Furthermore can influence",
+        "can also influence",
+        "can influence",
+        "can influence",
+        "Furthermore can also influence",
+        "can influence",
+        "Furthermore can influence",
+        "can influence",
+        "can also influence",
+        "can also influence",
+        "Furthermore can influence",
+        "can attract",
+        "boosting",
+        "can attract",
+        "Well designed buildings",
+        "infrastructure",
+        "designed buildings",
+        "boosting",
+        "creating",
+        "buildings",
+        "can attract",
+        "is in",
+        "have become For",
+        "have become For",
+        "is in",
+        "generating",
+        "have become",
+        "have become",
+        "generating",
+        "have become",
+        "have become",
+        "generating",
+        "can have",
+        "can also have",
+        "can have",
+        "Moreover can also have",
+        "Moreover can also have",
+        "Moreover can have",
+        "Moreover can have",
+        "Moreover can have",
+        "Moreover can also have",
+        "Moreover can have",
+        "can also have",
+        "can also have",
+        "can have",
+        "can have",
+        "Moreover can also have",
+        "can also have",
+        "account for",
+        "account for",
+        "account for",
+        "account for",
+        "account for",
+        "account for",
+        "account for",
+        "account for",
+        "account for",
+        "account for",
+        "account for",
+        "account for",
+        "reduce",
+        "reduce",
+        "reduce",
+        "mitigate",
+        "mitigate",
+        "reduce",
+        "provide",
+        "reduce",
+        "provide habitat for",
+        "is",
+        "is In",
+        "is powerful force In",
+        "is",
+        "is force In",
+        "is powerful",
+        "influences",
+        "can work",
+        "can work",
+        "Ultimately has",
+        "has"
+    ]
+}

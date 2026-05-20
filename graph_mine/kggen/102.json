@@ -1,0 +1,464 @@
+{
+  "entities": [
+    "abilities",
+    "active engagement",
+    "adults",
+    "ages",
+    "alzheimer's disease",
+    "analytical skills",
+    "analyzing",
+    "areas",
+    "brain",
+    "children",
+    "cognition",
+    "cognitive abilities",
+    "cognitive development",
+    "cognitive functions",
+    "communication",
+    "components",
+    "concentration",
+    "conclusion",
+    "coordination",
+    "critical thinking",
+    "culture",
+    "decoding",
+    "detect",
+    "discipline",
+    "disorders",
+    "effects",
+    "emotional development",
+    "emotional intelligence",
+    "emotional responses",
+    "empathy",
+    "engage",
+    "enhance",
+    "entertainment",
+    "essay",
+    "excitement",
+    "expression",
+    "functioning",
+    "impact",
+    "individuals",
+    "influence",
+    "integral",
+    "interpret",
+    "joy",
+    "language development",
+    "language skills",
+    "memory",
+    "memory formation",
+    "memory retention",
+    "music",
+    "music therapy",
+    "musical patterns",
+    "nostalgia",
+    "passive listening",
+    "pattern recognition",
+    "playing an instrument",
+    "positive",
+    "prey",
+    "problem-solving skills",
+    "produce",
+    "profound",
+    "recall",
+    "relationship",
+    "researchers",
+    "retrieval",
+    "rhythms",
+    "sadness",
+    "sharks",
+    "singing",
+    "skills",
+    "sound patterns",
+    "spatial reasoning",
+    "speech",
+    "tool",
+    "transfer",
+    "understand"
+  ],
+  "relations": [
+    [
+      "active engagement",
+      "with",
+      "music"
+    ],
+    [
+      "brain",
+      "involved in",
+      "memory formation"
+    ],
+    [
+      "brain",
+      "involved in",
+      "retrieval"
+    ],
+    [
+      "children",
+      "improve",
+      "produce"
+    ],
+    [
+      "children",
+      "improve",
+      "understand"
+    ],
+    [
+      "children",
+      "strengthen",
+      "language skills"
+    ],
+    [
+      "cognitive functions",
+      "related to",
+      "pattern recognition"
+    ],
+    [
+      "cognitive functions",
+      "related to",
+      "problem-solving skills"
+    ],
+    [
+      "cognitive functions",
+      "related to",
+      "spatial reasoning"
+    ],
+    [
+      "disorders",
+      "such as",
+      "alzheimer's disease"
+    ],
+    [
+      "effects",
+      "enhance",
+      "memory"
+    ],
+    [
+      "effects",
+      "of",
+      "music"
+    ],
+    [
+      "effects",
+      "on",
+      "cognitive development"
+    ],
+    [
+      "emotional responses",
+      "ranging from",
+      "excitement"
+    ],
+    [
+      "emotional responses",
+      "ranging from",
+      "joy"
+    ],
+    [
+      "emotional responses",
+      "ranging from",
+      "nostalgia"
+    ],
+    [
+      "emotional responses",
+      "ranging from",
+      "sadness"
+    ],
+    [
+      "essay",
+      "delve into",
+      "influence"
+    ],
+    [
+      "impact",
+      "on",
+      "children"
+    ],
+    [
+      "impact",
+      "on",
+      "cognitive development"
+    ],
+    [
+      "individuals",
+      "analyzing",
+      "musical patterns"
+    ],
+    [
+      "individuals",
+      "decoding",
+      "musical patterns"
+    ],
+    [
+      "individuals",
+      "develop",
+      "emotional intelligence"
+    ],
+    [
+      "individuals",
+      "develop",
+      "empathy"
+    ],
+    [
+      "individuals",
+      "engage with",
+      "music"
+    ],
+    [
+      "individuals",
+      "enhance",
+      "cognitive abilities"
+    ],
+    [
+      "individuals",
+      "improve",
+      "functioning"
+    ],
+    [
+      "individuals",
+      "interpret",
+      "musical patterns"
+    ],
+    [
+      "individuals",
+      "use",
+      "analytical skills"
+    ],
+    [
+      "individuals",
+      "use",
+      "critical thinking"
+    ],
+    [
+      "music",
+      "enhance",
+      "memory retention"
+    ],
+    [
+      "music",
+      "enhance",
+      "problem-solving skills"
+    ],
+    [
+      "music",
+      "enhance",
+      "recall"
+    ],
+    [
+      "music",
+      "evoke",
+      "emotional responses"
+    ],
+    [
+      "music",
+      "has been",
+      "integral"
+    ],
+    [
+      "music",
+      "impact on",
+      "cognitive development"
+    ],
+    [
+      "music",
+      "impact on",
+      "emotional development"
+    ],
+    [
+      "music",
+      "impact on",
+      "language development"
+    ],
+    [
+      "music",
+      "impact on",
+      "language skills"
+    ],
+    [
+      "music",
+      "improve",
+      "cognitive functions"
+    ],
+    [
+      "music",
+      "influence",
+      "cognitive abilities"
+    ],
+    [
+      "music",
+      "influence",
+      "language skills"
+    ],
+    [
+      "music",
+      "influence",
+      "memory"
+    ],
+    [
+      "music",
+      "influence",
+      "problem-solving skills"
+    ],
+    [
+      "music",
+      "influencing",
+      "emotional intelligence"
+    ],
+    [
+      "music",
+      "influencing",
+      "language skills"
+    ],
+    [
+      "music",
+      "influencing",
+      "memory"
+    ],
+    [
+      "music",
+      "influencing",
+      "problem-solving skills"
+    ],
+    [
+      "music",
+      "involves",
+      "rhythms"
+    ],
+    [
+      "music",
+      "involves",
+      "sound patterns"
+    ],
+    [
+      "music",
+      "part of",
+      "culture"
+    ],
+    [
+      "music",
+      "serving as",
+      "communication"
+    ],
+    [
+      "music",
+      "serving as",
+      "entertainment"
+    ],
+    [
+      "music",
+      "serving as",
+      "expression"
+    ],
+    [
+      "music",
+      "stimulates",
+      "brain"
+    ],
+    [
+      "music",
+      "tool for",
+      "cognitive development"
+    ],
+    [
+      "music therapy",
+      "used as",
+      "tool"
+    ],
+    [
+      "passive listening",
+      "not limited to",
+      "music"
+    ],
+    [
+      "playing an instrument",
+      "requires",
+      "concentration"
+    ],
+    [
+      "playing an instrument",
+      "requires",
+      "coordination"
+    ],
+    [
+      "playing an instrument",
+      "requires",
+      "discipline"
+    ],
+    [
+      "relationship",
+      "between",
+      "cognition"
+    ],
+    [
+      "researchers",
+      "explore",
+      "impact"
+    ],
+    [
+      "rhythms",
+      "are",
+      "components"
+    ],
+    [
+      "skills",
+      "transfer to",
+      "areas"
+    ],
+    [
+      "sound patterns",
+      "are",
+      "components"
+    ],
+    [
+      "tool",
+      "for",
+      "ages"
+    ],
+    [
+      "tool",
+      "for",
+      "individuals"
+    ],
+    [
+      "tool",
+      "help",
+      "disorders"
+    ]
+  ],
+  "edges": [
+    "analyzing",
+    "are",
+    "between",
+    "decoding",
+    "delve into",
+    "develop",
+    "engage with",
+    "enhance",
+    "evoke",
+    "explore",
+    "for",
+    "has been",
+    "help",
+    "impact on",
+    "improve",
+    "influence",
+    "influencing",
+    "interpret",
+    "involved in",
+    "involves",
+    "not limited to",
+    "of",
+    "on",
+    "part of",
+    "ranging from",
+    "related to",
+    "requires",
+    "serving as",
+    "stimulates",
+    "strengthen",
+    "such as",
+    "tool for",
+    "transfer to",
+    "use",
+    "used as",
+    "with"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "People have been fascinated by the supernatural for centuries.",
+    "retrieved_context": "supernatural fascinated people ghosts. ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "One of the most enduring beliefs is in ghosts.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. afterlife possibility of existence. afterlife beyond physical body.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Some dismiss the idea of ghosts as pure fiction or superstition.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. supernatural fascinated people ghosts. ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "There are many who firmly believe in the existence of ghosts.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. skeptics dismiss superstitions. skeptics attribute to tricks. skeptics dismiss illusions. skeptics attribute to environmental factors. skeptics attribute to mind.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The reasons why people believe in ghosts are complex and varied.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. supernatural fascinated people ghosts. ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. skeptics dismiss superstitions. skeptics attribute to tricks. skeptics dismiss illusions. skeptics attribute to environmental factors. skeptics attribute to mind.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "One main reason is the prevalence of ghost stories and legends in various cultures.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. perceptions shaped by supernatural. cultural beliefs influence perceptions. cultural beliefs influence supernatural occurrences.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Ghost stories are often passed down through generations.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. stories create believability. stories prevalence in cultures. stories create familiarity.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The portrayal of ghosts in popular culture reinforces the idea that ghosts are real.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. supernatural fascinated people ghosts. ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. perceptions shaped by supernatural. cultural beliefs influence perceptions. cultural beliefs influence supernatural occurrences.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Exposure to ghost stories from a young age can shape a person's beliefs.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. perceptions shaped by supernatural. cultural beliefs influence perceptions. cultural beliefs influence supernatural occurrences.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "People seek explanations for the unexplained, leading some to turn to the supernatural.",
+    "retrieved_context": "supernatural fascinated people ghosts. ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Believing in ghosts can provide comfort and reassurance.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. afterlife possibility of existence. afterlife beyond physical body.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Personal experiences with spirits or paranormal entities shape beliefs in ghosts.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. experiences intensely real. experiences lead to beliefs.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Psychological factors like fear of the unknown contribute to belief in ghosts.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. fear of unknown. skeptics dismiss superstitions. skeptics attribute to tricks. skeptics dismiss illusions. skeptics attribute to environmental factors. skeptics attribute to mind.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Cultural and religious beliefs influence perceptions of the supernatural and ghosts.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. perceptions shaped by supernatural. cultural beliefs influence perceptions. cultural beliefs influence supernatural occurrences. supernatural fascinated people ghosts. ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The belief in ghosts is influenced by a combination of cultural, psychological, and personal factors.",
+    "retrieved_context": "ghosts believe in existence. ghosts dismissed as fiction. ghosts dismissed as superstition. perceptions shaped by supernatural. cultural beliefs influence perceptions. cultural beliefs influence supernatural occurrences.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "26.67%"
+  }
+]

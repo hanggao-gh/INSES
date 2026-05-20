@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Roller coasters are thrilling amusement park rides.",
+    "retrieved_context": "Roller coasters providing riders. riders may may focused on excitement. Roller coasters reach velocities. Roller coasters rely on conservation of mechanical energy. Roller coasters reach velocities during drops. riders experience during drop. riders is with exhilarating experience of twists. Roller coasters provide experience. Roller coasters provide exciting experience. Roller coasters providing riders with sense. Roller coasters rely on conservation. riders may While may focused. Roller coasters rely on conservation of energy. Roller coasters providing riders with sense of speed. Roller coasters reach high velocities. riders may may focused. riders may While may focused on excitement. fascinating subject is In conclusion. roller coasters physics of is fascinating subject. roller coasters physics of is In conclusion subject. roller coasters physics of is In conclusion fascinating subject. roller coasters physics of is subject. Roller Coasters Roller coasters Physics of are thrilling amusement park. Roller Coasters Roller coasters Physics of are amusement park. roller coaster is in when motion including gravitational force. roller coaster is in motion including force. roller coaster is in motion. roller coaster is in when motion including force. roller coaster is in motion including gravitational force. roller coaster is in when motion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters provide riders with an exhilarating experience of twists, turns, drops, and loops.",
+    "retrieved_context": "Roller coasters providing riders. riders may may focused on excitement. Roller coasters reach velocities. Roller coasters rely on conservation of mechanical energy. Roller coasters reach velocities during drops. riders experience during drop. riders is with exhilarating experience of twists. Roller coasters provide experience. Roller coasters provide exciting experience. Roller coasters providing riders with sense. Roller coasters rely on conservation. riders may While may focused. Roller coasters rely on conservation of energy. Roller coasters providing riders with sense of speed. Roller coasters reach high velocities. riders may may focused. riders may While may focused on excitement. fascinating subject is In conclusion. roller coasters physics of is fascinating subject. roller coasters physics of is In conclusion subject. roller coasters physics of is In conclusion fascinating subject. roller coasters physics of is subject. Roller Coasters Roller coasters Physics of are thrilling amusement park. Roller Coasters Roller coasters Physics of are amusement park. roller coaster is in when motion including gravitational force. roller coaster is in motion including force. roller coaster is in motion. roller coaster is in when motion including force. roller coaster is in motion including gravitational force. roller coaster is in when motion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Roller coasters are a fascinating example of physics in action.",
+    "retrieved_context": "Roller coasters providing riders. riders may may focused on excitement. Roller coasters reach velocities. Roller coasters rely on conservation of mechanical energy. Roller coasters reach velocities during drops. riders experience during drop. riders is with exhilarating experience of twists. Roller coasters provide experience. Roller coasters provide exciting experience. Roller coasters providing riders with sense. Roller coasters rely on conservation. riders may While may focused. Roller coasters rely on conservation of energy. Roller coasters providing riders with sense of speed. Roller coasters reach high velocities. riders may may focused. riders may While may focused on excitement. fascinating subject is In conclusion. roller coasters physics of is fascinating subject. roller coasters physics of is In conclusion subject. roller coasters physics of is In conclusion fascinating subject. roller coasters physics of is subject.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Forces play a key role in the physics of roller coasters.",
+    "retrieved_context": "roller coaster is in when motion including gravitational force. roller coaster is in motion including force. roller coaster is in motion. roller coaster is in when motion including force. roller coaster is in motion including gravitational force. roller coaster is in when motion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Gravitational force pulls objects toward the center of the Earth.",
+    "retrieved_context": "force maintain speed around curve. Gravitational force is force. force maintain constant speed. force all contribute to acceleration. force contribute to acceleration of car. force is responsible. force is always directed toward center of circular path. force is directed. force is directed toward center of path. force is always directed. force must must equal to force. force maintain speed. force is directed toward center. force maintain constant speed around curve. force must must equal. force is force. force must must equal to gravitational force. gravity pulls it. it plays role in motion of roller coaster. it navigates track. it positive and negative effects on roller coaster ride. it plays significant role. it is created by track pushing. it can have positive effects on roller coaster ride. it can have effects on roller coaster ride. it is created by track pushing against car. it can have positive effects. it plays role. it plays role in thrill. it plays role in thrill of roller coaster ride. it plays key role. it plays role in motion. it can have effects. acceleration creates sensation. acceleration creates sensation of weightlessness. forces all contribute to acceleration of car. forces all contribute to acceleration. force maintain speed around curve. acceleration creates sensation of weightlessness. force maintain constant speed. force all contribute to acceleration. force contribute to acceleration of car. acceleration creates sensation. force is responsible. force is always directed toward center of circular path. force is directed. force is directed toward center of path. force is always directed. force must must equal to force. force maintain speed. force is directed toward center. force maintain constant speed around curve. force must must equal. force is force. force must must equal to gravitational force.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Gravity causes the roller coaster car to accelerate as it descends.",
+    "retrieved_context": "roller coaster car speeds changes direction. roller coaster car goes over top of hill. roller coaster car goes over top.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Centripetal force keeps the roller coaster car on the track during curves and loops.",
+    "retrieved_context": "roller coaster car speeds changes direction. roller coaster car goes over top of hill. roller coaster car goes over top.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Friction can have both positive and negative effects on a roller coaster ride.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Roller coasters rely on the conservation of mechanical energy.",
+    "retrieved_context": "roller coaster is in when motion including gravitational force. roller coaster is in motion including force. roller coaster is in motion. roller coaster is in when motion including force. roller coaster is in motion including gravitational force. roller coaster is in when motion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Potential energy is converted into kinetic energy as the roller coaster car descends a hill.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Acceleration is the rate of change of velocity.",
+    "retrieved_context": "acceleration creates sensation. acceleration creates sensation of weightlessness. Acceleration is rate of change. Acceleration is rate. Acceleration is rate of change of velocity. Velocity is speed. Velocity is speed on other hand. Velocity is on hand speed of object 's motion. Velocity is speed of object 's motion. Velocity is speed on hand. Velocity is on other hand speed of object 's motion.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Riders experience acceleration when the roller coaster car speeds up, slows down, or changes direction.",
+    "retrieved_context": "roller coaster car speeds changes direction.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Velocity is the speed and direction of an object's motion.",
+    "retrieved_context": "Velocity is speed. Velocity is speed on other hand. Velocity is on hand speed of object 's motion. Velocity is speed of object 's motion. Velocity is speed on hand. Velocity is on other hand speed of object 's motion.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Roller coasters reach high velocities during drops and loops.",
+    "retrieved_context": "roller coaster car speeds changes direction. Roller coasters providing riders. riders may may focused on excitement. Roller coasters reach velocities. Roller coasters rely on conservation of mechanical energy. Roller coasters reach velocities during drops. riders experience during drop. riders is with exhilarating experience of twists. Roller coasters provide experience. Roller coasters provide exciting experience. Roller coasters providing riders with sense. Roller coasters rely on conservation. riders may While may focused. Roller coasters rely on conservation of energy. Roller coasters providing riders with sense of speed. Roller coasters reach high velocities. riders may may focused. riders may While may focused on excitement. fascinating subject is In conclusion. roller coasters physics of is fascinating subject. roller coasters physics of is In conclusion subject. roller coasters physics of is In conclusion fascinating subject. roller coasters physics of is subject.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding the physics of roller coasters helps appreciate the design and engineering behind them.",
+    "retrieved_context": "Roller coasters providing riders. riders may may focused on excitement. Roller coasters reach velocities. Roller coasters rely on conservation of mechanical energy. Roller coasters reach velocities during drops. riders experience during drop. riders is with exhilarating experience of twists. Roller coasters provide experience. Roller coasters provide exciting experience. Roller coasters providing riders with sense. Roller coasters rely on conservation. riders may While may focused. Roller coasters rely on conservation of energy. Roller coasters providing riders with sense of speed. Roller coasters reach high velocities. riders may may focused. riders may While may focused on excitement. fascinating subject is In conclusion. roller coasters physics of is fascinating subject. roller coasters physics of is In conclusion subject. roller coasters physics of is In conclusion fascinating subject. roller coasters physics of is subject.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "40.00%"
+  }
+]

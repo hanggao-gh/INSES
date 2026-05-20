@@ -1,0 +1,81 @@
+{
+  "entities": [
+    "NEVILLE BRODY",
+    "DIGITAL TECHNOLOGY",
+    "GIAMBATTISTA BODONI",
+    "TYPOGRAPHY",
+    "PRINTING PRESS",
+    "ANCIENT CIVILIZATIONS",
+    "JOHANNES GUTENBERG",
+    "PAUL RAND",
+    "JAN TSCHICHOLD",
+    "INDUSTRIAL REVOLUTION",
+    "DIGITAL AGE",
+    "CLAUDE GARAMOND",
+    "RENAISSANCE"
+  ],
+  "relations": [
+    [
+      "TYPOGRAPHY",
+      "The Industrial Revolution led to significant advancements and changes in typography",
+      "INDUSTRIAL REVOLUTION"
+    ],
+    [
+      "TYPOGRAPHY",
+      "The origins of typography can be traced back to ancient civilizations, indicating their foundational role in its development",
+      "ANCIENT CIVILIZATIONS"
+    ],
+    [
+      "TYPOGRAPHY",
+      "Typography has evolved into the digital age, showing its adaptability and continued relevance in communication",
+      "DIGITAL AGE"
+    ],
+    [
+      "TYPOGRAPHY",
+      "Jan Tschichold played a significant role in the evolution of modern typography",
+      "JAN TSCHICHOLD"
+    ],
+    [
+      "TYPOGRAPHY",
+      "Paul Rand contributed to the advancement of typography with his boundary-pushing designs",
+      "PAUL RAND"
+    ],
+    [
+      "TYPOGRAPHY",
+      "Neville Brody's innovative work has had a lasting impact on typography",
+      "NEVILLE BRODY"
+    ],
+    [
+      "TYPOGRAPHY",
+      "Digital technology has allowed for significant advancements in typography, changing the way type is created and manipulated",
+      "DIGITAL TECHNOLOGY"
+    ],
+    [
+      "JOHANNES GUTENBERG",
+      "Johannes Gutenberg is credited with inventing the printing press, a pivotal moment in the history of typography",
+      "PRINTING PRESS"
+    ],
+    [
+      "RENAISSANCE",
+      "Claude Garamond was a key figure in typography during the Renaissance",
+      "CLAUDE GARAMOND"
+    ],
+    [
+      "RENAISSANCE",
+      "Giambattista Bodoni contributed iconic typefaces during the Renaissance",
+      "GIAMBATTISTA BODONI"
+    ]
+  ],
+  "edges": [
+    "The Industrial Revolution led to significant advancements and changes in typography",
+    "The origins of typography can be traced back to ancient civilizations, indicating their foundational role in its development",
+    "Typography has evolved into the digital age, showing its adaptability and continued relevance in communication",
+    "Jan Tschichold played a significant role in the evolution of modern typography",
+    "Paul Rand contributed to the advancement of typography with his boundary-pushing designs",
+    "Neville Brody's innovative work has had a lasting impact on typography",
+    "Digital technology has allowed for significant advancements in typography, changing the way type is created and manipulated",
+    "Johannes Gutenberg is credited with inventing the printing press, a pivotal moment in the history of typography",
+    "Claude Garamond was a key figure in typography during the Renaissance",
+    "Giambattista Bodoni contributed iconic typefaces during the Renaissance"
+  ]
+}

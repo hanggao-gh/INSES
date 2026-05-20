@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cooking is a complex chemical reaction.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Chemistry of cooking determines taste, texture, and nutritional value of food.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Maillard reaction is a key chemical reaction during cooking.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Maillard reaction results in browning of food and formation of flavor compounds.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Emulsification is an important chemical process in cooking.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Emulsification involves mixing immiscible liquids to form a stable emulsion.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Acids influence flavor, texture, and structure of food in cooking.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Salt enhances flavor and regulates enzymatic reactions in cooking.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Temperature control affects texture, color, and flavor of food.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Proteins denature and coagulate at specific temperatures.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fermentation is a food preservation technique involving microorganisms.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fermentation enhances flavor and nutritional value of food.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pickling involves preserving food in a brine solution.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Chemistry of cooking is essential in culinary arts.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Understanding chemical reactions in cooking helps create delicious dishes.",
+    "retrieved_context": "",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "0.00%"
+  }
+]

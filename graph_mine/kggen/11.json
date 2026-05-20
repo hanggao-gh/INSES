@@ -1,0 +1,669 @@
+{
+  "entities": [
+    "ability",
+    "acquisition",
+    "activation",
+    "adapt",
+    "adept",
+    "analyzed",
+    "angular gyrus",
+    "arcuate fasciculus",
+    "articulatory muscles",
+    "aspects",
+    "auditory cortex",
+    "brain",
+    "broca's area",
+    "butterfly",
+    "capacity",
+    "children",
+    "cognition",
+    "coherent speech",
+    "communication",
+    "complex",
+    "comprehension",
+    "computations",
+    "conclusion",
+    "connects",
+    "content",
+    "contributing",
+    "control",
+    "crucial",
+    "damage",
+    "decoding",
+    "deepen",
+    "developing brains",
+    "difficulty",
+    "disorders",
+    "distinguish",
+    "ease",
+    "essay",
+    "explore",
+    "expressive aphasia",
+    "facilitates",
+    "fascinating",
+    "field",
+    "frontal lobe",
+    "function",
+    "generate",
+    "grammatical rules",
+    "grammatically correct",
+    "graphemes",
+    "harmony",
+    "human brain",
+    "information",
+    "integration",
+    "interplay",
+    "key",
+    "language processing",
+    "learning",
+    "left hemisphere",
+    "life cycle",
+    "lifelong",
+    "linguistic input",
+    "linking",
+    "located",
+    "meaningful output",
+    "meaningful sentences",
+    "meanings",
+    "mental lexicon",
+    "motor areas",
+    "motor commands",
+    "movements",
+    "multifaceted",
+    "nature",
+    "neural networks",
+    "neural pathways",
+    "neurorehabilitation",
+    "new words",
+    "organizes",
+    "perceiving",
+    "perception",
+    "phonemes",
+    "phonological",
+    "plasticity",
+    "premotor cortex",
+    "process",
+    "processes",
+    "processing",
+    "produce",
+    "production",
+    "promises",
+    "reading",
+    "receptive aphasia",
+    "recognition",
+    "regions",
+    "remarkable",
+    "reorganize",
+    "research",
+    "researchers",
+    "response",
+    "responsible",
+    "retrieves",
+    "rules",
+    "semantic",
+    "sends",
+    "sense",
+    "sentence",
+    "significant strides",
+    "smallest units",
+    "sound",
+    "speech muscles",
+    "speech sounds",
+    "spoken",
+    "spoken language",
+    "stages",
+    "structure",
+    "structures",
+    "symbols",
+    "syntactic",
+    "temporal lobe",
+    "understand",
+    "understanding",
+    "visual cortex",
+    "wernicke's area",
+    "words",
+    "work",
+    "writing",
+    "written",
+    "written language",
+    "written symbols"
+  ],
+  "relations": [
+    [
+      "ability",
+      "is",
+      "key"
+    ],
+    [
+      "ability",
+      "to",
+      "produce"
+    ],
+    [
+      "ability",
+      "to",
+      "understand"
+    ],
+    [
+      "acquisition",
+      "involves",
+      "learning"
+    ],
+    [
+      "acquisition",
+      "is",
+      "lifelong"
+    ],
+    [
+      "activation",
+      "of",
+      "motor areas"
+    ],
+    [
+      "adept",
+      "due to",
+      "developing brains"
+    ],
+    [
+      "angular gyrus",
+      "supports",
+      "reading"
+    ],
+    [
+      "angular gyrus",
+      "supports",
+      "writing"
+    ],
+    [
+      "arcuate fasciculus",
+      "connects",
+      "broca's area"
+    ],
+    [
+      "arcuate fasciculus",
+      "connects",
+      "wernicke's area"
+    ],
+    [
+      "arcuate fasciculus",
+      "facilitates",
+      "communication"
+    ],
+    [
+      "articulatory muscles",
+      "to",
+      "produce"
+    ],
+    [
+      "auditory cortex",
+      "for",
+      "spoken language"
+    ],
+    [
+      "brain",
+      "distinguish",
+      "graphemes"
+    ],
+    [
+      "brain",
+      "distinguish",
+      "phonemes"
+    ],
+    [
+      "brain",
+      "extracts",
+      "meaningful output"
+    ],
+    [
+      "brain",
+      "makes sense of",
+      "linguistic input"
+    ],
+    [
+      "brain",
+      "moves on to",
+      "production"
+    ],
+    [
+      "brain",
+      "organizes",
+      "grammatically correct"
+    ],
+    [
+      "brain",
+      "processes",
+      "language processing"
+    ],
+    [
+      "brain",
+      "remarkable",
+      "capacity"
+    ],
+    [
+      "brain",
+      "retrieves",
+      "mental lexicon"
+    ],
+    [
+      "brain",
+      "sends",
+      "motor commands"
+    ],
+    [
+      "broca's area",
+      "crucial for",
+      "processing"
+    ],
+    [
+      "broca's area",
+      "in",
+      "frontal lobe"
+    ],
+    [
+      "broca's area",
+      "is",
+      "key"
+    ],
+    [
+      "broca's area",
+      "located",
+      "frontal lobe"
+    ],
+    [
+      "children",
+      "are",
+      "adept"
+    ],
+    [
+      "comprehension",
+      "is",
+      "stages"
+    ],
+    [
+      "crucial",
+      "role in",
+      "processing"
+    ],
+    [
+      "damage",
+      "to",
+      "expressive aphasia"
+    ],
+    [
+      "damage",
+      "to",
+      "receptive aphasia"
+    ],
+    [
+      "decoding",
+      "of",
+      "speech sounds"
+    ],
+    [
+      "decoding",
+      "of",
+      "written symbols"
+    ],
+    [
+      "developing brains",
+      "enables",
+      "ease"
+    ],
+    [
+      "disorders",
+      "and",
+      "neurorehabilitation"
+    ],
+    [
+      "essay",
+      "explore",
+      "stages"
+    ],
+    [
+      "expressive aphasia",
+      "difficulty",
+      "coherent speech"
+    ],
+    [
+      "function",
+      "of",
+      "human brain"
+    ],
+    [
+      "graphemes",
+      "are",
+      "smallest units"
+    ],
+    [
+      "human brain",
+      "involving",
+      "neural pathways"
+    ],
+    [
+      "human brain",
+      "involving",
+      "regions"
+    ],
+    [
+      "information",
+      "in",
+      "wernicke's area"
+    ],
+    [
+      "information",
+      "is",
+      "analyzed"
+    ],
+    [
+      "integration",
+      "of",
+      "phonological"
+    ],
+    [
+      "integration",
+      "of",
+      "semantic"
+    ],
+    [
+      "integration",
+      "of",
+      "syntactic"
+    ],
+    [
+      "integration",
+      "to",
+      "understand"
+    ],
+    [
+      "interplay",
+      "of",
+      "neural networks"
+    ],
+    [
+      "key",
+      "aspect of",
+      "cognition"
+    ],
+    [
+      "key",
+      "aspect of",
+      "communication"
+    ],
+    [
+      "key",
+      "brain regions involved in",
+      "process"
+    ],
+    [
+      "language processing",
+      "is",
+      "complex"
+    ],
+    [
+      "language processing",
+      "is",
+      "fascinating"
+    ],
+    [
+      "language processing",
+      "is",
+      "function"
+    ],
+    [
+      "learning",
+      "new words",
+      "rules"
+    ],
+    [
+      "learning",
+      "new words",
+      "structures"
+    ],
+    [
+      "left hemisphere",
+      "plays",
+      "crucial"
+    ],
+    [
+      "linking",
+      "words",
+      "meanings"
+    ],
+    [
+      "motor areas",
+      "in",
+      "frontal lobe"
+    ],
+    [
+      "motor commands",
+      "to",
+      "articulatory muscles"
+    ],
+    [
+      "movements",
+      "of",
+      "speech muscles"
+    ],
+    [
+      "perceiving",
+      "meaningful sentences",
+      "computations"
+    ],
+    [
+      "perception",
+      "involves",
+      "decoding"
+    ],
+    [
+      "perception",
+      "involves",
+      "recognition"
+    ],
+    [
+      "phonemes",
+      "are",
+      "smallest units"
+    ],
+    [
+      "plasticity",
+      "allows",
+      "adapt"
+    ],
+    [
+      "plasticity",
+      "allows",
+      "reorganize"
+    ],
+    [
+      "premotor cortex",
+      "control",
+      "movements"
+    ],
+    [
+      "premotor cortex",
+      "in",
+      "frontal lobe"
+    ],
+    [
+      "processing",
+      "divided into",
+      "stages"
+    ],
+    [
+      "processing",
+      "grammatical rules",
+      "linking"
+    ],
+    [
+      "processing",
+      "is",
+      "multifaceted"
+    ],
+    [
+      "production",
+      "stage",
+      "response"
+    ],
+    [
+      "receptive aphasia",
+      "difficulty",
+      "understanding"
+    ],
+    [
+      "regions",
+      "generate",
+      "meaningful output"
+    ],
+    [
+      "regions",
+      "work",
+      "sense"
+    ],
+    [
+      "regions",
+      "working",
+      "harmony"
+    ],
+    [
+      "research",
+      "promises",
+      "deepen"
+    ],
+    [
+      "researchers",
+      "have made",
+      "significant strides"
+    ],
+    [
+      "response",
+      "in",
+      "spoken"
+    ],
+    [
+      "response",
+      "in",
+      "written"
+    ],
+    [
+      "smallest units",
+      "of",
+      "sound"
+    ],
+    [
+      "smallest units",
+      "of",
+      "symbols"
+    ],
+    [
+      "stages",
+      "are",
+      "acquisition"
+    ],
+    [
+      "stages",
+      "are",
+      "comprehension"
+    ],
+    [
+      "stages",
+      "are",
+      "perception"
+    ],
+    [
+      "stages",
+      "are",
+      "production"
+    ],
+    [
+      "stages",
+      "of",
+      "language processing"
+    ],
+    [
+      "understand",
+      "content",
+      "sentence"
+    ],
+    [
+      "understand",
+      "structure",
+      "sentence"
+    ],
+    [
+      "understanding",
+      "sheds light on",
+      "nature"
+    ],
+    [
+      "visual cortex",
+      "for",
+      "written language"
+    ],
+    [
+      "wernicke's area",
+      "involved in",
+      "comprehension"
+    ],
+    [
+      "wernicke's area",
+      "located",
+      "temporal lobe"
+    ],
+    [
+      "wernicke's area",
+      "responsible for",
+      "semantic"
+    ]
+  ],
+  "edges": [
+    "allows",
+    "and",
+    "are",
+    "aspect of",
+    "brain regions involved in",
+    "connects",
+    "content",
+    "control",
+    "crucial for",
+    "difficulty",
+    "distinguish",
+    "divided into",
+    "due to",
+    "enables",
+    "explore",
+    "extracts",
+    "facilitates",
+    "for",
+    "generate",
+    "grammatical rules",
+    "have made",
+    "in",
+    "involved in",
+    "involves",
+    "involving",
+    "is",
+    "located",
+    "makes sense of",
+    "meaningful sentences",
+    "moves on to",
+    "new words",
+    "of",
+    "organizes",
+    "plays",
+    "processes",
+    "promises",
+    "remarkable",
+    "responsible for",
+    "retrieves",
+    "role in",
+    "sends",
+    "sheds light on",
+    "stage",
+    "structure",
+    "supports",
+    "to",
+    "words",
+    "work",
+    "working"
+  ]
+}

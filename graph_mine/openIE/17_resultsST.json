@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Cooking is a complex chemical reaction.",
+    "retrieved_context": "cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. fascinating aspect is In conclusion. cooking chemistry of is aspect. cooking chemistry of is In conclusion fascinating aspect. chemical reactions take place at different temperature ranges. chemical reactions take place at temperature ranges. chemical reactions take place.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Chemistry of cooking determines taste, texture, and nutritional value of food.",
+    "retrieved_context": "cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. fascinating aspect is In conclusion. cooking chemistry of is aspect. cooking chemistry of is In conclusion fascinating aspect.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Maillard reaction is a key chemical reaction during cooking.",
+    "retrieved_context": "Maillard reaction is responsible for rich flavors of roasted meats. Maillard reaction is responsible for flavors of meats. Maillard reaction baked goods. Maillard reaction is responsible for rich flavors. Maillard reaction is responsible for rich flavors of meats. Maillard reaction is responsible for flavors. Maillard reaction is responsible for flavors of roasted meats. Maillard reaction is responsible. flavors tenderize proteins. cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. fascinating aspect is In conclusion. cooking chemistry of is aspect. cooking chemistry of is In conclusion fascinating aspect. chemical reactions take place at different temperature ranges. chemical reactions take place at temperature ranges. chemical reactions take place.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Maillard reaction results in browning of food and formation of flavor compounds.",
+    "retrieved_context": "Maillard reaction is responsible for rich flavors of roasted meats. Maillard reaction is responsible for flavors of meats. Maillard reaction baked goods. Maillard reaction is responsible for rich flavors. Maillard reaction is responsible for rich flavors of meats. Maillard reaction is responsible for flavors. Maillard reaction is responsible for flavors of roasted meats. Maillard reaction is responsible. flavors tenderize proteins. browning process achieve desired flavor profile. browning process achieve flavor profile. browning process achieve flavor profile in their dishes.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Emulsification is an important chemical process in cooking.",
+    "retrieved_context": "Emulsions play role. Emulsions play role in creating creamy sauces. crucial role chemistry of cooking. Emulsions play crucial role. role is in cooking. Emulsions play role in sauces. Emulsions play role in creating sauces. Emulsions play role in creamy sauces. cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. cooking chemistry of is aspect. important chemical process is in cooking. cooking chemistry of is In conclusion fascinating aspect. Maillard reaction is responsible for rich flavors of roasted meats. Maillard reaction is responsible for flavors of meats. Maillard reaction baked goods. Maillard reaction is responsible for rich flavors. Maillard reaction is responsible for rich flavors of meats. Maillard reaction is responsible for flavors. Maillard reaction is responsible for flavors of roasted meats. Maillard reaction is responsible. flavors tenderize proteins.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Emulsification involves mixing immiscible liquids to form a stable emulsion.",
+    "retrieved_context": "Emulsions play role. Emulsions play role in creating creamy sauces. crucial role chemistry of cooking. Emulsions play crucial role. role is in cooking. Emulsions play role in sauces. Emulsions play role in creating sauces. Emulsions play role in creamy sauces. two immiscible liquids form stable emulsion. two immiscible liquids form emulsion. two liquids form emulsion. two liquids form stable emulsion. Maillard reaction is responsible for rich flavors of roasted meats. Maillard reaction is responsible for flavors of meats. Maillard reaction baked goods. Maillard reaction is responsible for rich flavors. Maillard reaction is responsible for rich flavors of meats. Maillard reaction is responsible for flavors. Maillard reaction is responsible for flavors of roasted meats. Maillard reaction is responsible. flavors tenderize proteins.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Acids influence flavor, texture, and structure of food in cooking.",
+    "retrieved_context": "cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. cooking chemistry of is aspect. Acids also play role in cooking. role is in cooking. Acids also play role. Acids also play critical role. cooking chemistry of is In conclusion fascinating aspect.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Salt enhances flavor and regulates enzymatic reactions in cooking.",
+    "retrieved_context": "Salt amplify flavors. Salt amplify natural flavors. Salt amplify natural flavors of ingredients. natural flavors tenderize proteins. Salt amplify flavors of ingredients. flavors tenderize proteins. salts are essential. salts are essential In acids. cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. fascinating aspect is In conclusion. cooking chemistry of is aspect. cooking chemistry of is In conclusion fascinating aspect.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Temperature control affects texture, color, and flavor of food.",
+    "retrieved_context": "Maillard reaction is responsible for rich flavors of roasted meats. Maillard reaction is responsible for flavors of meats. Maillard reaction baked goods. Maillard reaction is responsible for rich flavors. Maillard reaction is responsible for rich flavors of meats. Maillard reaction is responsible for flavors. Maillard reaction is responsible for flavors of roasted meats. Maillard reaction is responsible. flavors tenderize proteins.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Proteins denature and coagulate at specific temperatures.",
+    "retrieved_context": "proteins are when exposed. proteins is in food. proteins are exposed to heat. proteins are when exposed to heat. proteins are exposed. two immiscible liquids form stable emulsion. two immiscible liquids form emulsion. cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. cooking chemistry of is aspect. Acids also play role in cooking. role is in cooking. Acids also play role. Acids also play critical role. cooking chemistry of is In conclusion fascinating aspect.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fermentation is a food preservation technique involving microorganisms.",
+    "retrieved_context": "Fermentation is process. sugars produce acids. sugars resulting in browning. sugars resulting in browning of food. sugars proteins in food. microorganisms break down sugars. cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. fascinating aspect is In conclusion. cooking chemistry of is aspect. cooking chemistry of is In conclusion fascinating aspect. cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. cooking chemistry of is aspect. important chemical process is in cooking. cooking chemistry of is In conclusion fascinating aspect.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Fermentation enhances flavor and nutritional value of food.",
+    "retrieved_context": "Fermentation is process. proteins are when exposed. natural flavors tenderize proteins. proteins is in food. proteins are exposed to heat. proteins are when exposed to heat. proteins are exposed.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Pickling involves preserving food in a brine solution.",
+    "retrieved_context": "Pickling involves food on hand. Pickling involves preserving food. Pickling involves food on other hand. Pickling involves food.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Chemistry of cooking is essential in culinary arts.",
+    "retrieved_context": "cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. fascinating aspect is In conclusion. cooking chemistry of is aspect. cooking chemistry of is In conclusion fascinating aspect. chemistry is aspect. chemistry is In conclusion aspect of culinary arts. chemistry is aspect of culinary arts. chemistry extends to food preservation techniques. chemistry is aspect of arts. chemistry is In conclusion fascinating aspect of culinary arts. crucial role chemistry of cooking. fascinating aspect is In conclusion. chemistry plays crucial role. chemistry is In conclusion fascinating aspect of arts. chemistry is In conclusion aspect of arts. chemistry is fascinating aspect In conclusion. role is in cooking. chemistry is fascinating aspect. chemistry plays role. chemical reactions take place. chefs can create delicious dishes. chefs bring out flavors. chefs understanding chemical reactions. chefs bring out best flavors. chefs can season their dishes. chemical reactions take place at temperature ranges. chemical reactions take place at different temperature ranges. chefs can create dishes. chefs bring out flavors in their ingredients. flavors tenderize proteins.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding chemical reactions in cooking helps create delicious dishes.",
+    "retrieved_context": "chemical reactions take place at different temperature ranges. chemical reactions take place at temperature ranges. chemical reactions take place. cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. fascinating aspect is In conclusion. cooking chemistry of is aspect. cooking chemistry of is In conclusion fascinating aspect. Different chemical reactions take place at different temperature ranges. Different chemical reactions take place. Different chemical reactions take place at temperature ranges. cooking chemistry of is In conclusion fascinating aspect of culinary arts. cooking chemistry of is In conclusion aspect. cooking chemistry of is In conclusion fascinating aspect of arts. cooking chemistry of is fascinating aspect. cooking chemistry of is In conclusion aspect of arts. cooking chemistry of is In conclusion aspect of culinary arts. cooking chemistry of is aspect. important chemical process is in cooking. cooking chemistry of is In conclusion fascinating aspect.",
+    "evaluation": 0
+  },
+  {
+    "accuracy": "33.33%"
+  }
+]

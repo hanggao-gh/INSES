@@ -1,0 +1,86 @@
+{
+  "entities": [
+    "MANDARIN",
+    "COMMUNITY MEMBERS",
+    "GLOBALIZATION",
+    "LANGUAGE ACTIVISTS",
+    "CULTURAL ASSIMILATION",
+    "LINGUISTS",
+    "ENGLISH",
+    "SPANISH",
+    "LANGUAGE DEATH",
+    "LANGUAGE REVITALIZATION PROGRAMS",
+    "LINGUISTIC DIVERSITY",
+    "INTERGENERATIONAL TRANSMISSION"
+  ],
+  "relations": [
+    [
+      "LANGUAGE DEATH",
+      "Cultural assimilation is a primary reason for language death, as dominant languages replace smaller, minority languages",
+      "CULTURAL ASSIMILATION"
+    ],
+    [
+      "LANGUAGE DEATH",
+      "Globalization contributes to language death by spreading dominant languages and marginalizing minority languages",
+      "GLOBALIZATION"
+    ],
+    [
+      "LANGUAGE DEATH",
+      "The decline in intergenerational transmission of languages is a key factor contributing to language death",
+      "INTERGENERATIONAL TRANSMISSION"
+    ],
+    [
+      "LANGUAGE DEATH",
+      "English's global spread contributes to the marginalization and eventual death of minority languages",
+      "ENGLISH"
+    ],
+    [
+      "LANGUAGE DEATH",
+      "Spanish's global spread contributes to the marginalization and eventual death of minority languages",
+      "SPANISH"
+    ],
+    [
+      "LANGUAGE DEATH",
+      "Mandarin's global spread contributes to the marginalization and eventual death of minority languages",
+      "MANDARIN"
+    ],
+    [
+      "LANGUAGE DEATH",
+      "Language death contributes to the erosion of linguistic diversity by reducing the number of languages spoken worldwide",
+      "LINGUISTIC DIVERSITY"
+    ],
+    [
+      "LANGUAGE DEATH",
+      "Language revitalization programs are established in response to the threat of language death, aiming to reverse the process by promoting and preserving endangered languages",
+      "LANGUAGE REVITALIZATION PROGRAMS"
+    ],
+    [
+      "LANGUAGE REVITALIZATION PROGRAMS",
+      "Linguists work together with language activists and community members in language revitalization programs to document and promote endangered languages",
+      "LINGUISTS"
+    ],
+    [
+      "LANGUAGE REVITALIZATION PROGRAMS",
+      "Language activists collaborate in language revitalization programs, contributing to the efforts to preserve and promote endangered languages",
+      "LANGUAGE ACTIVISTS"
+    ],
+    [
+      "LANGUAGE REVITALIZATION PROGRAMS",
+      "Community members are integral to the success of language revitalization programs, participating in language learning and cultural preservation activities",
+      "COMMUNITY MEMBERS"
+    ]
+  ],
+  "edges": [
+    "Cultural assimilation is a primary reason for language death, as dominant languages replace smaller, minority languages",
+    "Globalization contributes to language death by spreading dominant languages and marginalizing minority languages",
+    "The decline in intergenerational transmission of languages is a key factor contributing to language death",
+    "English's global spread contributes to the marginalization and eventual death of minority languages",
+    "Spanish's global spread contributes to the marginalization and eventual death of minority languages",
+    "Mandarin's global spread contributes to the marginalization and eventual death of minority languages",
+    "Language death contributes to the erosion of linguistic diversity by reducing the number of languages spoken worldwide",
+    "Language revitalization programs are established in response to the threat of language death, aiming to reverse the process by promoting and preserving endangered languages",
+    "Linguists work together with language activists and community members in language revitalization programs to document and promote endangered languages",
+    "Language activists collaborate in language revitalization programs, contributing to the efforts to preserve and promote endangered languages",
+    "Community members are integral to the success of language revitalization programs, participating in language learning and cultural preservation activities"
+  ]
+}

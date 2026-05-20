@@ -1,0 +1,93 @@
+{
+  "entities": [
+    "MOSCOW OLYMPICS",
+    "GREECE",
+    "NAZI GERMANY",
+    "AFGHANISTAN",
+    "THEODOSIUS",
+    "SOVIET UNION",
+    "ANCIENT GREECE",
+    "ZEUS",
+    "PIERRE DE COUBERTIN",
+    "ATHENS",
+    "OLYMPIC GAMES",
+    "OLYMPIA",
+    "BERLIN OLYMPICS"
+  ],
+  "relations": [
+    [
+      "OLYMPIC GAMES",
+      "The ancient Olympic Games were held in Olympia",
+      "OLYMPIA"
+    ],
+    [
+      "OLYMPIC GAMES",
+      "The ancient Olympic Games were held in honor of Zeus",
+      "ZEUS"
+    ],
+    [
+      "OLYMPIC GAMES",
+      "The Olympic Games, both in their ancient form and the first modern iteration, have a deep-rooted connection with Greece. Greece not only played host to the ancient Olympics but also proudly hosted the first modern Olympic Games in 1896. This event marked a revival of the Olympic tradition that dates back to ancient times, re-establishing Greece's pivotal role in the history and development of the Olympic movement.",
+      "GREECE"
+    ],
+    [
+      "OLYMPIC GAMES",
+      "Theodosius abolished the ancient Olympic Games",
+      "THEODOSIUS"
+    ],
+    [
+      "OLYMPIC GAMES",
+      "Pierre de Coubertin founded the modern Olympic Games",
+      "PIERRE DE COUBERTIN"
+    ],
+    [
+      "OLYMPIC GAMES",
+      "The Olympic Games, a renowned international multi-sport event, had its first modern iteration hosted by Athens in 1896. This historic city in Greece played a pivotal role in reviving the ancient tradition of the Olympic Games, establishing itself as the birthplace of the modern Olympics.",
+      "ATHENS"
+    ],
+    [
+      "OLYMPIC GAMES",
+      "The 1936 Berlin Olympics were used by Nazi Germany for propaganda",
+      "NAZI GERMANY"
+    ],
+    [
+      "OLYMPIC GAMES",
+      "The 1980 Moscow Olympics faced a boycott due to the Soviet Union's actions",
+      "SOVIET UNION"
+    ],
+    [
+      "OLYMPIC GAMES",
+      "The Olympic Games originated in Ancient Greece, marking the beginning of the tradition",
+      "ANCIENT GREECE"
+    ],
+    [
+      "NAZI GERMANY",
+      "Nazi Germany used the 1936 Berlin Olympics for propaganda purposes",
+      "BERLIN OLYMPICS"
+    ],
+    [
+      "SOVIET UNION",
+      "The Soviet Union's invasion of Afghanistan led to a boycott of the 1980 Moscow Olympics",
+      "AFGHANISTAN"
+    ],
+    [
+      "SOVIET UNION",
+      "The 1980 Moscow Olympics were boycotted due to the Soviet Union's invasion of Afghanistan",
+      "MOSCOW OLYMPICS"
+    ]
+  ],
+  "edges": [
+    "The ancient Olympic Games were held in Olympia",
+    "The ancient Olympic Games were held in honor of Zeus",
+    "The Olympic Games, both in their ancient form and the first modern iteration, have a deep-rooted connection with Greece. Greece not only played host to the ancient Olympics but also proudly hosted the first modern Olympic Games in 1896. This event marked a revival of the Olympic tradition that dates back to ancient times, re-establishing Greece's pivotal role in the history and development of the Olympic movement.",
+    "Theodosius abolished the ancient Olympic Games",
+    "Pierre de Coubertin founded the modern Olympic Games",
+    "The Olympic Games, a renowned international multi-sport event, had its first modern iteration hosted by Athens in 1896. This historic city in Greece played a pivotal role in reviving the ancient tradition of the Olympic Games, establishing itself as the birthplace of the modern Olympics.",
+    "The 1936 Berlin Olympics were used by Nazi Germany for propaganda",
+    "The 1980 Moscow Olympics faced a boycott due to the Soviet Union's actions",
+    "The Olympic Games originated in Ancient Greece, marking the beginning of the tradition",
+    "Nazi Germany used the 1936 Berlin Olympics for propaganda purposes",
+    "The Soviet Union's invasion of Afghanistan led to a boycott of the 1980 Moscow Olympics",
+    "The 1980 Moscow Olympics were boycotted due to the Soviet Union's invasion of Afghanistan"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "entities": [
+    "ROSETTA STONE",
+    "ANCIENT EGYPTIAN HIEROGLYPHS",
+    "JEAN-FRAN\u00c7OIS CHAMPOLLION",
+    "LINGUISTICS",
+    "GREEK",
+    "ARCHAEOLOGY",
+    "EGYPTOLOGY",
+    "ANCIENT EGYPTIAN CIVILIZATION",
+    "CHAMPOLLION",
+    "NAPOLEON",
+    "DEMOTIC SCRIPT",
+    "KING PTOLEMY V",
+    "EGYPT"
+  ],
+  "relations": [
+    [
+      "ROSETTA STONE",
+      "The Rosetta Stone was discovered during Napoleon's campaign in Egypt",
+      "NAPOLEON"
+    ],
+    [
+      "ROSETTA STONE",
+      "The decree inscribed on the Rosetta Stone was issued by King Ptolemy V",
+      "KING PTOLEMY V"
+    ],
+    [
+      "ROSETTA STONE",
+      "Jean-Fran\u00e7ois Champollion deciphered the hieroglyphic text on the Rosetta Stone",
+      "JEAN-FRAN\u00c7OIS CHAMPOLLION"
+    ],
+    [
+      "ROSETTA STONE",
+      "The Rosetta Stone was discovered in Egypt, linking the artifact directly to its geographical location",
+      "EGYPT"
+    ],
+    [
+      "ROSETTA STONE",
+      "The Rosetta Stone was instrumental and key in deciphering the ancient Egyptian hieroglyphs. This artifact played a crucial role in understanding and interpreting the complex system of writing used by the ancient Egyptians. Through its inscriptions, which are duplicated in more than one script, scholars were able to unlock the meaning of hieroglyphs, which had been a mystery for centuries.",
+      "ANCIENT EGYPTIAN HIEROGLYPHS"
+    ],
+    [
+      "ROSETTA STONE",
+      "The Rosetta Stone contains inscriptions in Demotic script, which was crucial for its deciphering",
+      "DEMOTIC SCRIPT"
+    ],
+    [
+      "ROSETTA STONE",
+      "The Greek inscription on the Rosetta Stone was instrumental in deciphering the hieroglyphs",
+      "GREEK"
+    ],
+    [
+      "ROSETTA STONE",
+      "Champollion used the Rosetta Stone to decipher Egyptian hieroglyphs, marking a significant breakthrough in Egyptology",
+      "CHAMPOLLION"
+    ],
+    [
+      "ROSETTA STONE",
+      "The deciphering of the Rosetta Stone significantly advanced the field of Egyptology by providing insights into ancient Egyptian culture and language",
+      "EGYPTOLOGY"
+    ],
+    [
+      "ROSETTA STONE",
+      "The discovery of the Rosetta Stone is a significant event in the field of archaeology",
+      "ARCHAEOLOGY"
+    ],
+    [
+      "ROSETTA STONE",
+      "The decipherment of the Rosetta Stone had a profound impact on the field of linguistics, particularly in understanding ancient languages",
+      "LINGUISTICS"
+    ],
+    [
+      "ROSETTA STONE",
+      "The Rosetta Stone has been crucial in unlocking the secrets of the Ancient Egyptian civilization",
+      "ANCIENT EGYPTIAN CIVILIZATION"
+    ],
+    [
+      "JEAN-FRAN\u00c7OIS CHAMPOLLION",
+      "Jean-Fran\u00e7ois Champollion's work led to the deciphering of ancient Egyptian hieroglyphs",
+      "ANCIENT EGYPTIAN HIEROGLYPHS"
+    ],
+    [
+      "JEAN-FRAN\u00c7OIS CHAMPOLLION",
+      "Champollion's comparison of Demotic script to Greek facilitated the deciphering of hieroglyphs",
+      "DEMOTIC SCRIPT"
+    ],
+    [
+      "JEAN-FRAN\u00c7OIS CHAMPOLLION",
+      "Champollion used his knowledge of Greek to decipher the hieroglyphs on the Rosetta Stone",
+      "GREEK"
+    ],
+    [
+      "CHAMPOLLION",
+      "Champollion's work on the Rosetta Stone is foundational to the field of Egyptology, contributing to the understanding of ancient Egyptian language and culture",
+      "EGYPTOLOGY"
+    ]
+  ],
+  "edges": [
+    "The Rosetta Stone was discovered during Napoleon's campaign in Egypt",
+    "The decree inscribed on the Rosetta Stone was issued by King Ptolemy V",
+    "Jean-Fran\u00e7ois Champollion deciphered the hieroglyphic text on the Rosetta Stone",
+    "The Rosetta Stone was discovered in Egypt, linking the artifact directly to its geographical location",
+    "The Rosetta Stone was instrumental and key in deciphering the ancient Egyptian hieroglyphs. This artifact played a crucial role in understanding and interpreting the complex system of writing used by the ancient Egyptians. Through its inscriptions, which are duplicated in more than one script, scholars were able to unlock the meaning of hieroglyphs, which had been a mystery for centuries.",
+    "The Rosetta Stone contains inscriptions in Demotic script, which was crucial for its deciphering",
+    "The Greek inscription on the Rosetta Stone was instrumental in deciphering the hieroglyphs",
+    "Champollion used the Rosetta Stone to decipher Egyptian hieroglyphs, marking a significant breakthrough in Egyptology",
+    "The deciphering of the Rosetta Stone significantly advanced the field of Egyptology by providing insights into ancient Egyptian culture and language",
+    "The discovery of the Rosetta Stone is a significant event in the field of archaeology",
+    "The decipherment of the Rosetta Stone had a profound impact on the field of linguistics, particularly in understanding ancient languages",
+    "The Rosetta Stone has been crucial in unlocking the secrets of the Ancient Egyptian civilization",
+    "Jean-Fran\u00e7ois Champollion's work led to the deciphering of ancient Egyptian hieroglyphs",
+    "Champollion's comparison of Demotic script to Greek facilitated the deciphering of hieroglyphs",
+    "Champollion used his knowledge of Greek to decipher the hieroglyphs on the Rosetta Stone",
+    "Champollion's work on the Rosetta Stone is foundational to the field of Egyptology, contributing to the understanding of ancient Egyptian language and culture"
+  ]
+}

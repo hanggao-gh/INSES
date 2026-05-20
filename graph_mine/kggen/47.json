@@ -1,0 +1,510 @@
+{
+  "entities": [
+    "achievements",
+    "approaches",
+    "archaeologists",
+    "archaeology",
+    "architecture",
+    "art",
+    "artifact",
+    "artifacts",
+    "breakthrough",
+    "breakthroughs",
+    "civilization",
+    "civilizations",
+    "code",
+    "collaboration",
+    "common words",
+    "comparison",
+    "contagious",
+    "cryptic",
+    "culture",
+    "cultures",
+    "cuneiform",
+    "curiosity",
+    "daily life",
+    "decipher",
+    "deciphering",
+    "decipherment",
+    "decree",
+    "demotic script",
+    "discovery",
+    "egypt",
+    "egyptian hieroglyphs",
+    "egyptology",
+    "enigmatic",
+    "fall",
+    "french scholar",
+    "french soldiers",
+    "gap",
+    "greek",
+    "groundbreaking",
+    "history",
+    "iconic symbol",
+    "ingenuity",
+    "inscribed",
+    "intellect",
+    "jean-fran\u00e7ois champollion",
+    "key",
+    "king ptolemy v",
+    "knowledge",
+    "language",
+    "laughter",
+    "legacy",
+    "linear b",
+    "linguistics",
+    "mayan hieroglyphs",
+    "methods",
+    "monuments",
+    "mysteries",
+    "mystery",
+    "napoleon's campaign",
+    "past",
+    "perseverance",
+    "phrases",
+    "pictograms",
+    "political structures",
+    "present",
+    "quest",
+    "religious beliefs",
+    "revolutionized",
+    "rosetta stone",
+    "scholars",
+    "science",
+    "script",
+    "scripts",
+    "secrets",
+    "stone slab",
+    "study",
+    "symbol",
+    "symbols",
+    "testament",
+    "text",
+    "translation",
+    "trilingual inscription",
+    "understanding",
+    "unlocking",
+    "writing",
+    "writing system",
+    "writing systems",
+    "written word"
+  ],
+  "relations": [
+    [
+      "achievements",
+      "in",
+      "architecture"
+    ],
+    [
+      "achievements",
+      "in",
+      "art"
+    ],
+    [
+      "achievements",
+      "in",
+      "science"
+    ],
+    [
+      "breakthrough",
+      "in",
+      "deciphering"
+    ],
+    [
+      "code",
+      "of",
+      "script"
+    ],
+    [
+      "comparison",
+      "identified",
+      "common words"
+    ],
+    [
+      "comparison",
+      "identified",
+      "phrases"
+    ],
+    [
+      "comparison",
+      "of",
+      "text"
+    ],
+    [
+      "comparison",
+      "unlocked",
+      "code"
+    ],
+    [
+      "deciphering",
+      "opened up",
+      "culture"
+    ],
+    [
+      "deciphering",
+      "opened up",
+      "history"
+    ],
+    [
+      "deciphering",
+      "opened up",
+      "language"
+    ],
+    [
+      "decree",
+      "issued by",
+      "king ptolemy v"
+    ],
+    [
+      "decree",
+      "written in",
+      "scripts"
+    ],
+    [
+      "fall",
+      "of",
+      "civilization"
+    ],
+    [
+      "french scholar",
+      "is",
+      "jean-fran\u00e7ois champollion"
+    ],
+    [
+      "french soldiers",
+      "during",
+      "napoleon's campaign"
+    ],
+    [
+      "gap",
+      "between",
+      "past"
+    ],
+    [
+      "gap",
+      "between",
+      "present"
+    ],
+    [
+      "groundbreaking",
+      "work in",
+      "deciphering"
+    ],
+    [
+      "iconic symbol",
+      "of",
+      "quest"
+    ],
+    [
+      "intellect",
+      "of",
+      "civilizations"
+    ],
+    [
+      "intellect",
+      "of",
+      "scholars"
+    ],
+    [
+      "jean-fran\u00e7ois champollion",
+      "deciphered",
+      "text"
+    ],
+    [
+      "key",
+      "to",
+      "unlocking"
+    ],
+    [
+      "legacy",
+      "of",
+      "cultures"
+    ],
+    [
+      "mysteries",
+      "of the",
+      "past"
+    ],
+    [
+      "quest",
+      "exemplifies",
+      "collaboration"
+    ],
+    [
+      "quest",
+      "exemplifies",
+      "curiosity"
+    ],
+    [
+      "quest",
+      "exemplifies",
+      "perseverance"
+    ],
+    [
+      "quest",
+      "for",
+      "knowledge"
+    ],
+    [
+      "quest",
+      "for",
+      "understanding"
+    ],
+    [
+      "quest",
+      "unraveling",
+      "mysteries"
+    ],
+    [
+      "rosetta stone",
+      "bridging",
+      "gap"
+    ],
+    [
+      "rosetta stone",
+      "discovered by",
+      "french soldiers"
+    ],
+    [
+      "rosetta stone",
+      "discovered in",
+      "egypt"
+    ],
+    [
+      "rosetta stone",
+      "inspired",
+      "approaches"
+    ],
+    [
+      "rosetta stone",
+      "inspired",
+      "methods"
+    ],
+    [
+      "rosetta stone",
+      "is a",
+      "legacy"
+    ],
+    [
+      "rosetta stone",
+      "is a",
+      "stone slab"
+    ],
+    [
+      "rosetta stone",
+      "is a",
+      "symbol"
+    ],
+    [
+      "rosetta stone",
+      "is a significant",
+      "artifact"
+    ],
+    [
+      "rosetta stone",
+      "is an",
+      "iconic symbol"
+    ],
+    [
+      "rosetta stone",
+      "model for",
+      "study"
+    ],
+    [
+      "rosetta stone",
+      "role in",
+      "deciphering"
+    ],
+    [
+      "rosetta stone",
+      "significance extends",
+      "egyptology"
+    ],
+    [
+      "rosetta stone",
+      "stands as",
+      "testament"
+    ],
+    [
+      "scholars",
+      "intrigued by",
+      "symbols"
+    ],
+    [
+      "scripts",
+      "include",
+      "demotic script"
+    ],
+    [
+      "scripts",
+      "include",
+      "egyptian hieroglyphs"
+    ],
+    [
+      "scripts",
+      "include",
+      "greek"
+    ],
+    [
+      "secrets",
+      "of",
+      "writing"
+    ],
+    [
+      "stone slab",
+      "inscribed with",
+      "decree"
+    ],
+    [
+      "study",
+      "of",
+      "writing systems"
+    ],
+    [
+      "symbol",
+      "of",
+      "quest"
+    ],
+    [
+      "symbols",
+      "found on",
+      "artifacts"
+    ],
+    [
+      "symbols",
+      "found on",
+      "monuments"
+    ],
+    [
+      "symbols",
+      "were",
+      "cryptic"
+    ],
+    [
+      "symbols",
+      "were",
+      "enigmatic"
+    ],
+    [
+      "testament",
+      "to",
+      "ingenuity"
+    ],
+    [
+      "testament",
+      "to",
+      "intellect"
+    ],
+    [
+      "translation",
+      "revealed",
+      "achievements"
+    ],
+    [
+      "translation",
+      "revealed",
+      "daily life"
+    ],
+    [
+      "translation",
+      "revealed",
+      "political structures"
+    ],
+    [
+      "translation",
+      "revealed",
+      "religious beliefs"
+    ],
+    [
+      "trilingual inscription",
+      "became the",
+      "key"
+    ],
+    [
+      "understanding",
+      "of",
+      "civilizations"
+    ],
+    [
+      "unlocking",
+      "of",
+      "secrets"
+    ],
+    [
+      "writing",
+      "was a",
+      "mystery"
+    ],
+    [
+      "writing system",
+      "after the",
+      "fall"
+    ],
+    [
+      "writing system",
+      "fell out of",
+      "history"
+    ],
+    [
+      "writing systems",
+      "include",
+      "cuneiform"
+    ],
+    [
+      "writing systems",
+      "include",
+      "linear b"
+    ],
+    [
+      "writing systems",
+      "include",
+      "mayan hieroglyphs"
+    ],
+    [
+      "written word",
+      "revolutionized",
+      "understanding"
+    ]
+  ],
+  "edges": [
+    "after the",
+    "became the",
+    "between",
+    "bridging",
+    "deciphered",
+    "discovered by",
+    "discovered in",
+    "during",
+    "exemplifies",
+    "fell out of",
+    "for",
+    "found on",
+    "identified",
+    "in",
+    "include",
+    "inscribed with",
+    "inspired",
+    "intrigued by",
+    "is",
+    "is a",
+    "is a significant",
+    "is an",
+    "issued by",
+    "model for",
+    "of",
+    "of the",
+    "opened up",
+    "revealed",
+    "revolutionized",
+    "role in",
+    "significance extends",
+    "stands as",
+    "to",
+    "unlocked",
+    "unraveling",
+    "was a",
+    "were",
+    "work in",
+    "written in"
+  ]
+}

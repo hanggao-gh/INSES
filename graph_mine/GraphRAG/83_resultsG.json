@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Deja Vu is a mysterious phenomenon that has intrigued scientists, psychologists, and the general public for centuries.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "The term 'deja vu' is of French origin, meaning 'already seen'.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Deja Vu refers to the feeling that one has experienced a current situation before, even though it is happening for the first time.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Many people have experienced deja vu at some point in their lives.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The science behind deja vu remains largely unexplained.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 'dual processing' theory suggests that deja vu occurs when the brain processes information in two different ways simultaneously.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "According to the 'dual processing' theory, a delay or discrepancy in processing can create the sensation of having experienced the current situation before.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The 'memory-based' theory posits that deja vu is triggered by similarities between the current situation and a past memory.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "According to the 'memory-based' theory, the brain may mistakenly interpret a situation as a memory, leading to the sensation of deja vu.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Factors like stress, fatigue, and sleep deprivation have been associated with an increased frequency of deja vu episodes.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Individuals with a higher level of creativity or imagination may be more prone to experiencing deja vu.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Deja vu is difficult to study in a laboratory setting due to its fleeting and subjective nature.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "The subjective nature of deja vu makes it challenging to measure and quantify.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Variability in how deja vu is experienced and reported complicates efforts to understand its underlying mechanisms.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Despite being mysterious, deja vu continues to capture the imagination of researchers and the general public.",
+    "retrieved_context": "DEJA VU Deja vu is a phenomenon that has captured the interest of the general public GENERAL PUBLIC. DEJA VU Deja vu has intrigued scientists who study and attempt to understand the phenomenon SCIENTISTS. DEJA VU Deja vu has intrigued psychologists who analyze the sensation from a mental and behavioral perspective PSYCHOLOGISTS.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "13.33%"
+  }
+]

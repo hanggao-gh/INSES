@@ -1,0 +1,132 @@
+{
+  "entities": [
+    "EGG STAGE",
+    "BIRDS",
+    "ADULT BUTTERFLIES",
+    "NECTAR",
+    "INSECTS",
+    "PUPA",
+    "HOST PLANTS",
+    "LARVA STAGE",
+    "CHRYSALIS",
+    "METAMORPHOSIS",
+    "FEMALE BUTTERFLIES",
+    "POLLINATION",
+    "REPTILES",
+    "BUTTERFLIES",
+    "CATERPILLAR",
+    "BUTTERFLY"
+  ],
+  "relations": [
+    [
+      "BUTTERFLY",
+      "The egg stage is the beginning of the butterfly's life cycle",
+      "EGG STAGE"
+    ],
+    [
+      "BUTTERFLY",
+      "The larva stage is a critical part of the butterfly's transformation process",
+      "LARVA STAGE"
+    ],
+    [
+      "BUTTERFLY",
+      "The pupa stage is a crucial part of the butterfly's life cycle, leading to its emergence as an adult",
+      "PUPA"
+    ],
+    [
+      "BUTTERFLY",
+      "The butterfly is the final stage in the life cycle that begins with the caterpillar",
+      "CATERPILLAR"
+    ],
+    [
+      "BUTTERFLY",
+      "Metamorphosis results in the transformation of the caterpillar into a butterfly",
+      "METAMORPHOSIS"
+    ],
+    [
+      "EGG STAGE",
+      "The larva stage follows the egg stage in the butterfly's life cycle, with the caterpillar emerging from the egg",
+      "LARVA STAGE"
+    ],
+    [
+      "LARVA STAGE",
+      "Caterpillars represent the larva stage in the butterfly's life cycle, focusing on feeding and growth",
+      "CATERPILLAR"
+    ],
+    [
+      "LARVA STAGE",
+      "After completing its growth, the caterpillar enters the pupa stage, marking its transformation towards becoming an adult butterfly",
+      "PUPA"
+    ],
+    [
+      "CATERPILLAR",
+      "The caterpillar forms the chrysalis around itself to protect during the pupa stage of its life cycle",
+      "CHRYSALIS"
+    ],
+    [
+      "CHRYSALIS",
+      "Inside the chrysalis, the caterpillar undergoes metamorphosis",
+      "METAMORPHOSIS"
+    ],
+    [
+      "BUTTERFLIES",
+      "Butterflies feed on nectar from flowers",
+      "NECTAR"
+    ],
+    [
+      "BUTTERFLIES",
+      "Butterflies contribute to pollination by transferring pollen",
+      "POLLINATION"
+    ],
+    [
+      "BUTTERFLIES",
+      "Female butterflies lay their eggs on host plants",
+      "HOST PLANTS"
+    ],
+    [
+      "BUTTERFLIES",
+      "Butterflies serve as a food source for birds",
+      "BIRDS"
+    ],
+    [
+      "BUTTERFLIES",
+      "Butterflies are consumed by reptiles, indicating a predator-prey relationship",
+      "REPTILES"
+    ],
+    [
+      "BUTTERFLIES",
+      "Butterflies contribute to the overall biodiversity by being part of the food chain involving other insects",
+      "INSECTS"
+    ],
+    [
+      "NECTAR",
+      "Adult butterflies feed on nectar as their primary food source",
+      "ADULT BUTTERFLIES"
+    ],
+    [
+      "HOST PLANTS",
+      "Female butterflies specifically choose host plants to lay their eggs",
+      "FEMALE BUTTERFLIES"
+    ]
+  ],
+  "edges": [
+    "The egg stage is the beginning of the butterfly's life cycle",
+    "The larva stage is a critical part of the butterfly's transformation process",
+    "The pupa stage is a crucial part of the butterfly's life cycle, leading to its emergence as an adult",
+    "The butterfly is the final stage in the life cycle that begins with the caterpillar",
+    "Metamorphosis results in the transformation of the caterpillar into a butterfly",
+    "The larva stage follows the egg stage in the butterfly's life cycle, with the caterpillar emerging from the egg",
+    "Caterpillars represent the larva stage in the butterfly's life cycle, focusing on feeding and growth",
+    "After completing its growth, the caterpillar enters the pupa stage, marking its transformation towards becoming an adult butterfly",
+    "The caterpillar forms the chrysalis around itself to protect during the pupa stage of its life cycle",
+    "Inside the chrysalis, the caterpillar undergoes metamorphosis",
+    "Butterflies feed on nectar from flowers",
+    "Butterflies contribute to pollination by transferring pollen",
+    "Female butterflies lay their eggs on host plants",
+    "Butterflies serve as a food source for birds",
+    "Butterflies are consumed by reptiles, indicating a predator-prey relationship",
+    "Butterflies contribute to the overall biodiversity by being part of the food chain involving other insects",
+    "Adult butterflies feed on nectar as their primary food source",
+    "Female butterflies specifically choose host plants to lay their eggs"
+  ]
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "correct_answer": "Language processing is a function of the human brain.",
+    "retrieved_context": "regions generate meaningful output. regions working harmony. regions work sense. human brain involving regions. human brain involving neural pathways. language processing is fascinating. function of human brain. language processing is complex. language processing is function. brain organizes grammatically correct. language processing is complex. brain distinguish phonemes. production stage response. motor commands to articulatory muscles. brain sends motor commands. brain distinguish graphemes. phonemes are smallest units. brain makes sense of linguistic input. language processing is fascinating. brain moves on to production. brain extracts meaningful output. language processing is function. brain remarkable capacity. graphemes are smallest units. brain retrieves mental lexicon. brain processes language processing. auditory cortex for spoken language.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves multiple regions in the brain.",
+    "retrieved_context": "language processing is fascinating. function of human brain. language processing is complex. language processing is function. regions generate meaningful output. regions working harmony. regions work sense. human brain involving regions. human brain involving neural pathways. brain organizes grammatically correct. language processing is complex. brain distinguish phonemes. production stage response. motor commands to articulatory muscles. brain sends motor commands. brain distinguish graphemes. phonemes are smallest units. brain makes sense of linguistic input. language processing is fascinating. brain moves on to production. brain extracts meaningful output. language processing is function. brain remarkable capacity. graphemes are smallest units. brain retrieves mental lexicon. brain processes language processing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language processing involves intricate neural pathways.",
+    "retrieved_context": "language processing is fascinating. function of human brain. language processing is complex. language processing is function. regions generate meaningful output. regions working harmony. regions work sense. human brain involving regions. human brain involving neural pathways. auditory cortex for spoken language. brain organizes grammatically correct. language processing is complex. brain distinguish phonemes. production stage response. motor commands to articulatory muscles. brain sends motor commands. brain distinguish graphemes. phonemes are smallest units. brain makes sense of linguistic input. language processing is fascinating. brain moves on to production. brain extracts meaningful output. language processing is function. brain remarkable capacity. graphemes are smallest units. brain retrieves mental lexicon. brain processes language processing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Understanding and producing language is key for communication.",
+    "retrieved_context": "language processing is fascinating. function of human brain. language processing is complex. language processing is function. understanding sheds light on nature.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Researchers have made significant strides in understanding language processing.",
+    "retrieved_context": "language processing is fascinating. function of human brain. language processing is complex. language processing is function. stages are comprehension. stages are production. stages are acquisition. stages are perception. processing grammatical rules linking. processing divided into stages. processing is multifaceted. linking words meanings. stages of language processing.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Language processing involves stages like perception, comprehension, production, and acquisition.",
+    "retrieved_context": "language processing is fascinating. function of human brain. language processing is complex. language processing is function. stages are comprehension. stages are production. stages are acquisition. stages are perception. processing grammatical rules linking. processing divided into stages. processing is multifaceted. linking words meanings. stages of language processing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception stage involves recognition and decoding of speech sounds or written symbols.",
+    "retrieved_context": "perception involves decoding. decoding of speech sounds. decoding of written symbols. perception involves recognition. auditory cortex for spoken language. stages are comprehension. language processing is complex. stages are production. production stage response. perception involves decoding. stages are acquisition. acquisition involves learning. stages are perception. language processing is fascinating. comprehension is stages. acquisition is lifelong. language processing is function. stages of language processing. perception involves recognition.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Perception stage begins in the auditory cortex for spoken language.",
+    "retrieved_context": "auditory cortex for spoken language. perception involves decoding. decoding of speech sounds. decoding of written symbols. perception involves recognition. visual cortex for written language.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Comprehension involves making sense of linguistic input and extracting meaning.",
+    "retrieved_context": "stages are comprehension. stages are production. stages are acquisition. stages are perception. comprehension is stages. stages of language processing. understanding sheds light on nature. language processing is fascinating. function of human brain. language processing is complex. language processing is function.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Comprehension integrates phonological, syntactic, and semantic information.",
+    "retrieved_context": "stages are comprehension. stages are production. stages are acquisition. stages are perception. comprehension is stages. stages of language processing. language processing is fascinating. function of human brain. language processing is complex. language processing is function.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Production stage involves generating a response in spoken or written language.",
+    "retrieved_context": "response in written. production stage response. response in spoken. stages are comprehension. language processing is complex. stages are production. production stage response. perception involves decoding. stages are acquisition. acquisition involves learning. stages are perception. language processing is fascinating. comprehension is stages. acquisition is lifelong. language processing is function. stages of language processing. perception involves recognition. language processing is fascinating. function of human brain. language processing is complex. language processing is function.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Production stage activates motor areas in the frontal lobe.",
+    "retrieved_context": "motor areas in frontal lobe. premotor cortex in frontal lobe. movements of speech muscles. premotor cortex control movements. stages are comprehension. language processing is complex. stages are production. production stage response. perception involves decoding. stages are acquisition. acquisition involves learning. stages are perception. language processing is fascinating. comprehension is stages. acquisition is lifelong. language processing is function. stages of language processing. perception involves recognition. developing brains enables ease. brain organizes grammatically correct. language processing is complex. brain distinguish phonemes. production stage response. motor commands to articulatory muscles. brain sends motor commands. brain distinguish graphemes. phonemes are smallest units. brain makes sense of linguistic input. language processing is fascinating. brain moves on to production. brain extracts meaningful output. language processing is function. brain remarkable capacity. graphemes are smallest units. brain retrieves mental lexicon. brain processes language processing.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Language acquisition involves learning new words and grammatical rules.",
+    "retrieved_context": "learning new words rules. learning new words structures. language processing is fascinating. function of human brain. language processing is complex. language processing is function.",
+    "evaluation": 0
+  },
+  {
+    "correct_answer": "Broca's area is crucial for language production and grammatical processing.",
+    "retrieved_context": "broca's area crucial for processing. broca's area is key. processing grammatical rules linking. key brain regions involved in process. processing divided into stages. broca's area located frontal lobe. key aspect of cognition. key aspect of communication. processing is multifaceted. language processing is fascinating. function of human brain. language processing is complex. language processing is function.",
+    "evaluation": 1
+  },
+  {
+    "correct_answer": "Wernicke's area is responsible for language comprehension and semantic processing.",
+    "retrieved_context": "wernicke's area involved in comprehension. comprehension is stages. wernicke's area located temporal lobe. wernicke's area responsible for semantic. stages are comprehension. stages are production. stages are acquisition. stages are perception. comprehension is stages. stages of language processing. language processing is fascinating. function of human brain. language processing is complex. language processing is function. regions generate meaningful output. regions working harmony. regions work sense. human brain involving regions. human brain involving neural pathways.",
+    "evaluation": 1
+  },
+  {
+    "accuracy": "60.00%"
+  }
+]

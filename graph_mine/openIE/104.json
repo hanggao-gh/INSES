@@ -1,0 +1,1422 @@
+{
+    "entities": [
+        "They",
+        "opportunities for personal growth",
+        "should encouraged",
+        "common goal",
+        "disabilities",
+        "In conclusion vital component of healthy society",
+        "connections with others",
+        "energy",
+        "critical needs",
+        "numerous benefits",
+        "lasting friendships",
+        "engaging",
+        "Importance",
+        "unity",
+        "creating change",
+        "place for all",
+        "to volunteer",
+        "needs",
+        "impact on individuals",
+        "resources",
+        "addressing needs",
+        "healthy society",
+        "sense of belonging",
+        "together to work towards goal",
+        "others",
+        "volunteer",
+        "friendships",
+        "services",
+        "should encouraged as aspect of civic engagement",
+        "personal benefits",
+        "sense of community",
+        "should encouraged as essential aspect of engagement",
+        "numerous personal benefits for individuals",
+        "issues",
+        "work towards goal",
+        "their actions",
+        "unity among diverse groups of people",
+        "to work",
+        "connections",
+        "Society Volunteerism",
+        "difference in world",
+        "engaging in volunteer work",
+        "conclusion",
+        "personal benefits for individuals",
+        "forging connections with others",
+        "opportunities",
+        "vulnerable populations",
+        "individuals",
+        "unity among groups of people",
+        "to well their communities",
+        "social issues",
+        "responsibility by individuals",
+        "new interests",
+        "self esteem",
+        "well of their communities",
+        "together to work",
+        "numerous personal benefits",
+        "better place",
+        "positive impact",
+        "well",
+        "choose",
+        "component",
+        "bonds",
+        "should encouraged as essential aspect",
+        "should encouraged as aspect of engagement",
+        "well being",
+        "creating positive change",
+        "difference in lives of others",
+        "benefits",
+        "volunteering",
+        "together work towards common goal",
+        "experience",
+        "addressing social issues",
+        "opportunities for growth",
+        "better place for all",
+        "addressing issues",
+        "role",
+        "should encouraged as essential aspect of civic engagement",
+        "together work towards goal",
+        "to their communities",
+        "to overall their communities",
+        "society",
+        "difference",
+        "In conclusion vital component of society",
+        "should encouraged as aspect",
+        "to work towards common goal",
+        "valuable experience",
+        "social bonds",
+        "essential services",
+        "work",
+        "address",
+        "to work towards goal",
+        "mental health",
+        "positive change",
+        "place",
+        "social responsibility by individuals",
+        "world",
+        "together to work towards common goal",
+        "well being of their communities",
+        "In conclusion component of society",
+        "together work",
+        "responsibility by encouraging individuals",
+        "unity among groups",
+        "unity among diverse groups",
+        "numerous benefits for individuals",
+        "tangible difference in lives",
+        "addressing critical needs",
+        "active role",
+        "tangible difference in lives of others",
+        "positive impact on individuals",
+        "their skill set",
+        "interests",
+        "tangible difference",
+        "difference in lives",
+        "sense",
+        "In conclusion component of healthy society",
+        "responsibility",
+        "disaster relief efforts",
+        "crucial role",
+        "social responsibility",
+        "Volunteerism",
+        "volunteerism",
+        "to overall well their communities",
+        "change",
+        "their time",
+        "populations",
+        "social responsibility by encouraging individuals",
+        "goal",
+        "lives of others",
+        "vital component",
+        "causes",
+        "support",
+        "forging connections",
+        "involved",
+        "Volunteers",
+        "to address",
+        "Volunteering",
+        "health",
+        "work towards common goal",
+        "impact",
+        "benefits for individuals",
+        "volunteers"
+    ],
+    "relations": [
+        [
+            "Importance",
+            "plays role in",
+            "society"
+        ],
+        [
+            "Importance",
+            "is in",
+            "Society Volunteerism"
+        ],
+        [
+            "Importance",
+            "plays",
+            "role"
+        ],
+        [
+            "Importance",
+            "plays",
+            "crucial role"
+        ],
+        [
+            "crucial role",
+            "Importance in",
+            "Society Volunteerism"
+        ],
+        [
+            "role",
+            "Importance of",
+            "Volunteerism"
+        ],
+        [
+            "crucial role",
+            "Importance of",
+            "Volunteerism"
+        ],
+        [
+            "role",
+            "Importance in",
+            "Society Volunteerism"
+        ],
+        [
+            "Volunteers",
+            "dedicate",
+            "their time"
+        ],
+        [
+            "resources",
+            "making",
+            "positive impact"
+        ],
+        [
+            "resources",
+            "making",
+            "positive impact on individuals"
+        ],
+        [
+            "resources",
+            "making",
+            "impact"
+        ],
+        [
+            "resources",
+            "making",
+            "impact on individuals"
+        ],
+        [
+            "volunteerism",
+            "benefits of is",
+            "sense"
+        ],
+        [
+            "volunteerism",
+            "benefits of is",
+            "sense of community"
+        ],
+        [
+            "volunteerism",
+            "key benefits of is",
+            "sense of community"
+        ],
+        [
+            "volunteerism",
+            "key benefits of is",
+            "sense"
+        ],
+        [
+            "individuals",
+            "work connections towards",
+            "common goal"
+        ],
+        [
+            "individuals",
+            "work",
+            "forging connections with others"
+        ],
+        [
+            "individuals",
+            "come",
+            "to work towards goal"
+        ],
+        [
+            "individuals",
+            "together work",
+            "forging connections with others"
+        ],
+        [
+            "individuals",
+            "come",
+            "to work"
+        ],
+        [
+            "individuals",
+            "come Through",
+            "volunteering"
+        ],
+        [
+            "individuals",
+            "together work towards",
+            "common goal"
+        ],
+        [
+            "individuals",
+            "work",
+            "forging connections"
+        ],
+        [
+            "individuals",
+            "come",
+            "together to work towards goal"
+        ],
+        [
+            "individuals",
+            "come",
+            "together work"
+        ],
+        [
+            "individuals",
+            "come",
+            "together work towards goal"
+        ],
+        [
+            "individuals",
+            "work towards",
+            "goal"
+        ],
+        [
+            "individuals",
+            "come",
+            "work towards goal"
+        ],
+        [
+            "individuals",
+            "together work",
+            "connections"
+        ],
+        [
+            "individuals",
+            "work towards",
+            "common goal"
+        ],
+        [
+            "individuals",
+            "together work connections towards",
+            "goal"
+        ],
+        [
+            "individuals",
+            "come",
+            "together to work towards common goal"
+        ],
+        [
+            "individuals",
+            "come",
+            "to work towards common goal"
+        ],
+        [
+            "individuals",
+            "work",
+            "connections with others"
+        ],
+        [
+            "individuals",
+            "together work",
+            "connections with others"
+        ],
+        [
+            "individuals",
+            "work",
+            "connections"
+        ],
+        [
+            "individuals",
+            "together work",
+            "forging connections"
+        ],
+        [
+            "individuals",
+            "together work towards",
+            "goal"
+        ],
+        [
+            "individuals",
+            "come",
+            "together to work"
+        ],
+        [
+            "individuals",
+            "come",
+            "together work towards common goal"
+        ],
+        [
+            "individuals",
+            "come",
+            "work"
+        ],
+        [
+            "individuals",
+            "work connections towards",
+            "goal"
+        ],
+        [
+            "individuals",
+            "come",
+            "work towards common goal"
+        ],
+        [
+            "individuals",
+            "together work connections towards",
+            "common goal"
+        ],
+        [
+            "forging connections",
+            "is with",
+            "others"
+        ],
+        [
+            "sense",
+            "strengthen",
+            "bonds"
+        ],
+        [
+            "bonds",
+            "promote",
+            "unity"
+        ],
+        [
+            "bonds",
+            "promote",
+            "unity among diverse groups"
+        ],
+        [
+            "social bonds",
+            "promote",
+            "unity"
+        ],
+        [
+            "bonds",
+            "promote",
+            "unity among groups"
+        ],
+        [
+            "sense",
+            "strengthen",
+            "social bonds"
+        ],
+        [
+            "bonds",
+            "promote",
+            "unity among diverse groups of people"
+        ],
+        [
+            "social bonds",
+            "promote",
+            "unity among diverse groups"
+        ],
+        [
+            "social bonds",
+            "promote",
+            "unity among groups of people"
+        ],
+        [
+            "social bonds",
+            "promote",
+            "unity among diverse groups of people"
+        ],
+        [
+            "social bonds",
+            "promote",
+            "unity among groups"
+        ],
+        [
+            "bonds",
+            "promote",
+            "unity among groups of people"
+        ],
+        [
+            "individuals",
+            "can form",
+            "lasting friendships"
+        ],
+        [
+            "individuals",
+            "develop",
+            "sense"
+        ],
+        [
+            "individuals",
+            "contribute to",
+            "to well their communities"
+        ],
+        [
+            "individuals",
+            "contribute to",
+            "to overall well their communities"
+        ],
+        [
+            "individuals",
+            "develop",
+            "sense of belonging"
+        ],
+        [
+            "individuals",
+            "can form friendships By",
+            "volunteering"
+        ],
+        [
+            "individuals",
+            "contribute to",
+            "to overall their communities"
+        ],
+        [
+            "individuals",
+            "can form",
+            "friendships"
+        ],
+        [
+            "individuals",
+            "contribute to",
+            "to their communities"
+        ],
+        [
+            "responsibility",
+            "take",
+            "active role"
+        ],
+        [
+            "volunteerism",
+            "Furthermore promotes",
+            "social responsibility by encouraging individuals"
+        ],
+        [
+            "social responsibility",
+            "take",
+            "role"
+        ],
+        [
+            "responsibility",
+            "take role in",
+            "issues"
+        ],
+        [
+            "social responsibility",
+            "take role in",
+            "addressing social issues"
+        ],
+        [
+            "responsibility",
+            "take role in",
+            "social issues"
+        ],
+        [
+            "volunteerism",
+            "promotes",
+            "social responsibility by encouraging individuals"
+        ],
+        [
+            "social responsibility",
+            "take role in",
+            "social issues"
+        ],
+        [
+            "volunteerism",
+            "promotes",
+            "responsibility by individuals"
+        ],
+        [
+            "social responsibility",
+            "take role in",
+            "addressing issues"
+        ],
+        [
+            "role",
+            "making",
+            "difference"
+        ],
+        [
+            "social responsibility",
+            "take role in",
+            "issues"
+        ],
+        [
+            "volunteerism",
+            "Furthermore promotes",
+            "social responsibility by individuals"
+        ],
+        [
+            "active role",
+            "making",
+            "difference in world"
+        ],
+        [
+            "volunteerism",
+            "promotes",
+            "responsibility by encouraging individuals"
+        ],
+        [
+            "social responsibility",
+            "take",
+            "active role"
+        ],
+        [
+            "volunteerism",
+            "promotes",
+            "social responsibility by individuals"
+        ],
+        [
+            "volunteerism",
+            "promotes",
+            "responsibility"
+        ],
+        [
+            "difference",
+            "is in",
+            "world"
+        ],
+        [
+            "role",
+            "making",
+            "difference in world"
+        ],
+        [
+            "volunteerism",
+            "promotes",
+            "social responsibility"
+        ],
+        [
+            "responsibility",
+            "take role in",
+            "addressing issues"
+        ],
+        [
+            "volunteerism",
+            "Furthermore promotes",
+            "responsibility by individuals"
+        ],
+        [
+            "volunteerism",
+            "Furthermore promotes",
+            "responsibility by encouraging individuals"
+        ],
+        [
+            "responsibility",
+            "take",
+            "role"
+        ],
+        [
+            "active role",
+            "making",
+            "difference"
+        ],
+        [
+            "volunteerism",
+            "Furthermore promotes",
+            "social responsibility"
+        ],
+        [
+            "responsibility",
+            "take role in",
+            "addressing social issues"
+        ],
+        [
+            "volunteerism",
+            "Furthermore promotes",
+            "responsibility"
+        ],
+        [
+            "their time",
+            "support causes By",
+            "volunteering"
+        ],
+        [
+            "their time",
+            "support",
+            "causes"
+        ],
+        [
+            "energy",
+            "support",
+            "causes"
+        ],
+        [
+            "energy",
+            "support causes By",
+            "volunteering"
+        ],
+        [
+            "volunteers",
+            "inspire",
+            "others"
+        ],
+        [
+            "volunteers",
+            "inspire others Through",
+            "their actions"
+        ],
+        [
+            "others",
+            "get",
+            "involved"
+        ],
+        [
+            "volunteerism",
+            "also plays role in",
+            "addressing critical needs"
+        ],
+        [
+            "volunteerism",
+            "also plays role within",
+            "society"
+        ],
+        [
+            "volunteerism",
+            "plays",
+            "crucial role"
+        ],
+        [
+            "sense",
+            "promoting",
+            "responsibility"
+        ],
+        [
+            "volunteerism",
+            "plays",
+            "role"
+        ],
+        [
+            "volunteerism",
+            "also plays",
+            "role"
+        ],
+        [
+            "volunteerism",
+            "plays role in",
+            "addressing needs"
+        ],
+        [
+            "volunteerism",
+            "also plays role in",
+            "needs"
+        ],
+        [
+            "volunteerism",
+            "plays role in",
+            "critical needs"
+        ],
+        [
+            "volunteerism",
+            "plays role in",
+            "needs"
+        ],
+        [
+            "volunteerism",
+            "also plays role in",
+            "critical needs"
+        ],
+        [
+            "volunteerism",
+            "plays role within",
+            "society"
+        ],
+        [
+            "volunteerism",
+            "plays role in",
+            "addressing critical needs"
+        ],
+        [
+            "volunteerism",
+            "also plays",
+            "crucial role"
+        ],
+        [
+            "volunteerism",
+            "also plays role in",
+            "addressing needs"
+        ],
+        [
+            "sense",
+            "promoting",
+            "social responsibility"
+        ],
+        [
+            "Volunteers",
+            "provide services to",
+            "vulnerable populations"
+        ],
+        [
+            "Volunteers",
+            "provide",
+            "services"
+        ],
+        [
+            "services",
+            "Volunteers",
+            "support"
+        ],
+        [
+            "Volunteers",
+            "provide services to",
+            "populations"
+        ],
+        [
+            "essential services",
+            "Volunteers",
+            "support"
+        ],
+        [
+            "individuals",
+            "is with",
+            "disabilities"
+        ],
+        [
+            "Volunteers",
+            "provide",
+            "essential services"
+        ],
+        [
+            "They",
+            "also contribute to",
+            "disaster relief efforts"
+        ],
+        [
+            "They",
+            "contribute to",
+            "disaster relief efforts"
+        ],
+        [
+            "individuals",
+            "can make",
+            "tangible difference in lives"
+        ],
+        [
+            "individuals",
+            "can make difference By",
+            "volunteering"
+        ],
+        [
+            "individuals",
+            "can make",
+            "difference in lives"
+        ],
+        [
+            "individuals",
+            "help",
+            "address"
+        ],
+        [
+            "individuals",
+            "can make",
+            "tangible difference in lives of others"
+        ],
+        [
+            "individuals",
+            "help",
+            "to address"
+        ],
+        [
+            "tangible difference",
+            "is in",
+            "lives of others"
+        ],
+        [
+            "individuals",
+            "can make",
+            "difference in lives of others"
+        ],
+        [
+            "individuals",
+            "can make",
+            "tangible difference"
+        ],
+        [
+            "individuals",
+            "can make",
+            "difference"
+        ],
+        [
+            "volunteerism",
+            "has",
+            "benefits for individuals"
+        ],
+        [
+            "volunteerism",
+            "Moreover has",
+            "benefits for individuals"
+        ],
+        [
+            "volunteerism",
+            "has",
+            "personal benefits for individuals"
+        ],
+        [
+            "volunteerism",
+            "has",
+            "personal benefits"
+        ],
+        [
+            "volunteerism",
+            "has",
+            "benefits"
+        ],
+        [
+            "volunteerism",
+            "has",
+            "numerous benefits"
+        ],
+        [
+            "volunteerism",
+            "has",
+            "numerous personal benefits"
+        ],
+        [
+            "volunteerism",
+            "has",
+            "numerous benefits for individuals"
+        ],
+        [
+            "volunteerism",
+            "Moreover has",
+            "personal benefits"
+        ],
+        [
+            "volunteerism",
+            "Moreover has",
+            "benefits"
+        ],
+        [
+            "volunteerism",
+            "Moreover has",
+            "numerous benefits"
+        ],
+        [
+            "volunteerism",
+            "has",
+            "numerous personal benefits for individuals"
+        ],
+        [
+            "volunteerism",
+            "Moreover has",
+            "numerous personal benefits"
+        ],
+        [
+            "volunteerism",
+            "Moreover has",
+            "personal benefits for individuals"
+        ],
+        [
+            "volunteerism",
+            "Moreover has",
+            "numerous personal benefits for individuals"
+        ],
+        [
+            "volunteerism",
+            "Moreover has",
+            "numerous benefits for individuals"
+        ],
+        [
+            "Volunteering",
+            "can provide",
+            "opportunities"
+        ],
+        [
+            "Volunteering",
+            "can provide",
+            "opportunities for growth"
+        ],
+        [
+            "Volunteering",
+            "can provide",
+            "opportunities for personal growth"
+        ],
+        [
+            "individuals",
+            "can gain",
+            "experience"
+        ],
+        [
+            "individuals",
+            "can gain experience By",
+            "engaging"
+        ],
+        [
+            "individuals",
+            "explore",
+            "new interests"
+        ],
+        [
+            "individuals",
+            "can gain",
+            "valuable experience"
+        ],
+        [
+            "individuals",
+            "expand",
+            "their skill set"
+        ],
+        [
+            "individuals",
+            "can gain experience By",
+            "engaging in volunteer work"
+        ],
+        [
+            "individuals",
+            "explore",
+            "interests"
+        ],
+        [
+            "Volunteering",
+            "improve",
+            "mental health"
+        ],
+        [
+            "Volunteering",
+            "can also boost",
+            "self esteem"
+        ],
+        [
+            "Volunteering",
+            "improve",
+            "health"
+        ],
+        [
+            "Volunteering",
+            "can boost",
+            "self esteem"
+        ],
+        [
+            "volunteerism",
+            "is vital component of",
+            "healthy society"
+        ],
+        [
+            "volunteerism",
+            "is vital",
+            "society"
+        ],
+        [
+            "volunteerism",
+            "is",
+            "In conclusion vital component of society"
+        ],
+        [
+            "volunteerism",
+            "is component of",
+            "society"
+        ],
+        [
+            "volunteerism",
+            "is",
+            "vital component"
+        ],
+        [
+            "volunteerism",
+            "is",
+            "component"
+        ],
+        [
+            "volunteerism",
+            "is",
+            "In conclusion component of society"
+        ],
+        [
+            "volunteerism",
+            "is vital component In",
+            "conclusion"
+        ],
+        [
+            "volunteerism",
+            "is",
+            "In conclusion vital component of healthy society"
+        ],
+        [
+            "volunteerism",
+            "is component of",
+            "healthy society"
+        ],
+        [
+            "volunteerism",
+            "is vital component of",
+            "society"
+        ],
+        [
+            "volunteerism",
+            "is",
+            "In conclusion component of healthy society"
+        ],
+        [
+            "volunteerism",
+            "is component In",
+            "conclusion"
+        ],
+        [
+            "vital component",
+            "is In",
+            "conclusion"
+        ],
+        [
+            "volunteers",
+            "play role in",
+            "creating positive change"
+        ],
+        [
+            "volunteers",
+            "play",
+            "role"
+        ],
+        [
+            "volunteers",
+            "play",
+            "crucial role"
+        ],
+        [
+            "volunteers",
+            "making world",
+            "place for all"
+        ],
+        [
+            "volunteers",
+            "making world",
+            "better place"
+        ],
+        [
+            "volunteers",
+            "play role in",
+            "creating change"
+        ],
+        [
+            "volunteers",
+            "making world",
+            "place"
+        ],
+        [
+            "volunteers",
+            "play role in",
+            "change"
+        ],
+        [
+            "volunteers",
+            "play role in",
+            "positive change"
+        ],
+        [
+            "volunteers",
+            "making world",
+            "better place for all"
+        ],
+        [
+            "resources",
+            "contribute to",
+            "well"
+        ],
+        [
+            "resources",
+            "contribute to",
+            "well of their communities"
+        ],
+        [
+            "others",
+            "choose",
+            "to volunteer"
+        ],
+        [
+            "resources",
+            "contribute to",
+            "well being"
+        ],
+        [
+            "their time",
+            "contribute to",
+            "well being of their communities"
+        ],
+        [
+            "choose",
+            "inspire",
+            "others"
+        ],
+        [
+            "resources",
+            "contribute to",
+            "well being of their communities"
+        ],
+        [
+            "their time",
+            "contribute to",
+            "well"
+        ],
+        [
+            "their time",
+            "contribute to",
+            "well of their communities"
+        ],
+        [
+            "others",
+            "choose",
+            "volunteer"
+        ],
+        [
+            "others",
+            "get",
+            "involved"
+        ],
+        [
+            "their time",
+            "contribute to",
+            "well being"
+        ],
+        [
+            "volunteerism",
+            "should",
+            "should encouraged as aspect of engagement"
+        ],
+        [
+            "volunteerism",
+            "should",
+            "should encouraged as aspect"
+        ],
+        [
+            "volunteerism",
+            "should",
+            "should encouraged as essential aspect of engagement"
+        ],
+        [
+            "volunteerism",
+            "should",
+            "should encouraged as essential aspect"
+        ],
+        [
+            "volunteerism",
+            "should",
+            "should encouraged"
+        ],
+        [
+            "volunteerism",
+            "should",
+            "should encouraged as essential aspect of civic engagement"
+        ],
+        [
+            "volunteerism",
+            "should",
+            "should encouraged as aspect of civic engagement"
+        ]
+    ],
+    "edges": [
+        "plays role in",
+        "is in",
+        "plays",
+        "plays",
+        "Importance in",
+        "Importance of",
+        "Importance of",
+        "Importance in",
+        "dedicate",
+        "making",
+        "making",
+        "making",
+        "making",
+        "benefits of is",
+        "benefits of is",
+        "key benefits of is",
+        "key benefits of is",
+        "work connections towards",
+        "work",
+        "come",
+        "together work",
+        "come",
+        "come Through",
+        "together work towards",
+        "work",
+        "come",
+        "come",
+        "come",
+        "work towards",
+        "come",
+        "together work",
+        "work towards",
+        "together work connections towards",
+        "come",
+        "come",
+        "work",
+        "together work",
+        "work",
+        "together work",
+        "together work towards",
+        "come",
+        "come",
+        "come",
+        "work connections towards",
+        "come",
+        "together work connections towards",
+        "is with",
+        "strengthen",
+        "promote",
+        "promote",
+        "promote",
+        "promote",
+        "strengthen",
+        "promote",
+        "promote",
+        "promote",
+        "promote",
+        "promote",
+        "promote",
+        "can form",
+        "develop",
+        "contribute to",
+        "contribute to",
+        "develop",
+        "can form friendships By",
+        "contribute to",
+        "can form",
+        "contribute to",
+        "take",
+        "Furthermore promotes",
+        "take",
+        "take role in",
+        "take role in",
+        "take role in",
+        "promotes",
+        "take role in",
+        "promotes",
+        "take role in",
+        "making",
+        "take role in",
+        "Furthermore promotes",
+        "making",
+        "promotes",
+        "take",
+        "promotes",
+        "promotes",
+        "is in",
+        "making",
+        "promotes",
+        "take role in",
+        "Furthermore promotes",
+        "Furthermore promotes",
+        "take",
+        "making",
+        "Furthermore promotes",
+        "take role in",
+        "Furthermore promotes",
+        "support causes By",
+        "support",
+        "support",
+        "support causes By",
+        "inspire",
+        "inspire others Through",
+        "get",
+        "also plays role in",
+        "also plays role within",
+        "plays",
+        "promoting",
+        "plays",
+        "also plays",
+        "plays role in",
+        "also plays role in",
+        "plays role in",
+        "plays role in",
+        "also plays role in",
+        "plays role within",
+        "plays role in",
+        "also plays",
+        "also plays role in",
+        "promoting",
+        "provide services to",
+        "provide",
+        "Volunteers",
+        "provide services to",
+        "Volunteers",
+        "is with",
+        "provide",
+        "also contribute to",
+        "contribute to",
+        "can make",
+        "can make difference By",
+        "can make",
+        "help",
+        "can make",
+        "help",
+        "is in",
+        "can make",
+        "can make",
+        "can make",
+        "has",
+        "Moreover has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "has",
+        "Moreover has",
+        "Moreover has",
+        "Moreover has",
+        "has",
+        "Moreover has",
+        "Moreover has",
+        "Moreover has",
+        "Moreover has",
+        "can provide",
+        "can provide",
+        "can provide",
+        "can gain",
+        "can gain experience By",
+        "explore",
+        "can gain",
+        "expand",
+        "can gain experience By",
+        "explore",
+        "improve",
+        "can also boost",
+        "improve",
+        "can boost",
+        "is vital component of",
+        "is vital",
+        "is",
+        "is component of",
+        "is",
+        "is",
+        "is",
+        "is vital component In",
+        "is",
+        "is component of",
+        "is vital component of",
+        "is",
+        "is component In",
+        "is In",
+        "play role in",
+        "play",
+        "play",
+        "making world",
+        "making world",
+        "play role in",
+        "making world",
+        "play role in",
+        "play role in",
+        "making world",
+        "contribute to",
+        "contribute to",
+        "choose",
+        "contribute to",
+        "contribute to",
+        "inspire",
+        "contribute to",
+        "contribute to",
+        "contribute to",
+        "choose",
+        "get",
+        "contribute to",
+        "should",
+        "should",
+        "should",
+        "should",
+        "should",
+        "should",
+        "should"
+    ]
+}

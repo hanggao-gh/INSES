@@ -1,0 +1,569 @@
+{
+  "entities": [
+    "achievement",
+    "advanced",
+    "ancient",
+    "antarctica",
+    "appeal",
+    "aspect",
+    "atlantic ocean",
+    "atlantis",
+    "board games",
+    "captivated",
+    "captivating",
+    "cataclysmic",
+    "catastrophic",
+    "cautionary",
+    "centuries",
+    "challenges",
+    "civilization",
+    "conclusion",
+    "concrete",
+    "corrupt",
+    "creation",
+    "critias",
+    "curiosity",
+    "dangers",
+    "day",
+    "debates",
+    "destruction",
+    "dialogues",
+    "disappearing",
+    "downfall",
+    "dramatic",
+    "drawn",
+    "embellishments",
+    "enduring",
+    "enigmatic",
+    "event",
+    "evidence",
+    "existence",
+    "expeditions",
+    "famous",
+    "fascinate",
+    "generations",
+    "greed",
+    "greek",
+    "history",
+    "hubris",
+    "human",
+    "idea",
+    "imagination",
+    "imaginations",
+    "inspire",
+    "interpretation",
+    "interpretations",
+    "intrigue",
+    "island",
+    "knowledge",
+    "legacy",
+    "legendary",
+    "lessons",
+    "location",
+    "lost",
+    "mediterranean sea",
+    "metaphor",
+    "military",
+    "minds",
+    "moral",
+    "mystery",
+    "myth",
+    "night",
+    "noble",
+    "perceptions",
+    "philosopher",
+    "philosophical",
+    "pillars of hercules",
+    "place",
+    "plato",
+    "power",
+    "power-hungry",
+    "powerful",
+    "real",
+    "remnants",
+    "resources",
+    "rich",
+    "sea",
+    "search",
+    "single",
+    "skepticism",
+    "speculated",
+    "speculation",
+    "story",
+    "strait of gibraltar",
+    "sudden",
+    "swallowed",
+    "tale",
+    "technology",
+    "theories",
+    "timaeus",
+    "trace",
+    "truth",
+    "understanding",
+    "unsolved",
+    "utopia",
+    "virtuous",
+    "waves",
+    "wonder",
+    "world"
+  ],
+  "relations": [
+    [
+      "ancient",
+      "greek",
+      "philosopher"
+    ],
+    [
+      "appeal",
+      "is",
+      "enduring"
+    ],
+    [
+      "appeal",
+      "is",
+      "intrigue"
+    ],
+    [
+      "appeal",
+      "is",
+      "mystery"
+    ],
+    [
+      "aspect",
+      "is",
+      "catastrophic"
+    ],
+    [
+      "aspect",
+      "is",
+      "sudden"
+    ],
+    [
+      "atlantis",
+      "became",
+      "corrupt"
+    ],
+    [
+      "atlantis",
+      "became",
+      "power-hungry"
+    ],
+    [
+      "atlantis",
+      "is a",
+      "cautionary"
+    ],
+    [
+      "atlantis",
+      "is a",
+      "island"
+    ],
+    [
+      "atlantis",
+      "is a",
+      "legendary"
+    ],
+    [
+      "atlantis",
+      "is a",
+      "metaphor"
+    ],
+    [
+      "atlantis",
+      "is a",
+      "myth"
+    ],
+    [
+      "atlantis",
+      "is a",
+      "utopia"
+    ],
+    [
+      "atlantis",
+      "possessed",
+      "advanced"
+    ],
+    [
+      "atlantis",
+      "possessed",
+      "knowledge"
+    ],
+    [
+      "atlantis",
+      "was a",
+      "advanced"
+    ],
+    [
+      "atlantis",
+      "was a",
+      "powerful"
+    ],
+    [
+      "atlantis",
+      "was a",
+      "real"
+    ],
+    [
+      "atlantis",
+      "were",
+      "noble"
+    ],
+    [
+      "atlantis",
+      "were",
+      "virtuous"
+    ],
+    [
+      "conclusion",
+      "is",
+      "captivating"
+    ],
+    [
+      "corrupt",
+      "led to",
+      "downfall"
+    ],
+    [
+      "destruction",
+      "disappearing beneath",
+      "waves"
+    ],
+    [
+      "destruction",
+      "in a",
+      "day"
+    ],
+    [
+      "destruction",
+      "in a",
+      "night"
+    ],
+    [
+      "destruction",
+      "in a",
+      "single"
+    ],
+    [
+      "destruction",
+      "is a",
+      "cataclysmic"
+    ],
+    [
+      "destruction",
+      "leaving no",
+      "trace"
+    ],
+    [
+      "destruction",
+      "swallowed by",
+      "sea"
+    ],
+    [
+      "dialogues",
+      "are",
+      "critias"
+    ],
+    [
+      "dialogues",
+      "are",
+      "timaeus"
+    ],
+    [
+      "event",
+      "captured",
+      "imagination"
+    ],
+    [
+      "event",
+      "is",
+      "dramatic"
+    ],
+    [
+      "evidence",
+      "lack of",
+      "concrete"
+    ],
+    [
+      "existence",
+      "is",
+      "interpretation"
+    ],
+    [
+      "existence",
+      "is",
+      "speculation"
+    ],
+    [
+      "expeditions",
+      "in search of",
+      "lost"
+    ],
+    [
+      "famous",
+      "aspect of",
+      "atlantis"
+    ],
+    [
+      "greek",
+      "philosopher",
+      "plato"
+    ],
+    [
+      "idea",
+      "challenges",
+      "perceptions"
+    ],
+    [
+      "idea",
+      "of",
+      "achievement"
+    ],
+    [
+      "idea",
+      "of",
+      "creation"
+    ],
+    [
+      "idea",
+      "of",
+      "human"
+    ],
+    [
+      "idea",
+      "of",
+      "legacy"
+    ],
+    [
+      "idea",
+      "of",
+      "power"
+    ],
+    [
+      "idea",
+      "of",
+      "understanding"
+    ],
+    [
+      "imaginations",
+      "for",
+      "centuries"
+    ],
+    [
+      "island",
+      "possessed",
+      "military"
+    ],
+    [
+      "island",
+      "possessed",
+      "power"
+    ],
+    [
+      "island",
+      "possessed",
+      "resources"
+    ],
+    [
+      "island",
+      "possessed",
+      "technology"
+    ],
+    [
+      "island",
+      "was",
+      "rich"
+    ],
+    [
+      "legacy",
+      "continues to",
+      "minds"
+    ],
+    [
+      "legendary",
+      "continues to",
+      "fascinate"
+    ],
+    [
+      "legendary",
+      "continues to",
+      "inspire"
+    ],
+    [
+      "legendary",
+      "continues to",
+      "world"
+    ],
+    [
+      "location",
+      "speculated",
+      "antarctica"
+    ],
+    [
+      "location",
+      "speculated",
+      "mediterranean sea"
+    ],
+    [
+      "lost",
+      "is a",
+      "civilization"
+    ],
+    [
+      "minds",
+      "are",
+      "drawn"
+    ],
+    [
+      "mystery",
+      "remains",
+      "unsolved"
+    ],
+    [
+      "myth",
+      "convey",
+      "moral"
+    ],
+    [
+      "myth",
+      "convey",
+      "philosophical"
+    ],
+    [
+      "pillars of hercules",
+      "are",
+      "strait of gibraltar"
+    ],
+    [
+      "plato",
+      "mentioned in",
+      "dialogues"
+    ],
+    [
+      "real",
+      "place in",
+      "atlantic ocean"
+    ],
+    [
+      "remnants",
+      "met with",
+      "skepticism"
+    ],
+    [
+      "story",
+      "captivated",
+      "imaginations"
+    ],
+    [
+      "story",
+      "has",
+      "embellishments"
+    ],
+    [
+      "story",
+      "has",
+      "interpretations"
+    ],
+    [
+      "story",
+      "is",
+      "enigmatic"
+    ],
+    [
+      "story",
+      "of",
+      "atlantis"
+    ],
+    [
+      "story",
+      "passed down through",
+      "generations"
+    ],
+    [
+      "story",
+      "sparked",
+      "debates"
+    ],
+    [
+      "story",
+      "sparked",
+      "expeditions"
+    ],
+    [
+      "story",
+      "sparked",
+      "theories"
+    ],
+    [
+      "tale",
+      "about",
+      "dangers"
+    ],
+    [
+      "tale",
+      "about",
+      "greed"
+    ],
+    [
+      "tale",
+      "about",
+      "hubris"
+    ],
+    [
+      "tale",
+      "is",
+      "curiosity"
+    ],
+    [
+      "tale",
+      "is",
+      "wonder"
+    ],
+    [
+      "truth",
+      "behind",
+      "ancient"
+    ],
+    [
+      "truth",
+      "behind",
+      "enigmatic"
+    ]
+  ],
+  "edges": [
+    "about",
+    "are",
+    "aspect of",
+    "became",
+    "behind",
+    "captivated",
+    "captured",
+    "challenges",
+    "continues to",
+    "convey",
+    "disappearing beneath",
+    "for",
+    "greek",
+    "has",
+    "in a",
+    "in search of",
+    "is",
+    "is a",
+    "lack of",
+    "leaving no",
+    "led to",
+    "mentioned in",
+    "met with",
+    "of",
+    "passed down through",
+    "philosopher",
+    "place in",
+    "possessed",
+    "remains",
+    "sparked",
+    "speculated",
+    "swallowed by",
+    "was",
+    "was a",
+    "were"
+  ]
+}
